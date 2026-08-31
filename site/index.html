@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Cardio-Renal-Metabolic領域のPubMedエビデンスを自動収集・日本語要約する公開レーダー">
+  <title>BI Evidence Radar</title>
+  <style>
+    :root{--bg:#08111f;--panel:#111d30;--line:#263752;--text:#eef5ff;--muted:#9bb1cf;--accent:#63b3ff;--bi:#42d6a4;--warn:#ffc857}
+    *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 80% 0,#132b4a 0,transparent 35%),var(--bg);color:var(--text);font-family:Inter,"Noto Sans JP",system-ui,sans-serif}
+    header{position:sticky;top:0;z-index:2;background:#08111fe8;border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}
+    .nav,.wrap{max-width:1180px;margin:auto;padding:18px 24px}.brand{font-weight:800;letter-spacing:.02em}.brand span{color:var(--accent)}
+    h1{font-size:clamp(2rem,5vw,4.3rem);line-height:1.02;margin:52px 0 14px;max-width:900px}.lead{color:var(--muted);font-size:1.08rem;max-width:760px;line-height:1.8}
+    .status,.stats{display:flex;gap:12px;flex-wrap:wrap;margin:28px 0}.pill,.filter{border:1px solid var(--line);background:#0d192a;color:var(--muted);border-radius:999px;padding:9px 14px}
+    .stats .pill strong{color:var(--text);margin-right:6px}.filters{display:flex;gap:8px;flex-wrap:wrap;margin:28px 0}.filter{cursor:pointer}.filter.active{background:var(--accent);border-color:var(--accent);color:#04101d;font-weight:700}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:16px;padding-bottom:60px}.card{background:linear-gradient(145deg,#111f33,#0d1727);border:1px solid var(--line);border-radius:18px;padding:20px;display:flex;flex-direction:column;gap:12px}
+    .meta,.tags{display:flex;gap:7px;flex-wrap:wrap;color:var(--muted);font-size:.78rem}.tag{border:1px solid #344b6d;border-radius:999px;padding:4px 8px}.tag.bi{color:var(--bi);border-color:#276f5b}.tag.high{color:var(--warn);border-color:#78642c}
+    h2{font-size:1rem;line-height:1.55;margin:0}.summary{color:#c7d5e8;font-size:.9rem;line-height:1.7}.takeaway{padding-left:12px;border-left:3px solid var(--accent);font-size:.88rem;line-height:1.6}.details{font-size:.8rem;color:var(--muted);line-height:1.6}
+    a{color:var(--accent);text-decoration:none}.empty{color:var(--muted);padding:30px 0}.footer{border-top:1px solid var(--line);color:var(--muted);font-size:.8rem;padding:24px}
+  </style>
+</head>
+<body>
+<header><div class="nav"><div class="brand"><span>BI</span> Evidence Radar</div></div></header>
+<main class="wrap">
+  <h1>Cardio-Renal-Metabolic<br>Evidence Radar</h1>
+  <p class="lead">PubMedの公開情報を決定論的に収集し、Qwenで日本語要約したポートフォリオ実装です。数値や症例数は抄録にない限り補いません。</p>
+  <div id="status" class="status"><span class="pill">品質状態を確認中…</span></div>
+  <div id="stats" class="stats"></div>
+  <div id="filters" class="filters"></div>
+  <section id="feed" class="grid"><p class="empty">読み込み中…</p></section>
+</main>
+<footer class="footer"><div class="wrap">公開データ: PubMed / AI生成項目: 日本語要約（根拠は各PubMed抄録）</div></footer>
+<script>
+const ASSETS=['empagliflozin','survodutide','linagliptin','semaglutide','tirzepatide','dapagliflozin','finerenone'];
+let items=[],active='all';
+const high=i=>(i.publication_types||[]).some(x=>/Randomized Controlled Trial|Meta-Analysis/i.test(x));
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function visible(i){if(active==='all')return true;if(active==='high')return high(i);if(active==='japan')return i.japan_relevant;if(active==='bi')return i.bi_related;return(i.matched_assets||[]).includes(active)}
+function renderFilters(){const defs=[['all','すべて'],['high','RCT・Meta-Analysis'],['japan','日本関連'],['bi','BI関連'],...ASSETS.map(x=>[x,x])];document.querySelector('#filters').innerHTML=defs.map(([k,l])=>`<button class="filter ${k===active?'active':''}" data-filter="${k}">${esc(l)}</button>`).join('');document.querySelectorAll('.filter').forEach(b=>b.onclick=()=>{active=b.dataset.filter;renderFilters();render()})}
+function render(){const rows=items.filter(visible);document.querySelector('#feed').innerHTML=rows.length?rows.map(i=>`<article class="card"><div class="meta"><span>${esc(i.pub_date||'日付不明')}</span><span>${esc(i.journal)}</span><span>PMID ${esc(i.pmid)}</span></div><h2><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h2><div class="tags">${high(i)?'<span class="tag high">High evidence</span>':''}${i.bi_related?'<span class="tag bi">BI</span>':''}${(i.matched_assets||[]).map(x=>`<span class="tag">${esc(x)}</span>`).join('')}</div><div class="summary">${esc(i.summary_ja)}</div><div class="takeaway">${esc(i.key_takeaway_ja)}</div><details class="details"><summary>試験デザイン・エンドポイント</summary><p><b>デザイン:</b> ${esc(i.study_type_ja)}</p><p><b>エンドポイント:</b> ${esc(i.endpoints_ja)}</p><p><b>結果:</b> ${esc(i.endpoint_results_ja)}</p><p><b>症例数:</b> ${esc(i.sample_size_ja)}</p><p><b>BI視点:</b> ${esc(i.why_matters_ja)}</p></details></article>`).join(''):'<p class="empty">該当する文献はありません。</p>'}
+async function boot(){try{const [feed,status]=await Promise.all([fetch('./data/news-latest.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}),fetch('./data/quality-status.json',{cache:'no-store'}).then(r=>r.json())]);items=feed.items||[];document.querySelector('#status').innerHTML=`<span class="pill">品質: <strong>${esc(status.overall_status)}</strong></span><span class="pill">最終確認: ${esc(status.checked_at_utc)}</span>`;document.querySelector('#stats').innerHTML=`<span class="pill"><strong>${status.counts.documents}</strong>文献</span><span class="pill"><strong>${status.counts.summarized}</strong>要約済み</span><span class="pill"><strong>${items.filter(high).length}</strong>RCT/Meta</span><span class="pill"><strong>${items.filter(x=>x.bi_related).length}</strong>BI関連</span>`;renderFilters();render()}catch(e){document.querySelector('#feed').innerHTML=`<p class="empty">読み込みに失敗しました: ${esc(e.message)}</p>`}}
+boot();
+</script>
+</body></html>
+

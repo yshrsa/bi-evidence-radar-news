@@ -1,0 +1,37 @@
+pack: cardio-renal-metabolic
+version: 1.0.0
+display_name: "Cardio-Renal-Metabolic Evidence Radar"
+
+entities:
+  focal_company:
+    name: "Boehringer Ingelheim"
+    aliases: ["Boehringer", "BI"]
+  competitors:
+    - { name: "Novo Nordisk", weight: 3 }
+    - { name: "Eli Lilly", weight: 3 }
+    - { name: "AstraZeneca", weight: 2 }
+    - { name: "Bayer", weight: 2 }
+    - { name: "Merck", weight: 1 }
+    - { name: "Pfizer", weight: 1 }
+  assets:
+    - { name: "empagliflozin", brand: ["Jardiance"], moa: "SGLT2 inhibitor", company: "Boehringer Ingelheim" }
+    - { name: "survodutide", brand: [], moa: "GLP-1/glucagon dual agonist", company: "Boehringer Ingelheim" }
+    - { name: "linagliptin", brand: ["Tradjenta"], moa: "DPP-4 inhibitor", company: "Boehringer Ingelheim" }
+    - { name: "semaglutide", brand: ["Ozempic", "Wegovy"], moa: "GLP-1 receptor agonist", company: "Novo Nordisk" }
+    - { name: "tirzepatide", brand: ["Mounjaro", "Zepbound"], moa: "dual GIP/GLP-1 agonist", company: "Eli Lilly" }
+    - { name: "dapagliflozin", brand: ["Farxiga"], moa: "SGLT2 inhibitor", company: "AstraZeneca" }
+    - { name: "finerenone", brand: ["Kerendia"], moa: "nonsteroidal MRA", company: "Bayer" }
+
+sources:
+  pubmed:
+    query: >
+      (empagliflozin OR survodutide OR linagliptin OR "SGLT2 inhibitor" OR "GLP-1 receptor agonist"
+      OR "glucagon receptor agonist" OR semaglutide OR tirzepatide OR dapagliflozin OR finerenone)
+      AND ("heart failure" OR "chronic kidney disease" OR "type 2 diabetes" OR obesity OR cardiometabolic)
+    max_per_run: 150
+  japan_relevance_terms: ["Japan", "Japanese", "ethnic", "bridging study", "PMDA"]
+
+delivery:
+  rss_title: "BI Evidence Radar — Cardio-Renal-Metabolic"
+  max_items: 150
+
