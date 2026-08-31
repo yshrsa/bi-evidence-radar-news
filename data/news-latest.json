@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-08-31T15:46:33Z",
+  "generated_at_utc": "2026-08-31T15:48:02Z",
   "items": [
     {
       "pmid": "42626264",
@@ -208,40 +208,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:04:51Z"
-    },
-    {
-      "pmid": "42657455",
-      "title": "Expression of Concern: Dapagliflozin preserves kidney function and reduces albuminuria in children with chronic kidney disease.",
-      "abstract": "",
-      "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
-      "authors": "",
-      "pub_date": "2026-08-27",
-      "doi": "10.1093/ndt/gfag189",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42657455/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
-      "matched_assets": [
-        "dapagliflozin"
-      ],
-      "matched_companies": [
-        "AstraZeneca"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "51f2bf21e7c709e48aeed37b6bddcecfe9671b0b789ee19f8cc8a6cc3895058c",
-      "summary_ja": "抄録が利用できないため、研究デザイン・対象・主要な結果は判断できない。タイトルから、小児慢性腎臓病におけるダパグリフロジンの腎機能保存とアルブミン尿減少に関する論文に対するExpression of Concernであることが示唆される。",
-      "key_takeaway_ja": "抄録がないため、臨床的または開発上の要点は判断できない。",
-      "why_matters_ja": "SGLT2阻害薬の小児慢性腎臓病での腎機能・アルブミン尿への影響に関わるため、Cardio-Renal-Metabolic領域で注目に値しうるが、Expression of Concernであり抄録がないため詳細は判断できない。",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:04:08Z"
     },
     {
       "pmid": "42655906",
@@ -672,40 +638,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:37:14Z"
-    },
-    {
-      "pmid": "42641810",
-      "title": "Efficacy of dapagliflozin on hepatic steatosis and fibrosis in patients with type 2 diabetes mellitus and metabolic dysfunction-associated steatotic liver disease: a pre-specified single-arm analysis from a randomized controlled trial.",
-      "abstract": "AIM: To evaluate the association of dapagliflozin therapy with changes in hepatic steatosis and non-invasive fibrosis surrogate markers in patients with type 2 diabetes mellitus (T2DM) and Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) over 12 months.\nMETHODS: This is a pre-specified single-arm analysis from a randomised, open-label, parallel-group trial. Of 54 participants randomised to dapagliflozin 10 mg daily, 50 (92.6%) completed the 12-month follow-up and were included in the per-protocol analysis. Assessments at baseline, 3, 6, and 12 months included transient elastography (CAP and LSM), ultrasonography, and biochemical tests. Primary endpoints were changes in hepatic steatosis (CAP) and non-invasive fibrosis surrogates (LSM).\nRESULTS: Significant reductions were observed in hepatic steatosis (CAP: 316.7 to 245.7 dB/m; mean change - 71.02 dB/m, 95% CI: -63.4 to - 78.6; p < 0.001) and in liver stiffness as a non-invasive fibrosis surrogate (LSM: 8.59 to 7.28 kPa; mean change - 1.31 kPa, 95% CI: -0.92 to - 1.70; p < 0.001). Improvements were also observed in glycaemic control, body weight, lipid profile, liver enzymes, ultrasonographic steatosis grading, and serum fibrosis markers. Genitourinary infections were the most frequently reported adverse events (32%); no serious adverse events were recorded.\nCONCLUSIONS: Dapagliflozin was associated with significant improvements in hepatic steatosis, non-invasive fibrosis surrogate markers, metabolic parameters, and liver function in T2DM patients with MASLD over 12 months. These findings provide region-specific evidence for an Indian population and support further controlled investigation. However, these findings should be interpreted in light of the pre-specified single-arm design of this analysis, the open-label methodology, relatively small sample size, and the absence of liver biopsy confirmation.",
-      "journal": "Diabetes research and clinical practice",
-      "authors": "Sambit Das, Ketan Das Bijay, Devadarshini Sahoo, Kumar Choudhury Arun, Dayanidhi Meher, Preetam Nath, Sourav Padhee, Binod Prusty",
-      "pub_date": "2026-08-25",
-      "doi": "10.1016/j.diabres.2026.113512",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42641810/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
-      "matched_assets": [
-        "dapagliflozin"
-      ],
-      "matched_companies": [
-        "AstraZeneca"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "984923e46556e78d229850539cfd8427165a61c1bf2f8f7230e803506910ebbe",
-      "summary_ja": "無作為化・オープンラベル・並行群試験から事前指定された単一アーム解析として、2型糖尿病かつMASLD患者54名にダパグリフロジン10 mg/日を12か月投与し、肝脂肪化および非侵襲的線維化サロゲートマーカーの変化を評価した。50名が12か月フォローアップを完了しプロトコル解析に組み込まれた。主要エンドポイントであるCAPおよびLSMは有意に低下し、CAPは316.7から245.7 dB/m（平均変化-71.02 dB/m、95% CI: -63.4～-78.6、p<0.001）、LSMは8.59から7.28 kPa（平均変化-1.31 kPa、95% CI: -0.92～-1.70、p<0.001）となった。",
-      "key_takeaway_ja": "ダパグリフロジンは2型糖尿病を伴うMASLD患者において12か月で肝脂肪化および非侵襲的線維化サロゲートマーカーを有意に改善したが、単一アーム・オープンラベル・小規模な解析であり、肝生検による確認や対照群との比較は行われていない。",
-      "why_matters_ja": "SGLT2阻害薬であるダパグリフロジンがMASLDを伴う2型糖尿病患者の肝脂肪化・線維化サロゲートマーカーに及ぼす影響を示しており、Cardio-Renal-Metabolic領域における肝疾患へのSGLT2阻害薬の潜在的な役割を評価する上で参考となる。",
-      "study_type_ja": "無作為化・オープンラベル・並行群試験からの事前指定された単一アーム解析",
-      "endpoints_ja": "主要: 肝脂肪化（CAP）および非侵襲的線維化サロゲート（LSM）の変化。副次: 抄録に記載なし",
-      "endpoint_results_ja": "主要: 肝脂肪化（CAP）は316.7から245.7 dB/m（平均変化 -71.02 dB/m, 95% CI: -63.4 to -78.6; p < 0.001）、非侵襲的線維化サロゲート（LSM）は8.59から7.28 kPa（平均変化 -1.31 kPa, 95% CI: -0.92 to -1.70; p < 0.001）に低下した。副次: 抄録に記載なし",
-      "sample_size_ja": "N=54（ダパグリフロジン群54名、12か月フォローアップ完了・プロトコル解析対象50名 [92.6%]）",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:32:42Z"
     },
     {
       "pmid": "42640861",
