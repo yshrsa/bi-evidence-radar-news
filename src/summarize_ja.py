@@ -89,20 +89,22 @@ def estimate_neurons(usage: dict[str, Any], prompt: str, output: str) -> float:
     return float(prompt_tokens) * INPUT_NEURONS_PER_TOKEN + float(output_tokens) * OUTPUT_NEURONS_PER_TOKEN
 
 
-def call_qwen(prompt: str) -> tuple[dict[str, Any], float]:
-    account_id = os.environ.get("CLOUDFLARE_ACCOUNT_ID", "").strip()
-    token = os.environ.get("CLOUDFLARE_API_TOKEN", "").strip()
-    if not account_id or not token:
-        raise RuntimeError("CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN are required")
-    url = f"https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run/{MODEL}"
+def call_qwen(article: dict[str, Any]) -> tuple[dict[str, Any], float]:
+    base_url = os.environ.get("BI_RADAR_AI_URL", "").strip().rstrip("/")
+    token = os.environ.get("BI_RADAR_INGEST_SECRET", "").strip()
+    if not base_url or not token:
+        raise RuntimeError("BI_RADAR_AI_URL and BI_RADAR_INGEST_SECRET are required")
+    url = f"{base_url}/api/admin/summarize"
     body = {
-        "messages": [
-            {"role": "system", "content": "Return valid JSON only. Do not use markdown."},
-            {"role": "user", "content": prompt},
-        ],
-        "temperature": 0.1,
-        "max_tokens": 1200,
+        "title": article.get("title") or "",
+        "journal": article.get("journal") or "",
+        "publication_types": article.get("publication_types") or [],
+        "abstract": article.get("abstract") or "",
     }
+    prompt = PROMPT.format(
+        title=body["title"], journal=body["journal"],
+        publication_types=", ".join(body["publication_types"]), abstract=body["abstract"] or "[no abstract available]",
+    )
     delay = 2.0
     last_error: Exception | None = None
     for _ in range(5):
@@ -118,9 +120,8 @@ def call_qwen(prompt: str) -> tuple[dict[str, Any], float]:
                 delay = min(delay * 2, 30)
                 continue
             response.raise_for_status()
-            payload = response.json()
-            result = payload.get("result", payload)
-            output = result.get("response") or result.get("result", {}).get("response")
+            result = response.json()
+            output = result.get("response")
             if not isinstance(output, str) or not output.strip():
                 raise ValueError("Cloudflare Qwen returned an empty response")
             return extract_json(output), estimate_neurons(result.get("usage") or {}, prompt, output)
@@ -149,7 +150,7 @@ def summarize(limit: int = 0) -> dict[str, Any]:
             abstract=row.get("abstract") or "[no abstract available]",
         )
         try:
-            raw, neurons = call_qwen(prompt)
+            raw, neurons = call_qwen(row)
             row.update(guard_summary(raw, row.get("abstract") or ""))
             row["summary_model"] = MODEL
             row["summary_generated_at_utc"] = now_utc()
@@ -181,4 +182,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

@@ -28,13 +28,13 @@ jobs:
       - name: Collect, summarize and publish
         env:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          BI_RADAR_AI_URL: ${{ vars.BI_RADAR_AI_URL }}
+          BI_RADAR_INGEST_SECRET: ${{ secrets.BI_RADAR_INGEST_SECRET }}
         run: |
-          if [[ -n "$CLOUDFLARE_ACCOUNT_ID" && -n "$CLOUDFLARE_API_TOKEN" ]]; then
+          if [[ -n "$BI_RADAR_AI_URL" && -n "$BI_RADAR_INGEST_SECRET" ]]; then
             python -m src.run_pipeline --summary-limit 12
           else
-            echo "Cloudflare AI secrets are not configured; collecting without paid fallback."
+            echo "Cloudflare Qwen endpoint is not configured; collecting without paid fallback."
             python -m src.run_pipeline --skip-summarize
           fi
       - name: Sync publishable records to Notion

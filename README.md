@@ -34,7 +34,7 @@ python -m unittest discover -s tests -v
 python -m src.publish
 ```
 
-日次更新にはGitHub Secretsとして`CLOUDFLARE_ACCOUNT_ID`と
-`CLOUDFLARE_API_TOKEN`が必要です。Notion同期を有効にする場合は
+日次更新は認証付きWorkerを経由し、GitHubへCloudflare管理トークンを保存しません。
+GitHub Actions variable `BI_RADAR_AI_URL`とsecret `BI_RADAR_INGEST_SECRET`を使います。
+Notion同期を有効にする場合は
 `NOTION_API_KEY`と`NOTION_DATABASE_ID`も設定します。
-
