@@ -1,7 +1,41 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-01T00:23:30Z",
+  "generated_at_utc": "2026-09-01T00:28:39Z",
   "items": [
+    {
+      "pmid": "42666995",
+      "title": "Efficacy of Subcutaneous Semaglutide Dose Escalation in Reducing Insulin in Patients With Type 2 Diabetes.",
+      "abstract": "BACKGROUND: Type 2 diabetes mellitus (T2DM) is a chronic disease that affects nearly 25% of patients in the US Department of Veterans Affairs (VA) health care system. Semaglutide 2 mg has been found to significantly improve hemoglobin A1c (HbA1c) when compared with semaglutide 1 mg in patients who are not taking insulin. The purpose of this study was to investigate the effect subcutaneous semaglutide dose escalation has on total daily insulin dose in patients with T2DM.\nMETHODS: This retrospective, single-center chart review study was conducted at the VA Sioux Falls Health Care System. The primary endpoint was change in daily insulin dose from baseline to semaglutide dose increase after receiving semaglutide 2 mg for ≥ 3 months. Baseline was defined as initiation of semaglutide 0.5 mg. Secondary endpoints included changes in daily bolus or basal insulin doses, HbA1c level, and number of hypoglycemic events reported.\nRESULTS: Sixty-two patients were included. Daily insulin dose changed -5.6% (95% CI, 2.2-14.0; P = .008) from baseline to 1-mg dose initiation, -22.2% (95% CI, 22.0-35.1; P < .001) at 2-mg dose initiation, and -36.9% (95% CI, 37.4-56.5; P < .001) after ≥ 3 months at the 2-mg dose. Mean HbA1c level decreased from 7.7% at baseline to 7.1% at 2-mg dose initiation (95% CI, 0.3-0.8; P < .001).\nCONCLUSIONS: There were statistically significant reductions in total daily insulin dose when subcutaneous semaglutide was initiated and further reduction with each semaglutide dose increase. These results support the current practice of prescribing semaglutide to treat T2DM and suggest that when the dose is increased to 2 mg, patients may experience reductions in total daily insulin dose and HbA1c levels.",
+      "journal": "Federal practitioner : for the health care professionals of the VA, DoD, and PHS",
+      "authors": "Halver Alisha, Wiksen John, Larson Aaron, Wegner Amber",
+      "pub_date": "2026-11-14",
+      "doi": "10.12788/fp.0642",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42666995/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d7fb6f66e068bdcd10d5c9bfc593ab8e53f68bf8b52453445b8a713d8f84cbbd",
+      "fetched_at_utc": "2026-08-31T15:48:02Z",
+      "updated_at_utc": "2026-08-31T15:48:02Z",
+      "summary_ja": "VA Sioux Falls Health Care Systemにおいて実施された後ろ向き単一施設カルテレビュー研究。2型糖尿病（T2DM）患者における皮下注射セマグルチドの増量（0.5 mg→1 mg→2 mg）が総日量インスリン用量に与える影響を調査した。主要エンドポイントは、セマグルチド2 mgを3か月以上使用後のインスリン日量の変化（ベースラインはセマグルチド0.5 mg開始時）であり、二次エンドポイントはボルス/ベースアルインスリン日量の変化、HbA1c値、低血糖事象の報告数であった。",
+      "key_takeaway_ja": "皮下注射セマグルチドの増量に伴い、総日量インスリン用量が統計的に有意に減少した（1 mg開始時 -5.6%、2 mg開始時 -22.2%、2 mg 3か月以上継続時 -36.9%）。また、HbA1cはベースライン7.7%から2 mg開始時7.1%へ低下した。",
+      "why_matters_ja": "セマグルチドの2 mgへの増量により総日量インスリン用量およびHbA1c値の低下が期待できることを示し、T2DMに対するセマグルチド処方の現行プラクティスを支持する。",
+      "study_type_ja": "後ろ向き単一施設カルテレビュー研究",
+      "endpoints_ja": "主要エンドポイント：セマグルチド2 mgを3か月以上使用後のインスリン日量の変化（ベースライン＝セマグルチド0.5 mg開始時）。二次エンドポイント：ボルス/ベースアルインスリン日量の変化、HbA1c値、低血糖事象の報告数。",
+      "endpoint_results_ja": "インスリン日量変化：ベースラインから1 mg開始時 -5.6%（95% CI, 2.2-14.0; P = .008）、2 mg開始時 -22.2%（95% CI, 22.0-35.1; P < .001）、2 mg 3か月以上継続時 -36.9%（95% CI, 37.4-56.5; P < .001）。HbA1c：ベースライン7.7%から2 mg開始時7.1%へ低下（95% CI, 0.3-0.8; P < .001）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
     {
       "pmid": "42626264",
       "title": "Glucagon-like receptor-1 agonists and impotence: A meta-analysis.",
@@ -109,6 +143,209 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
+    },
+    {
+      "pmid": "42671848",
+      "title": "Biliary Events and GLP-1 Receptor Agonist Therapy in Adolescents and Young Adults.",
+      "abstract": "",
+      "journal": "JAMA pediatrics",
+      "authors": "Rodrigues de Oliveira Filho Josélio, Papadakis Lena, Collins Reagan A, Shnawa Ghadeer N, Griggs Cornelia L",
+      "pub_date": "2026-08-31",
+      "doi": "10.1001/jamapediatrics.2026.3918",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671848/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "1df35c472c4ffe0078a417e7b7fe4c090e616cf9c6d875c1f4e1a048594713f0",
+      "fetched_at_utc": "2026-09-01T00:25:30Z",
+      "updated_at_utc": "2026-09-01T00:25:30Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:25:30Z"
+    },
+    {
+      "pmid": "42671478",
+      "title": "Trials and tribulations of spironolactone in heart failure with preserved ejection fraction: Insights from the SPIRIT-HF trial.",
+      "abstract": "Heart failure with preserved ejection fraction represents a clinical challenge, accounting for at least 50% of heart failure (HF) cases globally, with a historical lack of efficacious and disease-modifying therapies. Mineralocorticoid receptor antagonists, specifically the steroidal agent spironolactone, have a strong theoretical potential to mitigate systemic inflammation, microvascular endothelial dysfunction, and myocardial fibrosis, which commonly affect patients with HF. However, the clinical validation of spironolactone has been influenced by methodological inconsistencies and safety concerns. The pivotal TOPCAT trial yielded neutral primary outcome results globally, confounded by significant geographical disparities. To provide further evidence the SPIRIT-HF trial evaluated spironolactone in a population with HF and mildly reduced or preserved ejection fraction. This trial was affected by critical operational issues related to the COVID-19 pandemic, resulting in an underpowered study population with a very high study drug discontinuation rate. The trial ultimately failed to demonstrate a cardiovascular benefit on any of the evaluated outcomes. The ongoing SPIRRIT-HFpEF trial represents a pragmatic, registry-based study to overcome traditional enrollment barriers, while evidence from the FINEARTS-HF trial on finerenone, a novel non-steroidal antagonist, has finally highlighted a major role for mineralocorticoid receptor antagonism in patients with HF and mildly reduced or preserved ejection fraction. This meeting report examines the SPIRIT-HF trial and place its results within the broader evidence on steroidal and nonsteroidal MRA in patients with HFpEF.",
+      "journal": "Heart failure reviews",
+      "authors": "Basile Christian, Monzo Luca, Farmakis Dimitrios, Keramida Kalliopi, Liori Sotiria, Kapelios Chris J, Sverdlov Aaron L, Grupper Avishay",
+      "pub_date": "2026-08-31",
+      "doi": "10.1007/s10741-026-10675-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671478/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Heart Failure",
+        "Spironolactone",
+        "Stroke Volume",
+        "Mineralocorticoid Receptor Antagonists",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "825ada1ed0cdae77029bebef7f4eda18a7747b4703c4cd069f9a196487f958ae",
+      "fetched_at_utc": "2026-09-01T00:25:30Z",
+      "updated_at_utc": "2026-09-01T00:25:30Z",
+      "summary_ja": "本稿はSPIRIT-HF試験の会議報告であり、HFpEFにおけるスピロノラクトンの臨床検証の経緯を概観する。TOPCAT試験は地理的偏りにより主要アウトカムが中立であった。SPIRIT-HF試験はCOVID-19パンデミックによる運営上の問題により、被験者数が不足し、試験薬の中止率が非常に高かった。最終的に心血管上の利益はどの評価アウトカムでも示されなかった。一方、非ステロイド性MRAであるフィネロノンを対象としたFINEARTS-HF試験は、HFpEFにおけるMRA阻害の重要な役割を初めて示した。本報告はSPIRIT-HFの結果をステロイド性及び非ステロイド性MRAのより広いエビデンスの文脈に位置づけている。",
+      "key_takeaway_ja": "SPIRIT-HF試験は被験者数不足と高い中止率により、スピロノラクトンの心血管上の利益をどのアウトカムでも示せなかった。一方、非ステロイド性MRAであるフィネロノンを対象としたFINEARTS-HF試験は、HFpEFにおけるMRA阻害の重要な役割を初めて示した。",
+      "why_matters_ja": "HFpEFは世界的にHF症例の少なくとも50%を占め、歴史的に有効な疾患修飾療法が欠如していた。ステロイド性MRAであるスピロノラクトンが失敗した理由と、非ステロイド性MRAであるフィネロノンが成功した理由の理解は、HFpEF治療戦略の方向性を示す上で重要である。",
+      "study_type_ja": "Review（会議報告）",
+      "endpoints_ja": "心血管上の利益（具体的なアウトカム名は抄録に明記されていない）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-01T00:26:20Z"
+    },
+    {
+      "pmid": "42671364",
+      "title": "Dapagliflozin in pulmonary arterial hypertension and chronic thromboembolic pulmonary hypertension: The DAPAH randomized controlled trial.",
+      "abstract": "BACKGROUND: SGLT2 inhibitors (SGLT2i) reduce mortality in left heart failure. In pulmonary arterial hypertension (PAH), preclinical data suggest SGLT2i improve right ventricular function through metabolic modulation and inhibition of vascular remodeling via smooth muscle cell pathways. The DAPAH trial evaluated whether the potential benefits of SGLT2 inhibition translate into clinical efficacy for symptomatic patients on background vasodilator therapy with either PAH or chronic thromboembolic pulmonary hypertension.\nMETHODS: In this single-center, double-blind trial, 52 patients were randomized (1:1) to dapagliflozin 10 mg daily or placebo for 12 weeks. The primary endpoint was change in Peak VO2. Secondary endpoints included invasive hemodynamics, NT-proBNP, 6-minute walk distance (6MWD) and REVEAL Lite 2 scores.\nRESULTS: Baseline characteristics were balanced (n=52; mean age 66.5 years; 63% female; n=40 PAH, n=12 CTEPH). Fifty-one patients had complete data on Peak VO2. At 12 weeks, there was no significant difference in Peak VO2 (Adjusted Mean Difference: -0.67 mL/kg/min; 95% CI [-1.67, 0.33]; p=0.187). No significant treatment effects were observed for pulmonary vascular resistance (p=0.255), 6MWD (p=0.22), or NT-proBNP trajectory (interaction p=0.681). REVEAL Lite 2 scores showed a small reduction with dapagliflozin (-0.66; 95% CI [-1.25, -0.06]; p=0.031). Metabolic target engagement was evident from a significant reduction in serum urate (P-interaction < 0.001). Dapagliflozin was safe and well-tolerated.\nCONCLUSION: This randomized study of SGLT2i in pre-capillary PH showed that 12 weeks of dapagliflozin did not significantly improve exercise capacity, hemodynamics, or functional status compared to placebo.\nCLINICALTRIALS: gov (NCT05179356).",
+      "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+      "authors": "Ersbøll Mads Kristian, Kjærgaard Jesper, Waidtløw Karin, Køber Lars, Gustafsson Finn, Kiely David G, Montani David, Carlsen Jørn",
+      "pub_date": "2026-08-31",
+      "doi": "10.1016/j.healun.2026.07.008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671364/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "59b78f663d0e771182f4476de26da385d666efba82c68944012108b9027f1827",
+      "fetched_at_utc": "2026-09-01T00:25:30Z",
+      "updated_at_utc": "2026-09-01T00:25:30Z",
+      "summary_ja": "DAPAH試験は、背景の血管拡張薬治療中の症状性PAHまたはCTEPH患者において、ダパグリフロジン10 mg/日12週間の投与が運動耐容能を改善するかを評価した単一施設・二重盲検・無作為化対照試験である。52例が1:1でダパグリフロジン群またはプラセボ群に無作為化された。主要エンドポイントであるPeak VO2の変化には有意差を認めなかった。二次エンドポイント（肺血管抵抗、6MWD、NT-proBNP）にも有意な治療効果は認められなかった。REVEAL Lite 2スコアにはダパグリフロジン群で軽度の有意な低下が認められた。ダパグリフロジンは安全で忍容性も良好であった。",
+      "key_takeaway_ja": "前毛細血管性肺高血圧症患者において、12週間のダパグリフロジン投与はプラセボと比較して運動耐容能、血流力学、機能状態を有意に改善しなかった。",
+      "why_matters_ja": "SGLT2阻害薬は左心不全で死亡率を低下させることが示されており、前臨床データでは代謝調節および血管リモデリング抑制を介して右心機能の改善が示唆されていた。本試験は、これらの潜在的な利点が症状性PAH/CTEPH患者において臨床的有効性として転換されるかを検証したものであり、SGLT2阻害薬の右心不全・肺高血圧領域での役割を明確にする上で重要である。",
+      "study_type_ja": "単一施設・二重盲検・無作為化対照試験（RCT）、12週間",
+      "endpoints_ja": "主要エンドポイント：Peak VO2の変化。二次エンドポイント：侵襲的血流力学、NT-proBNP、6分間歩行距離（6MWD）、REVEAL Lite 2スコア。",
+      "endpoint_results_ja": "Peak VO2：調整平均差 -0.67 mL/kg/min、95% CI [-1.67, 0.33]、p=0.187。肺血管抵抗：p=0.255。6MWD：p=0.22。NT-proBNP推移：交互作用 p=0.681。REVEAL Lite 2スコア：-0.66、95% CI [-1.25, -0.06]、p=0.031。血清尿酸：P-interaction < 0.001。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-01T00:27:00Z"
+    },
+    {
+      "pmid": "42671242",
+      "title": "Sex in CKD trials: representation and treatment effects of cardiorenoprotective therapies.",
+      "abstract": "BACKGROUND: Women comprise a substantial proportion of the chronic kidney disease (CKD) population and differ from men in disease phenotype, progression, and treatment exposure. Underrepresentation of women and limited sex-specific reporting may therefore reduce the generalizability of evidence from contemporary CKD trials.\nMETHODS: We conducted a meta-epidemiological study of randomized trials evaluating sodium-glucose cotransporter-2 inhibitors, glucagon-like peptide-1 receptor agonists, and non-steroidal mineralocorticoid receptor antagonists in adults with CKD. Female representation was quantified using the enrollment disparity difference (EDD), defined as the observed proportion of female trial participants minus the expected proportion derived from sex-specific Global Burden of Disease CKD prevalence estimates matched to trial population characteristics. Trial-level EDDs were pooled using random-effects meta-analysis. Meta-regression was used to examine trial-level correlates of EDD. Historical analyses extended the cohort to earlier cardiorenal pharmacotherapies to evaluate temporal trends, with pivotal CKD trials examined descriptively. Reporting of sex-specific cardiovascular and kidney outcomes was also assessed.\nRESULTS: Fifty-five randomized trials were included. Median female enrollment was 33.1%, and 52 trials (94.5%) enrolled fewer women than expected. The pooled EDD was -0.17 (95% CI, -0.20; -0.14), with negative estimates across all intervention classes. In meta-regression, phase II design and albuminuria requirement were associated with greater female underrepresentation, whereas diabetes requirement and female first authorship were associated with smaller enrollment disparity, including after adjustment for other key trial characteristics. Sex-specific outcomes were reported in 13 trials (23.6%). Extension to 117 trials provided no statistically supported evidence of improvement in female representation over time, including after adjustment for intervention class; all 38 pivotal CKD trials enrolled fewer women than expected.\nCONCLUSIONS: Women remain underrepresented in cardiorenoprotective therapy trials, with limited sex-specific outcome reporting. Historical benchmarking indicates that successive advances in CKD pharmacotherapy have not been accompanied by demonstrable improvement in the sex representativeness of the evidence base.",
+      "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+      "authors": "Bellos Ioannis, Athanasiou Maria, Nikita Konstantina S, Benetou Vassiliki",
+      "pub_date": "2026-08-31",
+      "doi": "10.1093/ndt/gfag199",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671242/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "225a64507ea23aba3fc9813eb305765ea0325b34adea3f4d326d4778f01c73a7",
+      "fetched_at_utc": "2026-09-01T00:25:30Z",
+      "updated_at_utc": "2026-09-01T00:25:30Z",
+      "summary_ja": "CKD成人を対象にSGLT2阻害薬、GLP-1受容体作動薬、非ステロイド性ミネラルコルチコイド受容体拮抗薬を評価した無作為化試験55試験を対象としたメタ疫学研究。女性参加者の割合をGlobal Burden of DiseaseのCKD有病率推定値に基づき算出された期待割合と比較し、Enrollment Disparity Difference（EDD）として定量化した。中央値の女性参加割合は33.1%であり、52試験（94.5%）で期待値より女性の参加が少なかった。プールされたEDDは-0.17（95%CI, -0.20; -0.14）であり、全介入クラスで負の推定値であった。メタ回帰では、Phase IIデザインとアルブミン尿要件が女性の過小代表と関連し、糖尿病要件と女性第一著者が過小代表の縮小と関連した。性別別アウトカムの報告は13試験（23.6%）のみであった。117試験への拡張分析では、時間的な改善の統計的証拠は得られず、38の主要CKD試験すべてで期待値より女性の参加が少なかった。",
+      "key_takeaway_ja": "心腎保護療法試験において女性は依然として過小代表であり、性別別アウトカムの報告も限定的である。CKD薬物療法の逐次的な進歩は、エビデンスベースの性別代表性の改善を伴っていない。",
+      "why_matters_ja": "女性はCKD患者の相当な割合を占め、男性と疾病表現型・進行・治療曝露において異なる。女性の過小代表と性別別報告の不足は、現代のCKD試験からのエビデンスの一般化可能性を低下させる可能性がある。",
+      "study_type_ja": "メタ疫学研究（無作為化試験の系統的レビュー）",
+      "endpoints_ja": "女性参加者の割合（Enrollment Disparity Difference: EDD）、性別別心血管・腎アウトカムの報告率、時間的なトレンド",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-01T00:27:28Z"
+    },
+    {
+      "pmid": "42670683",
+      "title": "Efficacy and safety of henagliflozin in IgA nephropathy: A real-world observational study from China.",
+      "abstract": "BACKGROUND: Sodium-glucose cotransporter 2 (SGLT2) inhibitors are now recommended as first-line therapies for chronic kidney disease. However, real-world evidence on henagliflozin, China's first-developed SGLT2 inhibitor, for treating IgA nephropathy (IgAN) is lacking. This study explored the real-world efficacy and safety of henagliflozin in Chinese IgAN patients.\nMATERIALS AND METHODS: This study retrospectively reviewed 48 IgAN patients on henagliflozin for 12 weeks. The primary outcome was the urinary albumin-to-creatinine ratio (UACR). Secondary outcomes included estimated glomerular filtration rate (eGFR), serum creatinine (Scr), uric acid (UA), and albumin (Alb). Adverse events (AEs) were also recorded.\nRESULTS: Henagliflozin induced a significant reduction in UACR between baseline and week 12 (227.26; IQR, 90.13 - 677.85 vs. 153.06; IQR, 24.68 - 401.76 mg/g; p < 0.001), with a median decrease of 47.9%. Clinical response, defined as a ≥ 30% decrease in UACR, was achieved in 64.6% of patients by week 12. The UA levels also decreased markedly (p < 0.001). The eGFR declined until week 8 (p ≤ 0.015) but returned to near-baseline level by week 12 (p = 0.055). Scr increased over time (p = 0.005), and Alb improved until week 8 (p ≤ 0.007) and then plateaued at week 12 (p = 0.45). AEs included urinary tract infections in 5 patients, Scr increase of ≥ 50% in 1, and hyperkalemia in 1.\nCONCLUSION: Henagliflozin demonstrated significant albuminuria- and UA-lowering effects over 12 weeks in Chinese IgAN patients. With renal-metabolic benefits and favorable safety, henagliflozin is emerging as an encouraging therapeutic option for IgAN.",
+      "journal": "Clinical nephrology",
+      "authors": "Zhang Yi Qian, Wu Jun Xia, Tu Hai Yan, Ren Zhao Ting, Chen Pei Pei, Zhang Jia Xiu, Ma Kun Ling",
+      "pub_date": "2026-08-31",
+      "doi": "10.5414/CN111956",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42670683/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "fd30937643d1ba4bd5e0e45fb17c4c723b903219ec2bfa8f92d32f3d3949b743",
+      "fetched_at_utc": "2026-09-01T00:25:30Z",
+      "updated_at_utc": "2026-09-01T00:25:30Z",
+      "summary_ja": "中国のIgA腎症（IgAN）患者48例を対象に、ヘナグリフロジンを12週間投与した後ろ向き観察研究。主要評価項目は尿アルブミン/クレアチニン比（UACR）であり、二次評価項目としてeGFR、血清クレアチニン（Scr）、尿酸（UA）、アルブミン（Alb）を評価した。UACRはベースラインから12週目で有意に低下し（中央値47.9%減少、p<0.001）、UACR 30%以上の減少を達成した患者は64.6%であった。尿酸も有意に低下した（p<0.001）。eGFRは8週目まで低下したが12週目にはベースライン近傍に回復した（p=0.055）。Scrは時間とともに増加した（p=0.005）。Albは8週目まで改善し12週目でプラトーに達した（p=0.45）。有害事象として尿路感染症5例、Scr 50%以上の増加1例、高カリウム血症1例が報告された。",
+      "key_takeaway_ja": "ヘナグリフロジンは中国のIgAN患者において12週間でUACRおよび尿酸を有意に低下させ、腎代謝上の利益と良好な安全性を示した。",
+      "why_matters_ja": "SGLT2阻害薬は慢性腎臓病の第一選択療法として推奨されているが、中国で最初に開発されたSGLT2阻害薬であるヘナグリフロジンのIgANにおける実世界のエビデンスは不足していた。本研究は、ヘナグリフロジンがIgANの治療選択肢として有望であることを示す実世界データを提供する。",
+      "study_type_ja": "後ろ向き観察研究（実世界研究）",
+      "endpoints_ja": "主要評価項目：尿アルブミン/クレアチニン比（UACR）。二次評価項目：推定糸球体濾過量（eGFR）、血清クレアチニン（Scr）、尿酸（UA）、アルブミン（Alb）、有害事象（AEs）。",
+      "endpoint_results_ja": "UACR：ベースライン 227.26（IQR 90.13–677.85）vs 12週目 153.06（IQR 24.68–401.76）mg/g、p<0.001、中央値減少率47.9%。臨床反応（UACR 30%以上の減少）：64.6%。UA：有意に低下（p<0.001）、具体的な数値は記載なし。eGFR：8週目まで低下（p≤0.015）、12週目でベースライン近傍に回復（p=0.055）。Scr：時間とともに増加（p=0.005）。Alb：8週目まで改善（p≤0.007）、12週目でプラトー（p=0.45）。有害事象：尿路感染症5例、Scr 50%以上の増加1例、高カリウム血症1例。",
+      "sample_size_ja": "48例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-01T00:28:16Z"
+    },
+    {
+      "pmid": "42670558",
+      "title": "Tirzepatide non-response with subsequent semaglutide response in class 2 obesity.",
+      "abstract": "We report a paradoxical case of a 40-year-old man with class 2 obesity (body mass index 39.8 kg/m2) and insulin resistance (homeostatic model assessment of insulin resistance [HOMA-IR] 5.0; reference <2.0) who achieved minimal weight loss (<5%) despite tirzepatide dose escalation to 15 mg weekly over 6 months. Following switch to semaglutide 2.4 mg weekly, the patient achieved 20% weight loss over 6 months, with normalization of fasting glucose, resolution of insulin resistance, and marked improvement in appetite control. This case challenges the assumption that dual glucose-dependent insulinotropic polypeptide (GIP)/glucagon-like peptide-1 (GLP-1) receptor agonism is universally superior to selective GLP-1 receptor agonism for weight management. Mechanistic analysis suggests that adipose tissue GIP receptor downregulation in the context of class 2 obesity and insulin resistance, combined with intact central GLP-1 receptor signaling, may explain the differential response in some individuals. Key learning points include: markedly elevated baseline insulin resistance (HOMA-IR ≥4-5) may be associated with poor tirzepatide response, though prospective validation is required; persistent hyperphagia during tirzepatide treatment is an early warning sign; and nonresponse to tirzepatide does not preclude semaglutide response. This case supports precision medicine approaches in obesity pharmacotherapy, including pretreatment phenotyping and early response assessment.",
+      "journal": "JCEM case reports",
+      "authors": "La Vignera Sandro, Condorelli Rosita A",
+      "pub_date": "2026-08-31",
+      "doi": "10.1210/jcemcr/luag245",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42670558/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ebbc99e7cda3cf277e9d16b8e316b8c30b552eca2c9f49e339a7ce3608648f98",
+      "fetched_at_utc": "2026-09-01T00:25:30Z",
+      "updated_at_utc": "2026-09-01T00:25:30Z",
+      "summary_ja": "BMI 39.8 kg/m2、HOMA-IR 5.0の2型肥満を伴う40歳男性において、tirzepatideを15 mg/週まで増量しても6ヶ月間で体重減少は5%未満にとどまった。semaglutide 2.4 mg/週へ切り替えた後、6ヶ月間で20%の体重減少を達成し、空腹時血糖の正常化、インスリン抵抗性の解消、食欲制御の著明な改善が得られた。",
+      "key_takeaway_ja": "tirzepatideへの非応答はsemaglutideへの応答を妨げない。ベースラインで著しく高いインスリン抵抗性（HOMA-IR ≥4-5）はtirzepatideの応答不良と関連する可能性がある（前向き検証は未実施）。",
+      "why_matters_ja": "GIP/GLP-1二重受容体作動が選択的GLP-1受容体作動よりも常に優越するという前提に疑問を投げかける。肥満薬物療法におけるプレトリートメントフェノタイピングや早期応答評価を含む精密医療アプローチを支持する。",
+      "study_type_ja": "単例報告",
+      "endpoints_ja": "体重減少率、空腹時血糖、インスリン抵抗性（HOMA-IR）、食欲制御",
+      "endpoint_results_ja": "Tirzepatide 15 mg/週 6ヶ月：体重減少<5%。Semaglutide 2.4 mg/週 6ヶ月：体重減少20%、空腹時血糖の正常化、インスリン抵抗性の解消、食欲制御の著明な改善。",
+      "sample_size_ja": "1例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-01T00:28:33Z"
     },
     {
       "pmid": "42658007",
