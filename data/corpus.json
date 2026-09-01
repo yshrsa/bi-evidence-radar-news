@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-01T04:38:31Z",
+  "generated_at_utc": "2026-09-01T23:16:30Z",
   "documents": [
     {
       "pmid": "42666995",
@@ -145,6 +145,73 @@
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
     },
     {
+      "pmid": "42678545",
+      "title": "Exploring the therapeutic response to sodium-glucose cotransporter-2 inhibition in INSR-related insulin resistance monogenic diabetes: case-based analysis and narrative review.",
+      "abstract": "BACKGROUND: INSR-related insulin resistance is a form of monogenic diabetes caused by pathogenic variants in the INSR gene, resulting in impaired insulin receptor signalling and a spectrum of insulin resistance. Conventional diabetes management strategies relying on insulin sensitisation or augmentation are often less effective and evidence to guide treatment in those with heterozygous INSR mutations remains limited.\nINDEX CASE ANALYSIS: A 63-year-old male diagnosed with type 2 diabetes aged 40 presented with a relatively stable fasting glucose and disproportionate postprandial hyperglycaemia despite prandial insulin. He had bilateral asymmetric mixed hearing loss (conductive/sensorineural) and early cardiovascular disease. C-peptide was preserved at 1.3 nmol/L with serum glucose at 7.1 mmol/L. Monogenic diabetes genetic testing identified a heterozygous likely pathogenic variant (i.e. mutation) in INSR (c.3473G > A, (p.Arg1158Gln)). Treatment with a sodium-glucose cotransporter-2 inhibitor (SGLT2 inhibitor) achieved 78% time-in-range (TIR). Subsequent SGLT2 inhibitor withdrawal for four months due to pyelonephritis led to TIR deterioration to 2% despite intensified basal insulin. Berberine initiation produced modest improvement (TIR 24%). Following re-introduction of the SGLT2 inhibitor, TIR rapidly improved to 85%, with restoration of a stable overnight profile.\nLITERATURE REVIEW: A narrative review identified eight cases with INSR-related insulin resistance (Donohue/Rabson-Mendenhall/type A insulin resistance) treated with a SGLT2 inhibitor. All reports documented clinically meaningful HbA1c reductions (1.4-3.6%) and, where available, improved CGM metrics.\nCONCLUSIONS: SGLT2 inhibitors provide insulin-independent glycaemic benefit in INSR-related insulin resistance. AMPK-activating strategies, including metformin, berberine, and exercise, may provide adjunctive benefit via cellular glucose uptake, although evidence remains limited. We propose a two-factor therapeutic framework targeting (1) insulin-independent glucosuria and (2) AMPK-mediated glucose uptake as a rational management approach for this rare form of diabetes.",
+      "journal": "Acta diabetologica",
+      "authors": "Franklin David, Mahony Jan, Patel Chirag, Triay Jessica",
+      "pub_date": "2026-09-01",
+      "doi": "10.1007/s00592-026-02795-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678545/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "170c8b303730f9967430b5956c88cef5f1eb95e6fa62185e3942dfe8c14dc5c2",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z"
+    },
+    {
+      "pmid": "42678052",
+      "title": "GLP-1 Receptor Agonist Use and A1 Pulley Release After Corticosteroid Injection for Trigger Finger in Type 2 Diabetes.",
+      "abstract": "BACKGROUND: Patients with type 2 diabetes mellitus (T2DM) have a higher incidence of trigger finger and are more likely to require operative A1 pulley release. The impact of glucagon-like peptide-1 receptor agonist (GLP-1RA) therapy on treatment progression remains unclear. This study evaluated the association between GLP-1RA use and progression to operative A1 pulley release following corticosteroid injection for trigger finger in patients with T2DM.\nMETHODS: A retrospective analysis was conducted using the TriNetX Research Network to identify adults with T2DM and trigger finger who underwent an initial corticosteroid injection. Patients were grouped by GLP-1RA exposure and propensity-matched (1:1) for demographics, comorbidities, and other diabetic medications. The primary outcome was A1 pulley release at 6, 12, and 24 months after injection. Relative risks (RRs) and 95% confidence intervals (CIs) were calculated, and balance was assessed using standardized mean differences <0.10.\nRESULTS: A total of 69 222 patients met inclusion criteria (5871 with GLP-1RA exposure and 63 351 without). After matching, 5863 patients remained in each cohort. Glucagon-like peptide-1 receptor agonist use was not associated with a significant difference in 6-month release rates (6.1% in GLP-1RA users vs 6.8% in nonusers). However, GLP-1RA users had lower release rates at 12 (10.6% vs 11.9%; RR, 0.89; 95% CI, 0.81-0.99; P = .027) and 24 months (14.2% vs 15.7%; RR, 0.90; 95% CI, 0.83-0.98; P = .016). These differences corresponded to absolute risk reductions of 1.4% and 1.7%, or numbers needed to treat of 71 and 59, at 12 and 24 months, respectively.\nCONCLUSION: Glucagon-like peptide-1 receptor agonist therapy was associated with a small but statistically significant reduction in progression to A1 pulley release at 12 and 24 months after corticosteroid injection for trigger finger in patients with T2DM.Level of evidence: Level III.",
+      "journal": "Hand (New York, N.Y.)",
+      "authors": "Khan Asim A, Jan Kyleen, Kim Jason H, Gaccione-Barreto Lia, Simcock Xavier C",
+      "pub_date": "2026-09-01",
+      "doi": "10.1177/15589447261480181",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678052/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "bfb838d00aaaa8d6595c2373c8355c35e14955bc34ab89e67ee80cd760881532",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z"
+    },
+    {
+      "pmid": "42675203",
+      "title": "Effects of dapagliflozin on proteinuria, glycemic control, and treatment burden in diabetic kidney transplant recipients: a matched cohort study.",
+      "abstract": "AIMS: Diabetes mellitus and persistent proteinuria are major determinants of cardiovascular morbidity, graft dysfunction, and mortality after kidney transplantation. Although sodium-glucose cotransporter-2 (SGLT2) inhibitors have demonstrated substantial cardiorenal benefits in chronic kidney disease, data regarding their use in kidney transplant recipients remain limited. This study aimed to evaluate the clinical effects of dapagliflozin on proteinuria, graft function, glycemic measures, treatment burden, and observed safety events in diabetic kidney transplant recipients.\nMETHODS: We conducted an exploratory retrospective 1:1 clinically matched cohort study of diabetic kidney transplant recipients followed between 2010 and 2022. Among 282 transplant recipients, 68 had diabetes mellitus. Eighteen patients initiated dapagliflozin 10 mg/day and were included in the all-treated tolerability cohort; three discontinued treatment before completing 3 months because of patient preference unrelated to documented adverse events, leaving 15 recipients who received dapagliflozin for at least 12 months in the efficacy cohort. Fifteen diabetic kidney transplant recipients not receiving SGLT2 inhibitor therapy were selected as 1:1 clinically matched comparable controls according to prespecified matching criteria. Primary outcomes were changes in proteinuria and eGFR. Secondary outcomes included HbA1c, fasting plasma glucose, insulin requirements, antihypertensive medication burden, and observed safety events.\nRESULTS: Thirty diabetic kidney transplant recipients were included in the 12-month efficacy analysis (15 dapagliflozin-treated recipients and 15 1:1 clinically matched comparable controls). Baseline demographic, transplant-related, renal, and glycemic characteristics were broadly comparable between groups. Proteinuria decreased more in the dapagliflozin group than in controls (median change, - 157 [- 310 to - 52] vs. -12 [- 48 to + 25] mg/day; Hodges-Lehmann location-shift estimate, - 171 mg/day; 95% CI, - 310 to - 32; p = 0.009), while eGFR remained stable (between-group difference in ΔeGFR, + 1.6 mL/min/1.73 m²; 95% CI, - 1.8 to + 5.0; p = 0.31). HbA1c decreased from 8.10% (65 mmol/mol) to 7.10% (54 mmol/mol) in the dapagliflozin group, whereas it decreased from 8.18% (66 mmol/mol) to 7.80% (62 mmol/mol) in controls. Greater reductions were also observed in fasting plasma glucose and daily insulin dose. Two urinary tract infections requiring oral antibiotics occurred in the dapagliflozin group and one in controls. No genital infections, diabetic ketoacidosis, acute rejection, graft loss, cardiovascular events, severe infections requiring hospitalization, or deaths were observed.\nCONCLUSIONS: In this exploratory 1:1 clinically matched cohort of selected diabetic kidney transplant recipients, dapagliflozin use was associated with reduced proteinuria, improved glycemic measures, and lower treatment burden over 12 months, without observed major graft-related or serious infectious events. However, the retrospective design, small sample size, selected cohort, and treatment-completer efficacy analysis preclude causal inference and definitive safety conclusions. Larger prospective multicenter studies are required before routine implementation in transplant practice can be recommended.",
+      "journal": "Acta diabetologica",
+      "authors": "Ural Zeynep, Derici Ulver",
+      "pub_date": "2026-09-01",
+      "doi": "10.1007/s00592-026-02792-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42675203/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ac00da9dfd16d2930b027835dc43165ffb98cd3c68d34dcfcb365f7673ce9f47",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z"
+    },
+    {
       "pmid": "42673608",
       "title": "Association of GLP-1 Agonists With Postoperative Complications Following Knee Extensor Mechanism Repair:An Analysis of 1,092 Patients.",
       "abstract": "BACKGROUND: Diabetes and obesity are recognized as risk factors for postoperative complications including increased surgical site infection (SSI) and reoperation in patients undergoing knee extensor mechanism repair. However, limited literature evaluates how preoperative glucagon-like peptide-1 (GLP-1) receptor agonist therapy may influence these outcomes. This study evaluated GLP-1 receptor agonist use as an independent risk factor for postoperative outcomes following knee extensor mechanism repair.\nMATERIALS AND METHODS: Patients who underwent quadriceps or patellar tendon repair from 2012 to 2025 were identified in the TriNetX database and stratified by GLP-1 agonist use within 1 year of surgery. One-to-one propensity score matching yielded 2 well-balanced cohorts (n = 546). Postoperative complications were assessed at 90 days, 1 year, and 2 years, and Kaplan-Meier survival analysis was performed.\nRESULTS: No significant 90-day postoperative differences were observed. At 1 year, patients using GLP-1 agonists demonstrated significantly lower rates of SSI (2.38% vs 5.31%; odds ratio [OR] = 0.435; P = .0118) and wound complications (2.02% vs 5.31%; OR = 0.367; P = .0037). Differences persisted at 2 years, with lower rates of SSI (2.75% vs 6.04%; OR = 0.439; P = .0079), wound complications (2.38% vs 6.04%; OR = 0.379; P = .0026), and acute kidney injury (9.71% vs 13.55%; OR = 0.686; P = .0474). No significant differences in revision surgery were found. Kaplan-Meier analysis demonstrated significant separation for SSI and wound complications beginning at 1 year.\nCONCLUSION: Preoperative GLP-1 receptor agonist therapy was associated with reduced postoperative SSI and wound complications following knee extensor mechanism repair. These findings suggest potential for perioperative risk modulation as GLP-1 use becomes increasingly prevalent in patients undergoing knee extensor mechanism repair.",
@@ -192,6 +259,145 @@
       "content_sha256": "3b67750ddb22f4a17aeac103272d7892558a5f2c5434f2308cd165c3767beee5",
       "fetched_at_utc": "2026-09-01T04:38:31Z",
       "updated_at_utc": "2026-09-01T04:38:31Z"
+    },
+    {
+      "pmid": "42675550",
+      "title": "Glycaemic Changes After Semaglutide Discontinuation in Adults With Type 1 Diabetes Using Automated Insulin Delivery: Analysis of the ADJUST-T1D Extension Study.",
+      "abstract": "AIMS: To evaluate changes in glycaemic control following semaglutide discontinuation in adults with Type 1 diabetes and obesity who completed the ADJUST-T1D randomised controlled trial.\nMATERIALS AND METHODS: Continuous glucose monitoring (CGM) data were collected during a 12-week extension phase after the ADJUST-T1D trial. Analyses included participants previously randomised to semaglutide who discontinued treatment (n = 16) and participants previously randomised to placebo who did not receive a glucagon-like peptide-1 receptor agonist during follow-up (n = 22). Changes in CGM-derived metrics from Week 26 to the extension phase were compared using Wilcoxon rank-sum tests with Benjamini-Hochberg adjustment. Analysis of covariance (ANCOVA) adjusting for Week 26 values was performed as a sensitivity analysis.\nRESULTS: Compared with placebo, participants who discontinued semaglutide experienced a greater decline in time in range (70-180 mg/dL) (median change -3.6% vs. 1.5%; adjusted p = 0.044). Semaglutide discontinuation was also associated with greater increases in glucose standard deviation (6.0 vs. 1.2 mg/dL; adjusted p = 0.044) and coefficient of variation (3.1% vs. 1.1%; adjusted p = 0.044), indicating worsening glycaemic variability. Time above range (> 180 mg/dL) increased numerically but did not remain significant after adjustment (adjusted p = 0.064). No significant between-group differences were observed in hypoglycaemia-related CGM metrics. ANCOVA analyses showed consistent findings.\nCONCLUSIONS: In adults with Type 1 diabetes and obesity, semaglutide discontinuation was associated with a greater decline in time in range and increased glycaemic variability compared with placebo over 12 weeks. These findings suggest that glycaemic benefits achieved during treatment may not be fully sustained following withdrawal.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Montaser Eslam, Bhasin Kanchan, Kruger Davida, Akturk Halis Kaan, Ahmann Andrew, Snell-Bergeon Janet K, Shah Viral N",
+      "pub_date": "2026-08-31",
+      "doi": "10.1111/dom.71287",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42675550/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "fec796682e5cafd0c37440d0308925ee93167591e554f92a62617e2066ec4beb",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z"
+    },
+    {
+      "pmid": "42675456",
+      "title": "Association between empagliflozin exposure and skeletal muscle degeneration in patients with heart failure.",
+      "abstract": "BACKGROUND: Sodium-glucose co-transporter 2 inhibitors (SGLT2i) have become essential in the management of heart failure. Their prognostic benefits are consistent across older adults, frail, and underweight patients, but there may be potential adverse effects on the skeletal muscle.\nMETHODS: In this prospective single-centre observational study, 117 patients with stable congestive heart failure received 10 mg of empagliflozin daily between February 2023 and October 2024. At baseline and again after 6 months, we measured the following nutritional, frailty, and quality-of-life indices (GNRI, CONUT, mini nutritional assessment (MNA), KCCQ-12, Barthel index, clinical frailty scale) and urinary titin N-fragment (U-titin), a biomarker of skeletal muscle degradation.\nRESULTS: After exclusion, 93 patients (median age 79 years; 40% women) were analysed. Baseline U-titin showed weak correlations with GNRI, MNA, and KCCQ-12 scores (p < 0.05). Median U-titin increased significantly from 1.7 (IQR 1.1-3.5) at baseline to 2.4 (IQR 1.3-4.2) pmol/mg Cr at 6 months (p = 0.040). The GNRI, MNA, KCCQ-12, body mass index, and NT-proBNP levels improved significantly, whereas the CONUT, Barthel index, and frailty scores remained unchanged. Left ventricular ejection fraction ≥50% independently predicted  ≥50% U-titin increase (OR 3.31, 95% CI 1.23-9.52, p = 0.017).\nCONCLUSIONS: Baseline U-titin levels seem to reflect nutritional and functional status in patients with heart failure. U-titin levels increased during empagliflozin treatment, suggesting a possible association with skeletal muscle degradation.",
+      "journal": "BMC cardiovascular disorders",
+      "authors": "Nishikawa Tatsuya, Nakanishi Nobuto, Osawa Kayo, Mizuno Junko, Ono Yuko, Shirahata Ayaki, Hirabayashi Takumi, Shiba Mikio",
+      "pub_date": "2026-08-31",
+      "doi": "10.1186/s12872-026-06003-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42675456/",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Heart Failure",
+        "Aged",
+        "Male",
+        "Prospective Studies",
+        "Muscle, Skeletal",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Treatment Outcome",
+        "Time Factors",
+        "Aged, 80 and over",
+        "Nutritional Status",
+        "Connectin",
+        "Risk Factors",
+        "Biomarkers",
+        "Quality of Life",
+        "Frailty",
+        "Risk Assessment"
+      ],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "cb0e5192070b5e1c4ef9e98df64d5189d234ace2b8058d0914dc3b293361dc83",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z"
+    },
+    {
+      "pmid": "42675314",
+      "title": "Sodium-glucose cotransporter 2 inhibitors are associated with reduced circulating activin A and modulation of BMP/activin signaling in ischemic cardiomyopathy with high echocardiographic probability of pulmonary hypertension.",
+      "abstract": "Pulmonary hypertension (PH) frequently complicates heart failure with reduced ejection fraction (HFrEF), worsening prognosis despite limited therapeutic options. Whether sodium-glucose cotransporter 2 inhibitors (SGLT2i) improve PH beyond their established hemodynamic effects remains unclear. Seventy-four patients with ischemic HFrEF after acute myocardial infarction and a high echocardiographic probability of PH were prospectively enrolled in a single-center, non-randomized study. Patients received either an SGLT2i (dapagliflozin or empagliflozin, 10 mg/day; n = 42) plus guideline-directed medical therapy or guideline-directed medical therapy alone (n = 32). Untargeted plasma proteomics (pooled samples), microRNA profiling, and selected biomarkers of senescence and oxidative stress were performed. Candidate findings were validated by ELISA and qRT-PCR. Complementary in vivo and in vitro experiments evaluated empagliflozin in ischemia/reperfusion injury and hypoxic human pulmonary artery endothelial cells and cardiomyocytes. SGLT2i therapy was associated with lower circulating activin A and miR-1306-5p levels, improved World Health Organization functional class, fewer signs of right-heart failure, reduced echocardiographic probability of PH, and enhanced right ventricle-pulmonary artery coupling. In experimental models, empagliflozin reduced activin A, increased BMPR2 expression, and improved post-ischemic ventricular function. Similar molecular changes were observed in hypoxic endothelial cells and cardiomyocytes. Chloroquine partially attenuated these effects, suggesting a possible involvement of autophagy. Across complementary clinical and experimental models, SGLT2i treatment was consistently associated with reduced activin A signaling. Modulation of the BMP/activin/TGFβ pathway represents a biologically plausible mechanism associated with SGLT2 inhibitor therapy that may contribute to the observed phenotype in ischemic HFrEF with a high echocardiographic probability of PH.",
+      "journal": "GeroScience",
+      "authors": "Madonna Rosalinda, Del Boccio Piero, Borghini Andrea, Alberti Mattia, Biondi Filippo, Cufaro Maria Concetta, Morganti Riccardo, Pieragostino Damiana",
+      "pub_date": "2026-08-31",
+      "doi": "10.1007/s11357-026-02497-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42675314/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "cd40029c21b41d487034a2ced048a3bb6583d7b642c37c457eeb2e17eb276626",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z"
+    },
+    {
+      "pmid": "42675225",
+      "title": "Association of tirzepatide with changes in OSA-related measures based on baseline characteristics - post hoc analyses of SURMOUNT-OSA.",
+      "abstract": "PURPOSE: Obstructive sleep apnea (OSA) is a common disorder characterized by repetitive collapse of the upper airway during sleep. Given that excess adiposity is a known risk factor for OSA, we aimed to descriptively assess the association of tirzepatide, a GIP/GLP-1 receptor agonist, with changes in AHI, hypoxic burden, body weight, and blood pressure in different patient populations based on baseline characteristics such as age, sex, BMI, AHI, and neck circumference.\nMETHODS: These post hoc analyses examined data from two Phase 3 randomized, double-blind studies evaluating maximum tolerated dose (MTD) tirzepatide (10 mg or 15 mg) compared with placebo in adults with moderate-to-severe OSA (AHI ≥ 15 events/h) and obesity (BMI ≥ 30 kg/m2) over a 52-week period. Baseline subgroup analyses were conducted in participants with non-missing relevant baseline measurements.\nRESULTS: Generally, participants treated with tirzepatide showed greater improvements in OSA outcomes compared with placebo, regardless of baseline subgroup. Participants treated with tirzepatide experienced reductions in AHI across subgroups, regardless of baseline age (-27.7 to -34.1 events/h), sex (-19.8 to -32.6 events/h), AHI severity (-12.1 to -52.2 events/h), BMI (-25.2 to -34.4 events/h), and neck circumference (-23.9 to -30.8 events/h). Additionally, improvements were observed in body weight, systolic blood pressure, and sleep apnea-specific hypoxic burden across baseline subgroups. Overall, most participants experienced an improvement in AHI severity category with tirzepatide treatment (68% to 79%), while the majority in the placebo group saw no clinically relevant change (64% to 70%).\nCONCLUSIONS: In these descriptive, hypothesis-generating, post hoc analyses, tirzepatide treatment was associated with improvements in multiple measures in participants with moderate-to-severe OSA and obesity. These improvements were observed across both studies, regardless of baseline age, sex, AHI severity, BMI, or neck circumference.\nCLINICAL TRIAL REGISTRATION: SURMOUNT-OSA program (NCT05412004).\nCURRENT KNOWLEDGE/STUDY RATIONALE: Tirzepatide has been associated with clinically relevant improvements in OSA-related measures, body weight, and systolic blood pressure among individuals with moderate-to-severe OSA and obesity. These post hoc analyses aimed to assess whether there were variations in improvements based on baseline age, sex, AHI severity, BMI, or neck circumference.\nSTUDY IMPACT: In general, tirzepatide treatment was associated with improvement in OSA outcomes across both studies, regardless of baseline age, sex, AHI severity, BMI, or neck circumference, with some observed differences among some baseline characteristics. This research may help us better understand the relationship between baseline characteristics and different OSA treatment responses and may stimulate future studies in this area.",
+      "journal": "Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine",
+      "authors": "Falcon Beverly, Xie Cathy Chang, Redline Susan, Grunstein Ronald, Turnbull Christopher D, Rapoport David M, Wang Hui, Chakladar Sujatro",
+      "pub_date": "2026-08-31",
+      "doi": "10.1007/s44470-026-00162-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42675225/",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III"
+      ],
+      "mesh_terms": [
+        "Tirzepatide",
+        "Humans",
+        "Double-Blind Method",
+        "Sleep Apnea, Obstructive",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Obesity",
+        "Treatment Outcome",
+        "Adult",
+        "Polysomnography",
+        "Blood Pressure"
+      ],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "134073e9b0a74163cb5fe19b97680b0e3e240add8e07f4f534ec74fa03bca5c9",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z"
     },
     {
       "pmid": "42674357",
@@ -463,6 +669,31 @@
       "sample_size_ja": "1例",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:28:33Z"
+    },
+    {
+      "pmid": "42676928",
+      "title": "Unilateral Graves' Disease Developing During Treatment With Tirzepatide in a Patient With Diabetes: A Case Report.",
+      "abstract": "BACKGROUND: Tirzepatide is a dual agonist of the glucose-dependent insulinotropic polypeptide (GIP) receptor and glucagon-like peptide-1 (GLP-1) receptor, demonstrates significant efficacy in lowering blood glucose levels and reducing body weight. Consequently, its use has increased among patients with type 2 diabetes and obesity. Gastrointestinal symptoms are commonly recognized as adverse effects of tirzepatide, while other adverse effects, such as thyroid abnormalities, are rare. This report describes a rare case of unilateral Graves' disease that developed during treatment with tirzepatide.\nCASE PRESENTATION: A 59-year-old woman with type 2 diabetes was treated with tirzepatide resulting in marked glycemic improvement and weight loss. During treatment, she developed fatigue and palpitations, initially attributed to the effects of the drug. Further evaluation revealed thyrotoxicosis with suppressed thyroid-stimulating hormone (TSH), elevated free thyroid hormones, and positive autoantibodies. Imaging revealed increased vascularity and technetium-99 m uptake confined to the right thyroid lobe, consistent with unilateral Graves' disease. The patient's clinical symptoms and thyroid function rapidly improved after initiating antithyroid medications.\nCONCLUSIONS: Although a causal relationship between tirzepatide and the development of Graves' disease cannot be established, this case highlights the difficulty of recognizing hyperthyroidism during potent glucose-lowering therapy. Thus, thyroid function testing should be considered in patients with type 2 diabetes who experience symptoms such as fatigue or palpitations during treatment with tirzepatide.",
+      "journal": "Case reports in endocrinology",
+      "authors": "Deto Yusuke, Hasegawa Ryo, Ino Shoya, Shibata Satoru, Ohno Kouhei, Itoh Takahito, Matsumoto Tomoaki, Miki Takayuki",
+      "pub_date": "2026-08-30",
+      "doi": "10.1155/crie/9628050",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42676928/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "1799c9cfa993391595f7c5db7f99f067e1bc36ed8ba7453f552073552ce9bc8c",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z"
     },
     {
       "pmid": "42669336",
@@ -1414,6 +1645,31 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:08:57Z"
+    },
+    {
+      "pmid": "42676916",
+      "title": "Performance of estimated glomerular filtration rate equations across ethnic groups in the AIM CKD UK cohort: a multicentre cross-sectional study.",
+      "abstract": "BACKGROUND: Accurate assessment of kidney function using estimated glomerular filtration rate (eGFR) is fundamental for chronic kidney disease diagnosis and management, although performance is variable in African and Asian cohorts. We evaluated creatinine-based eGFR performance in an ethnically diverse United Kingdom cohort.\nMETHODS: We conducted a multi-centre, cross-sectional study. We included adults who had paired measured GFR (mGFR) and serum creatinine tests between 2009 and 2022. eGFR was calculated using five validated creatinine-based equations. The primary outcome was eGFR agreement with mGFR determined by assessing correlation, difference, precision and 30% accuracy (P30) with stratification by ethnicity.\nFINDINGS: The study included 15,879 participants (mean age 54 ± 16 years; 8893/15,879 (56%) male). On average, all equations overestimated mGFR. There were significant variations in difference (p < 0.001) and accuracy (p < 0.001) between all equations. Lund-Malmo Revised (LMR) had the least difference (1.4 mL/min/1.73 m2; 95% CI: 1.1-1.6 mL/min/1.73 m2) and highest accuracy (P30: 86.0%; 95% CI: 85.5-86.6%), followed by European Kidney Function Consortium (EKFC).eGFR had the greatest difference and lowest accuracy in South Asians, compared with other ethnicity groups. mGFR was substantially overestimated in young adults (<25 years), low BMI (<20 kg/m2) and hypoalbuminaemia (<20 g/L). Hypothetical prescribing analyses for dapagliflozin (upper GFR threshold: 75 mL/min/1.73 m2) showed potential prescribing ineligibility based on eGFR alone in 29% (1933/6586) to 52% (3433/6586) of eligible participants.\nINTERPRETATION: LMR and EKFC showed improved agreement with mGFR, particularly in South Asians and young adults. Further prospective validation is recommended to support changes in clinical practice.\nFUNDING: Kidney Research UK.",
+      "journal": "The Lancet regional health. Europe",
+      "authors": "Gama Rouvick Mariano, Banerjee Debasish, Crosbie Sarah, Dalrymple Kathryn, Daga Sunil, Delanaye Pierre, Doak Ailsa, Ebah Leonard",
+      "pub_date": "2026-08-25",
+      "doi": "10.1016/j.lanepe.2026.101828",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42676916/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "c0fde85d44afaee39de45037f7baf7b729a8a663792b411ae19cde04bb18982c",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z"
     },
     {
       "pmid": "42664617",
@@ -3137,6 +3393,36 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42676583",
+      "title": "Editorial: Incretin-based therapies: economic sustainability and health impact in the global management of metabolic syndrome.",
+      "abstract": "",
+      "journal": "Frontiers in pharmacology",
+      "authors": "Provenzani Alessio, Mueller Tanja, Mattina Alessandro",
+      "pub_date": "2026-08-17",
+      "doi": "10.3389/fphar.2026.1954325",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42676583/",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5e2f83d96752d0a2ada66605a042f7befa84439f40e0aae2b724318515b7e4b9",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T23:16:30Z"
     },
     {
       "pmid": "42609010",
@@ -5115,6 +5401,34 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42677221",
+      "title": "Incretin-Based Therapies Versus Bariatric and Metabolic Surgery for Obesity and Type 2 Diabetes Mellitus: A Head-to-Head Systematic Review of Glycaemic, Cardiovascular, Hepatic, Weight, and Quality-of-Life Outcomes.",
+      "abstract": "Once-weekly glucagon-like peptide-1 receptor agonists (GLP-1 RAs) such as semaglutide and the dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 co-agonist tirzepatide have transformed non-surgical management of obesity and type 2 diabetes mellitus (T2DM), producing unprecedented pharmacological weight loss and cardiovascular mortality benefit. Bariatric and metabolic surgery (BMS) remains the most effective intervention for sustained weight reduction and T2DM remission. A systematic outcome-by-outcome comparison of these paradigms has not previously been synthesised. We conducted a PRISMA 2020-compliant systematic review of randomised controlled trials (RCTs) and high-quality matched observational studies (January 2014-April 2026) comparing incretin-based therapies with BMS in adults with obesity and T2DM. Primary outcomes were T2DM remission, weight reduction, major adverse cardiovascular events (MACE) and all-cause mortality, non-alcoholic steatohepatitis (NASH) resolution, and quality of life (QoL). Secondary outcomes included HbA1c, lipids, blood pressure, renal endpoints, and safety. Risk of bias was assessed using the Cochrane Risk of Bias 2 (RoB 2) and Newcastle-Ottawa Scale; certainty was graded using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. Fourteen studies met inclusion criteria (eight RCTs, six matched cohorts; N=25,566). BMS achieved superior T2DM remission (23-70% vs. 0%), greater sustained five-year weight loss (25-32% vs. 14.9-20.9% with semaglutide/tirzepatide, with significant pharmacological weight regain upon discontinuation), and lower MACE risk (pooled RR 0.48, 95% CI 0.33-0.72 vs. GLP-1 RAs; P<0.001). BMS was also superior for NASH histological resolution (56-70% vs. 59% with semaglutide) and QoL. Incretin therapies produced clinically meaningful cardiometabolic improvements with favourable safety profiles dominated by transient gastrointestinal events. Tirzepatide 15 mg approached but did not match sleeve gastrectomy weight-loss benchmarks at 72 weeks. BMS demonstrates superiority across all five primary outcome domains in patients with obesity and established T2DM. Incretin therapies remain essential for those who decline, defer, or are contraindicated for surgery. Complementary and sequential use - incretins as a bridge to or adjunct following surgery - warrants prospective evaluation. Guidelines should position BMS as a first-line option in appropriate candidates.",
+      "journal": "Cureus",
+      "authors": "Alsayed Omar, Jarai Mohammed Zaid, Khan Sarrosh, Sandal Mariam",
+      "pub_date": "2026-08-01",
+      "doi": "10.7759/cureus.113777",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42677221/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "24695b61fcce29ffd2cec8cb84d3bc58906c811b0be2c4e52a5a8fea1e1cde0b",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z"
     },
     {
       "pmid": "42653697",
