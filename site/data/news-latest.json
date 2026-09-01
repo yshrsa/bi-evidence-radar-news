@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-01T00:36:53Z",
+  "generated_at_utc": "2026-09-01T04:41:00Z",
   "items": [
     {
       "pmid": "42666995",
@@ -143,6 +143,74 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
+    },
+    {
+      "pmid": "42674357",
+      "title": "Comment on \"Effect of Semaglutide with Metformin for Weight Loss and Fertility in Polycystic Ovary Syndrome (PCOS) Patients with Obesity: A Pilot Prospective Study\".",
+      "abstract": "",
+      "journal": "Clinical nutrition ESPEN",
+      "authors": "Siddiraju Sridhar, Tumma Neelimarani, Singh Surendra",
+      "pub_date": "2026-08-31",
+      "doi": "10.1016/j.clnesp.2026.105077",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674357/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5e4ab5b4660231e7d3a31fa7380b8678db1d23611d62b3ef26351204eae3739f",
+      "fetched_at_utc": "2026-09-01T04:38:31Z",
+      "updated_at_utc": "2026-09-01T04:38:31Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T04:38:31Z"
+    },
+    {
+      "pmid": "42674355",
+      "title": "Reply - Letter to the Editor: Comment on \"Effect of Semaglutide with Metformin for Weight Loss and Fertility in Polycystic Ovary Syndrome (PCOS) Patients with Obesity: A Pilot Prospective Study.",
+      "abstract": "",
+      "journal": "Clinical nutrition ESPEN",
+      "authors": "Bolek Tomáš, Turňová Petra, Péč Martin Jozef, Ságová Ivana, Jurica Jakub, Samoš Matej",
+      "pub_date": "2026-08-31",
+      "doi": "10.1016/j.clnesp.2026.105080",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674355/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d4f06712e67e4c03789879f077e65f647269326d6299de8b484750a5ad2819c5",
+      "fetched_at_utc": "2026-09-01T04:38:31Z",
+      "updated_at_utc": "2026-09-01T04:38:31Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T04:38:31Z"
     },
     {
       "pmid": "42671848",

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-01T00:35:17Z",
+  "generated_at_utc": "2026-09-01T04:38:31Z",
   "documents": [
     {
       "pmid": "42666995",
@@ -143,6 +143,123 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
+    },
+    {
+      "pmid": "42673608",
+      "title": "Association of GLP-1 Agonists With Postoperative Complications Following Knee Extensor Mechanism Repair:An Analysis of 1,092 Patients.",
+      "abstract": "BACKGROUND: Diabetes and obesity are recognized as risk factors for postoperative complications including increased surgical site infection (SSI) and reoperation in patients undergoing knee extensor mechanism repair. However, limited literature evaluates how preoperative glucagon-like peptide-1 (GLP-1) receptor agonist therapy may influence these outcomes. This study evaluated GLP-1 receptor agonist use as an independent risk factor for postoperative outcomes following knee extensor mechanism repair.\nMATERIALS AND METHODS: Patients who underwent quadriceps or patellar tendon repair from 2012 to 2025 were identified in the TriNetX database and stratified by GLP-1 agonist use within 1 year of surgery. One-to-one propensity score matching yielded 2 well-balanced cohorts (n = 546). Postoperative complications were assessed at 90 days, 1 year, and 2 years, and Kaplan-Meier survival analysis was performed.\nRESULTS: No significant 90-day postoperative differences were observed. At 1 year, patients using GLP-1 agonists demonstrated significantly lower rates of SSI (2.38% vs 5.31%; odds ratio [OR] = 0.435; P = .0118) and wound complications (2.02% vs 5.31%; OR = 0.367; P = .0037). Differences persisted at 2 years, with lower rates of SSI (2.75% vs 6.04%; OR = 0.439; P = .0079), wound complications (2.38% vs 6.04%; OR = 0.379; P = .0026), and acute kidney injury (9.71% vs 13.55%; OR = 0.686; P = .0474). No significant differences in revision surgery were found. Kaplan-Meier analysis demonstrated significant separation for SSI and wound complications beginning at 1 year.\nCONCLUSION: Preoperative GLP-1 receptor agonist therapy was associated with reduced postoperative SSI and wound complications following knee extensor mechanism repair. These findings suggest potential for perioperative risk modulation as GLP-1 use becomes increasingly prevalent in patients undergoing knee extensor mechanism repair.",
+      "journal": "Orthopedics",
+      "authors": "Forst Elliot, Tully Lindsey, Moran Thomas E, Althoff Alyssa D",
+      "pub_date": "2026-09-01",
+      "doi": "10.3928/01477447-20260811-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673608/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8263db50c5a48c1174aa65fa526297e67aa57d872dab9853b54c073a70e033d8",
+      "fetched_at_utc": "2026-09-01T04:38:31Z",
+      "updated_at_utc": "2026-09-01T04:38:31Z"
+    },
+    {
+      "pmid": "42673585",
+      "title": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review.",
+      "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for weight management.\nPURPOSE: To update our prior systematic review evaluating the efficacy and safety of GLP-1 RAs and co-agonists among adults with overweight or obesity without diabetes.\nDATA SOURCES: MEDLINE, Embase, and Cochrane Central Register of Controlled Trials from 5 October 2024 through 25 March 2026.\nSTUDY SELECTION: Randomized controlled trials ([RCTs] treatment duration ≥16 weeks).\nDATA EXTRACTION: Two reviewers independently extracted data.\nDATA SYNTHESIS: Thirty-eight RCTs (n = 25 816) were included, adding 14 new trials (n = 11 000) to the prior review. Among commercially available therapies, placebo-subtracted weight loss reached up to -5.8% (95% CI, -8.0% to -3.6%) for liraglutide, -14.8% (CI, -16.2% to -13.4%) for subcutaneous semaglutide, -14.3% (CI, -17.2% to -11.4%) for oral semaglutide, -12.4% (CI, -15.1% to -9.7%) for orforglipron, and -19.0% (CI, -21.6% to -16.4%) for tirzepatide. Numerically greater placebo-subtracted reductions were seen with emerging multiagonists, including -23.9% (CI, -29.3% to -18.5%) with amycretin and -22.1% (CI, -24.9% to -19.3%) with retatrutide. Gastrointestinal adverse events (AEs) remained common (GLP-1 RA vs. placebo: 76.0% vs. 40.1%). Discontinuation due to AEs was generally low (10.7% vs. 3.4%) but numerically higher with some oral agents. Serious AEs (6.5% vs. 5.2%) and deaths (0.1% vs. 0.0%) were rare, with no new safety signals identified. Head-to-head data showed greater weight loss with semaglutide and JNJ-64565111 than liraglutide and greater weight loss with tirzepatide and cagrilintide-semaglutide (CagriSema; Novo Nordisk) than semaglutide.\nLIMITATIONS: Heterogeneity precluded quantitative synthesis. Safety outcomes were inconsistently reported.\nCONCLUSION: Glucagon-like peptide-1 receptor agonists demonstrate substantial weight loss in adults without diabetes, with an expanding range of therapeutic options, including oral and multiagonist therapies.\nPRIMARY FUNDING SOURCE: None. (PROSPERO: CRD42024505558).",
+      "journal": "Annals of internal medicine",
+      "authors": "Moiz Areesha, Filion Kristian B, Samuels Aaron E, Tsoukas Michael A, Yu Oriana H Y, Peters Tricia M, Eisenberg Mark J",
+      "pub_date": "2026-09-01",
+      "doi": "10.7326/ANNALS-25-05519",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673585/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3b67750ddb22f4a17aeac103272d7892558a5f2c5434f2308cd165c3767beee5",
+      "fetched_at_utc": "2026-09-01T04:38:31Z",
+      "updated_at_utc": "2026-09-01T04:38:31Z"
+    },
+    {
+      "pmid": "42674357",
+      "title": "Comment on \"Effect of Semaglutide with Metformin for Weight Loss and Fertility in Polycystic Ovary Syndrome (PCOS) Patients with Obesity: A Pilot Prospective Study\".",
+      "abstract": "",
+      "journal": "Clinical nutrition ESPEN",
+      "authors": "Siddiraju Sridhar, Tumma Neelimarani, Singh Surendra",
+      "pub_date": "2026-08-31",
+      "doi": "10.1016/j.clnesp.2026.105077",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674357/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5e4ab5b4660231e7d3a31fa7380b8678db1d23611d62b3ef26351204eae3739f",
+      "fetched_at_utc": "2026-09-01T04:38:31Z",
+      "updated_at_utc": "2026-09-01T04:38:31Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T04:38:31Z"
+    },
+    {
+      "pmid": "42674355",
+      "title": "Reply - Letter to the Editor: Comment on \"Effect of Semaglutide with Metformin for Weight Loss and Fertility in Polycystic Ovary Syndrome (PCOS) Patients with Obesity: A Pilot Prospective Study.",
+      "abstract": "",
+      "journal": "Clinical nutrition ESPEN",
+      "authors": "Bolek Tomáš, Turňová Petra, Péč Martin Jozef, Ságová Ivana, Jurica Jakub, Samoš Matej",
+      "pub_date": "2026-08-31",
+      "doi": "10.1016/j.clnesp.2026.105080",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674355/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d4f06712e67e4c03789879f077e65f647269326d6299de8b484750a5ad2819c5",
+      "fetched_at_utc": "2026-09-01T04:38:31Z",
+      "updated_at_utc": "2026-09-01T04:38:31Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T04:38:31Z"
     },
     {
       "pmid": "42671848",
@@ -2290,8 +2407,8 @@
     },
     {
       "pmid": "42624330",
-      "title": "Trends in utilization of glucagon-like peptide‑1 receptor agonists, sodium-glucose cotransporter‑2 inhibitors, and metabolic bariatric surgery in U.S. Adults with diabetes and obesity.",
-      "abstract": "AIMS: To characterize trends in utilization of glucagon-like peptide‑1 receptor agonists (GLP‑1RAs), sodium-glucose cotransporter‑2 inhibitors (SGLT2is), and metabolic/bariatric surgery among US adults with type 2 diabetes (T2D) and obesity.\nMETHODS: We conducted a cohort study using electronic health record and claims data from Optum Labs Data Warehouse for US private and Medicare Advantage plan enrollees aged 18-79 with T2D and obesity initiating GLP‑1RAs or SGLT2is or undergoing MBS (2010-2024). We evaluated initiation, adherence (≥80% of days with medication), and persistence.\nRESULTS: Among 342,932 treatment initiations (335,605 individuals), 60.8% initiated GLP‑1RAs, 35.7% SGLT2is, and 3.6% MBS. Use of both medication classes increased over time (GLP-1RAs: 1,988 to 44,852; SGLT2is: 861 to 19,892). In 2024, semaglutide (62.2%) and tirzepatide (32.6%) were the most initiated GLP-1RAs; MBS was rare (0.7% of treatments). Median treatment duration was 240 days for GLP‑1RAs and 254 days for SGLT2is; ∼50% were adherent. Tirzepatide had the highest adherence and persistence. At one-year, 53.0% of GLP‑1RA and 56.0% of SGLT2i initiators were using their initiated treatment; transition to other therapies was uncommon.\nCONCLUSIONS: Initiation of GLP‑1RAs and SGLT2is, but not MBS utilization, has expanded in recent years, although adherence and persistence remain low. Further studies should evaluate how these shifting patterns affect health outcomes.",
+      "title": "Trends in utilization of glucagon-like peptide‑1 receptor agonists, sodium-glucose cotransporter‑2 inhibitors, and metabolic bariatric surgery in U.S. adults with diabetes and obesity.",
+      "abstract": "AIMS: To characterize trends in utilization of glucagon-like peptide‑1 receptor agonists (GLP‑1RAs), sodium-glucose cotransporter‑2 inhibitors (SGLT2is), and metabolic/bariatric surgery among US adults with type 2 diabetes (T2D) and obesity.\nMETHODS: We conducted a cohort study using electronic health record and claims data from Optum Labs Data Warehouse for US private and Medicare Advantage plan enrollees aged 18-79 with T2D and obesity initiating GLP‑1RAs or SGLT2is or undergoing MBS (2010-2024). We evaluated initiation, adherence (≥80% of days with medication), and persistence.\nRESULTS: Among 342,932 treatment initiations (335,605 individuals), 60.8% initiated GLP‑1RAs, 35.7% SGLT2is, and 3.6% MBS. Use of both medication classes increased over time (GLP-1RAs: 1,988 to 44,852; SGLT2is: 861 to 19,892). In 2024, semaglutide (62.2%) and tirzepatide (32.6%) were the most initiated GLP-1RAs; MBS was rare (0.7% of treatments). Median treatment duration was 240 days for GLP‑1RAs and 254 days for SGLT2is; ∼50% were adherent. Tirzepatide had the highest adherence and persistence. At one-year, 53.0% of GLP‑1RA and 56.0% of SGLT2i initiators were using their initiated treatment; transition to other therapies was uncommon.\nCONCLUSIONS: Initiation of GLP‑1RAs and SGLT2is, but not MBS utilization, has expanded in recent years, although adherence and persistence remain low. Further studies should evaluate how these shifting patterns affect health outcomes.",
       "journal": "Diabetes research and clinical practice",
       "authors": "Wartko Paige D, Zhang Rui, Johnson Eric, Begle Connor, Bobb Jennifer F, Chen Chixiang, Singh Aditi, Ross Lisa",
       "pub_date": "2026-08-20",
@@ -2302,7 +2419,7 @@
       ],
       "mesh_terms": [],
       "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
+      "updated_at_utc": "2026-09-01T04:38:31Z",
       "matched_assets": [
         "semaglutide",
         "tirzepatide"
@@ -2313,14 +2430,7 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "d92b7534ce6fbcf4b29d4dd6bff5ad3918e7efd162575d04081e62251326e333",
-      "summary_ja": "",
-      "key_takeaway_ja": "",
-      "why_matters_ja": "",
-      "study_type_ja": "",
-      "endpoints_ja": "",
-      "endpoint_results_ja": "",
-      "sample_size_ja": ""
+      "content_sha256": "ab10a1d8e1420d1eae40d15e4f7b5fec1054ec06586811587653276af383aa85"
     },
     {
       "pmid": "42623314",
@@ -5830,6 +5940,44 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42674550",
+      "title": "Nintedanib-Associated Glomerular Endothelial Injury With Secondary Collapsing Focal Segmental Glomerulosclerosis: Potential Role of Sodium-Glucose Cotransporter 2 Inhibition.",
+      "abstract": "Nintedanib (NIB), a small-molecule tyrosine kinase inhibitor (TKI), is approved for idiopathic pulmonary fibrosis (IPF) and systemic sclerosis-associated interstitial lung disease. Although nephrotoxicity is uncommon, cases of nephrotic syndrome (NS), acute kidney injury (AKI) and glomerular lesions including thrombotic microangiopathy (TMA) and anti-glomerular basement membrane (GBM) nephritis have been reported. However, the optimal management of NIB-associated glomerular disease remains undefined. We report a 69-year-old man with IPF, hypertension, diabetes and underlying chronic kidney disease who developed persistent NS and renal dysfunction 16 months after initiation of NIB. Kidney biopsy demonstrated glomerular endothelial injury with microangiopathic features, accompanied by secondary collapsing focal segmental glomerulosclerosis (FSGS) and background diabetic kidney disease. Despite discontinuation of NIB and intensification of renin-angiotensin system inhibition and mineralocorticoid receptor blockade, nephrotic-range proteinuria persisted. Subsequent initiation of the sodium-glucose cotransporter 2 inhibitor (SGLT2i) dapagliflozin was temporally associated with a gradual and sustained reduction in proteinuria, with partial remission achieved while preserving the estimated glomerular filtration rate. To our knowledge, this is the first report of NIB-associated glomerular endothelial injury with secondary collapsing FSGS in which SGLT2i initiation was temporally associated with sustained proteinuria reduction under concomitant supportive therapy. TKIs may induce both endothelial and podocyte injury and therapeutic options beyond drug withdrawal remain limited. In this context, SGLT2 inhibition may represent a potential adjunctive therapeutic strategy in selected cases with underlying chronic kidney disease and warrants further systematic evaluation.",
+      "journal": "Nephrology (Carlton, Vic.)",
+      "authors": "Furuto Yoshitaka, Hashimoto Hirotsugu, Yoshino Daiki, Ikeda Sayako, Namikawa Akio, Sato Dai, Takahashi Hiroko, Morikawa Teppei",
+      "pub_date": "2026-01-01",
+      "doi": "10.1111/nep.70274",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674550/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Glomerulosclerosis, Focal Segmental",
+        "Aged",
+        "Indoles",
+        "Kidney Glomerulus",
+        "Protein Kinase Inhibitors",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Treatment Outcome",
+        "Diabetic Nephropathies",
+        "Biopsy"
+      ],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4691b49d4553e70c7b2e274829543b0deaa97ca708059d19201006bb91dd52d9",
+      "fetched_at_utc": "2026-09-01T04:38:31Z",
+      "updated_at_utc": "2026-09-01T04:38:31Z"
     },
     {
       "pmid": "42673571",
