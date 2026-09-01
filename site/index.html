@@ -9,7 +9,8 @@
     :root{--bg:#08111f;--panel:#111d30;--line:#263752;--text:#eef5ff;--muted:#9bb1cf;--accent:#63b3ff;--bi:#42d6a4;--warn:#ffc857}
     *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 80% 0,#132b4a 0,transparent 35%),var(--bg);color:var(--text);font-family:Inter,"Noto Sans JP",system-ui,sans-serif}
     header{position:sticky;top:0;z-index:2;background:#08111fe8;border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}
-    .nav,.wrap{max-width:1180px;margin:auto;padding:18px 24px}.brand{font-weight:800;letter-spacing:.02em}.brand span{color:var(--accent)}
+    .nav,.wrap{max-width:1180px;margin:auto;padding:18px 24px}.nav{display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{font-weight:800;letter-spacing:.02em}.brand span{color:var(--accent)}
+    .navlinks{display:flex;align-items:center;gap:8px}.navlinks a{color:var(--muted);border:1px solid transparent;border-radius:999px;padding:7px 11px;font-size:.82rem}.navlinks a:hover,.navlinks a.active{color:var(--text);border-color:var(--line);background:#0d192a}
     h1{font-size:clamp(2rem,5vw,4.3rem);line-height:1.02;margin:52px 0 14px;max-width:900px}.lead{color:var(--muted);font-size:1.08rem;max-width:760px;line-height:1.8}
     .status,.stats{display:flex;gap:12px;flex-wrap:wrap;margin:28px 0}.pill,.filter{border:1px solid var(--line);background:#0d192a;color:var(--muted);border-radius:999px;padding:9px 14px}
     .stats .pill strong{color:var(--text);margin-right:6px}.filters{display:flex;gap:8px;flex-wrap:wrap;margin:28px 0}.filter{cursor:pointer}.filter.active{background:var(--accent);border-color:var(--accent);color:#04101d;font-weight:700}
@@ -20,7 +21,7 @@
   </style>
 </head>
 <body>
-<header><div class="nav"><div class="brand"><span>BI</span> Evidence Radar</div></div></header>
+<header><div class="nav"><div class="brand"><span>BI</span> Evidence Radar</div><nav class="navlinks" aria-label="BI Evidence Radar"><a class="active" aria-current="page" href="./">News</a><a href="https://bi-evidence-radar-chat.pages.dev/">AI Chat</a></nav></div></header>
 <main class="wrap">
   <h1>Cardio-Renal-Metabolic<br>Evidence Radar</h1>
   <p class="lead">PubMedの公開情報を決定論的に収集し、Qwenで日本語要約したポートフォリオ実装です。数値や症例数は抄録にない限り補いません。</p>
@@ -42,4 +43,3 @@ async function boot(){try{const [feed,status]=await Promise.all([fetch('./data/n
 boot();
 </script>
 </body></html>
-

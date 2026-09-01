@@ -1,5 +1,8 @@
 # BI Evidence Radar — Cloud News
 
+- News: https://yshrsa.github.io/bi-evidence-radar-news/
+- AI Chat: https://bi-evidence-radar-chat.pages.dev/
+
 Cardio-Renal-Metabolic領域のPubMed文献を毎日収集し、Cloudflare Workers AI上の
 Qwen 3.8 27Bで7項目の日本語情報を生成してGitHub Pagesへ公開します。
 
