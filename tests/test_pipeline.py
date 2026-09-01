@@ -4,7 +4,7 @@ import unittest
 
 from src.collect_pubmed import classify, extract_records
 from src.publish import validate_document
-from src.summarize_ja import guard_summary
+from src.summarize_ja import guard_summary, normalize_missing_abstracts
 from src.common import NOT_REPORTED, SUMMARY_FIELDS
 
 
@@ -42,7 +42,16 @@ class PipelineTests(unittest.TestCase):
         row = {"pmid": "1", "title": "x", "url": "https://example.test", "content_sha256": "a", "publication_types": [], "summary_ja": "x"}
         self.assertIn("summary fields must be all present or all absent", validate_document(row))
 
+    def test_abstract_free_invented_summary_fails_quality_gate(self) -> None:
+        row = {"pmid": "1", "title": "x", "abstract": "", "url": "https://example.test", "content_sha256": "a", "publication_types": []}
+        row.update({field: "invented" for field in SUMMARY_FIELDS})
+        self.assertIn("abstract-free records must use the missing-information sentinel in all summary fields", validate_document(row))
+
+    def test_missing_abstract_normalization_is_deterministic(self) -> None:
+        corpus = {"documents": [{"abstract": "", **{field: "invented" for field in SUMMARY_FIELDS}}]}
+        self.assertEqual(normalize_missing_abstracts(corpus), 1)
+        self.assertEqual({corpus["documents"][0][field] for field in SUMMARY_FIELDS}, {NOT_REPORTED})
+
 
 if __name__ == "__main__":
     unittest.main()
-

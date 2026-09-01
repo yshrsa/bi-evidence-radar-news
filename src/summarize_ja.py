@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import re
@@ -72,6 +73,21 @@ def guard_summary(result: dict[str, Any], abstract: str) -> dict[str, str]:
     return guarded
 
 
+def normalize_missing_abstracts(corpus: dict[str, Any]) -> int:
+    """Apply the deterministic sentinel without spending AI quota."""
+    changed = 0
+    for row in corpus.get("documents", []):
+        if str(row.get("abstract") or "").strip():
+            continue
+        expected = {field: NOT_REPORTED for field in SUMMARY_FIELDS}
+        if any(str(row.get(field) or "").strip() != NOT_REPORTED for field in SUMMARY_FIELDS):
+            row.update(expected)
+            row["summary_model"] = "deterministic/missing-abstract"
+            row["summary_generated_at_utc"] = now_utc()
+            changed += 1
+    return changed
+
+
 def usage_day() -> str:
     return datetime.now(timezone.utc).date().isoformat()
 
@@ -107,16 +123,22 @@ def call_qwen(article: dict[str, Any]) -> tuple[dict[str, Any], float]:
     )
     delay = 2.0
     last_error: Exception | None = None
-    for _ in range(5):
+    request_key = hashlib.sha256(
+        f"{article.get('pmid','')}:{article.get('content_sha256','')}:{usage_day()}".encode("utf-8")
+    ).hexdigest()
+    for _ in range(3):
         try:
-            response = requests.post(url, headers={"Authorization": f"Bearer {token}"}, json=body, timeout=120)
+            response = requests.post(
+                url,
+                headers={"Authorization": f"Bearer {token}", "Idempotency-Key": request_key},
+                json=body,
+                timeout=180,
+            )
             if response.status_code == 429:
+                if response.headers.get("Content-Type", "").startswith("application/json") and response.json().get("budget_exhausted"):
+                    raise RuntimeError("daily free summary budget exhausted")
                 retry_after = response.headers.get("Retry-After")
                 time.sleep(float(retry_after) if retry_after and retry_after.isdigit() else delay)
-                delay = min(delay * 2, 30)
-                continue
-            if response.status_code in {500, 502, 503, 504}:
-                time.sleep(delay)
                 delay = min(delay * 2, 30)
                 continue
             response.raise_for_status()
@@ -125,7 +147,7 @@ def call_qwen(article: dict[str, Any]) -> tuple[dict[str, Any], float]:
             if not isinstance(output, str) or not output.strip():
                 raise ValueError("Cloudflare Qwen returned an empty response")
             return extract_json(output), estimate_neurons(result.get("usage") or {}, prompt, output)
-        except (requests.RequestException, ValueError, json.JSONDecodeError) as exc:
+        except requests.RequestException as exc:
             last_error = exc
             time.sleep(delay)
             delay = min(delay * 2, 30)
@@ -134,6 +156,9 @@ def call_qwen(article: dict[str, Any]) -> tuple[dict[str, Any], float]:
 
 def summarize(limit: int = 0) -> dict[str, Any]:
     corpus = read_json(CORPUS_PATH, {"documents": []})
+    normalized = normalize_missing_abstracts(corpus)
+    if normalized:
+        atomic_write_json(CORPUS_PATH, corpus)
     pending = [row for row in corpus.get("documents", []) if not all(row.get(field) for field in SUMMARY_FIELDS)]
     if limit:
         pending = pending[:limit]
@@ -163,6 +188,7 @@ def summarize(limit: int = 0) -> dict[str, Any]:
             failures.append({"pmid": row.get("pmid", ""), "error": f"{type(exc).__name__}: {exc}"})
     return {
         "pending_at_start": len(pending),
+        "missing_abstracts_normalized": normalized,
         "completed": completed,
         "failed": len(failures),
         "remaining": sum(1 for row in corpus.get("documents", []) if not all(row.get(field) for field in SUMMARY_FIELDS)),

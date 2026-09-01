@@ -9,7 +9,7 @@ from typing import Any
 import yaml
 
 from .collect_pubmed import classify, content_hash
-from .common import DATA_DIR, SUMMARY_FIELDS, atomic_write_json, now_utc
+from .common import DATA_DIR, NOT_REPORTED, SUMMARY_FIELDS, atomic_write_json, now_utc
 
 
 def decode_list(value: Any) -> list[str]:
@@ -59,7 +59,11 @@ def import_seed(source: Path) -> int:
         # The older local corpus has three-field summaries on many rows.  The cloud
         # feed publishes only complete seven-field records; partial rows remain a
         # clean pending item rather than leaking an ambiguous mixed-version record.
-        if all(imported_summary.values()):
+        if not record["abstract"].strip():
+            record.update({field: NOT_REPORTED for field in SUMMARY_FIELDS})
+            record["summary_model"] = "deterministic/missing-abstract"
+            record["summary_generated_at_utc"] = timestamp
+        elif all(imported_summary.values()):
             record.update(imported_summary)
             record["summary_model"] = "local/qwen3.8:27b"
             record["summary_generated_at_utc"] = raw["summary_ja_generated_at_utc"] or timestamp

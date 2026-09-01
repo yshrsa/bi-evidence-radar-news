@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from .common import DATA_DIR, SITE_DATA_DIR, SUMMARY_FIELDS, atomic_write_json, now_utc, read_json
+from .common import DATA_DIR, NOT_REPORTED, SITE_DATA_DIR, SUMMARY_FIELDS, atomic_write_json, now_utc, read_json
 
 CORPUS_PATH = DATA_DIR / "corpus.json"
 
@@ -23,6 +23,9 @@ def validate_document(row: dict[str, Any]) -> list[str]:
         errors.append("summary fields must be all present or all absent")
     if any("[要約エラー]" in str(row.get(field) or "") for field in SUMMARY_FIELDS):
         errors.append("error placeholder must not be published")
+    if not str(row.get("abstract") or "").strip() and all(present):
+        if any(str(row.get(field) or "").strip() != NOT_REPORTED for field in SUMMARY_FIELDS):
+            errors.append("abstract-free records must use the missing-information sentinel in all summary fields")
     return errors
 
 
@@ -69,4 +72,3 @@ def publish() -> dict[str, Any]:
 
 if __name__ == "__main__":
     print(json.dumps(publish(), ensure_ascii=False, indent=2))
-

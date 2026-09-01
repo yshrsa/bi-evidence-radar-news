@@ -482,15 +482,15 @@
       "bi_related": false,
       "japan_relevant": false,
       "content_sha256": "979e90c81dbfca8f86a1b21e16b719392900453eae9b42cdc57806f58ae85f59",
-      "summary_ja": "本論文はEuropean journal of heart failureに掲載されたEditorial, Commentであり、急性心不全におけるSGLT2阻害薬の早期開始に関する論評として掲載されている。抄録が利用できないため、研究デザイン・対象者・主要な結果は確認できない。したがって、臨床的または開発上の要点も判断できない。",
+      "summary_ja": "抄録に記載なし",
       "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "SGLT2阻害薬の急性心不全早期開始に関する論評であり、Cardio-Renal-Metabolic領域に関連しうるが、抄録がないため具体的意義は判断できない。",
+      "why_matters_ja": "抄録に記載なし",
       "study_type_ja": "抄録に記載なし",
       "endpoints_ja": "抄録に記載なし",
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:07:52Z"
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42657770",
@@ -550,15 +550,15 @@
       "bi_related": false,
       "japan_relevant": false,
       "content_sha256": "b6bbf88b5d79aa1756b0e5bc32efea86964eef403fc94a457048c15b33483bc5",
-      "summary_ja": "本論文はCirculation. Heart failureに掲載されたLetterであり、抄録は利用できない。そのため、研究デザイン・対象・主要な結果については判断できない。タイトルからセマグルチドによるヒト心室組織の転写組変化が示唆されるが、詳細は不明。",
-      "key_takeaway_ja": "抄録が利用できないため、臨床的または開発上の要点は判断できない。",
-      "why_matters_ja": "セマグルチドはGLP-1受容体作動薬であり、心室組織の細胞生存・脂質代謝への影響はCRM領域に関連し得るが、抄録がないため直接的な関連性は限定的。",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
       "study_type_ja": "抄録に記載なし",
       "endpoints_ja": "抄録に記載なし",
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:04:51Z"
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42657455",
@@ -584,7 +584,16 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "10a74eef4be48829d01d27cb6f15703db5210022553b83273afaa0e675ea3bd4"
+      "content_sha256": "10a74eef4be48829d01d27cb6f15703db5210022553b83273afaa0e675ea3bd4",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42655906",
@@ -753,15 +762,15 @@
       "bi_related": true,
       "japan_relevant": false,
       "content_sha256": "84118094d9c497dfbb5547eeedd3db67048f06424a72d01a6e7ae487adb604f0",
-      "summary_ja": "抄録が利用できないため、研究デザイン・対象・主要な結果は判断できない。タイトルからは、急性心不全におけるエムパグリフロジンとスピロノラクトンの同時開始の安全性が検討対象であることが示唆される。",
-      "key_takeaway_ja": "抄録が利用できないため、臨床的または開発上の要点は判断できない。",
-      "why_matters_ja": "SGLT2阻害薬のエムパグリフロジンが急性心不全の安全性文脈で言及されているため、Cardio-Renal-Metabolic領域に関連し得るが、抄録がないため直接の関連性は限定的。",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
       "study_type_ja": "抄録に記載なし",
       "endpoints_ja": "抄録に記載なし",
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:24:29Z"
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42648932",
@@ -783,15 +792,15 @@
       "bi_related": false,
       "japan_relevant": false,
       "content_sha256": "928f4e1020c8aef0b4ac7114a41bf7e4c416b5ede41d8d37189e6a31fdd36c62",
-      "summary_ja": "本論文は、非心臓手術後のSGLT2阻害薬の術前中止と心臓合併症に関する論文へのコメント（Letter）である。抄録が利用できないため、対象者・研究デザインの詳細は読み取れない。主要な結果も抄録に記載なし。",
-      "key_takeaway_ja": "SGLT2阻害薬の術前中止は、中止の有無だけでなく再開や管理を含む判断が重要であるという論点を提示する。",
-      "why_matters_ja": "SGLT2阻害薬の術前中止と非心臓手術後の心臓合併症に関する議論は、Cardio-Renal-Metabolic領域の臨床運用・安全性評価に直接関連する。",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
       "study_type_ja": "抄録に記載なし",
       "endpoints_ja": "抄録に記載なし",
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:23:40Z"
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42648283",
@@ -866,13 +875,13 @@
       "content_sha256": "b47fcb174acc85246823995478829c2d7cc4a818f6312f3d9f2807df41399cbc",
       "summary_ja": "抄録に記載なし",
       "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "GLP-1受容体作動薬である経口セマグルチドの心血管アウトカムを評価する試験であり、Cardio-Renal-Metabolic領域に関連する。",
+      "why_matters_ja": "抄録に記載なし",
       "study_type_ja": "抄録に記載なし",
       "endpoints_ja": "抄録に記載なし",
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:20:50Z"
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42647098",
@@ -1129,15 +1138,15 @@
       "bi_related": true,
       "japan_relevant": false,
       "content_sha256": "281c13abe8c37aa105889ae58c581e2ea75ac9056c2af6f00bbc4928d3560ffd",
-      "summary_ja": "抄録が利用できないため、主要結果・数値・症例数は確認できない。本件はNature medicineに掲載されたAuthor Correction（Published Erratum）であり、Survodutideを肥満およびMASLDのある成人を対象としたSYNCHRONIZE-MASLD試験に関する訂正記事である。タイトルから、無作為化二重盲検プラセボ対照フェーズ3試験であることが示される。",
-      "key_takeaway_ja": "本件はSYNCHRONIZE-MASLD試験に関するAuthor Correctionであり、抄録がないため臨床的または開発上の要点は判断できない。",
-      "why_matters_ja": "直接の関連性は限定的",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
       "study_type_ja": "抄録に記載なし",
       "endpoints_ja": "抄録に記載なし",
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:37:14Z"
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42642357",
@@ -1422,13 +1431,13 @@
       "content_sha256": "d0a1b85bd3d9ec661479e0e685fd792c6d2a83199c01151f47770f34813be688",
       "summary_ja": "抄録に記載なし",
       "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "GLP-1受容体作動薬の利用と州の肥満治療保険適用政策に関わるため、CRM領域で注目に値する可能性がある。",
+      "why_matters_ja": "抄録に記載なし",
       "study_type_ja": "抄録に記載なし",
       "endpoints_ja": "抄録に記載なし",
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:38:56Z"
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42634284",
@@ -1740,13 +1749,15 @@
       "bi_related": false,
       "japan_relevant": false,
       "content_sha256": "a7b11b9e6dcf7f4d2576fb88565a7c96a33734039db40704a8754f2e31f728f8",
-      "summary_ja": "",
-      "key_takeaway_ja": "",
-      "why_matters_ja": "",
-      "study_type_ja": "",
-      "endpoints_ja": "",
-      "endpoint_results_ja": "",
-      "sample_size_ja": ""
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42625452",
@@ -1842,7 +1853,16 @@
       "japan_relevant": false,
       "content_sha256": "904086557743f099c58173d1bab6ee9911c134388f87b27f42b12174a35dc634",
       "fetched_at_utc": "2026-08-31T15:48:02Z",
-      "updated_at_utc": "2026-08-31T15:48:02Z"
+      "updated_at_utc": "2026-08-31T15:48:02Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42654302",
@@ -2288,13 +2308,15 @@
       "bi_related": false,
       "japan_relevant": false,
       "content_sha256": "10373cfef309bbf21fc9c529dce329e405eadbbc99e2012d908ee8e21d09f99a",
-      "summary_ja": "",
-      "key_takeaway_ja": "",
-      "why_matters_ja": "",
-      "study_type_ja": "",
-      "endpoints_ja": "",
-      "endpoint_results_ja": "",
-      "sample_size_ja": ""
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42619634",
@@ -4270,7 +4292,16 @@
       "japan_relevant": false,
       "content_sha256": "082952ec7a0d6358d1d52c9fd0c4e7abc991cde0024ac924e3455edf43aab419",
       "fetched_at_utc": "2026-08-31T15:48:02Z",
-      "updated_at_utc": "2026-08-31T15:48:02Z"
+      "updated_at_utc": "2026-08-31T15:48:02Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42652549",
@@ -4718,7 +4749,16 @@
       "japan_relevant": false,
       "content_sha256": "89152d2185bbcc8fb9b8923c3d0dc294a6e5605f44ba41898c8dada7bfe2600a",
       "fetched_at_utc": "2026-08-31T15:48:02Z",
-      "updated_at_utc": "2026-08-31T15:48:02Z"
+      "updated_at_utc": "2026-08-31T15:48:02Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42602880",
@@ -5923,13 +5963,15 @@
       "bi_related": false,
       "japan_relevant": false,
       "content_sha256": "b9d7f1f403f205e7404288527ca450177f9cdf2cabc7d0a9ab6ef3f75fcaa6b0",
-      "summary_ja": "",
-      "key_takeaway_ja": "",
-      "why_matters_ja": "",
-      "study_type_ja": "",
-      "endpoints_ja": "",
-      "endpoint_results_ja": "",
-      "sample_size_ja": ""
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
     },
     {
       "pmid": "42614024",
