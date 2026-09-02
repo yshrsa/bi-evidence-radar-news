@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-01T23:17:33Z",
+  "generated_at_utc": "2026-09-02T23:27:52Z",
   "items": [
     {
       "pmid": "42666995",
@@ -143,6 +143,265 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
+    },
+    {
+      "pmid": "42683980",
+      "title": "Pharmacological management of obesity: Current landscape and emerging therapies.",
+      "abstract": "Obesity is now recognized as a chronic, multifactorial, and progressive disease as opposed to mere excess of body weight. It significantly increases the risk of type 2 diabetes, cardiovascular disease, metabolic-associated fatty liver disease, and mental health disorders. 2022 data reveal that nearly 3 billion individuals worldwide were living with either obesity or overweight. Pharmacological therapy has evolved remarkably. Earlier medications targeted primarily the brain's monoaminergic pathways but they were withdrawn due to safety concerns. Currently, six medications (Orlistat, Phentermine/Topiramate, Naltrexone/Bupropion, Liraglutide, Semaglutide, and Tirzepatide) are approved by the U.S. Food and Drug Administration for long-term obesity management and among these, glucagon-like peptide receptor agonists have revolutionized the therapy. The emerging pipeline is even more promising. It has new dual and triple combinations such as CagriSema, Survodutide, and Retatrutide for better efficacy and metabolic outcomes, as well as long-acting and oral formulations, which will improve adherence and accessibility. India released its new obesity guideline in January 2025, emphasizing on early pharmacotherapy initiation and the adoption of stage-based obesity classification. Together, these developments signify a transformative era in obesity care where pharmacotherapy is a powerful and evidence-based tool that, in many cases, approaches the efficacy and metabolic benefits traditionally associated with bariatric surgeries.",
+      "journal": "Indian journal of pharmacology",
+      "authors": "Atal Shubham, Agrawal Chirag, Gupta Rahul, Sadasivam Balakrishnan",
+      "pub_date": "2026-09-02",
+      "doi": "10.4103/ijp.ijp_37_26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42683980/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Obesity",
+        "Anti-Obesity Agents",
+        "Animals",
+        "Semaglutide"
+      ],
+      "matched_assets": [
+        "semaglutide",
+        "survodutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim",
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "fa04f03d94871436e27009c05436e0822ff422463c4326c2bd363824c1be1a3a",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "肥満は慢性・多因子性・進行性疾患として認識されており、2型糖尿病、心血管疾患、代謝関連脂肪肝疾患、精神疾患のリスクを大きく増加させる。2022年のデータでは、世界中で約30億人が肥満または過体重である。薬物療法は大きく進化し、現在米国FDAで長期肥満管理に承認されている6剤（オルリスタット、フェンテルミン/トピラマート、ナルトレキソン/ブプロピオン、リラグルチド、セマグルチド、tirzepatide）があり、中でもGLP-1受容体作動薬が治療を革新した。今後のパイプラインにはCagriSema、Survodutide、Retatrutideなどの新規デュアル・トリプル併用療法や、長作用・経口製剤が含まれる。インドは2025年1月に新たな肥満ガイドラインを発表し、早期薬物療法開始と段階別肥満分類の採用を強調している。",
+      "key_takeaway_ja": "肥満の薬物療法はGLP-1受容体作動薬の登場により大きく革新され、多くの症例で従来は腹腔内手術にのみ期待されていた有効性や代謝的恩恵に近づいている。",
+      "why_matters_ja": "世界中で約30億人が肥満または過体重であり、肥満は重大な合併症リスクを伴う。薬物療法が腹腔内手術に匹敵する有効性を示すようになったことは、肥満治療のアクセスとアウトカムに大きな転換点をもたらす。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-02T23:18:45Z"
+    },
+    {
+      "pmid": "42683551",
+      "title": "Repurposing SGLT2 inhibitors in pulmonary arterial hypertension: A multi-center longitudinal pilot study demonstrating favorable effects on risk profile and ventricular coupling.",
+      "abstract": "BackgroundSodium-glucose cotransporter-2 inhibitors (SGLT2 inhibitors) confer broad cardiovascular benefits, but their role in pulmonary arterial hypertension (PAH) remains unclear.ObjectiveTo investigate the potential therapeutic role of SGLT2 inhibitors in PAH by evaluating their longitudinal association, including improvement in risk profile, functional status, and ventricular coupling.DesignMulticenter retrospective longitudinal pilot study.MethodsAdults with Group 1 PAH confirmed by right heart catheterization were followed and categorized by exposure to SGLT2 inhibitors. Time-to-clinical improvement was assessed using Cox proportional hazard models adjusted for age, gender, PAH etiology, pulmonary vascular resistance, and baseline risk profile. Two predefined endpoints were evaluated: (1) improvement by ≥ 1 category in a four-level risk stratification, and (2) achievement of a low-risk profile. Longitudinal changes in functional, biomarkers, and echocardiographic measures were analyzed using linear mixed-effects models adjusting for relevant covariates.ResultsAmong 83 patients with PAH, 43 received SGLT2 inhibitors. SGLT2 inhibitor use was independently associated with a higher rate of improvement by ≥ 1 risk category (hazard ratio [HR] 2.21, 95%CI 1.06-4.63; p = 0.034) and a higher likelihood of achieving a low risk profile (HR 2.62, 95% CI 1.02-6.76; p = 0.045). Longitudinal improvement was observed across the cohort in six-minute walk distance, Borg dyspnea score, B-type natriuretic peptide (BNP) levels, and composite risk score (all p <0.001), with SGLT2 inhibitor use associated with greater improvement in persistently lower log-BNP levels during follow-up (p = 0.007). Echocardiographic demonstrated reductions in pulmonary artery systolic pressure and improvement in RV-pulmonary artery coupling over time.ConclusionIn this real-world cohort, SGLT2 inhibitor use was associated with a higher likelihood of clinical improvement and achieving a low-risk profile in PAH, alongside favorable longitudinal changes in biomarkers and hemodynamics. Prospective randomized trials are warranted.",
+      "journal": "Therapeutic advances in respiratory disease",
+      "authors": "Zou Yifan, Ahmad Ashfaq, Zhang Songlin, Wang Yousen, Ren Qian, Wang Heng, Li Lingling, Wang Xiaoyu",
+      "pub_date": "2026-09-02",
+      "doi": "10.1177/17534666261479969",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42683551/",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Pilot Projects",
+        "Longitudinal Studies",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Middle Aged",
+        "Risk Factors",
+        "Pulmonary Arterial Hypertension",
+        "Treatment Outcome",
+        "Time Factors",
+        "Risk Assessment",
+        "Aged",
+        "Ventricular Function, Right",
+        "Arterial Pressure",
+        "Pulmonary Artery"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "1d58a0d6d20edcd7bc4cffc103a22de79f1b7d09f1ddf74e2205c4ae5ed79d57",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "SGLT2阻害薬の肺動脈性肺高血圧（PAH）における治療的役割を評価するため、右心カテータリゼーションでGroup 1 PAHと確認された成人患者を対象に、SGLT2阻害薬曝露の有無で分類し、リスクプロファイルの改善、機能状態、心室結合の縦断的関連を調査した多施設後ろ向き縦断的パイロット研究。83例中43例がSGLT2阻害薬を使用。Cox比例ハザードモデル（年齢、性別、PAH病因、肺血管抵抗、ベースラインリスクプロファイルで調整）および線形混合効果モデルを用いて解析。",
+      "key_takeaway_ja": "SGLT2阻害薬の使用は、PAH患者においてリスクカテゴリー1段階以上の改善（HR 2.21, 95%CI 1.06-4.63; p=0.034）および低リスクプロファイルの達成（HR 2.62, 95%CI 1.02-6.76; p=0.045）と独立に関連し、フォローアップ中のlog-BNPの持続的低下（p=0.007）およびRV-肺動脈結合の改善も認められた。",
+      "why_matters_ja": "SGLT2阻害薬は広範な心血管系への有益な効果を示すが、PAHにおける役割は不明であった。本パイロット研究は、PAHにおけるSGLT2阻害薬の潜在的な治療的役割を示唆し、前向きランダム化試験の必要性を支持する。",
+      "study_type_ja": "多施設後ろ向き縦断的パイロット研究（実世界コホート）",
+      "endpoints_ja": "事前定義エンドポイント：(1) 4段階リスク分類における1段階以上の改善、(2) 低リスクプロファイルの達成。二次的評価：機能状態（6分歩行距離、Borg呼吸困難スコア）、バイオマーカー（BNP、複合リスクスコア）、心エコー所見（肺動脈収縮期血圧、RV-肺動脈結合）の縦断的変化。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "PAH患者83例（うちSGLT2阻害薬使用43例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-02T23:22:36Z"
+    },
+    {
+      "pmid": "42682267",
+      "title": "Multi-Database Pharmacovigilance Analysis of Gastroesophageal Reflux Disease Associated with GLP-1 Receptor Agonists: A Cross-National Signal Validation Study.",
+      "abstract": "BACKGROUND/AIMS: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are widely prescribed for type 2 diabetes and obesity. Gastrointestinal adverse events are common; however, the association with gastroesophageal reflux disease (GERD) has not been validated across diverse populations. We aimed to assess GERD signals associated with GLP-1 RAs using disproportionality analysis across three national adverse event reporting systems.\nMETHODS: We analyzed FAERS, JADER, and Canada Vigilance. GLP-1 RAs were compared against dipeptidyl peptidase-4 inhibitors as active comparators. GERD was identified using MedDRA preferred terms. Reporting odds ratios (RORs) with 95% confidence intervals (CIs) were calculated. Subgroup analyses were performed by drug, age, and sex.\nRESULTS: Among 260,417 GLP-1 RA reports, significant GERD signals were detected across all databases: FAERS (ROR, 2.83; 95% CI, 2.39 to 3.35; 9,245 vs 139), JADER (4.76; 95% CI, 2.45 to 9.27; 19 vs 16), and Canada Vigilance (2.91; 95% CI, 1.97 to 4.31; 206 vs 29). All signals met both ROR and proportional reporting ratio detection criteria. Drug-specific analyses revealed the strongest signals for semaglutide across all databases (3.44 to 6.93), followed by liraglutide (2.36 to 5.90), tirzepatide (2.76 to 5.77), and dulaglutide (2.35 to 3.32). Exenatide showed an inverse association in FAERS (ROR, 0.60; 95% CI, 0.46 to 0.77). Age-stratified analysis demonstrated increasing signal strength with age (≥65 years: ROR, 3.01; p-trend=0.028). Sensitivity analysis confirmed consistent signal directions.\nCONCLUSIONS: This first multi-database pharmacovigilance analysis confirms consistent GERD signals for GLP-1 RAs across Western and Asian populations, demonstrating approximately 2- to 5-fold higher reporting. Clinicians need to monitor for reflux symptoms during GLP-1 RA therapy, particularly in elderly patients.",
+      "journal": "Gut and liver",
+      "authors": "Choi Jeong-Gyu, Gong Eun Jeong, Bang Chang Seok, Lee Jae Jun",
+      "pub_date": "2026-09-02",
+      "doi": "10.5009/gnl260189",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682267/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4b0becae13f84728d3252b9d56bb0ab80b6fe84d16033eb2c433ed8b55adaeb9",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "GLP-1受容体作動薬（GLP-1 RAs）と胃食道逆流症（GERD）の関連を、FAERS、JADER、Canada Vigilanceの3つの国家レベルの有害事象報告システムを用いて不均衡分析（disproportionality analysis）により評価した。DPP-4阻害薬を活性比較薬とし、MedDRA優先用語でGERDを同定し、報告オッズ比（ROR）と95%信頼区間を算出した。全データベースで有意なGERDシグナルが検出され、セマグルチドが最も強いシグナルを示した。年齢別解析では65歳以上でシグナル強度が増加した。",
+      "key_takeaway_ja": "GLP-1 RAsはGERDの報告オッズを約2〜5倍上昇させるシグナルを、西洋系およびアジア系の複数データベースで一貫して示した。",
+      "why_matters_ja": "GLP-1 RA治療中の逆流症状のモニタリング、特に高齢患者において臨床的に重要である。",
+      "study_type_ja": "多データベース薬物警戒（pharmacovigilance）シグナル検証研究（不均衡分析）",
+      "endpoints_ja": "GERD（MedDRA優先用語による同定）の報告オッズ比（ROR）および95%信頼区間",
+      "endpoint_results_ja": "FAERS: ROR 2.83（95% CI 2.39〜3.35; 9,245 vs 139）; JADER: ROR 4.76（95% CI 2.45〜9.27; 19 vs 16）; Canada Vigilance: ROR 2.91（95% CI 1.97〜4.31; 206 vs 29）。薬剤別: セマグルチド 3.44〜6.93、リラグチド 2.36〜5.90、tirzepatide 2.76〜5.77、デュラグルチド 2.35〜3.32。Exenatide（FAERS）: ROR 0.60（95% CI 0.46〜0.77）。65歳以上: ROR 3.01（p-trend=0.028）。",
+      "sample_size_ja": "GLP-1 RA報告 260,417件（FAERS: 9,245 vs 139、JADER: 19 vs 16、Canada Vigilance: 206 vs 29）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-02T23:23:01Z"
+    },
+    {
+      "pmid": "42681675",
+      "title": "Cardiometabolic outcomes of once-weekly IcoSema in adults with type 2 diabetes: systematic review and meta-analysis of the COMBINE trials.",
+      "abstract": "BACKGROUND: Patients with type 2 diabetes face a high residual risk of atherosclerotic cardiovascular disease (ASCVD) despite advances in therapy. Once-weekly IcoSema, a fixed-ratio combination of basal insulin icodec and semaglutide, offers the potential to simultaneously address glycemic control, weight, and multiple cardiometabolic risk factors with a single weekly injection.\nMETHODS: We conducted a PRISMA-compliant systematic review and random-effects meta-analysis of randomized trials from the COMBINE program. Data from COMBINE 1 (active comparator: once-weekly insulin icodec) and COMBINE 3 (active comparator: basal-bolus insulin therapy) (N = 1,970) were pooled comparing IcoSema with insulin-based intensification strategies in patients inadequately controlled on basal insulin. COMBINE 2 was excluded because its semaglutide monotherapy comparator addresses a fundamentally different clinical question (escalation from GLP-1 RA monotherapy). The primary focus was on changes in body weight, Systolic blood pressure and HbA1c; key secondary outcomes included changes in lipid profile relevant to ASCVD risk. Certainty of evidence was assessed using GRADE.\nRESULTS: IcoSema showed no statistically significant difference in HbA1c reduction compared with control (pooled MD -0.37%, 95% CI -0.95 to 0.21; P = 0.21; I²=98%) but shows highly significant body weight reduction (pooled MD -6.10 kg, 95% CI -7.21 to -5.00; P < 0.00001). It significantly lowered systolic blood pressure (MD -2.45 mmHg, 95% CI -3.52 to -1.38; P < 0.00001), total cholesterol (ETR 0.97, 95% CI 0.95-0.98; P = 0.0001), LDL-C (ETR 0.94, 95% CI 0.90-0.98; P = 0.005), triglycerides (ETR 0.94, 95% CI 0.91-0.97; P = 0.0006), and VLDL-C (ETR 0.94). An exploratory, hypothetical ASCVD risk modeling analysis based on these surrogate-marker changes is presented in the Supplementary Appendix and is intended as an illustration only.\nCONCLUSIONS: Once-weekly IcoSema delivers meaningful improvements in weight, blood pressure, and atherogenic lipids, all key modifiable drivers of ASCVD in adults with type 2 diabetes. These surrogate benefits, combined with reduced injection burden and low risk of hypoglycemia, suggest potential for enhanced ASCVD prevention and improved long-term adherence. Results should be interpreted as hypothesis-generating only because only two trials met the inclusion criteria. Dedicated cardiovascular outcome trials are essential to validate these surrogate-marker benefits and to confirm whether they translate into a reduction in cardiovascular events.",
+      "journal": "Cardiovascular diabetology. Endocrinology reports",
+      "authors": "Alper Adir, Fagin Adina, Karthikeyan Aditya, Lerner Mathias, Gershon Adam, Morgan Ahmed Ashraf, Rubinstein Gal, Agarwal Raksheeth",
+      "pub_date": "2026-09-02",
+      "doi": "10.1186/s40842-026-00333-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42681675/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5568168368d63262026970de380342e451632b5ff70149b67e6d8fa4720d079a",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "COMBINEプログラム（COMBINE 1およびCOMBINE 3、N=1,970）のランダム化試験を対象としたPRISMA準拠の系統的レビューおよびランダム効果メタ解析。ベースラインインスリンで不十分管理の2型糖尿病患者において、週1回IcoSema（基礎インスリンicodecとセマグルチドの固定比率配合）をインスリン強化戦略と比較し、体重・収縮期血圧・HbA1cの変化を主要評価項目、ASCVDリスクに関連する脂質プロファイルの変化を主要二次評価項目として評価した。",
+      "key_takeaway_ja": "IcoSemaはHbA1c低下において対照群と有意差を認めなかったが、体重（-6.10 kg）、収縮期血圧（-2.45 mmHg）、およびアテロゲン性脂質（総コレステロール、LDL-C、トリグリセリド、VLDL-C）において対照群と比較して統計学的に有意な改善を示した。ただし、対象となった試験が2試験のみであるため、結果は仮説生成に留まる。",
+      "why_matters_ja": "2型糖尿病患者は治療の進歩にもかかわらず動脈硬化性心血管疾患（ASCVD）の残余リスクが高い。IcoSemaは単一の週1回注射で血糖管理・体重・複数の心血管代謝リスク因子を同時に改善する可能性を持ち、ASCVD予防の強化および長期アドヒアランスの改善に寄与し得る。",
+      "study_type_ja": "系統的レビューおよびメタ解析（PRISMA準拠、ランダム効果モデル）",
+      "endpoints_ja": "主要評価項目：体重変化、収縮期血圧変化、HbA1c変化。主要二次評価項目：ASCVDリスクに関連する脂質プロファイルの変化（総コレステロール、LDL-C、トリグリセリド、VLDL-C）。",
+      "endpoint_results_ja": "HbA1c：pooled MD -0.37%, 95% CI -0.95 to 0.21; P=0.21; I²=98%。体重：pooled MD -6.10 kg, 95% CI -7.21 to -5.00; P<0.00001。収縮期血圧：MD -2.45 mmHg, 95% CI -3.52 to -1.38; P<0.00001。総コレステロール：ETR 0.97, 95% CI 0.95-0.98; P=0.0001。LDL-C：ETR 0.94, 95% CI 0.90-0.98; P=0.005。トリグリセリド：ETR 0.94, 95% CI 0.91-0.97; P=0.0006。VLDL-C：ETR 0.94。",
+      "sample_size_ja": "N=1,970（COMBINE 1およびCOMBINE 3のプール）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-02T23:23:28Z"
+    },
+    {
+      "pmid": "42683541",
+      "title": "Investigating the Relationship Between Glucagon-Like Peptide-1 Receptor Agonist Use and Incidence of Vertebral Fractures in Female Patients Aged Over 50 Years With Osteoporosis: A Propensity-Matched Analysis.",
+      "abstract": "STUDY DESIGN: Retrospective cohort.\nOBJECTIVE: To investigate the relationship between GLP-1 receptor agonist exposure and incidence of vertebral fracture and surgical intervention for these injuries in patients with osteoporosis.\nSUMMARY OF BACKGROUND DATA: Vertebral fractures are relatively common in patients with osteoporosis and frequently result in substantial morbidity, such as persistent pain and functional deficit. Although primarily indicated for the management of type 2 diabetes mellitus and obesity, glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have demonstrated positive effects on bone mineral density (BMD) in the lumbar spine. However, it remains unknown if this effect translates to positive clinical outcomes for patients with osteoporosis.\nMETHODS: This study utilized the TriNetX database to identify female patients aged over 50 years diagnosed with osteoporosis without a current pathologic fracture within the 10-year period ended January 1, 2025. The study group included patients with a history of GLP-1 RA use after osteoporosis diagnosis compared with a control group with no GLP-1 RA exposure. Cohorts were propensity-matched based on baseline demographic characteristics, BMI, HbA1c, eGFR, medical comorbidities, osteoporotic medication use, and serum calcium, phosphate, and vitamin D levels. Primary outcomes included incidence of vertebral collapse and vertebral augmentation within the 10-year study period.\nRESULTS: There were 56,142 matched pairs. The rate of vertebral fracture in the experimental group was ∼1.9% compared with 4.3% in the control group (RR: 0.434, 95% CI: 0.404-0.467, P<0.001). In addition, GLP-1 RA exposure was associated with a lower incidence of kyphoplasty or vertebroplasty (RR: 0.453, 95% CI: 0.381-0.538, P<0.001).\nCONCLUSION: Glucagon-like peptide-1 receptor agonist use is associated with a lower incidence of vertebral fracture and osteoporotic fracture intervention in female patients aged 50+ with osteoporosis. These findings underscore the potential protective effects of GLP-1 receptor agonists in patients with poor bone quality.\nLEVEL OF EVIDENCE: Level III.",
+      "journal": "Clinical spine surgery",
+      "authors": "Stump Kyle, Kelleher Sean, Aynaszyan Stephan, Ricci Samuel, Pazionis Theresa",
+      "pub_date": "2026-09-01",
+      "doi": "10.1097/BSD.0000000000002145",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42683541/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "0e504e84c4773b2cdc486b0a819f1e5c84b8f0b6d353995df447eb7507a0a519",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "TriNetXデータベースを用いた後方視コホート研究で、50歳以上の骨粗鬆症を有する女性患者において、GLP-1受容体作動薬（GLP-1 RA）の使用と脊椎骨折の発生率および脊椎増強術との関連を調査した。ベースライン特性に基づいてプロパensityマッチングを行い、56,142対のマッチ対を解析した。",
+      "key_takeaway_ja": "50歳以上の骨粗鬆症を有する女性患者において、GLP-1受容体作動薬の使用は脊椎骨折の発生率および骨粗鬆症性骨折に対する介入（キフォプラストイまたはバーテブロプラストイ）の発生率の低下と関連していた。",
+      "why_matters_ja": "脊椎骨折は骨粗鬆症患者に比較的多く、持続痛や機能障害などの重大な合併症を引き起こす。GLP-1 RAは腰椎の骨密度に好影響を示すが、それが臨床的アウトカムに転換されるかは不明であった。本研究は、骨質の悪い患者におけるGLP-1 RAの潜在的な保護効果を示唆する。",
+      "study_type_ja": "後方視コホート研究（プロパensityマッチング解析）",
+      "endpoints_ja": "主要アウトカム：10年間の研究期間における脊椎崩壊（vertebral collapse）の発生率および脊椎増強（vertebral augmentation）の発生率",
+      "endpoint_results_ja": "脊椎骨折の発生率：実験群 約1.9% vs 対照群 4.3%（RR: 0.434, 95% CI: 0.404-0.467, P<0.001）。キフォプラストイまたはバーテブロプラストイの発生率：RR: 0.453, 95% CI: 0.381-0.538, P<0.001。",
+      "sample_size_ja": "56,142マッチ対",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-02T23:24:09Z"
+    },
+    {
+      "pmid": "42682157",
+      "title": "Incretin-based therapies in diabetic kidney disease: toward integrated cardio-kidney-metabolic disease modification.",
+      "abstract": "Obesity and type 2 diabetes (T2D) are dominant drivers of chronic kidney disease (CKD) within the cardio-kidney-metabolic (CKM) syndrome. Despite advances with renin-angiotensin system inhibitors and sodium-glucose cotransporter 2 (SGLT2) inhibitors, substantial residual cardiovascular and renal risk persists, highlighting the need for therapies targeting upstream metabolic dysfunction. Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) have emerged as key modulators of CKM disease through integrated metabolic, vascular, and anti-inflammatory mechanisms. Cardiovascular outcome trials first established their cardioprotective effects, while the FLOW trial definitively demonstrated kidney protection, showing a 24% reduction in major kidney outcomes in patients with T2D and CKD. Mechanistic insights from translational studies further suggest that GLP-1 receptor activation promotes metabolic decongestion, improves intrarenal hemodynamics, and attenuates inflammatory and fibrotic pathways. Beyond selective GLP-1 receptor agonism, dual (glucose-dependent insulinotropic polypeptide [GIP]/GLP-1) and triple (GIP/GLP-1/glucagon) incretin agonists, including tirzepatide and retatrutide, extend this paradigm by delivering greater weight reduction and systemic metabolic reprogramming, with emerging signals for cardiovascular and renal benefit. Contemporary CKD management is shifting toward a phenotype-driven, layered therapeutic strategy in which SGLT2 inhibitors provide foundational kidney protection and incretin-based therapies are integrated to address residual metabolic and cardiovascular risk. In this evolving CKM framework, incretin-based therapies represent a central component of multi-mechanistic disease modification, extending beyond glycemic control to coordinated protection across the heart, kidney, and metabolic systems.",
+      "journal": "Kidney research and clinical practice",
+      "authors": "Kim Yaeni, Lee Eun Young",
+      "pub_date": "2026-09-01",
+      "doi": "10.23876/j.krcp.26.272",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682157/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5b5cd4dfcd01576f9077468ed8e51d39c8d5da5c192b65c56cad0bc40621d9df",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "肥満と2型糖尿病（T2D）は心臓・腎臓・代謝（CKM）症候群における慢性腎臓病（CKD）の主要な駆動因子である。レニン・アンギオテンシン系阻害薬やSGLT2阻害薬の進歩にもかかわらず、心血管・腎臓の残存リスクは依然として大きい。GLP-1受容体作動薬（RA）は統合的な代謝・血管・抗炎症メカニズムを通じてCKM疾患の重要な調節因子として台頭している。心血管アウトカム試験が心保護効果を確立し、FLOW試験はT2D合併CKD患者において主要腎アウトカムを24%減少させる腎保護効果を明確に示した。さらに、GIP/GLP-1二重作動薬やGIP/GLP-1/グルカゴン三重作動薬（tirzepatide、retatrutide）はより大きな減量と全身代謝再プログラミングを提供し、心血管・腎臓への有益なシグナルが示されている。現在のCKD管理は、SGLT2阻害薬が基礎的な腎保護を提供し、インクレチン系療法が残存する代謝・心血管リスクに対処するよう統合される、フェノタイプ駆動型の多層的治療戦略へと移行しつつある。",
+      "key_takeaway_ja": "インクレチン系療法は血糖管理を超え、心臓・腎臓・代謝システムにまたがる協調的な保護を提供する多メカニズム疾患修飾の中心的構成要素である。",
+      "why_matters_ja": "レニン・アンギオテンシン系阻害薬やSGLT2阻害薬の進歩にもかかわらず、心血管・腎臓の残存リスクが依然として大きく、上流の代謝異常を標的とする治療の必要性が示されている。",
+      "study_type_ja": "レビュー（叙述的レビュー）",
+      "endpoints_ja": "主要腎アウトカム（FLOW試験）、心血管・腎臓への有益性（二重・三重インクレチン作動薬のエマージングシグナル）",
+      "endpoint_results_ja": "FLOW試験：T2D合併CKD患者において主要腎アウトカムを24%減少",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-02T23:27:49Z"
+    },
+    {
+      "pmid": "42679960",
+      "title": "From evidence to delivery: Optimising SGLT2 inhibitor therapy in heart failure.",
+      "abstract": "",
+      "journal": "International journal of cardiology",
+      "authors": "Jimba Takahiro",
+      "pub_date": "2026-09-01",
+      "doi": "10.1016/j.ijcard.2026.134758",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679960/",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "27e96c2053c7ee8be8e318ce6559f39ab89ab07c02fe00cfaf41c0af8be5fc80",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-02T23:17:23Z"
     },
     {
       "pmid": "42674357",
