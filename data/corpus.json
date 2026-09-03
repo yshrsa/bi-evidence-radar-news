@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-02T23:17:23Z",
+  "generated_at_utc": "2026-09-03T23:14:59Z",
   "documents": [
     {
       "pmid": "42666995",
@@ -143,6 +143,539 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
+    },
+    {
+      "pmid": "42690923",
+      "title": "Predictive Value of Urine Tubular Biomarkers on Kidney Outcomes: Observations from EMPA-KIDNEY.",
+      "abstract": "BACKGROUND: Urine tubular biomarkers have previously been associated with chronic kidney disease (CKD) progression independently of estimated glomerular filtration rate (eGFR) and albuminuria. We evaluated whether nine urine tubular biomarkers could improve prediction of kidney failure beyond serum creatinine and urine albumin-to-creatinine ratio among adults with CKD.\nMETHODS: Among 5100 participants in EMPA-KIDNEY, a randomized trial which assessed the effects of empagliflozin 10 mg versus matching placebo among patients with CKD at risk of progression, nine urine creatinine-indexed tubular biomarkers were measured including alpha-1 microglobulin, dickkopf-3, epidermal growth factor [EGF], interleukin-18, kidney injury molecule-1 [KIM-1], monocyte chemoattractant protein-1 [MCP-1], neutrophil gelatinase-associated lipocalin, uromodulin, and human cartilage glycoprotein-40. Outcomes were kidney disease progression ('treated kidney failure', renal death, or sustained ≥40% eGFR decline) and treated kidney failure (maintenance dialysis or kidney transplant). Relative to models based on the linear predictor of the kidney failure risk equation (KFRE), improvements in discrimination were estimated with further addition of the nine tubular biomarkers using absolute difference in Uno's C-index.\nRESULTS: Over median 3.5 years of follow-up, 1191 participants experienced kidney disease progression and 461 experienced treated kidney failure. KFRE demonstrated excellent discrimination for treated kidney failure [C-index 0.858 (0.840,0.874)] and moderate discrimination for kidney disease progression [0.724 (0.705,0.743)]. Addition of three biomarkers (MCP-1, KIM-1, and EGF) most strongly associated with CKD outcomes yielded some further improvement in predicting kidney failure [absolute difference 0.014 (0.009,0.024)] and kidney disease progression [0.038 (0.026,0.053)]. Prediction of kidney outcomes were only slightly improved when further expanding from three to all ning tubular biomarkers.\nCONCLUSION: In a wide range of causes of CKD, adding three urine tubular biomarkers (MCP-1, KIM-1, EGF) to KFRE improves estimates of risk of CKD progression.",
+      "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+      "authors": "Malijan Greco B, Herrington William G, Judge Parminder K, Sardell Rebecca J, Chapman Daniel, Hill Michael, Moffat Stewart, Zhu Doreen",
+      "pub_date": "2026-09-03",
+      "doi": "10.2215/CJN.0000001203",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42690923/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "52ea00eb9b15dd1b70b6c8ec1b876c242fff53f02b2f149971fe73faee5f1f6a",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "EMPA-KIDNEY試験（empagliflozin 10 mg vs. プラセボ、CKD進行リスクのある成人）の5100名の参加者において、9種の尿クレアチニン指数化細管バイオマーカー（α-1ミクログロブリン、dickkopf-3、EGF、IL-18、KIM-1、MCP-1、NGAL、ウロモジュリン、hCG-40）が、血清クレアチニンと尿アルブミン/クレアチニン比に基づくKFREに追加された際に腎不全の予測を改善するかを評価した。中央値3.5年の追跡期間中、1191名が腎疾患進行、461名が治療腎不全を経験した。KFREは治療腎不全に対してC-index 0.858（0.840, 0.874）、腎疾患進行に対してC-index 0.724（0.705, 0.743）を示した。CKD転帰と最も関連が強い3バイオマーカー（MCP-1、KIM-1、EGF）の追加により、腎不全の予測が絶対差0.014（0.009, 0.024）、腎疾患進行の予測が絶対差0.038（0.026, 0.053）改善された。3種から全9種に拡大しても予測改善はわずかに留まった。",
+      "key_takeaway_ja": "KFREにMCP-1、KIM-1、EGFの3種の尿細管バイオマーカーを追加することで、CKD進行のリスク推定が改善される。",
+      "why_matters_ja": "CKD患者の腎不全リスク予測において、既存のKFREに尿細管バイオマーカーを追加することで予測精度が向上する可能性が示された。これは臨床試験におけるリスク層別化や患者選定、また個別化されたリスク評価に活用できる可能性がある。",
+      "study_type_ja": "ランダム化比較試験（EMPA-KIDNEY）の二次解析",
+      "endpoints_ja": "1) 腎疾患進行（治療腎不全、腎死、または持続的なeGFR 40%以上の低下）2) 治療腎不全（維持透析または腎移植）",
+      "endpoint_results_ja": "中央値3.5年の追跡期間中、腎疾患進行1191名、治療腎不全461名。KFREのC-index：治療腎不全 0.858（0.840, 0.874）、腎疾患進行 0.724（0.705, 0.743）。MCP-1、KIM-1、EGF追加によるUno's C-indexの絶対差：腎不全 0.014（0.009, 0.024）、腎疾患進行 0.038（0.026, 0.053）。",
+      "sample_size_ja": "5100名",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-03T23:15:56Z"
+    },
+    {
+      "pmid": "42690722",
+      "title": "From insulin resistance to incretin receptor agonism in the prevention of type 2 diabetes mellitus in obese individuals.",
+      "abstract": "Type 2 diabetes mellitus (T2DM) represents one of the most significant metabolic challenges of the modern era, with more than 828 million people worldwide living with diabetes. Obesity and insulin resistance are major modifiable contributors to T2DM risk and progression, although the disease is heterogeneous and arises from complex interactions among β-cell dysfunction, hepatic glucose dysregulation, adipose-tissue dysfunction, altered incretin biology, chronic low-grade inflammation, and genetic susceptibility. In individuals with obesity and insulin resistance, progression through prediabetes to overt hyperglycaemia represents an important, although not universal, disease trajectory and provides a clinically relevant window for preventive intervention. This review examines pharmacological strategies relevant to T2DM prevention in individuals without established diabetes who have prediabetes and/or obesity associated with a high risk of progression to T2DM, with particular emphasis on incretin-based obesity pharmacotherapy. Metformin remains the glucose-lowering agent with the most established long-term evidence for diabetes prevention in selected high-risk individuals with prediabetes, acting through multiple hepatic and intestinal mechanisms involving both AMPK-dependent and AMPK-independent pathways. Other established antihyperglycaemic drug classes are discussed primarily to distinguish therapies with evidence for delaying progression to diabetes from agents whose principal role remains the treatment of established T2DM. SGLT2 inhibitors provide substantial cardiovascular and renal protection, although current evidence is insufficient to support their routine use solely for T2DM prevention. GLP-1 receptor agonists and the dual GIP/GLP-1 receptor agonist tirzepatide have substantially advanced obesity pharmacotherapy, producing clinically meaningful weight loss and broader cardiometabolic benefits that may reduce progression to T2DM in high-risk individuals.Next-generation incretin-based therapies, including triple receptor agonists, may further expand therapeutic options but remain an evolving area of investigation. Lifestyle intervention and sustained weight management remain the foundation of T2DM prevention, with pharmacological strategies selected according to individual metabolic risk, obesity-related treatment indications, comorbidities, and the strength of evidence supporting diabetes prevention.",
+      "journal": "Current medical research and opinion",
+      "authors": "Teofilović Branislava, Trkulja Jelena, Grujić-Letić Nevena, Gligorić Emilia, Baletic Djordje, Tomić Ljiljana, Mesarović Aleksandra, Rašković Aleksandar",
+      "pub_date": "2026-09-03",
+      "doi": "10.1080/03007995.2026.2727202",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42690722/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "cc6b59b19f52947e2cfbb4d1140bb497cb72b8540d1d59595ec43d7a60507a92",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "肥満およびインスリン抵抗性を有する2型糖尿病（T2DM）未罹患者におけるT2DM予防の薬物戦略をレビューした。メトホルミンは前糖尿病を有する高リスク個体における糖尿病予防に最も確立された長期エビデンスを持つ血糖降下薬であり、AMPK依存性及び非依存性の肝・腸管機構を介して作用する。SGLT2阻害薬は心血管・腎保護効果は大きいものの、T2DM予防単独の適応としての現在のエビデンスは不十分である。GLP-1受容体作動薬およびGIP/GLP-1二重受容体作動薬tirzepatideは肥満薬物療法を大きく前進させ、臨床的に有意な減量と広範な心代謝保護効果により、高リスク個体におけるT2DMへの進行抑制に寄与し得る。次世代インクレチン系療法（三重受容体作動薬等）は治療選択肢をさらに拡大し得るが、依然として研究段階である。生活習慣介入と持続的な体重管理がT2DM予防の基盤であり、薬物戦略は個々の代謝リスク、肥満関連治療適応、合併症、および糖尿病予防を支持するエビデンスの強さに応じて選択される。",
+      "key_takeaway_ja": "肥満・インスリン抵抗性を有する前糖尿病個体におけるT2DM予防において、メトホルミンが最も確立されたエビデンスを持つ一方、GLP-1受容体作動薬やtirzepatideといったインクレチン系薬物療法が肥満治療の進展を通じて糖尿病予防に新たな選択肢を提供しつつある。",
+      "why_matters_ja": "世界中で8億2,800万人以上が糖尿病を有し、肥満とインスリン抵抗性はT2DMリスクの主要な修正可能因子である。前糖尿病から顕性高血糖への進行は予防介入の臨床的に重要な窓を提供するため、肥満個体におけるT2DM予防の薬物戦略の整理は公衆衛生上重要である。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-03T23:16:13Z"
+    },
+    {
+      "pmid": "42690639",
+      "title": "Glucagon-Like Peptide-1 Receptor Agonists for Obstructive Sleep Apnea: A Review.",
+      "abstract": "IMPORTANCE: Obstructive sleep apnea (OSA) affects nearly 1 billion adults worldwide and is independently associated with cardiovascular disease, stroke, and increased mortality. While continuous positive airway pressure (CPAP) remains the criterion standard treatment, adherence rates of only 30% to 60% limit its population-level effectiveness. Obesity is present in 60% to 70% of patients with OSA and represents the primary modifiable risk factor, yet, until recently, no pharmacological therapies specifically targeted this pathophysiological mechanism. The December 2024 US Food and Drug Administration approval of tirzepatide as the first medication indicated for moderate to severe OSA in adults with obesity represents a paradigm shift toward disease-modifying pharmacotherapy, with implications for otolaryngologic practice.\nOBSERVATIONS: Six meta-analyses demonstrated consistent apnea-hypopnea index (AHI) reductions with glucagon-like peptide-1 receptor agonists (GLP-1 RAs), ranging from -5.7 to -21.9 events per hour. The SURMOUNT-OSA phase 3 trials showed that tirzepatide reduced AHI by 20 to 24 events per hour vs placebo, with 42% to 50% of patients experiencing disease remission (AHI, <5 events per hour or <15 without symptoms). Weight loss is the primary established mechanism, with GLP-1 RAs reducing tongue fat and parapharyngeal adipose tissue that contribute to upper airway collapse. Emerging preclinical evidence has suggested potential weight-independent effects through carotid body glucagon-like peptide 1 receptor modulation of chemosensitivity (affecting loop gain), leptin pathway interactions that are associated with upper airway neuromuscular control, and NLRP3 inflammasome suppression. However, GLP-1 RAs did not match CPAP efficacy (approximately22 vs 31 events per hour of an AHI reduction), cardiovascular outcome benefits remain unproven, and weight regain commonly occurs after discontinuation.\nCONCLUSIONS AND RELEVANCE: This review suggest that GLP-1 RAs offer otolaryngologists a disease-modifying adjunct for obesity-related OSA that is best positioned as complementary therapy alongside CPAP, preoperative optimization before upper airway surgery, or potentially to expand hypoglossal nerve stimulator candidacy. They are appropriate for patients with a body mass index (calculated as weight in kilograms divided by height in meters squared) greater than 30 who are CPAP-intolerant or have obesity-related comorbidities but are unlikely to benefit individuals without obesity or those with primarily anatomical obstruction. Critical evidence gaps include associations with pharyngeal critical closing pressure, drug-induced sleep endoscopy collapse patterns, and hypoglossal nerve stimulator combination therapy outcomes.",
+      "journal": "JAMA otolaryngology-- head & neck surgery",
+      "authors": "Harris Alexandria, Kaffenberger Thomas",
+      "pub_date": "2026-09-03",
+      "doi": "10.1001/jamaoto.2026.2266",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42690639/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4f66b71ea1f9b5f701073aa66fe0e7aa56884c897cee3ca86666c9a027094a83",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "本レビューは、肥満を伴う閉塞性睡眠時無呼吸（OSA）に対するグルカゴン様ペプチド-1受容体作動薬（GLP-1 RA）の役割を考察する。2024年12月にFDAがtirzepatideを肥満を伴う中等症〜重症OSAの適応として承認したことを背景に、6つのメタアナリシスによるAHI減少効果、SURMOUNT-OSA第III相試験の結果、体重減少を主とする作用機序（舌脂肪・傍咽頭脂肪組織の減少）、および体重非依存性機序（頸動体GLP-1受容体による化学感受性調節、レプチン経路、NLRP3炎症小体抑制）を概観する。耳鼻咽喉科臨床における位置づけとして、CPAP併用療法、上気道手術前の最適化、下舌神経刺激器適応拡大の可能性を提示する。",
+      "key_takeaway_ja": "GLP-1 RAは肥満関連OSAに対する疾患修飾的補助療法として、CPAP併用、上気道手術前の最適化、下舌神経刺激器適応拡大の拡大に最も適した位置づけである。BMI>30でCPAP不耐容または肥満関連合併症を有する患者に適切だが、肥満を伴わない患者や主に解剖学的閉塞を有する患者には効果は期待できない。",
+      "why_matters_ja": "OSAは世界で約10億人の成人に影響し、心血管疾患・脳卒中・死亡率上昇と独立に関連する。標準治療であるCPAPのアドヒアランスは30〜60%にとどまり、OSA患者の60〜70%に肥満が存在するにもかかわらず、これまでこの病態生理学的メカニズムに特化した薬物療法は存在しなかった。tirzepatideのFDA承認は疾患修飾的薬物療法へのパラダイムシフトを意味し、耳鼻咽喉科臨床に直接的な影響を与える。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "呼吸時無呼吸低呼吸指数（AHI）の減少、疾患寛解（AHI<5 events/hour または 無症状で<15 events/hour）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-03T23:17:12Z"
+    },
+    {
+      "pmid": "42690550",
+      "title": "Emerging Topics In Obesity Treatment in the Setting of Organ Transplantation.",
+      "abstract": "PURPOSE OF REVIEW: This review summarizes current evidence on the treatment of obesity in the solid organ transplant setting and identifies evidence gaps.\nRECENT FINDINGS: Lifestyle modification, pharmacotherapy, and metabolic and bariatric surgery are all potential options for management of obesity in the setting of solid organ transplantation. Limited available data on use of incretin-based pharmacotherapy in solid organ transplantation support its safety and effectiveness in appropriately-selected patients, however prospective large-scale studies are needed. Obesity treatment is an important component of transplant care, as obesity is associated with increased mortality and adverse graft outcomes. Lifestyle modification, anti-obesity pharmacotherapy, and metabolic and bariatric surgery can be employed safely in both pre- and post-transplant settings. Newer incretin-based pharmacotherapy, including glucagon-like peptide 1 (GLP-1) receptor agonists and dual GLP-1 receptor agonist/gastric inhibitory polypeptide offer potential for substantial weight loss and improved cardiometabolic outcomes. Bariatric and endoscopic metabolic procedures can be beneficial in carefully selected patients pre- or post-transplant. Precision approaches including sarcopenic obesity and measurement of body composition can help tailor interventions. These developments highlight the importance of multidisciplinary management and underscore the need for additional research within transplant populations.",
+      "journal": "Current obesity reports",
+      "authors": "Maahs Ethan, Zimmerman Zoe, Khungar Vandana, Banini Bubu A",
+      "pub_date": "2026-09-03",
+      "doi": "10.1007/s13679-026-00749-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42690550/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Obesity",
+        "Bariatric Surgery",
+        "Organ Transplantation",
+        "Anti-Obesity Agents",
+        "Incretins",
+        "Weight Loss"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "363b92389f5b1703b96cc9615fdbefccfaa728636009880ac590504034c449ad",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "固形臓器移植における肥満治療の現状証拠を総括し、エビデンスのギャップを特定したレビュー記事。生活習慣改善、薬物療法（インクレチン系薬剤を含む）、代謝・肥満手術が移植前後の肥満管理の選択肢として検討されている。",
+      "key_takeaway_ja": "肥満治療（生活習慣改善、抗肥満薬物療法、代謝・肥満手術）は移植前後のいずれの場面でも安全に実施可能であるが、特にインクレチン系薬物療法については前向き大規模研究が未だ必要である。",
+      "why_matters_ja": "肥満は移植患者において死亡率の増加や移植片の不良転帰と関連しており、肥満治療は移植ケアの重要な構成要素である。",
+      "study_type_ja": "レビュー（叙述的レビュー）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-03T23:17:26Z"
+    },
+    {
+      "pmid": "42690254",
+      "title": "Sodium-glucose cotransporter-2 inhibitors and gastrointestinal neoplasm risk in type 2 diabetes: a systematic review and meta-analysis of randomized controlled trials.",
+      "abstract": "The potential carcinogenic effects of sodium-glucose cotransporter 2 (SGLT2) inhibitors in patients with type 2 diabetes mellitus (T2DM) remain controversial, particularly regarding site-specific gastrointestinal (GI) neoplasms. This systematic review and meta-analysis aimed to determine the relationship between SGLT2 inhibitors and the risk of GI neoplasms in patients with T2DM. We searched PubMed, EMBASE, Cochrane CENTRAL, Scopus, and Web of Science through March 17, 2025, for RCTs in T2DM comparing SGLT2 inhibitors with placebo or active comparators. Two reviewers independently screened studies, extracted data, and assessed the risk of bias. The primary outcome was GI neoplasms reported in publications, supplementary materials, or trial registries, usually as adverse events rather than centrally adjudicated cancer endpoints. Pooled odds ratios (ORs) with 95% confidence intervals (CIs) were calculated in Stata 17.0. In 48 RCTs (n = 48,765), SGLT2 inhibitor therapy was not associated with overall GI neoplasm risk (OR = 1.10, 95% CI: 0.84-1.44; p = 0.46; I² = 0%). Site-specific analyses showed no statistically significant association for esophageal (OR = 1.12, 95% CI 0.37-3.45), gastric (1.20, 0.65-2.23), hepatic (0.62, 0.31-1.22), pancreatic (0.91, 0.51-1.64), colonic (1.28, 0.78-2.08), colorectal (0.76, 0.27-2.17), and rectal neoplasms (0.98, 0.49-1.97), with all p-values > 0.05. Subgroup analyses by agents (e.g., canagliflozin, dapagliflozin, empagliflozin), baseline age, body mass index (BMI), HbA1c, treatment duration, and dose were also non-significant (all p > 0.05). Approximately half of the trials had follow-up of one year or less, limiting our ability to evaluate long-term risk. Available RCT evidence does not show a clear increase in GI neoplasm risk with SGLT2 inhibitors in T2DM. However, limited follow-up, low event counts, and non-cancer-specific outcome ascertainment, the findings should be interpreted as reassuring but not definitive evidence of long-term oncologic safety.Systematic review registration: PROSPERO No. CRD42024619019.",
+      "journal": "Clinical and experimental medicine",
+      "authors": "Zhang Yu-Fan, Xie Jia-Jie, Wu Qi, Zhou Xiao-Yu, Zeng Chen, Zeng Yan, He Yi-Meng, Guo Man",
+      "pub_date": "2026-09-03",
+      "doi": "10.1007/s10238-026-02300-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42690254/",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Randomized Controlled Trials as Topic",
+        "Gastrointestinal Neoplasms",
+        "Hypoglycemic Agents",
+        "Canagliflozin",
+        "Benzhydryl Compounds",
+        "Glucosides"
+      ],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "52d7cc9fb09ea316c672a3e6a41d3b09c7b9826a179f26486a8013b99188238d",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "2型糖尿病（T2DM）患者におけるSGLT2阻害薬と消化管腫瘍リスクの関連を評価したランダム化比較試験（RCT）の系統的レビューおよびメタアナリシス。PubMed、EMBASE、Cochrane CENTRAL、Scopus、Web of Scienceを2025年3月17日までに検索し、SGLT2阻害薬をプラセボまたは活性比較薬と比較したT2DMのRCTを対象とした。主要アウトカムは、出版物、補足資料、または試験登録に登録された消化管腫瘍（通常は有害事象として報告され、中央裁定されたがんエンドポイントではない）。48件のRCT（n=48,765）を含むメタアナリシスでは、SGLT2阻害薬の投与は消化管腫瘍全体のリスクと関連しなかった（OR=1.10, 95% CI: 0.84-1.44; p=0.46; I²=0%）。部位別解析では、食道（OR=1.12, 95% CI 0.37-3.45）、胃（1.20, 0.65-2.23）、肝（0.62, 0.31-1.22）、膵（0.91, 0.51-1.64）、結腸（1.28, 0.78-2.08）、大腸（0.76, 0.27-2.17）、直腸腫瘍（0.98, 0.49-1.97）いずれも統計的に有意な関連は認められなかった（全p値>0.05）。薬剤別（カナグリフロジン、ダパグリフロジン、エンパグリフロジン）、ベースライン年齢、BMI、HbA1c、治療期間、用量によるサブグループ解析も有意ではなかった（全p>0.05）。約半数の試験はフォローアップが1年以下であり、長期リスクの評価には限界がある。",
+      "key_takeaway_ja": "利用可能なRCTのエビデンスでは、T2DM患者においてSGLT2阻害薬による消化管腫瘍リスクの明確な増加は示されていない。ただし、フォローアップ期間の短さ、イベント数の少なさ、がん特異的なアウトカムアセスメントの不在から、本結果は安心材料ではあるが、長期の腫瘍学的安全性を確定するものではない。",
+      "why_matters_ja": "SGLT2阻害薬の潜在的ながん原性、特に部位特異的な消化管腫瘍に関する議論は未解決であり、本メタアナリシスはSGLT2阻害薬の消化管がんリスクに関する安全性プロファイルの重要なエビデンスを提供する。",
+      "study_type_ja": "ランダム化比較試験の系統的レビューおよびメタアナリシス",
+      "endpoints_ja": "主要アウトカム：消化管腫瘍（有害事象として報告）。部位別解析：食道腫瘍、胃腫瘍、肝腫瘍、膵腫瘍、結腸腫瘍、大腸腫瘍、直腸腫瘍。サブグループ解析：薬剤別（カナグリフロジン、ダパグリフロジン、エンパグリフロジン）、ベースライン年齢、BMI、HbA1c、治療期間、用量。",
+      "endpoint_results_ja": "消化管腫瘍全体：OR=1.10, 95% CI: 0.84-1.44; p=0.46; I²=0%。食道：OR=1.12, 95% CI 0.37-3.45。胃：OR=1.20, 95% CI 0.65-2.23。肝：OR=0.62, 95% CI 0.31-1.22。膵：OR=0.91, 95% CI 0.51-1.64。結腸：OR=1.28, 95% CI 0.78-2.08。大腸：OR=0.76, 95% CI 0.27-2.17。直腸：OR=0.98, 95% CI 0.49-1.97。部位別解析の全p値>0.05。サブグループ解析（薬剤別、年齢、BMI、HbA1c、治療期間、用量）も全p>0.05。",
+      "sample_size_ja": "48件のRCT、n=48,765",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-03T23:18:02Z"
+    },
+    {
+      "pmid": "42689439",
+      "title": "Obesity, fasting, and chronic migraine: Can semaglutide disrupt the vicious cycle?",
+      "abstract": "",
+      "journal": "Headache",
+      "authors": "Abacıoğlu Hilmi Berkan, Kara Murat, Özçakar Levent",
+      "pub_date": "2026-09-03",
+      "doi": "10.1111/head.70209",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42689439/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "77252aac46eef839ed5da5f534692e15b4a578b2ce249e6da79fd25532bb4d55",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
+      "pmid": "42687846",
+      "title": "Pharmacotherapy of heart failure: Impact of the 2021 guideline update on guideline-directed medical therapy assessed using a Japanese employee health insurance claims database.",
+      "abstract": "OBJECTIVE: To investigate the impact of the 2021 guideline update on guideline-directed medical therapy (GDMT) utilization in patients with heart failure (HF).\nBACKGROUND: The 2021 update of the Japanese guidelines for HF management followed the introduction of sacubitril/valsartan and dapagliflozin into clinical practice. However, the impact of this guideline update on drug utilization patterns remains unclear.\nMATERIALS AND METHODS: Patient data were obtained from the Japanese employee health insurance claims database (JMDC). The simple GDMT score was determined based on the combination and dose of four key pharmacological classes: β-blockers, renin-angiotensin system inhibitors, mineralocorticoid receptor antagonists, and sodium-glucose cotransporter 2 inhibitors. Because a simple GDMT score of ≥ 5 has been associated with improved prognosis in patients with HF, patients with scores ≥ 5 were classified into the high-score group for analysis.\nRESULTS: Following the guideline update, the proportion of patients in the high-score group increased from 6.97% (n = 4,013) to 9.33% (n = 6,363), standardized difference 0.09. The mean simple GDMT score also showed a small but statistically significant increase (5.72 ± 0.79 vs. 6.00 ± 1.09) with standardized difference 0.28. This upward trend was particularly marked for the prescription rates of sacubitril/valsartan and dapagliflozin (sacubitril/valsartan: 1.40% before the update vs. 22.57% after the update; standardized difference, 0.69; dapagliflozin: 12.41% before the update vs. 26.64% after the update; standardized difference, 0.36).\nCONCLUSION: The 2021 guideline update was associated with increased use of sacubitril/valsartan and dapagliflozin, resulting in greater overall GDMT intensity. However, these findings are limited to data from 2021, and further long-term studies are needed to evaluate trends in GDMT utilization.",
+      "journal": "International journal of clinical pharmacology and therapeutics",
+      "authors": "Uno Takaya, Hosomi Kouichi, Yokoyama Satoshi",
+      "pub_date": "2026-09-03",
+      "doi": "10.5414/CP205008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687846/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "a7b234a3963b8b9d43b0f1160006170f406ad9ddfd70d1493f5988452f44f93c",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "2021年の日本心不全ガイドライン更新がガイドライン推奨薬物療法（GDMT）の利用に与えた影響を、日本の従業員健康保険請求データベース（JMDC）を用いて調査した。β遮断薬、レニン・アンギオテンシン系阻害薬、鉱質コルチコイド受容体拮抗薬、SGLT2阻害薬の4つの主要薬物クラスに基づく簡易GDMTスコアを算出し、スコア≥5を高スコア群として分類した。",
+      "key_takeaway_ja": "2021年のガイドライン更新後、サクビトリル/バルサルタンとダパグリフロジンの処方率が大幅に増加し、GDMT全体の強度（平均簡易GDMTスコア）が有意に向上した。",
+      "why_matters_ja": "ガイドライン更新が実際の臨床現場の薬物利用パターンにどのように影響を与えるかをリアルワールドデータで示すことで、ガイドラインの臨床実装効果を評価する参考となる。",
+      "study_type_ja": "観察研究（請求データベースを用いた後方視的コホート研究）",
+      "endpoints_ja": "高スコア群（簡易GDMTスコア≥5）の割合、平均簡易GDMTスコア、サクビトリル/バルサルタンの処方率、ダパグリフロジンの処方率",
+      "endpoint_results_ja": "高スコア群の割合: 6.97% (n=4,013) → 9.33% (n=6,363), 標準化差 0.09。平均簡易GDMTスコア: 5.72 ± 0.79 vs. 6.00 ± 1.09, 標準化差 0.28。サクビトリル/バルサルタン: 1.40% → 22.57%, 標準化差 0.69。ダパグリフロジン: 12.41% → 26.64%, 標準化差 0.36。",
+      "sample_size_ja": "高スコア群の人数は更新前 n=4,013、更新後 n=6,363 と記載されているが、総サンプルサイズ（全患者数）は抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-03T23:18:59Z"
+    },
+    {
+      "pmid": "42687799",
+      "title": "Postmarketing Safety Signals and Medication-Use Risks of GLP-1-Based Therapies in Diabetes and Obesity: A Multi-Source Pharmacovigilance and Regulatory Evidence-Mapping Study.",
+      "abstract": "AIMS: To characterise postmarketing safety signals and medication-use risks associated with GLP-1 receptor agonists and the GIP/GLP-1 co-agonist tirzepatide in diabetes and obesity care using an integrated pharmacovigilance, utilisation-context, regulatory, and external-consistency framework.\nMATERIALS AND METHODS: FDA Adverse Event Reporting System (FAERS) data from 2021Q1 through 2026Q1 were processed using deleted-case exclusion, latest-case-version retention, and case-product deduplication with analysis at the GLP-1 primary-suspect case-product level. Primary-suspect records for semaglutide, tirzepatide, dulaglutide, liraglutide, exenatide, and lixisenatide were analysed using reporting odds ratios, proportional reporting ratios, and an approximate Information Component. Medicaid utilisation data, FDA labelling/Safety-Related Labelling Changes resources, FDA shortage and compounded-product communications, and Canada Vigilance reports provided contextual interpretation; no data source was used to estimate incidence, comparative risk, or causality.\nRESULTS: The final FAERS analysis set included 243 114 GLP-1 primary-suspect case-product records within 8 995 547 background reports. Tirzepatide accounted for 133 100 records, followed by semaglutide (55619) and dulaglutide (38406). Frequently reported terms included incorrect dose administered, nausea, injection-site pain, diarrhoea, vomiting, off-label use, and extra dose administered. Prioritised domains included gastrointestinal intolerance, medication-use/device events, impaired gastric emptying, pancreatobiliary events, renal/dehydration events, and hypoglycaemia. Canada Vigilance and FDA labelling/SrLC mapping showed descriptive visibility for most major domains, while medication-use terms reflected use-process rather than conventional adverse-drug-reaction issues.\nCONCLUSIONS: Multi-source pharmacovigilance can improve interpretation of GLP-1 postmarketing safety evidence in diabetes and obesity care. Findings should be interpreted as signal-prioritisation and medication-safety evidence, not as incidence, proof of causality, or population-level comparative risk, given the limited clinical interpretability of spontaneous-reporting data.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Ren Long, Zhang Yuan, Fang Fang, Ma Yabin",
+      "pub_date": "2026-09-03",
+      "doi": "10.1111/dom.71303",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687799/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "cb2ad20403f931f527098bb6f95c6e24de4a171409c351085386ccfaa90837dc",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "GLP-1受容体作動薬およびGIP/GLP-1共作動薬tirzepatideの糖尿病・肥満治療における市販後安全性シグナルと薬剤使用リスクを、統合的な薬物警戒・利用コンテキスト・規制・外部整合性フレームワークを用いて特徴化する研究。FAERSデータ（2021年Q1〜2026年Q1）をdeleted-case exclusion、latest-case-version retention、case-product deduplicationを経て、GLP-1 primary-suspect case-productレベルで分析。ROR、PRR、近似ICを用いたシグナル検出に加え、Medicaid利用データ、FDAラベリング/SrLC、FDA供給不足・調剤品通信、Canada Vigilance報告を文脈的解釈に使用。最終分析セットは8,995,547件の背景報告内に243,114件のGLP-1 primary-suspect case-product記録を含む。",
+      "key_takeaway_ja": "マルチソース薬物警戒は糖尿病・肥満治療におけるGLP-1の市販後安全性証拠の解釈を改善しうるが、自発報告データの臨床的解釈の限界から、結果はシグナル優先順位付けおよび薬剤安全性証拠として解釈すべきであり、発症率、因果関係の証明、集団レベルの比較リスクとしては解釈すべきでない。",
+      "why_matters_ja": "GLP-1系薬剤は糖尿病・肥満治療で広く使用されており、市販後の安全性シグナルと薬剤使用リスクの把握は患者安全に重要である。本研究は、薬剤使用関連用語（誤った用量の投与、追加用量の投与など）が従来の有害事象（ADR）の問題ではなく使用プロセスの問題を反映していることを示し、薬物警戒データの解釈における重要な区別を提示している。",
+      "study_type_ja": "市販後薬物警戒研究（FAERS自発報告データを用いたシグナル検出：ROR、PRR、近似IC）および規制証拠マッピング研究。臨床試験ではない。",
+      "endpoints_ja": "GLP-1 primary-suspect case-productレベルでの安全性シグナル検出（ROR、PRR、近似ICによる優先ドメインの特定）。優先ドメイン：消化管不耐性、薬剤使用/デバイス関連事象、胃排出障害、膵胆道事象、腎/脱水事象、低血糖。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-03T23:19:31Z"
+    },
+    {
+      "pmid": "42687760",
+      "title": "Chronic kidney disease progression with proton pump inhibitors versus H2 receptor antagonists in NSAID users.",
+      "abstract": "BACKGROUND: Clinical evidence comparing the renal impact of proton pump inhibitors (PPIs) and Histamine-2 receptor antagonists (H2RAs) in patients with chronic kidney disease (CKD) receiving traditional non-steroidal anti-inflammatory drugs (tNSAIDs) is lacking. We evaluated CKD progression risk associated with PPIs versus H2RAs within a tNSAID-treated cohort to inform clinical prescribing.\nMETHODS: This retrospective cohort study used South Korean nationwide claims data (2018-2023). Stabilized inverse probability of treatment weighting (SIPTW) balanced the cohorts. Restricted cubic spline Cox regression addressed non-linear associations between CKD progression and cumulative exposure to tNSAIDs and acid suppressants (PPIs or H2RAs). Sensitivity analyses addressing unspecified CKD stages confirmed the robustness of the primary findings.\nRESULTS: Among 141 093 tNSAID initiators with CKD prescribed PPIs (n = 5315) or H2RAs (n = 7112), PPIs were associated with higher CKD progression risk than H2RAs (adjusted hazard ratio [aHR] 1.38, 95% CI 1.10-1.74). Baseline comorbidities-hypertension (aHR 2.03, 95% CI 1.37-2.99]), diabetes (1.69 [1.29-2.21]), and a history of kidney disease (1.43 [1.13-1.81])-and prior diuretic use (2.00 [1.56-2.58]) were associated with increased risk of CKD progression. In contrast, dapagliflozin or empagliflozin use was protective (0.49 [0.27-0.89]). The risk of CKD progression for PPIs relative to H2RAs was most pronounced in females, those with CKD stage 3, patients aged ≥71 years, and those with 1-15 days of treatment (all P < .05).\nCONCLUSION: Our findings suggest that H2RAs may be associated with a lower risk of CKD progression than PPIs in tNSAID users with CKD, potentially offering a safer alternative when PPI therapy is not indispensable.",
+      "journal": "Journal of nephrology",
+      "authors": "Park Susin, Chun Pusoon",
+      "pub_date": "2026-09-03",
+      "doi": "10.1093/joneph/aajag176",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687760/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "40fbde3eb9e212c38cd8fff0c2f97d4f5e6dd86705d7b87ab23199f2a4013494",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "韓国全国保険請求データ（2018-2023年）を用いた後方視コホート研究であり、tNSAID使用のCKD患者においてPPIとH2RAのCKD進行リスクを比較した。安定化逆確率治療重み付け（SIPTW）と制限的立方スプラインCox回帰を用い、PPIはH2RAと比較してCKD進行リスクが高いことを示した（aHR 1.38, 95% CI 1.10-1.74）。女性、CKDステージ3、71歳以上、治療期間1-15日の患者でリスク差が最も顕著であった。",
+      "key_takeaway_ja": "tNSAID使用のCKD患者において、PPIはH2RAと比較してCKD進行リスクが有意に高い（aHR 1.38, 95% CI 1.10-1.74）。PPIが不可欠でない場合、H2RAがより安全な代替選択肢となり得る。",
+      "why_matters_ja": "CKD患者におけるtNSAID併用時の胃酸抑制薬の選択は臨床的に重要な課題であり、本研究はPPIとH2RAの腎影響を直接比較した臨床証拠を提供し、処方判断に資する。特にSGLT2阻害薬（ダパグリフロジン・エンパグリフロジン）の保護効果（aHR 0.49）も示され、CKD管理における薬剤選択の戦略に示唆を与える。",
+      "study_type_ja": "後方視コホート研究（全国保険請求データ）",
+      "endpoints_ja": "CKD進行（主要エンドポイント）",
+      "endpoint_results_ja": "PPI vs H2RA: aHR 1.38, 95% CI 1.10-1.74。高血圧: aHR 2.03, 95% CI 1.37-2.99。糖尿病: aHR 1.69, 95% CI 1.29-2.21。腎疾患の既往: aHR 1.43, 95% CI 1.13-1.81。利尿薬の既往使用: aHR 2.00, 95% CI 1.56-2.58。ダパグリフロジンまたはエンパグリフロジン使用: aHR 0.49, 95% CI 0.27-0.89。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-03T23:20:23Z"
+    },
+    {
+      "pmid": "42687069",
+      "title": "Semaglutide Bioavailability: Limitations, Formulation Innovation and Future Opportunities.",
+      "abstract": "Semaglutide, a long-acting glucagon-like peptide-1 (GLP-1) receptor agonist, improved the type 2 diabetes mellitus treatment and obesity by its glucose-lowering and weight loss effects. Although the subcutaneous route provides high bioavailability and stable pharmacokinetics, the development of oral semaglutide makes a significant advancement in peptide therapeutics. However, oral delivery remains limited by an absolute bioavailability of only approximately 0.4-1% under optimized fasting conditions with restricted water intake, whereas systemic exposure is essentially absent in the fed state because plasma semaglutide concentrations remain below the limit of quantification. This extremely low exposure reflects peptide degradation within the gastrointestinal tract, poor epithelial permeability, gastric physiological constraints, and presystemic metabolism. The combination with sodium N-(8-[2-hydroxybenzoyl]amino) caprylate (SNAC) helps in gastric absorption by increasing the local gastric microenvironmental pH, thereby reducing acid-induced peptide unfolding, suppressing pepsin activation, maintaining semaglutide predominantly in its absorbable monomeric form by limiting oligomer formation, and enhancing transcellular uptake. But the oral form of semaglutide is constrained by narrow dose limits, considerable pharmacokinetic variability that, despite large fluctuations in individual absorption, produces relatively stable steady-state exposure because semaglutide's approximately one-week half-life and extensive albumin binding buffer day-to-day differences in absorption. This review examines semaglutide pharmacokinetics, focusing on mechanistic challenges to oral bioavailability and formulation approaches to address this. We assess emerging methods such as nanotechnology-based formulations, other permeation enhancers, enzyme inhibitors and device-based delivery systems for their abilities to improve absorption and efficacy. Furthermore, clinical efficacy and patient adherence as well as research opportunities are considered. Continual development of these technologies may emerge as a solution to enhance bioavailability, decrease dosing frequency and expand the range of uses of oral peptide therapies.",
+      "journal": "Pharmaceutical research",
+      "authors": "Vahora Shahin, Shah Vishal, Patel Bhavesh",
+      "pub_date": "2026-09-03",
+      "doi": "10.1007/s11095-026-04185-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687069/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "76f71bdd61abca50e909705cdcfdd30ec4a8dd4243fd07806ada5b258bc064af",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
+      "pmid": "42687024",
+      "title": "Current therapeutic landscape and future treatment perspectives of MASH.",
+      "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH), the progressive form of metabolic dysfunction-associated steatotic liver disease (MASLD), is a heterogeneous and systemic disease that confers risk not only for cirrhosis and hepatocellular carcinoma (HCC) but also for extrahepatic complications including cardiovascular disease and chronic kidney disease. Over the past decade, numerous late-stage clinical trials have advanced the therapeutic landscape of MASH, culminating in a pivotal inflection point with accelerated approval of the thyroid hormone receptor-β (THRβ) agonist resmetirom and the glucagon-like peptide-1 receptor (GLP-1R) agonist semaglutide, establishing pharmacological options for patients with non-cirrhotic MASH and fibrosis. Concurrently, growing evidence indicates that MASH comprises distinct, partially overlapping disease subsets, ranging from liver-centric phenotypes with accelerated fibrogenesis and liver-related outcomes to cardiometabolic phenotypes characterized by insulin resistance and increased cardiovascular risk. This suggests that optimal treatment efficacy will require stratified and potentially combinatorial approaches. In addition to lifestyle interventions, a cornerstone of MASLD management, pharmacotherapies targeting metabolic dysfunction (including PPAR agonists, FGF21 analogues or incretin-based and glucagon-based therapies), fibrogenesis, inflammation and/or the gut-liver axis are emerging. In this Review, we summarize the therapeutic landscape for MASH and discuss how recent advances in disease phenotyping and biomarkers may enable a transition towards personalized therapy.",
+      "journal": "Nature",
+      "authors": "Gallage Suchira, Govaere Olivier, Anstee Quentin M, Shulman Gerald I, Tacke Frank, Heikenwalder Mathias",
+      "pub_date": "2026-09-02",
+      "doi": "10.1038/s41586-026-10672-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687024/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Semaglutide",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptides",
+        "Non-alcoholic Fatty Liver Disease",
+        "Liver",
+        "Fatty Liver",
+        "Liver Cirrhosis",
+        "Receptors, Thyroid Hormone"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f1999bb80135ecae54c00de48e13e255182d1e69e8ba8c8d04608d3c4701ca78",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
+      "pmid": "42687002",
+      "title": "From measured BMI to documented obesity in hospitalized adults: a decade-long analysis and implications for cardiometabolic care.",
+      "abstract": "OBJECTIVE: Obesity contributes substantially to cardiometabolic and overall morbidity and mortality, yet remains underdiagnosed in clinical practice. We aimed to assess discharge documentation rates of obesity among hospitalized patients with elevated body mass index (BMI) and compare these with coding rates of other cardiometabolic risk factors.\nMETHODS: We conducted a cross-sectional analysis of adults hospitalized between 2013 and 2023 with BMI ≥ 30 kg/m² and no prior coded obesity or bariatric surgery. Obesity and metabolic comorbidities were identified via ICD-9 codes.\nRESULTS: Among 42,243 eligible adults (mean age 60.9 ± 16.9 years; 49.7% women; mean BMI 33.9 ± 3.9 kg/m²), only 10.6% had obesity documented at discharge. The likelihood of coding increased by 17% for each additional BMI unit (OR 1.17, 95% CI 1.16-1.18). Documentation was associated with higher utilization of obesity-related care, including metabolic clinic attendance (OR 2.26, 95% CI 2.05-2.49), bariatric surgery (OR 3.51, 95% CI 2.74-4.51), and GLP-1 receptor agonist prescriptions (OR 3.44, 95% CI 2.76-4.28). In comparison, diabetes was documented in 59.7% of patients with HbA1c ≥ 6.5%, and severe dyslipidemia in 39.0% of those with LDL-C ≥ 190 mg/dL.\nCONCLUSIONS: Despite being objectively measurable, obesity remains substantially underdocumented compared with other cardiometabolic risk factors. Documentation was associated with greater uptake of metabolic clinic visits, bariatric surgery, and GLP-1 receptor agonist therapy. As effective obesity treatments become routine practice, closing this documentation gap is a prerequisite for translating measured BMI into actionable care.",
+      "journal": "International journal of obesity (2005)",
+      "authors": "Avivi Ido, Zelmanoff Daniel D, Golan Netanel, Arbel Yaron",
+      "pub_date": "2026-09-02",
+      "doi": "10.1038/s41366-026-02201-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687002/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "cb0352e36564e291c0d8b499e326053f2d33d07276246a3a803bceaec113dbad",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
+      "pmid": "42686906",
+      "title": "Late-life semaglutide treatment slows ageing and extends lifespan in female mice.",
+      "abstract": "Pharmacological glucagon-like peptide-1 receptor (GLP-1R) activation reduces food intake and is an effective therapy for type 2 diabetes and obesity1. The use of GLP-1 medicines has revealed pleiotropic beneficial effects beyond glucose and weight control2-5, but little is known about the underlying basis of the pleiotropic effects. Here, treatment of 20-month-old female C57BL/6 mice with the GLP-1R agonist semaglutide for 3 months improved physiological function, attenuated hallmarks of ageing and modulated nutrient sensors and conserved genetic regulators of ageing. Continued treatment extended mouse lifespan. These effects parallel key features of calorie restriction, a dietary intervention that slows ageing, extends lifespan and alleviates a wide spectrum of ageing-associated diseases6. In a longitudinal study in direct comparison to matched calorie restriction, semaglutide treatment preserved baseline function and recapitulated many functional benefits of calorie restriction by attenuating age-associated decline, while also producing improvements above baseline and more favourable trajectories than calorie restriction in exploratory drive, spatial memory and glucose control. Together, these findings demonstrate that GLP-1R activation initiated late in life slows ageing and extends lifespan in female mice, supporting its function as a calorie restriction mimetic and providing a mechanistic framework that may help to explain its broad beneficial effects while revealing effects beyond those attributable to reduced calorie intake.",
+      "journal": "Nature",
+      "authors": "Feng Yufan, Barthez Marine, Wang Yifei, Chen Yibing, Qiu Huixian, Wang Chih-Ling, Heydari Kartoosh, Delcroix Melaine",
+      "pub_date": "2026-09-02",
+      "doi": "10.1038/s41586-026-10940-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686906/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "b2982620c529b9c31875a16200c4d1170f4a38667a91fbaf2e8cb3869e26d256",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
+      "pmid": "42686660",
+      "title": "Sodium-Glucose Cotransporter 2 Inhibition in Diabetic Macular Oedema: Emerging Evidence for Stage-Dependent Systemic-Retinal Responsiveness.",
+      "abstract": "AIMS: Sodium-glucose cotransporter 2 (SGLT2) inhibitors exert systemic cardiometabolic, renal and vascular effects that may influence retinal health, yet whether their effects on diabetic macular oedema (DMO) are stage-dependent remains unclear. We synthesized real-world, interventional and mechanistic evidence on responsiveness across disease stages and retinal phenotypes.\nMATERIALS AND METHODS: In this scoping review (PRISMA-ScR; prospectively registered, UMIN000061304), we searched PubMed, the Cochrane Library, ClinicalTrials.gov, WHO-ICTRP and Google Scholar for studies published from January 2014 to April 2026. Two reviewers independently screened and charted records. Heterogeneity precluded meta-analysis, so a qualitative meta-summary with exploratory E-value analyses was performed.\nRESULTS: Forty studies were included. Large administrative databases consistently associated SGLT2 inhibitor use with a 16%-35% lower DMO incidence (hazard ratio 0.65-0.84) and hazard ratios of 0.53-0.94 for diabetic retinopathy progression. In established DMO, observational studies reported hazard ratios of 0.39-0.81 for anti-vascular endothelial growth factor (VEGF) injections, corticosteroid therapy and repeat vitrectomy, with the first-vitrectomy estimate non-significant, and attenuation in severe non-proliferative or proliferative retinopathy. The only randomized trial (COMET) did not meet its primary endpoint; its fellow-eye and phenotype-specific subgroup analyses were exploratory and hypothesis-generating. Proposed mechanisms include suppression of microglial activation, oxidative stress and angiopoietin-2/VEGF signalling, although translational evidence remains preclinical.\nCONCLUSIONS: This predominantly observational evidence suggests that SGLT2 inhibitors may be associated with slower DMO disease kinetics across retinopathy stages, with reduced treatment burden most evident before severe retinopathy. Systemic SGLT2 inhibition may complement, rather than replace, anti-VEGF therapy, which remains the cornerstone of DMO management. These findings support prospective stage- and phenotype-stratified investigation.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Ishibashi Ryoichi, Hirayama Kiichi, Sakai Toshiki, Tatsumi Tomoaki, Takatsuna Yoko, Baba Takayuki, Koshizaka Masaya, Yokote Koutaro",
+      "pub_date": "2026-09-02",
+      "doi": "10.1111/dom.71295",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686660/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "e2f1b17ef7a7e6cf9e898d672461f22521b023e1ff67cae356c9d92da6fc4972",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
+      "pmid": "42685919",
+      "title": "Where the Future Lies: GLP-1 Receptor Agonists as Therapeutics for Dermatologic Comorbidities.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have transformed the management of obesity, type 2 diabetes mellitus, and cardiometabolic disease through effects on weight reduction, glycemic control, and systemic inflammation. Their varied immunometabolic actions have generated increasing interest in dermatology, where chronic inflammatory skin diseases frequently coexist with obesity, insulin resistance, metabolic syndrome, and cardiovascular disease. Emerging evidence from clinical trials, observational studies, and real-world analyses suggests that GLP-1RAs may improve outcomes in psoriasis and hidradenitis suppurativa while simultaneously reducing the burden of associated metabolic and cardiovascular comorbidities. In psoriasis, combination therapy with tirzepatide has demonstrated enhanced skin clearance, substantial weight loss, and reduced risk of psoriatic arthritis. In hidradenitis suppurativa, GLP-1RAs have been associated with improvements in cardiometabolic outcomes and reductions in systemic complications. Collectively, these findings support an evolving paradigm in which the greatest therapeutic utility of GLP-1RAs in dermatology may lie not in direct modulation of cutaneous inflammation but in addressing the metabolic dysfunction and chronic systemic inflammation that drive disease severity and multimorbidity. We review the current clinical evidence and propose a conceptual framework positioning GLP-1RAs as immune-metabolic therapies that target the systemic comorbidities of inflammatory skin disease, which may provide future opportunities for cutaneous disease modification and integrated dermatologic care.",
+      "journal": "Clinics in dermatology",
+      "authors": "DeCoster Mikaela, Narla Shanthi",
+      "pub_date": "2026-09-02",
+      "doi": "10.1016/j.clindermatol.2026.08.013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685919/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d1650fe9aed871bc386ee14fa8ec052b527f7fa8b87d6405d3533127f254801b",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
+      "pmid": "42685819",
+      "title": "Brca1 heterozygosity leads to hepatic steatosis in male and female mice despite sexually dimorphic effects on systemic metabolism.",
+      "abstract": "BACKGROUND: Carrying a germline BRCA1 mutation increases the risk of several cancers, including breast and ovarian cancer. While BRCA1 is best known for its role in DNA damage repair, emerging evidence suggests broader functions in metabolic regulation.\nMETHODS: To determine whether heterozygous loss of Brca1, as occurs in individuals carrying a germline mutation, modifies susceptibility to diet-induced metabolic dysfunction in a sex-dependent manner, wild-type (WT) and Brca1+/- mice of both sexes were fed a low-fat diet (LFD) or high-fat diet (HFD) and underwent longitudinal metabolic phenotyping.\nRESULTS: Female HFD-fed Brca1+/- mice exhibited exacerbated obesity, increased adiposity, hyperinsulinemia, and impaired glucose tolerance compared with WT controls. In contrast, male Brca1+/- mice showed modest resistance to HFD-induced weight gain and improved glucose tolerance. Human genetic analyses supported an association between BRCA1 and metabolic traits, including BMI, type 2 diabetes and liver fat accumulation. Despite divergent systemic metabolic phenotypes, Brca1 heterozygosity increased susceptibility to HFD-induced hepatic steatosis in both sexes. In HFD-fed female Brca1+/- mice, steatosis was associated with transcriptional remodeling linked to lipid accumulation and oxidative stress responses, together with reduced mitochondrial respiratory complex IV activity, altered mitochondrial morphology, lower hepatic ATP levels. Treatment with the dual GLP‑1/GIP receptor agonist tirzepatide improved systemic metabolic dysfunction and hepatic steatosis in HFD-fed female Brca1+/- mice.\nCONCLUSIONS: These findings identify Brca1 heterozygosity as a modifier of metabolic disease susceptibility and expand the biological role of BRCA1 beyond tumor suppression to include the regulation of metabolic health.",
+      "journal": "Metabolism: clinical and experimental",
+      "authors": "Palikhe Sailesh, Qiao Linlan, Kutz Caleb, Liang Xiaobo, Dhorajiya Poojaben, Koestler Devin C, Bhardwaj Priya, McCoin Colin S",
+      "pub_date": "2026-09-02",
+      "doi": "10.1016/j.metabol.2026.156758",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685819/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "e38e3778ef287c0c7df01fe45a0de5f3482cc14a0638ea6c2d786b6c20398537",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
+      "pmid": "42684836",
+      "title": "Effects and Safety of Henagliflozin on Cardiac Structure in Dialysis Patients with Heart Failure with Preserved Ejection Fraction.",
+      "abstract": "BACKGROUND: Few effective drug treatments exist for dialysis patients with heart failure with preserved ejection fraction (HFpEF). This study aimed to evaluate the effects of henagliflozin, a sodium-glucose cotransporter 2 (SGLT2) inhibitor, on cardiac structure, and its safety in such population.\nMETHODS: In this multicenter, randomized, double-blind, placebo-controlled trial, dialysis patients with HFpEF were randomly assigned (1:1) to receive henagliflozin or placebo for 24 weeks. All enrolled participants received conventional therapy. The primary outcome was the change in left ventricular mass index (LVMI) from baseline to week 24. The secondary outcomes were the changes in left atrial volume index (LAVI), E/e', e', and N-terminal pro-brain natriuretic peptide (NT-proBNP) and safety. Efficacy was assessed in the intention-to-treat population. Safety was assessed in the as-treated population. Analysis of covariance was used to assess treatment effects.\nRESULTS: A total of 112 participants were randomly assigned to the henagliflozin group (n=56) and the placebo group (n=56). Of these, 60 participants were on hemodialysis and 52 were on peritoneal dialysis. From baseline to week 24, henagliflozin resulted in a greater reduction inleast-squares mean (±SE) change in LVMI than placebo (-3.27±1.71 g/m2 versus 2.01±1.69 g/m2), with a between-group difference of -5.27 g/m2 (95% confidence interval [CI], -10.02 to -0.53 g/m2; P=0.03). In the prespecified subgroup by dialysis modality, the between-group difference in LVMI change from baseline to week 24 was -6.86 g/m2 (95% CI, -14.02 to 0.29 g/m2) among participants on peritoneal dialysis and -3.91 g/m2 (95% CI, -10.45 to 2.63 g/m2) among participants on hemodialysis. No between-group differences in secondary outcomes were observed. The incidence of adverse events was similar between the henagliflozin and placebo groups (36% vs. 34%).\nCONCLUSIONS: Henagliflozin was associated with a greater reduction in LVMI at week 24 compared with placebo and was tolerable in dialysis patients with HFpEF. Larger studies are needed to confirm the LVMI-lowering effect of henagliflozin.",
+      "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+      "authors": "Yan Hao, Wang Wei, Wu Wangshu, Li Ying, Qi Yinghui, Zhou Yijun, Zhang Weiming, Liu Shang",
+      "pub_date": "2026-09-02",
+      "doi": "10.2215/CJN.0000001201",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684836/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "66e620c887423166cc1808a5dead31d4287a7f09f6cc55605a2dd9af4a8086c7",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
     },
     {
       "pmid": "42683980",
@@ -910,10 +1443,10 @@
     },
     {
       "pmid": "42674355",
-      "title": "Reply - Letter to the Editor: Comment on \"Effect of Semaglutide with Metformin for Weight Loss and Fertility in Polycystic Ovary Syndrome (PCOS) Patients with Obesity: A Pilot Prospective Study.",
+      "title": "Reply - Letter to the editor: Comment on \"effect of semaglutide with metformin for weight loss and fertility in polycystic ovary syndrome (PCOS) patients with obesity: A pilot prospective study.",
       "abstract": "",
       "journal": "Clinical nutrition ESPEN",
-      "authors": "Bolek Tomáš, Turňová Petra, Péč Martin Jozef, Ságová Ivana, Jurica Jakub, Samoš Matej",
+      "authors": "Bolek Tomáš, Péč Martin Jozef, Ságová Ivana, Jurica Jakub, Samoš Matej, Turňová Petra",
       "pub_date": "2026-08-31",
       "doi": "10.1016/j.clnesp.2026.105080",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42674355/",
@@ -929,9 +1462,9 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "d4f06712e67e4c03789879f077e65f647269326d6299de8b484750a5ad2819c5",
+      "content_sha256": "093f01aac1189f8d258ea6c25d36150b310f78f1c388c70b8b5f74426c2c61ff",
       "fetched_at_utc": "2026-09-01T04:38:31Z",
-      "updated_at_utc": "2026-09-01T04:38:31Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
       "summary_ja": "抄録に記載なし",
       "key_takeaway_ja": "抄録に記載なし",
       "why_matters_ja": "抄録に記載なし",
@@ -940,7 +1473,7 @@
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-01T04:38:31Z"
+      "summary_generated_at_utc": "2026-09-03T23:14:59Z"
     },
     {
       "pmid": "42671848",
@@ -1173,7 +1706,7 @@
     {
       "pmid": "42669336",
       "title": "Cardio-renal protection of MRAs in kidney-transplanted diabetic patients.",
-      "abstract": "Kidney transplantation (KT) remains the optimal treatment for kidney failure, improving survival and quality of life. However, long-term graft outcomes have plateaued, largely due to transplant CKD and cardiovascular disease; agents such as mineralocorticoid receptor antagonists (MRAs) may help mitigate these risks. Mineralocorticoid receptor (MR) overactivation contributes to oxidative stress, inflammation, and fibrosis in both the heart and kidneys, suggesting a potential role for mineralocorticoid receptor antagonists (MRAs) in improving long-term patient and graft outcomes. Although evidence in KT is limited, MR blockade may offer clinical benefits by targeting aldosterone-mediated pathways. Proteinuria promotes sodium reabsorption in the aldosterone-sensitive distal nephron via epithelial sodium channels (ENaC), contributing to hypertension and volume overload. MRAs have been shown to reduce albuminuria and blood pressure in patients with diabetic nephropathy, even on background renin-angiotensin-aldosterone system (RAAS) blockade. The use of MRAs post-KT should be individualized, considering patient comorbidities and concomitant immunosuppressive therapy. While MRAs may provide cardiovascular and antiproteinuric benefits, the risk of hyperkalemia-though reduced with non-steroidal MRAs-must be carefully managed. PLAIN LANGUAGE SUMMARY: When the kidneys no longer work properly, receiving healthy kidney is the best way of treatment, called transplantation. After kidney transplantation (KT), the patient should receive several medicines to keep the new kidney healthy and protect it from rejection and failure. These medicines may help with immunity against the transplanted kidney or protect the kidney in general. One way the medicines may work is to decrease the effect of the hormone aldosterone, which helps control water and salt balance in the kidney by hanging on to sodium while releasing potassium from the body. By blocking aldosterone receptors, the body reduces protein leaking in the urine, controls blood pressure, minimizes kidney scarring, and protects against the hazardous effects of diabetes on the kidneys. Most evidence for these benefits comes from people who have not received a transplant, and transplant-specific studies are still small. In transplant recipients, these medicines may interact with anti-rejection therapy and can raise potassium. Care therefore requires careful patient selection, review of other medicines, and close monitoring of potassium, kidney function, and anti-rejection drug levels.",
+      "abstract": "Kidney transplantation (KT) remains the optimal treatment for kidney failure, improving survival and quality of life. However, long-term graft outcomes have plateaued, largely due to transplant CKD and cardiovascular disease; agents such as mineralocorticoid receptor antagonists (MRAs) may help mitigate these risks. Mineralocorticoid receptor (MR) overactivation contributes to oxidative stress, inflammation, and fibrosis in both the heart and kidneys, suggesting a potential role for mineralocorticoid receptor antagonists (MRAs) in improving long-term patient and graft outcomes. Although evidence in KT is limited, MR blockade may offer clinical benefits by targeting aldosterone-mediated pathways. Proteinuria promotes sodium reabsorption in the aldosterone-sensitive distal nephron via epithelial sodium channels (ENaC), contributing to hypertension and volume overload. MRAs have been shown to reduce albuminuria and blood pressure in patients with diabetic nephropathy, even on background renin-angiotensin-aldosterone system (RAAS) blockade. The use of MRAs post-KT should be individualized, considering patient comorbidities and concomitant immunosuppressive therapy. While MRAs may provide cardiovascular and antiproteinuric benefits, the risk of hyperkalemia-though reduced with non-steroidal MRAs-must be carefully managed.",
       "journal": "Pharmacological research",
       "authors": "El Essawy Basset, Safa Kassem, Al-Dalbhi Sultan, Chandraker Anil K",
       "pub_date": "2026-08-30",
@@ -1188,9 +1721,9 @@
       "matched_companies": [],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "eff5d75ff971dce1e3fff48e653c8eac27271883a0168234108fde8ea64ad156",
+      "content_sha256": "80c5ee52ed1be645bb03d420aee5f7176ec33942819677d702819875c303b19f",
       "fetched_at_utc": "2026-08-31T15:46:33Z",
-      "updated_at_utc": "2026-08-31T15:46:33Z"
+      "updated_at_utc": "2026-09-03T23:14:59Z"
     },
     {
       "pmid": "42669320",
@@ -1476,6 +2009,33 @@
       "content_sha256": "d230a60b8c514e8fd740cbf034db715b6b10450ab85b5be30decd3d982c32345"
     },
     {
+      "pmid": "42688617",
+      "title": "Comparative efficacy and safety of glucagon-like peptide 1 based drugs for weight loss in adults with overweight or obesity without diabetes: network meta-analysis of randomised controlled trials.",
+      "abstract": "OBJECTIVE: To compare the efficacy and safety of glucagon-like peptide 1 (GLP-1) based drug treatments for weight loss in adults with overweight or obesity without diabetes.\nDESIGN: Network meta-analysis of randomised controlled trials.\nDATA SOURCES: Embase, PubMed (Medline), and Web of Science, 1 January 2000 to 6 March 2026.\nELIGIBILITY CRITERIA FOR SELECTING STUDIES: Randomised controlled trials that enrolled adults with overweight or obesity, comparing GLP-1 receptor agonists or related co-agonists with placebo or active comparators, with a minimum intervention duration of 12 weeks. Excluded were trials that enrolled participants with diabetes, or where diabetes status could not be clearly determined.\nRESULTS: 58 trials of 24 214 participants were analysed. Compared with placebo, weight loss was greatest with retatrutide (-22.10%, 95% confidence interval -25.60% to -18.60%), followed by tirzepatide (-19.28%, -20.39% to -18.16%), and CagriSema (a combination of cagrilintide and semaglutide, -17.32%, -19.32% to -15.32%). Conventional GLP-1 receptor agonists showed more modest effects. Similar patterns were seen for waist circumference and lipid outcomes. Treatment rankings suggested a probabilistic hierarchy favouring next generation incretin based treatments, although confidence intervals overlapped for several comparisons. Low certainty evidence suggested higher rates for discontinuing treatment with danuglipron and retatrutide, whereas mazdutide showed better tolerability.\nCONCLUSIONS: In adults with overweight or obesity without diabetes, next generation incretin based treatments achieved greater weight loss than conventional GLP-1 receptor agonists. Differences in tolerability, limited head-to-head evidence, and residual uncertainty, however, should be considered when interpreting comparative treatment effects.\nSTUDY REGISTRATION: PROSPERO CRD420261279841.",
+      "journal": "BMJ medicine",
+      "authors": "Chen Deshi, Ma Bing, Sun Hao, Zhang Jing, Gong Linlin, Wang Weiwei, Liu Zihan, Zha Hongying",
+      "pub_date": "2026-08-27",
+      "doi": "10.1136/bmjmed-2026-003026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42688617/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "1b948dfa282bdcde85509d768bc25a3d0eab6afcd2b4b6fa71694dcfb81ebb34",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
       "pmid": "42663335",
       "title": "HFpEF-ABA Score and Finerenone in Patients With Heart Failure and Mildly Reduced or Preserved Ejection Fraction: Insights From the FINEARTS-HF Trial.",
       "abstract": "BACKGROUND: The HFpEF-ABA score is a simple diagnostic tool developed to estimate the probability of heart failure with preserved ejection fraction (HFpEF) using age, body mass index, and history of atrial fibrillation.\nOBJECTIVES: This study aims to evaluate the HFpEF-ABA score in patients with confirmed heart failure (HF) in the FINEARTS-HF trial, its prognostic implications, and the effect of finerenone treatment according to the HFpEF-ABA score.\nMETHODS: FINEARTS-HF was a randomized, placebo-controlled trial enrolling patients with HF with a left ventricular ejection fraction ≥40%. HFpEF-ABA scores (as a probability between 0% and 100%) were calculated at baseline and categorized as <75%, 75%-90%, or >90%. The association between HFpEF-ABA score and clinical outcomes was examined as well as the effect of finerenone across the range of HFpEF-ABA scores.\nRESULTS: Among 5,988 patients with available HFpEF-ABA scores, 1,940 (32.4%) had a score <75% (low probability), 1,241 (20.7%) had a score 75%-90% (intermediate probability), and 2,807 (46.9%) had a score >90% (high probability). Rates of HF outcomes were higher in patients with higher HFpEF-ABA scores. Examination of HFpEF-ABA score as a continuous variable showed a strikingly nonlinear association with outcomes; the rate of events was similar up to a score of ∼75%, above which there was a steep increase in the event rate. Finerenone reduced events consistently across HFpEF-ABA scores.\nCONCLUSIONS: Despite a proven diagnosis of HF with mildly reduced ejection fraction/HFpEF, one-third of participants in FINEARTS-HF had an HFpEF-ABA score <75%, yet the therapeutic effect of finerenone was consistent across the range of HFpEF-ABA scores included. Higher HFpEF-ABA scores were associated with a greater risk of HF events. (Finerenone Trial to Investigate Efficacy and Safety Superior to Placebo in Patients with Heart Failure [FINEARTS-HF]; NCT04435626).",
@@ -1716,6 +2276,71 @@
       "sample_size_ja": "N=1,223（ベースラインLVEFが40%以下213名、40%超1,010名）",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:03:07Z"
+    },
+    {
+      "pmid": "42684325",
+      "title": "Social Media Discussions of Anti-Diabetic Drugs and the Popularity of GLP-1 Therapies: Content Analysis.",
+      "abstract": "BACKGROUND: The clinical use of antidiabetic drugs (ADDs) has gained prominent public visibility due to the Food and Drug Administration (FDA) expansion of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) in recent years; these drugs are now widely prescribed for weight loss. This shift is reflected in online public discourse.\nOBJECTIVE: This study aimed to analyze the current online public discourse surrounding ADDs, with an emphasis on perceptions of insulin versus noninsulin therapies and the increasing prominence of weight loss-associated medications.\nMETHODS: We conducted a retrospective analysis of 23,580 English-language posts from the United States in 2023, using Boolean keyword searches to examine conversations about insulin-inclusive, with or without weight loss terms, and insulin-exclusive, with or without weight loss terms. We analyzed the volume and sentiment of online conversations regarding ADDs, frequency of drug mentions, proportion of posts by self-identified physicians, and thematic analysis of patient and clinician concerns.\nRESULTS: A total of 26,832 initial posts were collected in 2023. After post validation, 23,580 posts remained as the study sample size. Of the 23,580 posts, 4.6% (1087/23,580) mentioned insulin, and 95.4% (n=22,493) did not mention insulin. Semaglutide-containing drugs such as Ozempic and Mounjaro were the most referenced medications, particularly in weight-loss contexts. Weight loss conversations made up the majority of online posts. Conversations about insulin were marginal compared with conversations that did not mention insulin online. Only 7% to 10% of posts came from self-identified physicians. Key themes included drug accessibility, off-label use for weight management, concerns about supply shortages, insurance coverage, and growing calls for holistic care. Notably, public perspectives favored the dual efficacy of medications like Ozempic in managing diabetes and promoting weight loss.\nCONCLUSIONS: The discourse on ADDs is dominated by weight loss-oriented therapies, with GLP-1 RAs driving much of the engagement. This surveillance paper illustrates the current state of public health interests around antidiabetic medications associated with weight loss and raises concerns regarding equitable access for patients with diabetes. These findings underscore the need for updated clinical guidance on necessary lifestyle behaviors for antidiabetic medication use and ongoing monitoring of public opinions regarding chronic disease management medications.",
+      "journal": "JMIR diabetes",
+      "authors": "Stallion Chloe, Khan Tamkeen, Guerrero Christian, Tsipas Stavros, Wozniak Gregory",
+      "pub_date": "2026-08-26",
+      "doi": "10.2196/87590",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684325/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "16585dfe7904fa582cd6e3d6c01070fccabbd2b4e181a13548ad3daf4a789c11",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
+      "pmid": "42684246",
+      "title": "Digital Engagement and Predictors of Semaglutide Persistence and Weight Loss in Severe Obesity: 48-Week Observational Study.",
+      "abstract": "BACKGROUND: Real-world persistence with antiobesity pharmacotherapy is suboptimal: only 32% to 50% of patients persist with glucagon-like peptide-1 receptor agonists at 12 months, and fewer than 15% reach the 2.4 mg/week target dose. Digital platforms may support engagement, but their role remains poorly characterized.\nOBJECTIVE: This study aimed to evaluate whether baseline engagement with a structured digital assessment platform (Aviitam) predicts 48-week persistence and mediates weight-loss outcomes in adults with severe obesity initiating semaglutide 2.4 mg/week and to identify clinical and behavioral predictors of pharmacological response.\nMETHODS: In this prospective 48-week single-center observational cohort, all consecutive adults (≥18 y) with a BMI ≥40 kg/m² initiating semaglutide 2.4 mg/week through the French early-access program were enrolled. Baseline engagement with the Aviitam digital assessment platform was operationalized as a 3-level ordinal variable (never used, partial use, and full completion of validated questionnaires), reflecting the patient's responses to a nonenforced preclinical request. The primary outcome was 48-week persistence; secondary outcomes were full-dose attainment, percentage weight change, and dose-response. Adjusted logistic and linear regressions estimated the engagement-persistence and engagement-weight-loss associations. A Baron-Kenny mediation analysis with bootstrap CIs decomposed the engagement-weight-loss association. Missing 48-week weights were imputed using multiple imputation (m=20) as a sensitivity analysis. Among persistent participants who completed all 7 baseline questionnaires (n=91), behavioral-scale associations with weight change were analyzed using Benjamini-Hochberg false-discovery-rate correction.\nRESULTS: Of 191 participants (mean age 51.7, SD 6.8 y; 61/191, 31.9% male; mean BMI 45.7, SD 6.8 kg/m²), 37 (19.4%) had never used the platform, 32 (16.8%) used it partially, and 122 (63.9%) fully completed the questionnaires. At 48 weeks, 142 (74.3%) remained on semaglutide, and 124 (87.3%) of them reached the 2.4 mg/week dose. Persistence followed a monotonic gradient across engagement levels (22/37, 59.5%; 23/32, 71.9%; 97/122, 79.5%; P=.02), and each engagement increment was associated with higher odds of persistence (adjusted odds ratio 1.62, 95% CI 1.05-2.50; P=.03), unchanged under multiple imputation. Mean weight loss was 11.8% (SD 8.4%) in the full cohort and 14.6% (SD 7.3%) among persistent participants, with a steep dose-response (mean 3.9%, SD 5.8% in discontinuers to mean 15.3%, SD 7.2% at 2.4 mg/week; P<.001). Mediation analysis showed 48-week persistence mediated approximately 69% of the engagement-weight-loss association; the direct effect was nonsignificant. The Intuitive Eating Scale-2 was the only behavioral predictor surviving false-discovery-rate correction (q=0.05).\nCONCLUSIONS: Baseline engagement with a structured digital assessment platform predicts 48-week semaglutide persistence in a graded manner; low-engagement patients can be identified at initiation and supported with targeted strategies to maintain persistence and achieve full-dose titration.",
+      "journal": "Journal of medical Internet research",
+      "authors": "Tournayre Sarah, Bonnet Jean-Baptiste, Anitcheou Jean, Faivre Marion, Boegner Catherine, Jalek Abdulkader, Jullien Dominique, Le Rouzic Camille",
+      "pub_date": "2026-08-26",
+      "doi": "10.2196/80119",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684246/",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Semaglutide",
+        "Weight Loss",
+        "Glucagon-Like Peptides",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Adult",
+        "Prospective Studies",
+        "Obesity, Morbid",
+        "Anti-Obesity Agents"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "857e154c6d9d2f7bbcd1676dcbf4c753d139ae1e1d52a9dcb93aeb80f03069d9",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
     },
     {
       "pmid": "42664897",
@@ -5101,6 +5726,31 @@
       "sample_size_ja": ""
     },
     {
+      "pmid": "42689296",
+      "title": "Discovery of bioactive peptides from Arbacia lixula as dipeptidyl peptidase-IV inhibitors: An in silico approach.",
+      "abstract": "Dipeptidyl peptidase-IV (DPP-IV) inhibition is a validated therapeutic mechanism for type 2 diabetes mellitus. Marine-derived bioactive peptides offer a diverse array of potential inhibitors but often exhibit pharmacokinetic limitations that impede clinical translation. This study aimed to identify and evaluate candidate peptides from Arbacia lixula as potential DPP-IV inhibitors using an integrated in silico approach. A total of twenty peptides were evaluated in silico for absorption, distribution, metabolism, excretion, and toxicity (ADMET) profiles using SwissADME, pkCSM, and ProTox. Molecular docking against DPP-IV was performed in MOE v2022.02 with linagliptin as the reference ligand; docking poses were evaluated by predicted binding energy and root mean square deviation (RMSD). Top-ranked peptide-DPP-IV complexes were subjected to 50 ns molecular dynamics (MD) simulations in YASARA Dynamics v4.3.13 to assess conformational stability. ADMET predictions showed low gastrointestinal absorption in most peptides, whereas Peptides 17, 18, and 20 showed high predicted absorption. No target-organ or endpoint-specific toxicity was predicted. Peptides 7, 15, and 18 were prioritized based on favorable docking scores, RMSD <2.0 Å, and relevant DPP-IV residue interactions. Docking scores were interpreted cautiously, not as direct quantitative comparisons with linagliptin. During 50 ns MD simulations, RMSD, root mean square fluctuation, radius of gyration, and solvent-accessible surface area profiles supported the stability, compactness, and dynamic consistency of selected peptide-DPP-IV complexes. Peptides 7, 15, and 18 showed favorable in silico predicting binding, relevant DPP-IV interactions, and acceptable preliminary safety profiles as potential DPP-IV inhibitory candidates. These findings should be interpreted as computational leads that require further in vitro and in vivo validation.",
+      "journal": "Journal of advanced pharmaceutical technology & research",
+      "authors": "Taufiqa Zuhrah, Maisa Benny Alexander, Cuandra Kevin Nathaniel, Sihombing Enrico Franditho, Ridho Muhammad Fathu, Silalahi Sheryl Pricilla Daniela Elizabeth, Widi Vina Sari Nugrahaning, Adila Afifah Rahma",
+      "pub_date": "2026-08-12",
+      "doi": "10.4103/JAPTR.JAPTR_41_26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42689296/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "linagliptin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "7f0b08c80f60aa6e79137a998037990225e53f52726f56a5834a5fe6f486f777",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
       "pmid": "42653207",
       "title": "Analysis of Allele-Specific Expression Highlights Novel Participants of Empagliflozin-Driven Effects on T2DM-Associated Regulatory Pathways.",
       "abstract": "It is well-known that the morbidity and clinical burden of type 2 diabetes mellitus (T2DM) are predominantly associated with its chronic complications, in which fibrosis is a significant contributor. Recently, sodium-glucose cotransporter 2 (SGLT2) inhibitors have made a pivotal advancement in the therapeutic landscape not only improving glycemic control, but also demonstrating high effectiveness in the prevention and treatment of T2DM complications. In this work, we aimed to assess the transcription factors (TFs) mediating the effects of SGLT2 inhibitor empagliflozin (EMPA) treatment by a comprehensive analysis of the allele-specific expression (ASE) events utilizing the RNA-seq data. Initial logistic regression analysis of the in vitro transcriptomic data for EMPA-treated peripheral blood mononuclear cells (PBMCs) of three healthy donors revealed a significant inter-individual variation in ASE for 240 genes linked to EMPA treatment beyond the glucose-lowering effects. Then, 146 TFs were predicted to regulate the expression of the corresponding targets using motifbreakR and DESeq2. Among these, multiple TFs (including ATF3, ATF4, E2F1, EGR1, FOS, JUN, JUNB, IRF8, KLF6, KLF11, SNAI1, TWIST1, and ZEB1) were involved in the TGF-β/SMAD3 canonical profibrotic signaling cascade, pertinent to diabetes-related fibrosis, playing a significant role in the development of diabetic complications. Further analysis of the in vivo data for the PBMCs from ten T2DM patients initiating EMPA therapy identified 98 TFs related to the ASE variation in both in vitro and in vivo cohorts. To conclude, our integrative allele-specific approach enables the prediction of novel EMPA-responsive regulatory interactions and suggests the important mediators of the mechanisms underlying the effects of EMPA on human PBMCs.",
@@ -6962,6 +7612,49 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42687606",
+      "title": "Effect of Food on Balcinrenone/Dapagliflozin Pharmacokinetics and the Pharmacokinetics of Balcinrenone When Dosed with a P-gp Inhibitor.",
+      "abstract": "Balcinrenone (AZD9977) is a novel selective non-steroidal mineralocorticoid receptor antagonist with a distinct mode of action being developed as a fixed-dose combination with the sodium-glucose cotransporter-2 inhibitor dapagliflozin for the treatment of heart failure with impaired kidney function, and chronic kidney disease. In this Phase 1 randomized open-label three-way crossover study we investigated the effect of food on balcinrenone/dapagliflozin pharmacokinetics, and the pharmacokinetics of balcinrenone when dosed with a P-glycoprotein (P-gp) inhibitor. Fourteen healthy participants were administered an oral capsule of balcinrenone/dapagliflozin 40 mg/10 mg in three dosing periods: fasted (reference), fed (high-fat, high-calorie meal) and with a P-gp inhibitor (quinidine 300 mg × 2). Balcinrenone exposure was comparable in the fed and fasted states (geometric mean ratios [GMRs] [90% CI]: maximum plasma concentration [Cmax] 1.05 [0.88, 1.25]; area under the plasma concentration-time curve from time 0 to infinity [AUCinf] 1.12 [1.06, 1.19]). In the fed state, dapagliflozin AUCinf was comparable to the fasted state (GMR [90% CI] 1.05 [1.01, 1.09]), whereas Cmax was decreased (GMR [90% CI] 0.59 [0.51, 0.69]), in line with previous dapagliflozin food interaction studies. Co-administration with quinidine increased balcinrenone exposure: GMRs (90% CI) 1.48 (1.24, 1.76) and 1.24 (1.17, 1.31) for Cmax and AUCinf, respectively, but AUC fold increase was <2, the level used for classification of sensitive P-gp substrates. All interventions were well tolerated. In conclusion, this study supports dosing of balcinrenone/dapagliflozin without regard to food. Balcinrenone is not considered a sensitive P-gp substrate. No P-gp based dosing precautions are warranted based on this study.",
+      "journal": "Journal of clinical pharmacology",
+      "authors": "Eriksson Anna L, Karsanji Deeyen, Shi Amy H, Parkinson Joanna, Heijer Maria, Austin Edward, Lindmark Bosse, Vedin-Nilsson Charlotta",
+      "pub_date": "2026-01-01",
+      "doi": "10.1002/jcph.70282",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687606/",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase I"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Food-Drug Interactions",
+        "Cross-Over Studies",
+        "Male",
+        "Adult",
+        "Benzhydryl Compounds",
+        "ATP Binding Cassette Transporter, Subfamily B, Member 1",
+        "Female",
+        "Mineralocorticoid Receptor Antagonists",
+        "Glucosides",
+        "Young Adult",
+        "Area Under Curve",
+        "Fasting",
+        "Middle Aged",
+        "Caprylates"
+      ],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "14f61f685391101c92dfb97470d6db0b578dfa94a5befa003c1c1861f9eb8b9a",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z"
     },
     {
       "pmid": "42674550",
