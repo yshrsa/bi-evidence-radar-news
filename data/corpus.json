@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-03T23:14:59Z",
+  "generated_at_utc": "2026-09-04T23:01:37Z",
   "documents": [
     {
       "pmid": "42666995",
@@ -143,6 +143,351 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
+    },
+    {
+      "pmid": "42696402",
+      "title": "Metformin-Associated Lactic Acidosis and Relative Euglycemic Ketoacidosis Precipitated by a Glucagon-Like Peptide-1 Receptor Agonist: A Case Report and Literature Review.",
+      "abstract": "Metformin-associated lactic acidosis (MALA) is an uncommon but often fatal complication of metformin therapy (incidence less than 10 per 100,000 patient-years; with a 30-50% mortality). MALA most commonly occurs with acute kidney injury, which impairs metformin excretion and inhibits mitochondrial complex I, shifting pyruvate metabolism toward lactate production. Euglycemic diabetic ketoacidosis (euDKA), classically defined as DKA with glucose below 250 mg/dL, is increasingly recognized not only with sodium-glucose cotransporter-2 (SGLT2) inhibitors but also with glucagon-like peptide-1 receptor agonists (GLP-1 RA) through appetite suppression, vomiting, and reduced intake. Concurrent MALA and ketoacidosis with relative euglycemia is exceedingly rare, with no published synthesis of such cases to guide recognition or management. We present a case of severe MALA with ketoacidosis and relative euglycemia in a 59-year-old woman with type 2 diabetes on metformin and tirzepatide, managed successfully with emergent sequential hemodialysis and high-dose continuous venovenous hemodiafiltration. We also review reported MALA cases with GLP-1 RA use to identify shared precipitants, risk factors, and outcomes. The key lesson is that, in patients on metformin and a GLP-1 RA, gastrointestinal side effects can precipitate MALA, while a disproportionately low glucose can mask the accompanying ketoacidosis. Recognizing this pattern demands early measurement of serum beta-hydroxybutyrate and prompt initiation of renal replacement therapy.",
+      "journal": "Kidney360",
+      "authors": "Adnani Harsha, Ladiwala Zoya, Lee Melinda, Patel Ami, King Joshua, Weir Matthew R",
+      "pub_date": "2026-09-04",
+      "doi": "10.34067/KID.0000001379",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696402/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "1fbb1ca1dbe006f5949d72f0557dfc7539229cba25c77c2bd2790877e9d359ab",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z",
+      "summary_ja": "メトホルミン関連乳酸アシドーシス（MALA）は稀だが致死率の高い合併症であり、通常は急性腎障害を背景に発症する。一方、血糖値250 mg/dL未満の糖尿病ケトアシドーシス（euDKA）はSGLT2阻害薬だけでなくGLP-1受容体作動薬（GLP-1 RA）でも食欲抑制・嘔吐・摂取量減少を介して認識されつつある。本報告は、メトホルミンとtirzepatideを服用中の59歳女性2型糖尿病患者で、重度のMALAにケトアシドーシスおよび相対的血糖正常を伴った症例を提示し、緊急の連続血液透析および高用量持続静脈-静脈血液濾過透析（CVVHDF）により成功裏に治療した。さらに、GLP-1 RA使用を伴うMALA症例の文献レビューを行い、共通する誘因・リスク因子・予後を整理した。",
+      "key_takeaway_ja": "メトホルミンとGLP-1 RAを併用中の患者では、消化管副作用がMALAを誘発し得る一方、相対的に低い血糖値が随伴するケトアシドーシスを隠蔽し得る。このパターンを認識するためには、血清β-ヒドロキシブチル酸の早期測定と腎代替療法の迅速な開始が求められる。",
+      "why_matters_ja": "MALAとケトアシドーシスが相対的血糖正常を伴って同時に出現することは極めて稀であり、認識や管理を導くための公表された統合報告はこれまでなかった。GLP-1 RAの普及に伴い、メトホルミン併用患者でのこの合併症の認識が臨床的に重要となる。",
+      "study_type_ja": "症例報告および文献レビュー",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "症例報告は1例（59歳女性）。文献レビューの症例数は抄録に記載なし。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-04T23:01:59Z"
+    },
+    {
+      "pmid": "42696191",
+      "title": "Oral Incretin-Based Therapies for Weight Management.",
+      "abstract": "PURPOSE OF REVIEW: This paper aims to review the current development of oral incretin-based therapies for treatment of overweight and obesity, and outline the efficacy of upcoming therapeutic candidates as well as their safety profiles. Clinical recommendations are provided regarding the role of oral incretin-based therapies for treatment of overweight and obesity.\nRECENT FINDINGS: Until recently, almost all incretin-based therapies have been injectable formulations due to limitations in absorption and bioavailability. Recently, novel techniques have emerged to overcome these barriers, with two agents (oral semaglutide and orforglipron) having obtained FDA approval; multiple other candidates are currently in development. Semaglutide is a peptide GLP-1 receptor agonist and orforglipron is a small-molecule biased GLP-1 receptor agonist approved for treatment of obesity; oral semaglutide is additionally approved for secondary cardiovascular risk reduction. In phase 3 trials, oral semaglutide and orforglipron have demonstrated clinically significant weight loss efficacy of > 10% with an adverse-event profile consistent with the GLP-1 class. Differences in formulations of novel oral agents result in differences in administration guidelines and potential risk of adverse events; with particular concern of drug-induced liver injury observed with first generation small-molecule incretin therapies. Overall, oral incretin-based therapies offer a promising new and potentially more accessible option for patients with overweight or obesity.",
+      "journal": "Current atherosclerosis reports",
+      "authors": "Cheng Henry Evan, Bonafede Michael, Shukla Alpana P",
+      "pub_date": "2026-09-04",
+      "doi": "10.1007/s11883-026-01456-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696191/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Incretins",
+        "Semaglutide",
+        "Obesity",
+        "Administration, Oral",
+        "Glucagon-Like Peptides",
+        "Weight Loss",
+        "Anti-Obesity Agents",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Overweight"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "7c54a622f2f9d763c5ed884f7174e7c3c4d5f965e21a3a2a8412945e2a13b798",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z",
+      "summary_ja": "本レビューは、過体重・肥満の治療における経口インクレチン系療法の開発现状を総説する。従来のインクレチン系療法は吸収・生体利用率の限界によりほぼすべて注射製剤であったが、近年の技術革新により経口製剤の開発が進み、経口セマグルチド（ペプチドGLP-1受容体作動薬）とオルフォグリプロン（低分子バイアスGLP-1受容体作動薬）がFDA承認を取得した。第III相試験において両薬剤は10%超の臨床的に有意な減量効果を示し、有害事象プロファイルはGLP-1クラスと一致した。経口製剤の配合の違いにより投与ガイドラインや有害事象リスクに差異が生じ、初世代低分子インクレチン療法では薬剤性肝障害が特に懸念される。",
+      "key_takeaway_ja": "経口セマグルチドとオルフォグリプロンは第III相試験で10%超の減量効果を示し、過体重・肥満患者にとってよりアクセスしやすい有望な治療選択肢を提供する。",
+      "why_matters_ja": "従来のインクレチン系療法は注射製剤が中心であり、経口製剤の登場は患者のアドヒアランス向上と治療アクセスの拡大に寄与する可能性がある。また、経口製剤の配合差に伴う有害事象リスク（特に薬剤性肝障害）の理解は臨床実践上重要である。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "減量効果（体重減少率）、有害事象プロファイル",
+      "endpoint_results_ja": "経口セマグルチドおよびオルフォグリプロンは第III相試験で10%超の臨床的に有意な減量効果を示した。有害事象プロファイルはGLP-1クラスと一致した。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-04T23:02:18Z"
+    },
+    {
+      "pmid": "42695992",
+      "title": "Efficacy and safety of canagliflozin are consistent across polypharmacy burden in CKD: the CREDENCE trial.",
+      "abstract": "BACKGROUND: Polypharmacy in chronic kidney disease (CKD) is substantial. Clinicians and patients are often reluctant to add medications to already complex regimens, partly due to concerns about diminishing efficacy and increased adverse effects. We assessed whether efficacy and safety of canagliflozin is modified by polypharmacy status in patients with type 2 diabetes and CKD.\nMETHODS: We conducted a post-hoc analysis of the CREDENCE trial, which evaluated the effects of canagliflozin on outcomes in patients with type 2 diabetes and CKD. Participants were categorized as no polypharmacy (0-4 medicines), polypharmacy (5-9 medicines), or hyperpolypharmacy (≥10 medicines). We assessed the relative effects of canagliflozin on clinical and safety outcomes by polypharmacy status using Cox proportional hazards models. We assessed absolute benefits using Poisson regression. The primary outcome was a composite of doubling of serum creatinine, kidney failure or death due to cardiovascular or kidney disease.\nRESULTS: Among 4401 participants, 612 (14%), 2404 (55%), and 1385 (31%) were categorized as no polypharmacy, polypharmacy and hyperpolypharmacy, respectively. Mean number of medications was 8.3 (SD 3.77). The effect of canagliflozin on kidney and cardiovascular outcomes was consistent irrespective of polypharmacy status, with no interaction observed for safety outcomes (all P-interaction > 0.06). Rates of treatment discontinuation increased with medication burden, but were lower with canagliflozin versus placebo, regardless of polypharmacy status (P-interaction = 0.16). Incidence of all-cause hospitalization, and heart failure hospitalization or cardiovascular death increased with higher medication burden, thus absolute risk reductions were estimated to be substantially greater in patients with polypharmacy and hyperpolypharmacy.\nCONCLUSION: Among patients with type 2 diabetes and CKD, the efficacy and safety of canagliflozin appears consistent regardless of polypharmacy status, with larger estimated absolute reductions in hospitalizations and cardiovascular events in those experiencing polypharmacy or hyperpolypharmacy. These findings suggest that polypharmacy alone should not preclude consideration of SGLT2 inhibitor therapy in patients with CKD and type 2 diabetes for whom treatment is otherwise indicated.",
+      "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+      "authors": "Yeung Emily K, Siriwardana Amanda, Buizen Luke, Tang Arthur H C, Jun Min, Polkinghorne Kevan R, Tang Sydney C W, Kotwal Sradha",
+      "pub_date": "2026-09-04",
+      "doi": "10.1093/ndt/gfag203",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42695992/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "da0bc7f3397be2bf94e8046526247831061fea6d58f944e72ccca9719d8dfdc4",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z",
+      "summary_ja": "CREDENCE試験の事後解析として、2型糖尿病を合併した慢性腎臓病（CKD）患者において、カナグリフロジンの有効性及び安全性が多剤使用（ポリファーマシー）の状態によって変調されるかを評価した。参加者を非ポリファーマシー（0〜4剤）、ポリファーマシー（5〜9剤）、ハイパーポリファーマシー（10剤以上）に分類し、Cox比例ハザードモデルで相対効果、Poisson回帰で絶対的有益性を評価した。",
+      "key_takeaway_ja": "カナグリフロジンの腎・心血管アウトカムに対する効果はポリファーマシー状態に関わらず一貫しており、安全性アウトカムでも相互作用は認められなかった。ポリファーマシーまたはハイパーポリファーマシーの患者では、入院および心血管イベントの絶対的リスク低減がより大きいと推定された。",
+      "why_matters_ja": "CKD患者におけるポリファーマシーは重大な問題であり、臨床医や患者は複雑な治療レジメンに薬剤を追加することに消極的である。本研究は、ポリファーマシー単独ではSGLT2阻害薬治療の検討を妨げるべきではないことを示唆し、臨床現場での治療判断に直接寄与する。",
+      "study_type_ja": "ランダム化比較試験（CREDENCE試験）の事後解析",
+      "endpoints_ja": "主要アウトカム：血清クレアチニン値の2倍化、腎不全、または心血管疾患または腎疾患による死亡の複合エンドポイント。その他：安全性アウトカム、治療中止、全原因入院、心不全入院または心血管死亡。",
+      "endpoint_results_ja": "参加者4401名中、非ポリファーマシー612名（14%）、ポリファーマシー2404名（55%）、ハイパーポリファーマシー1385名（31%）。平均薬剤数は8.3（SD 3.77）。安全性アウトカムで相互作用は認められず（全P-interaction > 0.06）。治療中止のP-interaction = 0.16。全原因入院および心不全入院または心血管死亡の発生率は薬剤負荷の増加に伴い増加し、ポリファーマシーおよびハイパーポリファーマシーの患者で絶対的リスク低減がより大きいと推定された。",
+      "sample_size_ja": "4401名",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-04T23:02:38Z"
+    },
+    {
+      "pmid": "42695342",
+      "title": "SGLT2 inhibitor ameliorates hypertension by regulating the CYP4A/20-HETE pathway in the kidney.",
+      "abstract": "Sodium-Glucose Transport Protein 2 inhibitors (SGLT2i), initially developed as antidiabetic agents and now established as foundational therapies for heart failure, have also shown antihypertensive effects in clinical trials involving patients with diabetes and heart failure. However, the underlying mechanisms remain incompletely understood. Given the diverse roles of arachidonic acid (AA) and its metabolites in blood pressure regulation, we investigated the antihypertensive effects of SGLT2i in hypertensive patients and an animal model, and explored whether modulation of AA metabolism contributes to these effects. We first confirmed the antihypertensive effects of SGLT2i in a retrospective cohort study and spontaneously hypertensive rats (SHRs). Targeted metabolomic analysis of plasma and tissues from SHRs identified 20-hydroxyeicosatetraenoic acid (20-HETE) originating from the renal cortex as a key metabolite modulated by SGLT2i. Among the enzymes responsible for 20-HETE production, CYP4A but not CYP4F was found to be downregulated by dapagliflozin at both mRNA and protein levels. Immunofluorescence colocalization further localized this effect to proximal tubular epithelial cells, where SGLT2i reduced CYP4A expression and subsequent 20-HETE production, leading to attenuated renal inflammation, fibrosis and blood pressure elevation. Together, these findings not only confirm the antihypertensive effects of SGLT2i but also delineate a novel antihypertensive mechanism by which lower blood pressure, demonstrating that modulation of arachidonic acid metabolism contributes partially to blood pressure-lowering effects.",
+      "journal": "Bioscience reports",
+      "authors": "Zhou Zhitong, Hang Weijian, Zhao Rui, Jiang Jiangang, Wu Junfang, Wang Dao Wen",
+      "pub_date": "2026-09-04",
+      "doi": "10.1042/BSR20260150",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42695342/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c0c50beb0487ab9207952800630904ec8072d3662ce1db9b216e86727dc705dd",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z",
+      "summary_ja": "SGLT2阻害薬（SGLT2i）の降圧作用の機序を解明するため、後ろ向きコホート研究と自己高血圧ラット（SHR）を用いて検討した。標的メタボローム解析により、腎皮質由来の20-HETEがSGLT2iにより調節される主要代謝物として同定された。ダパグリフロジンによりCYP4A（CYP4Fではない）がmRNAおよびタンパク質レベルで低下し、近位尿細管上皮細胞に局在することが免疫蛍光共局在により確認された。これにより20-HETE産生が減少し、腎炎症・線維化・血圧上昇が軽減された。",
+      "key_takeaway_ja": "SGLT2阻害薬は腎近位尿細管上皮細胞におけるCYP4Aの発現を低下させ、20-HETE産生を抑制することで降圧作用を発揮する新たな機序が示された。",
+      "why_matters_ja": "SGLT2阻害薬の降圧作用は臨床試験で確認されているが、その機序は十分に解明されていなかった。本研究はアラキドン酸代謝（CYP4A/20-HETE経路）の調節が降圧効果に部分的に寄与することを示し、SGLT2阻害薬の降圧作用の新たな機序を明らかにした。",
+      "study_type_ja": "後ろ向きコホート研究および動物実験（自己高血圧ラット）による機序解明研究",
+      "endpoints_ja": "血圧、20-HETE濃度、CYP4A発現（mRNAおよびタンパク質レベル）、腎炎症、腎線維化",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-04T23:02:57Z"
+    },
+    {
+      "pmid": "42695140",
+      "title": "Adjunctive Treatments for Patients with Type 1 Diabetes Using Automated Insulin Delivery Systems. A Narrative Review.",
+      "abstract": "Automated Insulin Delivery (AID) systems represent the most effective and safe treatment for the management of type 1 diabetes (T1D). Antidiabetic agents used for the treatment of type 2 diabetes, such as the Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists (RAs), the dual Glucose-dependent Insulinotropic Polypeptide and GLP-1 RA and the Sodium-Glucose co-Transporter 2 inhibitors are associated with clinically significant weight loss and cardioprotective effect. Given the increased prevalence of overweight, obesity, and cardiovascular risk in patients with T1D, the addition of these medications to AID treatment is of considerable clinical interest. In this review limited data from randomized controlled and observational trials show that in overweight and obese patients with T1D treated with AID, the addition of weekly semaglutide, or tirzepatide is associated with significant weight loss, reduction in total daily insulin dose and increase in Time In target Range (TIR) without increased risk for hypoglycemia and Diabetic Ketoacidosis (DKA). Similarly, adjunctive treatment with empagliflozin resulted in increased TIR without increase in hypoglycemia, reduction in insulin requirements, and increase in the mean plasma ketone value, although DKA remained rare. However, studies of longer duration with more participants are required to establish the long-term safety and efficacy of these interventions in patients with T1D treated with AID.",
+      "journal": "Diabetes technology & therapeutics",
+      "authors": "Kitsios Konstantinos, Trakatelli Christina-Maria",
+      "pub_date": "2026-09-04",
+      "doi": "10.1177/15209156261486127",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42695140/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin",
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim",
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "72098b8ea31b88c5e3c82a6f336cf077a75759d959d0fe589ddfcb5f3d67cb09",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z",
+      "summary_ja": "本論文は、1型糖尿病（T1D）患者における自動インスリン投与（AID）システムへの併用療法（GLP-1受容体作動薬、GIP/GLP-1二重受容体作動薬、SGLT2阻害薬）に関する叙述的レビューである。肥満・過体重のT1D患者においてAIDに併用した週1回セマグルチド、チルゼパチド、エンパグリフロジンの有効性と安全性を、ランダム化比較試験および観察研究の限られたデータから検討した。",
+      "key_takeaway_ja": "肥満・過体重のT1D患者においてAIDにセマグルチド、チルゼパチド、またはエンパグリフロジンを併用すると、体重減少、総日量インスリン用量の減少、TIR（目標範囲内時間）の増加が認められ、低血糖やDKAのリスク増加は認められなかった。ただし、長期の安全性と有効性を確立するためには、より長期かつ大規模な研究が必要である。",
+      "why_matters_ja": "T1D患者において過体重・肥満および心血管リスクの有病率が増加しており、AIDへの併用療法は臨床的に重要な関心事である。",
+      "study_type_ja": "叙述的レビュー（Narrative Review）",
+      "endpoints_ja": "体重、総日量インスリン用量、Time In target Range（TIR）、低血糖リスク、糖尿病性ケトアシドーシス（DKA）、平均血漿ケトン値",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-04T23:03:23Z"
+    },
+    {
+      "pmid": "42692477",
+      "title": "Trends in GLP-1 Receptor Agonist Prescriptions for Children Ages 8 to 11 With Obesity: 2019-2026.",
+      "abstract": "BACKGROUND AND OBJECTIVES: Clinical practice guidelines for pediatric obesity management allow for consideration of glucagon-like peptide-1 receptor agonists (GLP-1RA) in children ages 8-11. No study has documented secular trends in GLP-1RA prescribing in this group. We hypothesized that there would be a significant increase over time, particularly for children with more severe obesity, greater comorbidity burden, and less socioeconomic vulnerability.\nMETHODS: This retrospective cross-sectional study of repeated annual cohorts from Epic Cosmos examined GLP-1RA prescriptions (Saxenda, Wegovy, Zepbound) for children (aged 8-11) without diabetes and with obesity from January 1, 2019 to June 17, 2026. A binomial logistic regression model for grouped data was performed to determine whether changes in the proportion of patients prescribed GLP-1RA over time were statistically significant.\nRESULTS: Among 3 520 531 children with obesity but without diabetes, 0.6% received a GLP-1RA prescription. Older children (11 years: 79.5/10 000 vs 8 years: 41.5/10 000), female children (75.9/10 000 vs 42.8/10 000), and children with less social vulnerability (low: 76.1/10 000 vs high: 49.2/10 000) were more likely to be prescribed GLP-1RAs. Children with obesity-related comorbidities were substantially more likely to be prescribed GLP-1RAs (188.9/10 000). Prevalent prescribing increased from 0.03% in 2019 to 9.3% in 2026, a 310-fold increase (P < .001).\nCONCLUSIONS: In this cohort of >3.5 million children aged 8 to 11 with obesity and without diabetes, GLP-1RA prescribing increased sharply from 2019 to 2026 yet remained uncommon, reaching 0.6% of children. Clinicians appear to be reserving GLP-1RAs for those at greatest cardiometabolic risk. Prescriptions are more likely to go to those with less socioeconomic vulnerability.",
+      "journal": "Pediatrics",
+      "authors": "Orandi Babak J, Patel Suhani S, Messito Mary Jo, Mankowski Michal A, Segev Dorry L, Massie Allan B",
+      "pub_date": "2026-09-04",
+      "doi": "10.1542/peds.2026-077048",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692477/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "97f1912ddf0d2bba9f4fb00f6e3997ebc282cd774a84c7c20165871f656a63d9",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z",
+      "summary_ja": "Epic Cosmosデータベースを用いた後方視的横断研究（反復年次コホート）であり、2019年1月1日から2026年6月17日までの期間において、糖尿病を伴わない肥満を有する8〜11歳小児におけるGLP-1受容体作動薬（Saxenda、Wegovy、Zepbound）の処方傾向を評価した。3,520,531名の対象小児のうち0.6%がGLP-1RA処方を受けた。年齢が大きい（11歳：79.5/10,000 vs 8歳：41.5/10,000）、女性（75.9/10,000 vs 42.8/10,000）、社会的脆弱性が低い（低：76.1/10,000 vs 高：49.2/10,000）、肥満関連合併症を有する（188.9/10,000）小児で処方率が有意に高かった。有病率ベースの処方率は2019年の0.03%から2026年の9.3%へ310倍に増加した（P < .001）。",
+      "key_takeaway_ja": "8〜11歳肥満小児におけるGLP-1RA処方は2019年から2026年にかけて310倍に急増したが、全体では依然として0.6%と低く、臨床医は最も心代謝リスクの高い患者に限定して処方している傾向がある。また、社会的脆弱性が低い小児に処方されやすいという格差が認められた。",
+      "why_matters_ja": "8〜11歳小児におけるGLP-1RA処方の時間的トレンドを初めて文書化した研究であり、急速な普及の一方で依然として低率にとどまる現状、および社会的脆弱性に基づく処方格差の存在を明らかにした点で、小児肥満管理の臨床実践と公平性の観点から重要である。",
+      "study_type_ja": "後方視的横断研究（反復年次コホート）",
+      "endpoints_ja": "糖尿病を伴わない肥満を有する8〜11歳小児におけるGLP-1RA処方の有病率（時間的変化）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-04T23:04:09Z"
+    },
+    {
+      "pmid": "42692280",
+      "title": "Dapagliflozin Ameliorates Pulmonary Arterial Hypertension-Induced Right Heart Failure via Ketone Body Metabolism and Mitochondrial Function Enhancement.",
+      "abstract": "BACKGROUND: Pulmonary arterial hypertension (PAH)-induced right ventricular (RV) failure increases reliance on ketones. The efficacy of SGLT2 inhibitors, known to modulate ketone metabolism, in this context remains unclear.\nMETHODS: A PAH model was established in Sprague-Dawley rats via a single intraperitoneal injection of monocrotaline (MCT), followed by daily oral administration of dapagliflozin (DAPA). Pulmonary hemodynamics and RV function were evaluated using echocardiography and right heart catheterization. Myocardial injury, fibrosis, and mitochondrial ultrastructure were assessed via histological staining and transmission electron microscopy (TEM). Ketone body levels and metabolic enzyme expression were determined by ELISA and immunoblotting, with transcriptomic analysis identifying potential targets validated by rescue experiments.\nRESULTS: DAPA reduced pulmonary arterial pressure, improved RV systolic function, and attenuated RV hypertrophy and fibrosis. These benefits were associated with elevated β-hydroxybutyrate (β-OHB) and acetoacetate levels, alongside the upregulation of key ketone metabolic enzymes, including 3-hydroxy-3-methylglutaryl-CoA synthase 2 (HMGCS2), β-hydroxybutyrate dehydrogenase 1 (BDH1), and succinyl-CoA:3-oxoacid CoA transferase (SCOT). Furthermore, DAPA restored mitochondrial homeostasis by increasing adenosine triphosphate (ATP) production, reducing oxidative stress, and shifting mitochondrial dynamics towards fusion-specifically by increasing mitofusin 1 (MFN1) and mitofusin 2 (MFN2), while decreasing dynamin-related protein 1 (DRP1) and fission 1 (FIS1). Transcriptomics revealed significant ADAMTS8 downregulation following DAPA treatment; crucially, adenovirus-mediated ADAMTS8 overexpression partially abrogated these cardioprotective effects.\nCONCLUSION: DAPA effectively alleviates PAH-induced right heart failure by suppressing ADAMTS8 expression, thereby enhancing myocardial ketone body metabolism and improving mitochondrial function. These findings identify ADAMTS8 as a key therapeutic target and provide novel evidence supporting the application of DAPA in PAH.",
+      "journal": "European journal of pharmacology",
+      "authors": "Xu Wendong, Liu Jia, Yan Longlong, Er Lu, Tian Shuwei, Du Rongpin",
+      "pub_date": "2026-09-03",
+      "doi": "10.1016/j.ejphar.2026.179309",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692280/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c7b60e90de6d785e18e1676ff9e0368a56a8c3321dabaa0b9df0e94560f19656",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z",
+      "summary_ja": "肺動脈性肺高血圧（PAH）による右心不全において、SGLT2阻害薬ダパグリフロジン（DAPA）がケトン体代謝とミトコンドリア機能の改善を介して右心不全を軽減するかどうかを、モノクロタリン（MCT）投与によるラットPAHモデルを用いて検討した前臨床研究。DAPAは肺動脈圧を低下させ、右室収縮機能の改善、右室肥大・線維化の軽減をもたらした。これらの効果はβ-ヒドロキシブチレート（β-OHB）およびアセトアセテートの上昇、HMGCS2・BDH1・SCOTの発現上昇、ATP産生の増加、酸化ストレスの軽減、ミトコンドリア融合の促進（MFN1/MFN2増加、DRP1/FIS1減少）と関連していた。トランスクリプトミクス解析によりADAMTS8の発現低下が同定され、ADAMTS8の過剰発現により心保護効果が部分的に消失した。",
+      "key_takeaway_ja": "DAPAはADAMTS8の発現抑制を介して心筋のケトン体代謝を促進し、ミトコンドリア機能を改善することでPAH誘発右心不全を軽減する。",
+      "why_matters_ja": "PAHによる右心不全は予後不良であり、SGLT2阻害薬のPAHにおける有効性は未解明であった。本研究はDAPAがケトン体代謝とミトコンドリア機能の改善を介して右心不全を軽減する新たな機序を示し、ADAMTS8を治療標的として特定した。",
+      "study_type_ja": "前臨床研究（動物実験）",
+      "endpoints_ja": "肺動脈圧、右室収縮機能（エコー心図法）、右室肥大、右室線維化、心筋障害、ケトン体レベル（β-OHB、アセトアセテート）、ケトン体代謝酵素発現（HMGCS2、BDH1、SCOT）、ATP産生、酸化ストレス、ミトコンドリア動態（MFN1、MFN2、DRP1、FIS1）、ADAMTS8発現",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-04T23:04:35Z"
+    },
+    {
+      "pmid": "42692277",
+      "title": "Glucagon-like Peptide-1 Receptor Agonist-Associated Injection Site and Dermatologic Reactions.",
+      "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly prescribed for type 2 diabetes mellitus and obesity, with expanding therapeutic applications. Although gastrointestinal adverse events are the most recognized toxicities, Cutaneous adverse events constitute a large burden of total adverse reactions.\nOBJECTIVE: To review the prevalence, clinical features, mechanisms, and management of non-immunologic Injection Site and Dermatologic Reactions associated with GLP-1RAs.\nMETHODS: A review of clinical trials, pharmacovigilance studies, and case reports and series was performed. In addition, adverse event reports for tirzepatide, semaglutide, liraglutide, exenatide, dulaglutide, and lixisenatide were extracted from the U.S. Food and Drug Administration Adverse Event Reporting System (FAERS). Injection-site events were combined with skin-related adverse events to generate an adjusted \"Skin and Injection-Site Reactions\" category for comparison across agents.\nRESULTS: Among 442,567 FAERS reports, 137,412 (31.0%) involved skin and injection-site reactions, representing the third most frequently reported adverse event category. Exenatide demonstrated the highest proportion of skin and injection-site reports (53.1%), followed by dulaglutide (33.5%), tirzepatide (32.6%), liraglutide (17.1%), semaglutide (12.2%), and lixisenatide (6.9%). Common reactions included pain, bleeding, erythema, bruising, mass, pruritus, and swelling. Additional adverse events included dysesthesias, nodules, granulomatous reactions, bruising, and hyperhidrosis. Most reactions were mild to moderate and generally managed symptomatically without requiring treatment discontinuation.\nCONCLUSIONS: Non-immunologic cutaneous adverse events comprise a substantial proportion of reported GLP-1RA-associated adverse events with differing rates among individual agents. Recognition of these reactions and appropriate supportive management may improve patient outcomes. Prospective studies are needed to better define their adverse event risk rates, mechanisms, and optimal management strategies.",
+      "journal": "Clinics in dermatology",
+      "authors": "Elgindi Dareen, Petronic-Rosic Vesna",
+      "pub_date": "2026-09-03",
+      "doi": "10.1016/j.clindermatol.2026.08.012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692277/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "e7c43c7fd7ba93a6f4ae46a403f6f0b094180f3a7112d418a235c52593b5a74b",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z",
+      "summary_ja": "GLP-1受容体作動薬（GLP-1RA）に関連する非免疫性の注射部位反応および皮膚反応の有病率、臨床的特徴、機序、管理について、臨床試験、薬物警戒研究、症例報告・シリーズをレビューし、さらにFAERSからtirzepatide、semaglutide、liraglutide、exenatide、dulaglutide、lixisenatideの有害事象報告を抽出して比較した。442,567件のFAERS報告のうち137,412件（31.0%）が皮膚および注射部位反応を含み、第3位の有害事象カテゴリーであった。薬剤間で報告割合に差があり、exenatideが最も高かった（53.1%）。多くの反応は軽〜中等度で、対症療法により治療継続が可能であった。",
+      "key_takeaway_ja": "GLP-1RA関連の非免疫性皮膚有害事象は報告された有害事象の大きな割合を占め、薬剤間で発生率に差がある。認識と適切な対症療法により患者アウトカムの改善が期待される。",
+      "why_matters_ja": "GLP-1RAは2型糖尿病や肥満に対する処方が増加しており、治療応用も拡大している。消化管有害事象が最も認識されている毒性である一方、皮膚有害事象は総有害反応の大きな負担を占めており、臨床現場での認識と管理が患者アウトカムに直結する。",
+      "study_type_ja": "レビュー（臨床試験・薬物警戒研究・症例報告の文献レビューおよびFAERSデータベース解析）",
+      "endpoints_ja": "皮膚および注射部位反応（Skin and Injection-Site Reactions）のFAERS報告における割合（薬剤間比較）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "FAERS報告442,567件",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-04T23:04:58Z"
+    },
+    {
+      "pmid": "42692145",
+      "title": "Beyond Weight Loss: Disentangling the Direct Effects of Semaglutide vs Equivalent Calorie Restriction on Reproductive Systems of Male and Female Rats.",
+      "abstract": "Semaglutide (SEMA), a glucagon-like peptide-1 (GLP-1) analogue approved for treatment of obesity, is now one of the most used anti-obesity pharmacotherapeutic agents worldwide. The effects of SEMA on body weight, appetite, and adiposity are well established. Moreover, sex differences in these effects are clearly emerging. Metabolism and reproduction are intimately intertwined; yet, whether and how these blockbuster drugs affect the reproductive system of males and females is poorly understood. To address this gap, we investigated the impact of chronic SEMA treatment on gonads and circulating reproductive hormones in diet-induced obese male and female rats. GLP-1 receptor is expressed in ovaries and testes, potentially allowing a direct effect of SEMA. Testicular expression of this receptor was 4-fold higher than in ovaries, supporting a potential male bias for potency of the drug effect. To disambiguate the direct effect of the drug from potential downstream effects of weight loss, and ensuing improvements in metabolism produced by the drug, we also evaluated pair-fed (PF) controls. After 4 weeks of treatment, PF and SEMA males displayed improvements in reproductive measures like sperm motility and mucus penetration parameters. Morphological analysis of male and female gonads largely suggested increased fertility. In males, changes in germinal epithelium and seminiferous tubules were detected. In females, increased folliculogenesis was identified in both SEMA and PF rats. Structural changes in the gonads were accompanied by changes in circulating gonadal hormones in a sex-specific manner. In males, SEMA attenuated the weight-loss-induced reduction in all androgens measured. In females, levels of progesterone, pregnenolone, and estradiol were reduced in a treatment specific manner. Pituitary hormones were also affected in both sexes. Altogether, this study highlights broad SEMA-specific, as well as weight loss induced but rescued by SEMA, effects at transcriptional, functional, and systemic levels on the reproductive systems of males and females.",
+      "journal": "Molecular metabolism",
+      "authors": "Sotzen Morgan R, Byun Suyeun, Ibadin Ngozi O, Knappenberger Mya A, Bento Madison T, Asker Mohammed, Koshkin Sergei, Diaz Francisco J",
+      "pub_date": "2026-09-03",
+      "doi": "10.1016/j.molmet.2026.102436",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692145/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4704e6ddf6f5716df026057ce9f269179b22ec23e41f4cf85da0924003fbbc3b",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z"
+    },
+    {
+      "pmid": "42691159",
+      "title": "(Un)intended consequences of mass-prescribing GLP-1s.",
+      "abstract": "It is difficult to overstate how much glucagon-like peptide-1 (GLP-1) pharmacotherapies have inundated the public discourse on obesity. An avalanche of scientific papers, news articles, and social media posts debate the efficacy, affordability, and appropriateness of GLP-1 receptor agonists not just for obesity but also skin disease, erectile dysfunction, pregnancy, and addiction. Attempting to cut through the noise, the World Health Organization (WHO) recently published the first-ever global guidelines recommending GLP-1s for the treatment of obesity, while committing to develop a global framework ensuring \"fair access\" to these medicines for the 1 billion people affected worldwide. Going deeper, the guidelines also advocate for \"robust populationlevel policies\" to address the root causes of obesity in unhealthy food environments. However, to complicate these efforts, WHO's recommendations unfold at a time rife with competitive pressures among pharmaceutical companies, food companies vying for the GLP-1 market segment, and wellness companies promoting supplements and telemedicine programs for what is being billed as a GLP-1 lifestyle. This commercial milieu is ripe for unintended consequences that conspire against fair access to these medicines.",
+      "journal": "Science (New York, N.Y.)",
+      "authors": "Hagenaars Luc L, Schmidt Laura A",
+      "pub_date": "2026-09-03",
+      "doi": "10.1126/science.ael8715",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691159/",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide 1",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Obesity",
+        "World Health Organization",
+        "Drug Prescriptions",
+        "Semaglutide",
+        "Anti-Obesity Agents",
+        "Practice Guidelines as Topic"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "cf559df7a69b7df75089058b1e103203c6713949a8127dc18e39b158d5cd4170",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z"
     },
     {
       "pmid": "42690923",
@@ -500,6 +845,32 @@
       "content_sha256": "76f71bdd61abca50e909705cdcfdd30ec4a8dd4243fd07806ada5b258bc064af",
       "fetched_at_utc": "2026-09-03T23:14:59Z",
       "updated_at_utc": "2026-09-03T23:14:59Z"
+    },
+    {
+      "pmid": "42694263",
+      "title": "Patulous Eustachian tube dysfunction following rapid weight loss associated with semaglutide use: A case report.",
+      "abstract": "Patulous Eustachian tube dysfunction (PETD) is an uncommon condition characterized by an abnormally patent Eustachian tube, leading to symptoms such as aural fullness and autophony. Rapid weight loss is a recognized risk factor due to loss of peritubal adipose support. With the increasing use of semaglutide and other glucagon-like peptide-1 receptor agonists for obesity management, substantial and rapid weight reduction has become more common, raising the potential for underrecognized otologic complications. A 79-year-old male presented with intermittent bilateral aural fullness and ear \"popping\" without associated pain, vertigo, or systemic symptoms. His history was notable for intentional weight loss of approximately 200 lb following initiation of semaglutide therapy. Otoscopic examination was unremarkable, and prior tympanometry demonstrated normal middle ear pressure. In the absence of findings suggestive of obstructive Eustachian tube dysfunction, a clinical diagnosis of patulous Eustachian tube dysfunction was made. The patient was managed conservatively with hydration, intranasal saline, and avoidance of decongestants. Rapid, extreme weight loss associated with GLP-1 receptor agonist therapy may precipitate PETD and should be considered in patients presenting with aural fullness and normal middle ear findings. Recognition of this association supports appropriate conservative management and may prevent unnecessary interventions.",
+      "journal": "SAGE open medical case reports",
+      "authors": "Burmeister James R, Jawad Malik, Zazay Ismail, Kobernick Aaron",
+      "pub_date": "2026-09-02",
+      "doi": "10.1177/2050313X261486164",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694263/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2065225c229186a4c8d2b14e523cea7291b089adcde19cdd29bd6f8a0e54d21d",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z"
     },
     {
       "pmid": "42687024",
@@ -1728,9 +2099,9 @@
     {
       "pmid": "42669320",
       "title": "Intranasal delivery of Semaglutide using a thermoresponsive PNPHO nanocarrier: formulation development, characterization and biological evaluation.",
-      "abstract": "Semaglutide (SMG) is a glucagon-like peptide-1 receptor agonist with a promising efficacy and safety profile that is widely used for reducing obesity by targeting the appetite control centres in the brain and for type 2 diabetes management by enhancing insulin release and suppressing glucagon secretion. SMG is currently administered subcutaneously that is invasive with reduced patient compliance or orally leading to decreased efficacy owing to first-pass effects. In this study, a nanoparticle (NP) formulation of SMG was developed using a thermoresponsive and biocompatible synthetic polymer, PNPHO (poly(N-isopropylacrylamide-co-(N-acryloxysuccinimide)-co-(polylactide/-hydroxy methacrylate)-co-(oligo (ethylene glycol)), to investigate its potential to enhance nasal mucosal absorption and prolong residence time via the needle-free intranasal (IN) route. The NP formulation was characterized in vitro for physicochemical parameters, stability, mucoadhesion, regional nasal deposition, drug release profile, and cellular permeation, and in vivo for glucose sensitivity and biodistribution. Monodispersed NPs displayed an average size of 26.14 ± 0.19 nm, a negative surface charge with high SMG encapsulation (89%), improved stability against enzymatic degradation and increased permeation across nasal epithelial cells in vitro compared to SMG alone (p < 0.0001). In contrast, it reduced transport across hCMEC/D3 BBB cells. Nasal cast studies revealed greater NP deposition in the turbinates compared to the free drug. In vivo, the NP formulation demonstrated prolonged nasal retention of the formulation within the sinus region along with an improved glucose tolerance with a 24 h dosing regimen, showing an extended period of pharmacological activity that can be utilized for reducing dosing frequency. No detectable brain fluorescence was observed in vivo. Overall, these findings corroborate the potential of IN delivery of thermoresponsive SMG-PNPHO NP formulation with increased efficacy compared to current SMG delivery modes.",
+      "abstract": "Semaglutide (SMG) is a glucagon-like peptide-1 receptor agonist with a promising efficacy and safety profile that is widely used for reducing obesity by targeting the appetite control centres in the brain and for type 2 diabetes management by enhancing insulin release and suppressing glucagon secretion. SMG is currently administered subcutaneously that is invasive with reduced patient compliance or orally leading to decreased efficacy owing to first-pass effects. In this study, a nanoparticle (NP) formulation of SMG was developed using a thermoresponsive and biocompatible synthetic polymer, PNPHO (poly(N-isopropylacrylamide-co-(N-acryloxysuccinimide)-co-(polylactide/-hydroxy methacrylate)-co-(oligo (ethylene glycol)), to investigate its potential to enhance nasal mucosal absorption and prolong residence time via the needle-free intranasal (IN) route. The NP formulation was characterized in vitro for physicochemical parameters, stability, mucoadhesion, regional nasal deposition, drug release profile, and cellular permeation, and in vivo for glucose sensitivity and biodistribution. Monodispersed NPs displayed an average size of 26.14 ± 0.19 nm, a negative surface charge with high SMG encapsulation (89%), improved stability against enzymatic degradation and increased permeation across nasal epithelial cells in vitro compared to SMG alone (p < 0.0001). In contrast, it reduced transport across hCMEC/D3 BBB cells. Nasal cast studies revealed greater NP deposition in the turbinates compared to the free drug. In vivo, the NP formulation demonstrated prolonged nasal retention of the formulation within the sinus region along with an improved glucose tolerance with a 24 h dosing regimen, showing an extended period of pharmacological activity that can be utilized for reducing dosing frequency. No detectable brain fluorescence was observed in vivo. Overall, these findings corroborate the potential of IN delivery of thermoresponsive SMG-PNPHO NP formulation with increased efficacy compared to current SMG delivery modes.",
       "journal": "International journal of pharmaceutics",
-      "authors": "Sayka Khan Tanisha Tabassum, Jerry Wong Chun Yuen, Sheikh Zara, Fathi Ali, Maleknia Simin, Oveissi Farshad, Abrams Terence, van der Hoven Julia",
+      "authors": "Khan Tanisha Tabassum Sayka, Wong Chun Yuen Jerry, Sheikh Zara, Fathi Ali, Maleknia Simin, Oveissi Farshad, Abrams Terence, van der Hoven Julia",
       "pub_date": "2026-08-30",
       "doi": "10.1016/j.ijpharm.2026.127363",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42669320/",
@@ -1746,9 +2117,9 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "f625198c48b59069249efd3528d4971fec23f141758459cadf6329c0c9e126ec",
+      "content_sha256": "2af016e55fdbf3fcee073c8731cd0c547bd1a9fbc01b03871029993aff5c3d09",
       "fetched_at_utc": "2026-08-31T15:46:33Z",
-      "updated_at_utc": "2026-08-31T15:46:33Z"
+      "updated_at_utc": "2026-09-04T23:01:37Z"
     },
     {
       "pmid": "42669134",
@@ -3272,6 +3643,48 @@
       "sample_size_ja": ""
     },
     {
+      "pmid": "42693414",
+      "title": "Early laboratory trajectories and short-term tolerability after finerenone initiationin diabetic kidney disease: the multicenter FINE-TURK study.",
+      "abstract": "BACKGROUND: Real-world evidence describing the early laboratory course after finerenone initiation in contemporary nephrology practice remains limited, particularly in cohorts with high background use of sodium-glucose co transporter 2 inhibitors (SGLT2i). We evaluated early kidney-function, potassium, and albuminuria trajectories and short-term treatment tolerability.\nMETHODS: FINE-TURK was a multicenter retrospective cohort study without a comparator group. Adults with diabetes and chronic kidney disease who initiated finerenone in routine care were evaluated at baseline and using the first available values recorded in the 1-3-month follow-up fields. Primary outcomes were within-patient changes in estimated glomerular filtration rate (eGFR), serum potassium, and urinary albumin-to-creatinine ratio (UACR). Complete and incomplete follow-up groups were compared, UACR responder analyses were performed, and exploratory multivariable and subgroup models were fitted.\nRESULTS: The analytic cohort contained 1,091 patients (mean age 60.6 ± 11.5 years; 55.0% male), and documented SGLT2i use was 87.0% among 1,075 patients with available data. Paired data were available for eGFR in 571 patients (52.3%), potassium in 647 (59.3%), and UACR in 476 (43.6%). Median eGFR changed from 53.5 [41.0-74.5] to 51.0 [38.0-73.0] mL/min/1.73m² (median change -2.0 [-6.0 to 1.0]; P<0.001). Median potassium changed from 4.50 [4.20-4.80] to 4.80 [4.50-5.10] mEq/L (mean change +0.30 ± 0.46; P<0.001). Median UACR changed from 777.8 [327.2-1539.5] to 461.2 [154.7-1040.0] mg/g; 297/476 (62.4%, 95% CI 58.0-66.6) achieved a ≥30% reduction and 184/476 (38.7%, 95% CI 34.4-43.1) achieved a ≥50% reduction. A recorded follow-up potassium >5.5 mEq/L occurred in 27/653 (4.1%), >6.0 mEq/L in 5/653 (0.8%), and finerenone discontinuation in 39/1,091 (3.6%).\nCONCLUSIONS: Early laboratory changes and treatment persistence after finerenone initiation were describable in routine specialist care, but incomplete outcome ascertainment and the absence of a comparator group preclude causal or comparative-effectiveness conclusions. The albuminuria findings apply only to patients with paired measurements and remain vulnerable to selection bias and regression to the mean.",
+      "journal": "BMC nephrology",
+      "authors": "Yadigar Serap, Akgür Suat, Arslan Felemez, Sezen Mehmet, Özcan Büşra, Ayaz Elif Yıldırım, Doğantekin Betül, Atay İlker",
+      "pub_date": "2026-08-21",
+      "doi": "10.1186/s12882-026-05259-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693414/",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Male",
+        "Naphthyridines",
+        "Diabetic Nephropathies",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Glomerular Filtration Rate",
+        "Potassium",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Aged",
+        "Albuminuria",
+        "Diabetes Mellitus, Type 2",
+        "Cohort Studies",
+        "Mineralocorticoid Receptor Antagonists"
+      ],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3660d185da7e7a424cd5a76714fb3aadc6ce4aa17f999f4c6e846c146198c3c9",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z"
+    },
+    {
       "pmid": "42653816",
       "title": "Effects of Incretin-Based Therapies on Testosterone Levels and Incretin Response in Men with Hypogonadism: A Systematic Literature Review Following PRISMA 2020 Guidelines.",
       "abstract": "Background/Objectives: Male hypogonadism affects 35-50% of men with type 2 diabetes mellitus (T2DM) and obesity. The relationship between testosterone deficiency and response to incretin-based therapies (GLP-1 and GIP receptor agonists) remains incompletely understood. This systematic literature review, conducted following PRISMA 2020 guidelines, examines whether male hypogonadism represents a risk factor for poor response to incretin therapy or, conversely, whether these agents offer therapeutic benefits for this population. Methods: A comprehensive systematic literature search was conducted on 31 December 2024, across PubMed/MEDLINE, Scopus, and Web of Science using three search domains: (1) hypogonadism and incretin therapy response; (2) testosterone deficiency and GLP-1/GIP receptor agonists; (3) incretin response and testosterone. Eligibility criteria included human studies (randomized controlled trials [RCTs], observational studies, cohort studies, cross-sectional studies, systematic reviews, and meta-analyses) in adult men reporting testosterone levels and/or incretin response. Animal studies, pediatric populations, case reports with n < 5, editorials, and letters without data were excluded. Study selection followed PRISMA 2020 guidelines with independent dual screening. Risk of bias was assessed using the Cochrane Risk-of-Bias 2.0 tool (ROB2) for RCTs, the Newcastle-Ottawa Scale (NOS) for observational studies, and AMSTAR-2 for systematic reviews and meta-analyses. Due to substantial heterogeneity in study designs, populations, interventions, and outcome measures, a meta-analysis was not feasible; therefore, a narrative synthesis was performed. Results: From 326 records identified, 29 studies were included after deduplication and screening (primary studies: 14; systematic reviews/meta-analyses: five; narrative reviews/expert opinion: 10). Risk-of-bias assessment revealed moderate-to-high overall risk: RCTs had small sample sizes (n = 12-42) and short follow-up (12-24 weeks), raising concerns about statistical power; observational studies were of fair-to-good quality (NOS 4-7 stars) but subject to confounding; and systematic reviews were of low-to-moderate confidence (AMSTAR-2). Primary evidence from RCTs and observational studies demonstrates that GLP-1 receptor agonists (GLP-1RAs)-particularly semaglutide and liraglutide-and the dual GIP/GLP-1 receptor agonist tirzepatide significantly increase total testosterone levels in men with obesity-related functional hypogonadism (mean increase 2.5-5.2 nmol/L). This effect is largely mediated by weight loss and improvement of insulin resistance rather than direct androgenic action. Evidence regarding whether baseline hypogonadism impairs glycemic or weight-loss response to incretin therapy is limited and indirect; no adequately powered comparative trials stratified by baseline testosterone status were identified. Conclusions: Incretin-based therapies, particularly GLP-1 receptor agonists and the dual GIP/GLP-1 receptor agonist tirzepatide, appear to improve testosterone levels in men with obesity-related functional hypogonadism, an effect that is largely mediated by weight loss and improvement of insulin resistance rather than a direct androgenic action. However, direct comparative evidence between hypogonadal and eugonadal men regarding glycemic or weight-loss response to incretin therapy remains insufficient to draw firm conclusions. The hypothesis that male hypogonadism does not impair incretin therapy response is biologically plausible but is currently supported only by indirect evidence. Prospective, adequately powered trials stratified by baseline testosterone status are needed to resolve this question.",
@@ -3567,6 +3980,33 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42694338",
+      "title": "Safety & efficacy of sodium glucose co-transport 2 (SGLT2) inhibitors in elderly patients with heart failure.",
+      "abstract": "INTRODUCTION: Sodium-glucose cotransporter-2 (SGLT2) inhibitors have emerged as an important therapy in heart failure (HF). However, their safety and efficacy in elderly patients remain underexplored, as this group is often underrepresented in clinical trials.\nAIM: This study aimed to evaluate safety outcomes and describe changes in clinical parameters following initiation of SGLT2 inhibitors in elderly Malaysian patients with heart failure.\nMETHODS: A multicentre, single-arm, retrospective cohort study was conducted from January to December 2023 at two Malaysian hospitals. Patients aged ≥65 years initiated on empagliflozin or dapagliflozin were included. Safety outcomes assessed were acute kidney injury (AKI), orthostatic hypotension, genitourinary infections, hypoglycemia, volume depletion, and diabetic ketoacidosis (DKA). Efficacy outcomes included changes in left ventricular ejection fraction (LVEF), glycated haemoglobin (HbA1c), estimated glomerular filtration rate (eGFR), and New York Heart Association (NYHA) class. Descriptive statistics and chi-square tests were applied.\nRESULTS: Among 126 patients (median age 70 years), AKI was the most frequent adverse event (12.1%), followed by orthostatic hypotension (3.0%) and urinary tract infection (1.5%). More than half (51.4%) showed LVEF improvement, while 38.2% of diabetic patients achieved better HbA1c control. Renal function improved or was preserved in 40.7%, and 21.4% demonstrated NYHA class improvement. Significant associations were observed between CKD and AKI (p = 0.003), and between systolic BP ≤140 mmHg and both eGFR improvement (p = 0.034) and NYHA class improvement (p = 0.029).\nCONCLUSION: In this retrospective cohort, SGLT2 inhibitor use was associated with observed improvements in selected cardiometabolic and functional parameters, with acute kidney injury being the most frequently recorded adverse event. However, given the single-arm retrospective design and the absence of a comparator group, these observed changes cannot be definitively attributed to SGLT2 inhibitor therapy alone and should therefore be interpreted as associations rather than evidence of a causal treatment effect. Careful clinical monitoring remains essential, particularly in patients with underlying renal impairment.",
+      "journal": "Frontiers in cardiovascular medicine",
+      "authors": "Mohamad Anis Nabila, Premakumar Chandini Menon, Zaihan Abdullah Faiz, Abu Bakar Suharzelim, Ahmad Hisham Shairyzah",
+      "pub_date": "2026-08-20",
+      "doi": "10.3389/fcvm.2026.1882576",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694338/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "ccc9f41e0688117bf5a5a1628a414ab62a0bad4e89356b1448367afa51dc7c90",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z"
     },
     {
       "pmid": "42665510",
@@ -4077,6 +4517,31 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42694608",
+      "title": "Short-Term Efficacy of Early Sodium-Glucose Cotransporter 2 Inhibitor Initiation in Patients With Heart Failure After Acute Anterior Myocardial Infarction.",
+      "abstract": "BACKGROUND: Patients with heart failure (HF) following acute anterior ST-segment elevation myocardial infarction (STEMI) are at high risk for adverse ventricular remodeling, and a significant residual risk persists despite optimal guideline-directed medical therapy (GDMT). Although sodium-glucose cotransporter 2 (SGLT2) inhibitors have demonstrated clear benefit in chronic HF, evidence is limited regarding the early initiation of these inhibitors after acute myocardial infarction (MI), particularly in patients with HF complicating anterior wall infarction. Therefore, this study aimed to evaluate the short-term effects of early initiation of the SGLT2 inhibitor (SGLT2i) empagliflozin, when added to standard medical therapy, on cardiac function and safety in patients with HF following acute anterior STEMI.\nMETHODS: This single-center retrospective cohort study consecutively enrolled 98 patients hospitalized at Tianjin Union Medical Center between January 2022 and December 2022 with acute anterior STEMI complicated by HF. Patients were divided into two groups based on SGLT2i use: the control group (n = 49) received standard medical therapy alone, while the SGLT2i group (n = 49) received empagliflozin 10 mg once daily in addition to standard therapy. The primary outcome was the change in left ventricular ejection fraction (LVEF) from admission to one month after discharge. Analysis of covariance (ANCOVA) and multivariable linear regression models were employed to adjust for potential confounders.\nRESULTS: Baseline characteristics were well-balanced between the two groups. At one-month follow-up, the SGLT2i group showed a significantly greater improvement in LVEF than the control group, with a multivariable-adjusted effect size of 1.92% (95% confidence interval (CI): 0.44-3.40%; p = 0.012). Serum uric acid levels were significantly lower in the SGLT2i group than in the control group (p = 0.006). In both groups, N-terminal pro-brain natriuretic peptide (NT-proBNP) levels decreased from baseline to one-month follow-up, with no significant between-group difference. The incidence of adverse events was similar between groups, and no cases of ketoacidosis or severe deterioration in renal function were observed.\nCONCLUSION: In hemodynamically stable patients with acute anterior STEMI complicated by HF, early initiation of SGLT2 inhibitors was associated with higher LVEF at 1 month and a trend toward lower uric acid levels, without significant differences in safety outcomes between groups. These preliminary findings suggest potential benefit and warrant confirmation in prospective studies.",
+      "journal": "Reviews in cardiovascular medicine",
+      "authors": "Bi Shuli, Li Dong, Du Jianping, Li Wenting, Yang Xiaoyu, Tao Wenqi, Zhang Yan, Zhang Weiyuan",
+      "pub_date": "2026-08-19",
+      "doi": "10.31083/RCM48719",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694608/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "26f4e719840390fad43d3284ca4a3f7d3b035ac025cb7caaede8fb9a09fe3a8d",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z"
     },
     {
       "pmid": "42656588",
@@ -6629,6 +7094,32 @@
       "sample_size_ja": ""
     },
     {
+      "pmid": "42694337",
+      "title": "Suspected Biphasic Anaphylaxis Following the First Known Dose of Tirzepatide: A Case Report and Brief Review of Reported Hypersensitivity Reactions.",
+      "abstract": "Tirzepatide is a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist increasingly used for type 2 diabetes mellitus and chronic weight management. Although generally well tolerated, serious systemic hypersensitivity reactions may occur. We report a 37-year-old woman who developed anaphylaxis shortly after administering her first known subcutaneous dose of tirzepatide. She presented with facial and periorbital angioedema, nasal congestion, generalized urticaria, bronchospasm, hypoxemia, and hypotension. She was treated with intravenous fluids, nebulized bronchodilators, and two doses of intramuscular epinephrine, resulting in complete clinical resolution. Approximately one hour later, she developed recurrent generalized urticaria, facial angioedema, and chest tightness without further exposure to the suspected trigger. Although no objective respiratory or hemodynamic compromise was documented during the recurrent episode, the recurrence was considered suggestive of a possible biphasic reaction. Her symptoms resolved following treatment with intravenous hydrocortisone and chlorphenamine. Acute and baseline serum tryptase levels were unavailable, and validated allergy testing for tirzepatide was not performed; therefore, the underlying immunological mechanism could not be established. This case highlights the importance of early recognition and prompt treatment of tirzepatide-associated anaphylaxis, as well as continued pharmacovigilance and detailed reporting of severe hypersensitivity reactions.",
+      "journal": "Cureus",
+      "authors": "Al-Rashid Abdulmuhsun H, Ali Fatima",
+      "pub_date": "2026-08-03",
+      "doi": "10.7759/cureus.113910",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694337/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8c863a8deff37651cd7b03c6821f9b792ff6747008c2c7dc9d0118aa83495bae",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z"
+    },
+    {
       "pmid": "42664011",
       "title": "Discontinuation of Semaglutide Therapy for Obesity Management.",
       "abstract": "",
@@ -7540,6 +8031,31 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42694725",
+      "title": "Corrigendum to \"Impact of tirzepatide on systemic arterial stiffness assessed by cardio-ankle vascular index in individuals with obesity complicated by type 2 diabetes: A retrospective cohort study in Japan\" [Obesity Pillars 19 (2026) 100291].",
+      "abstract": "[This corrects the article DOI: 10.1016/j.obpill.2026.100291.].",
+      "journal": "Obesity pillars",
+      "authors": "Nagayama Daiji, Wakamatsu Miwako, Watanabe Yasuhiro, Ikeda Maika, Koshikawa Yuta, Horikawa Osamu, Tsuji Sayaka, Shirai Kohji",
+      "pub_date": "2026-07-02",
+      "doi": "10.1016/j.obpill.2026.100294",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694725/",
+      "publication_types": [
+        "Published Erratum"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "e64e4b7983dc91d76dcda6c10ba2541ced67f52f983f296e5189cabad1873246",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z"
     },
     {
       "pmid": "42615893",
