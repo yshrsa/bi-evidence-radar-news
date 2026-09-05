@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-04T23:05:02Z",
+  "generated_at_utc": "2026-09-05T22:54:31Z",
   "items": [
     {
       "pmid": "42666995",
@@ -143,6 +143,107 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
+    },
+    {
+      "pmid": "42697364",
+      "title": "Blood pressure, electrolyte and fluid balance in horses with insulin dysregulation after short-term treatment with canagliflozin.",
+      "abstract": "Short-term treatment with SGLT-2 inhibitors decreases blood pressure in people with type 2 diabetes. The aim was to investigate the impact of a 3-week treatment with canagliflozin on blood pressure in insulin dysregulated (ID) horses and to study effects on fluid balance. This was a single-centre, randomised, double-blind, placebo-controlled, parallel design study. The primary study evaluated glucose and insulin responses during an oral sugar test, and these results have been published previously. Here we report the effect of canagliflozin treatment on blood pressure, PCV, serum proteins and electrolytes. Baseline data were collected over an initial 3-day period from 16 privately owned ID horses and ponies. On the morning of the third day, serum electrolytes, serum proteins and PCV were analysed along with measurement of blood pressure using the non-invasive high definition oscillometry technique. Horses were then randomly assigned to either once-daily oral treatment with 0.6mg/kg canagliflozin or placebo for a 3-week double-blind treatment period at home and a 3-day follow-up period similar to the baseline period, during which the double-blind treatment continued. There was no significant detectable change in systolic-, diastolic- and mean arterial blood pressure in canagliflozin treated horses compared to placebo. PCV, serum protein and electrolytes did not differ between treatments. Compared to humans, a significant reduction in blood pressure was not observed after short-term canagliflozin treatment. Additionally, there were no significant transient changes in PCV, serum protein or electrolyte concentrations as observed in humans with short-term canagliflozin treatment.",
+      "journal": "Veterinary journal (London, England : 1997)",
+      "authors": "Nostell Katarina, Lindåse Sanna, Svonni Elin, Höglund Katja, Bröjer Johan",
+      "pub_date": "2026-09-04",
+      "doi": "10.1016/j.tvjl.2026.106867",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697364/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8fedf00d270b43e7cdaf3519ba9877a728631954acaded02f8278da6687dab65",
+      "fetched_at_utc": "2026-09-05T22:51:19Z",
+      "updated_at_utc": "2026-09-05T22:51:19Z",
+      "summary_ja": "インスリン調節異常（ID）馬16頭を対象に、SGLT-2阻害薬カナグリフロジンの3週間短期投与が血圧、PCV、血清タンパク質、電解質に与える影響を、単一施設・無作為化・二重盲検・プラセボ対照・並行群間比較試験として評価した。",
+      "key_takeaway_ja": "カナグリフロジン3週間短期投与では、プラセボと比較して収縮期・拡張期・平均動脈血圧に有意な変化は認められず、PCV・血清タンパク質・電解質にも群間差は認められなかった。",
+      "why_matters_ja": "ヒトの2型糖尿病患者ではSGLT-2阻害薬の短期投与で血圧低下が報告されているが、ID馬では同様の血圧低下効果が認められなかった。また、ヒトで観察されるPCV・血清タンパク質・電解質の一時的な変化もID馬では認められず、種差の存在を示唆する。",
+      "study_type_ja": "単一施設・無作為化・二重盲検・プラセボ対照・並行群間比較試験",
+      "endpoints_ja": "収縮期血圧、拡張期血圧、平均動脈血圧、PCV、血清タンパク質、電解質",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "16頭（インスリン調節異常の馬およびポニー）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-05T22:51:35Z"
+    },
+    {
+      "pmid": "42697206",
+      "title": "Recent Advances in Glucagon-Like Peptide-1 Receptor and Melanocortin-4 Receptor Agonists for the Treatment of Obesity and Type 2 Diabetes.",
+      "abstract": "The global rise in aging populations has been accompanied by increasing rates of obesity and type 2 diabetes, both of which pose significant public health and economic challenges. This review aims to investigate the pathophysiological link between obesity and diabetes and evaluate emerging therapeutic strategies that involve glucagon-like peptide-1 receptor and melanocortin-4 receptor agonists, including their dual and triple agonist developments. A comprehensive literature review was conducted focusing on the mechanisms of glucagon-like peptide-1 receptor and melanocortin-4 receptor agonists, their clinical efficacy, and the evolution of combination therapies. Emphasis was placed on recent clinical trials and the development of oral agonist formulations to improve patient compliance. Glucagon-like peptide-1 receptor agonists, such as semaglutide and liraglutide, promote insulin secretion, suppress appetite, and result in effective weight loss and glycemic control. Semaglutide is available in both injectable and oral forms, improving accessibility. Liraglutide also reduces cardiovascular risk. Melanocortin-4 receptor agonists act via the central nervous system to reduce appetite and increase energy expenditure, with setmelanotide showing efficacy in genetic obesity. Dual and triple agonists, such as tirzepatide, simultaneously target glucagon-like peptide-1, glucose-dependent insulinotropic polypeptide, and glucagon receptors, leading to enhanced metabolic outcomes. Oral drugs like rybelsus improve long-term adherence. Glucagon-like peptide-1 receptor and melanocortin-4 receptor agonists, particularly when used as dual or triple agents, represent promising therapeutic innovations for obesity and type 2 diabetes. The development of oral formulations further enhances treatment convenience and adherence, paving the way for improved clinical outcomes.",
+      "journal": "Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme",
+      "authors": "Lee Chang-Min, Kim Jin-Young, Shim Jeong-Hyun, Cho Gwang-Won",
+      "pub_date": "2026-09-04",
+      "doi": "10.1055/a-2928-5204",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697206/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "e2fda796b9835a7d10029d113ef6bcd48b96943854af624971dab433141cfff0",
+      "fetched_at_utc": "2026-09-05T22:51:19Z",
+      "updated_at_utc": "2026-09-05T22:51:19Z",
+      "summary_ja": "肥満と2型糖尿病の病生理学的関連を調査し、GLP-1受容体アゴニスト（セマグルチド、リラグルチド）とメラノコルチン-4受容体アゴニスト（セットメラノチド）のメカニズム、臨床的有効性、およびデュアル・トリプルアゴニスト（チルゼパチド）や経口製剤（リベルサス）の開発を含む新興治療戦略を評価した包括的文献レビュー。",
+      "key_takeaway_ja": "GLP-1受容体アゴニストとメラノコルチン-4受容体アゴニスト、特にデュアルまたはトリプルアゴニストは、肥満と2型糖尿病に対する有望な治療的革新であり、経口製剤の開発は治療の利便性とアドヒアランスをさらに向上させる。",
+      "why_matters_ja": "高齢化社会の進展に伴い肥満と2型糖尿病の有病率が増加し、重大な公衆衛生および経済的課題となっている。これらの受容体アゴニスト、特に経口製剤や複合アゴニストは、患者のコンプライアンス改善と臨床アウトカムの向上に寄与する新たな治療選択肢を提供する。",
+      "study_type_ja": "文献レビュー（包括的レビュー）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-05T22:52:19Z"
+    },
+    {
+      "pmid": "42697203",
+      "title": "Emerging role of GLP-1 mono, dual, and triple agonists in the management of MASH-related fibrosis.",
+      "abstract": "Recent therapeutic advances have resulted in US Food and Drug Administration (FDA) approval of the first pharmacological agents-resmetirom and semaglutide-for advanced metabolic dysfunction-associated steatohepatitis (MASH) without cirrhosis, reshaping the therapeutic landscape of the disease. Within this evolving framework, incretin-based pharmacotherapies-including glucagon-like peptide-1 (GLP-1) receptor agonists and their dual and triple combinations with glucose-dependent insulinotropic peptide (GIP) and/or glucagon receptor agonists-have emerged as promising options, particularly for individuals with coexisting obesity or type 2 diabetes. These agents exert pleiotropic effects across multiple organs, modulating glucose and lipid metabolism, while providing cardiovascular and renal benefits. Despite these advances, key challenges remain regarding treatment duration, tolerability, and interindividual variability in therapeutic response. This review summarizes the emerging role of GLP-1 mono, dual, and triple agonists in MASH-related fibrosis, focusing on their mechanisms of action and evidence from phase 2 and phase 3 clinical trials with histology-assessed hepatic endpoints.",
+      "journal": "Cell reports. Medicine",
+      "authors": "Tavaglione Federica, Loomba Rohit",
+      "pub_date": "2026-09-04",
+      "doi": "10.1016/j.xcrm.2026.103023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697203/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "06530c4b02a2937c00ae3489eb9f0a3cadb26f1e2780de0677483ee1a14d6a6e",
+      "fetched_at_utc": "2026-09-05T22:51:19Z",
+      "updated_at_utc": "2026-09-05T22:51:19Z",
+      "summary_ja": "MASH関連線維症の管理におけるGLP-1単独、二重、三重アゴニストの新興する役割を総説したレビュー論文。作用機序と、組織学的肝臓エンドポイントを用いた第2相・第3相臨床試験のエビデンスに焦点を当てている。",
+      "key_takeaway_ja": "GLP-1単独、二重、三重アゴニストはMASH関連線維症、特に肥満または2型糖尿病を併存する患者において有望な治療選択肢として台頭しているが、治療期間、忍容性、治療反応の個人間変異に関する重要な課題が残る。",
+      "why_matters_ja": "FDAがMASH（肝硬変なし）に対する初の薬物療法であるresmetiromとsemaglutideを承認し、疾患の治療風景が変化した。インクレチン系薬物療法は血糖・脂質代謝を調節し、心血管・腎臓への利益も提供する多面的な効果を持つ。",
+      "study_type_ja": "レビュー（総説）",
+      "endpoints_ja": "組織学的肝臓エンドポイント（histology-assessed hepatic endpoints）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-05T22:52:35Z"
     },
     {
       "pmid": "42696402",
@@ -432,6 +533,80 @@
       "sample_size_ja": "FAERS報告442,567件",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-04T23:04:58Z"
+    },
+    {
+      "pmid": "42692145",
+      "title": "Beyond Weight Loss: Disentangling the Direct Effects of Semaglutide vs Equivalent Calorie Restriction on Reproductive Systems of Male and Female Rats.",
+      "abstract": "Semaglutide (SEMA), a glucagon-like peptide-1 (GLP-1) analogue approved for treatment of obesity, is now one of the most used anti-obesity pharmacotherapeutic agents worldwide. The effects of SEMA on body weight, appetite, and adiposity are well established. Moreover, sex differences in these effects are clearly emerging. Metabolism and reproduction are intimately intertwined; yet, whether and how these blockbuster drugs affect the reproductive system of males and females is poorly understood. To address this gap, we investigated the impact of chronic SEMA treatment on gonads and circulating reproductive hormones in diet-induced obese male and female rats. GLP-1 receptor is expressed in ovaries and testes, potentially allowing a direct effect of SEMA. Testicular expression of this receptor was 4-fold higher than in ovaries, supporting a potential male bias for potency of the drug effect. To disambiguate the direct effect of the drug from potential downstream effects of weight loss, and ensuing improvements in metabolism produced by the drug, we also evaluated pair-fed (PF) controls. After 4 weeks of treatment, PF and SEMA males displayed improvements in reproductive measures like sperm motility and mucus penetration parameters. Morphological analysis of male and female gonads largely suggested increased fertility. In males, changes in germinal epithelium and seminiferous tubules were detected. In females, increased folliculogenesis was identified in both SEMA and PF rats. Structural changes in the gonads were accompanied by changes in circulating gonadal hormones in a sex-specific manner. In males, SEMA attenuated the weight-loss-induced reduction in all androgens measured. In females, levels of progesterone, pregnenolone, and estradiol were reduced in a treatment specific manner. Pituitary hormones were also affected in both sexes. Altogether, this study highlights broad SEMA-specific, as well as weight loss induced but rescued by SEMA, effects at transcriptional, functional, and systemic levels on the reproductive systems of males and females.",
+      "journal": "Molecular metabolism",
+      "authors": "Sotzen Morgan R, Byun Suyeun, Ibadin Ngozi O, Knappenberger Mya A, Bento Madison T, Asker Mohammed, Koshkin Sergei, Diaz Francisco J",
+      "pub_date": "2026-09-03",
+      "doi": "10.1016/j.molmet.2026.102436",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692145/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4704e6ddf6f5716df026057ce9f269179b22ec23e41f4cf85da0924003fbbc3b",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z",
+      "summary_ja": "食事誘発性肥満の雄性・雌性ラットにおいて、慢性セマグルチド（SEMA）投与が性腺および循環性生殖ホルモンに与える影響を調査した。体重減少による下流効果と薬剤の直接効果を分離するため、ペアフィード（PF）対照群も併用した。4週間の投与後、PF群およびSEMA群の雄性ラットでは精子運動性や粘液穿透パラメータなどの生殖指標が改善し、雄性・雌性両方の性腺の形態解析から受精能の増加が示唆された。雄性では生殖上皮と精細管の変化、雌性ではSEMA群およびPF群双方で卵胞発生の増加が認められた。性腺の構造的変化に伴い、循環性性腺ホルモンが性特異的に変化し、雄性ではSEMAが体重減少に伴うすべてのアンドロゲン低下を軽減し、雌性ではプロゲステロン、プレグネノロン、エストラジオールが治療特異的に低下した。下垂体ホルモンも両性で影響を受けた。",
+      "key_takeaway_ja": "セマグルチドは体重減少効果とは独立した性特異的な直接効果と、体重減少に伴うがSEMAにより救済される効果を、転写・機能・全身レベルで生殖系に及ぼす。",
+      "why_matters_ja": "GLP-1受容体は卵巣と精巣に発現しており、セマグルチドが性腺に直接作用する可能性を示唆する。セマグルチドは現在世界で最も使用される抗肥満薬の一つであるが、雄性・雌性の生殖系への影響は十分に理解されていない。",
+      "study_type_ja": "前臨床動物実験（食事誘発性肥満ラット、ペアフィード対照群を含む介入試験）",
+      "endpoints_ja": "精子運動性、粘液穿透パラメータ、雄性・雌性性腺の形態解析（生殖上皮・精細管の変化、卵胞発生）、循環性性腺ホルモン（雄性：アンドロゲン、雌性：プロゲステロン・プレグネノロン・エストラジオール）、下垂体ホルモン",
+      "endpoint_results_ja": "精巣におけるGLP-1受容体発現は卵巣の4倍であった。4週間投与後、PF群およびSEMA群の雄性ラットで精子運動性と粘液穿透パラメータが改善。雄性・雌性の性腺形態解析から受精能の増加が示唆された。雄性では生殖上皮と精細管の変化が検出された。雌性ではSEMA群およびPF群双方で卵胞発生の増加が認められた。雄性ではSEMAが体重減少に伴うすべての測定されたアンドロゲンの低下を軽減した。雌性ではプロゲステロン、プレグネノロン、エストラジオールが治療特異的に低下した。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-05T22:52:57Z"
+    },
+    {
+      "pmid": "42691159",
+      "title": "(Un)intended consequences of mass-prescribing GLP-1s.",
+      "abstract": "It is difficult to overstate how much glucagon-like peptide-1 (GLP-1) pharmacotherapies have inundated the public discourse on obesity. An avalanche of scientific papers, news articles, and social media posts debate the efficacy, affordability, and appropriateness of GLP-1 receptor agonists not just for obesity but also skin disease, erectile dysfunction, pregnancy, and addiction. Attempting to cut through the noise, the World Health Organization (WHO) recently published the first-ever global guidelines recommending GLP-1s for the treatment of obesity, while committing to develop a global framework ensuring \"fair access\" to these medicines for the 1 billion people affected worldwide. Going deeper, the guidelines also advocate for \"robust populationlevel policies\" to address the root causes of obesity in unhealthy food environments. However, to complicate these efforts, WHO's recommendations unfold at a time rife with competitive pressures among pharmaceutical companies, food companies vying for the GLP-1 market segment, and wellness companies promoting supplements and telemedicine programs for what is being billed as a GLP-1 lifestyle. This commercial milieu is ripe for unintended consequences that conspire against fair access to these medicines.",
+      "journal": "Science (New York, N.Y.)",
+      "authors": "Hagenaars Luc L, Schmidt Laura A",
+      "pub_date": "2026-09-03",
+      "doi": "10.1126/science.ael8715",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691159/",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide 1",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Obesity",
+        "World Health Organization",
+        "Drug Prescriptions",
+        "Semaglutide",
+        "Anti-Obesity Agents",
+        "Practice Guidelines as Topic"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "cf559df7a69b7df75089058b1e103203c6713949a8127dc18e39b158d5cd4170",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z",
+      "summary_ja": "GLP-1受容体作動薬は肥満に関する公衆の議論を席巻しており、WHOは初めて肥満治療におけるGLP-1の推奨を含むグローバルガイドラインを発表した。同ガイドラインは世界中の10億人の患者への「公平なアクセス」を確保するグローバルフレームワークの構築を約束するとともに、不健全な食品環境における肥満の根本原因に対処する「強固な人口レベルの政策」を提唱している。しかし、製薬企業、食品企業、ウェルネス企業間の競争圧力が高まる中、これらの医薬品への公平なアクセスに逆行する意図しない結果が生じる可能性がある。",
+      "key_takeaway_ja": "WHOのGLP-1推奨は公平なアクセスを目的としているが、製薬・食品・ウェルネス業界の商業的競争環境が、その目的に逆行する意図しない結果を招くリスクがある。",
+      "why_matters_ja": "GLP-1受容体作動薬の大量処方と商業化が加速する中、公平なアクセスを確保するための政策設計が重要な課題となる。",
+      "study_type_ja": "Editorial（論説）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-05T22:53:09Z"
     },
     {
       "pmid": "42690923",
@@ -763,6 +938,122 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-03T23:20:23Z"
+    },
+    {
+      "pmid": "42687069",
+      "title": "Semaglutide Bioavailability: Limitations, Formulation Innovation and Future Opportunities.",
+      "abstract": "Semaglutide, a long-acting glucagon-like peptide-1 (GLP-1) receptor agonist, improved the type 2 diabetes mellitus treatment and obesity by its glucose-lowering and weight loss effects. Although the subcutaneous route provides high bioavailability and stable pharmacokinetics, the development of oral semaglutide makes a significant advancement in peptide therapeutics. However, oral delivery remains limited by an absolute bioavailability of only approximately 0.4-1% under optimized fasting conditions with restricted water intake, whereas systemic exposure is essentially absent in the fed state because plasma semaglutide concentrations remain below the limit of quantification. This extremely low exposure reflects peptide degradation within the gastrointestinal tract, poor epithelial permeability, gastric physiological constraints, and presystemic metabolism. The combination with sodium N-(8-[2-hydroxybenzoyl]amino) caprylate (SNAC) helps in gastric absorption by increasing the local gastric microenvironmental pH, thereby reducing acid-induced peptide unfolding, suppressing pepsin activation, maintaining semaglutide predominantly in its absorbable monomeric form by limiting oligomer formation, and enhancing transcellular uptake. But the oral form of semaglutide is constrained by narrow dose limits, considerable pharmacokinetic variability that, despite large fluctuations in individual absorption, produces relatively stable steady-state exposure because semaglutide's approximately one-week half-life and extensive albumin binding buffer day-to-day differences in absorption. This review examines semaglutide pharmacokinetics, focusing on mechanistic challenges to oral bioavailability and formulation approaches to address this. We assess emerging methods such as nanotechnology-based formulations, other permeation enhancers, enzyme inhibitors and device-based delivery systems for their abilities to improve absorption and efficacy. Furthermore, clinical efficacy and patient adherence as well as research opportunities are considered. Continual development of these technologies may emerge as a solution to enhance bioavailability, decrease dosing frequency and expand the range of uses of oral peptide therapies.",
+      "journal": "Pharmaceutical research",
+      "authors": "Vahora Shahin, Shah Vishal, Patel Bhavesh",
+      "pub_date": "2026-09-03",
+      "doi": "10.1007/s11095-026-04185-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687069/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "76f71bdd61abca50e909705cdcfdd30ec4a8dd4243fd07806ada5b258bc064af",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "セマグルチドは長作用型GLP-1受容体アゴニストであり、2型糖尿病および肥満の治療に血糖降下作用と減量効果により貢献している。皮下投与は高い生体利用率和安定した薬物動態を提供するが、経口セマグルチドの開発はペプチド治療における重要な進歩である。しかし、経口投与は最適化された絶食条件（水分摂取制限付き）下でも絶対生体利用率が約0.4〜1%と極めて低く、食後状態では血中セマグルチド濃度が定量限界以下であり全身曝露は実質的に欠如している。本レビューは、セマグルチドの薬物動態、経口生体利用率の機能的課題、およびそれに対処する製剤アプローチ（ナノテクノロジーベースの製剤、他の透過促進剤、酵素阻害剤、デバイスベースの送達システム）を考察している。",
+      "key_takeaway_ja": "経口セマグルチドの生体利用率は絶食条件下でも約0.4〜1%と極めて低く、食後状態では全身曝露が実質的に欠如する。SNACの併用により胃内吸収が促進されるが、狭い用量制限と大きな薬物動態変動が課題であり、半減期（約1週間）とアルブミン結合が日内変動を緩衝して比較的安定した定常状態曝露を維持している。",
+      "why_matters_ja": "経口ペプチド治療の生体利用率向上は、投与頻度の低減と適応範囲の拡大につながる可能性がある。セマグルチドの経口製剤の限界と将来の技術的解決策（ナノテクノロジー、透過促進剤、酵素阻害剤、デバイスベース送達）の理解は、ペプチド医薬品の開発戦略に直接的な示唆を与える。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "抄録に記載なし（本稿はレビューであり、特定の臨床試験エンドポイントの定義は記載されていない）",
+      "endpoint_results_ja": "絶対生体利用率：最適化された絶食条件（水分摂取制限付き）下で約0.4〜1%。食後状態：血中セマグルチド濃度が定量限界以下（全身曝露は実質的に欠如）。半減期：約1週間。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-05T22:53:41Z"
+    },
+    {
+      "pmid": "42694263",
+      "title": "Patulous Eustachian tube dysfunction following rapid weight loss associated with semaglutide use: A case report.",
+      "abstract": "Patulous Eustachian tube dysfunction (PETD) is an uncommon condition characterized by an abnormally patent Eustachian tube, leading to symptoms such as aural fullness and autophony. Rapid weight loss is a recognized risk factor due to loss of peritubal adipose support. With the increasing use of semaglutide and other glucagon-like peptide-1 receptor agonists for obesity management, substantial and rapid weight reduction has become more common, raising the potential for underrecognized otologic complications. A 79-year-old male presented with intermittent bilateral aural fullness and ear \"popping\" without associated pain, vertigo, or systemic symptoms. His history was notable for intentional weight loss of approximately 200 lb following initiation of semaglutide therapy. Otoscopic examination was unremarkable, and prior tympanometry demonstrated normal middle ear pressure. In the absence of findings suggestive of obstructive Eustachian tube dysfunction, a clinical diagnosis of patulous Eustachian tube dysfunction was made. The patient was managed conservatively with hydration, intranasal saline, and avoidance of decongestants. Rapid, extreme weight loss associated with GLP-1 receptor agonist therapy may precipitate PETD and should be considered in patients presenting with aural fullness and normal middle ear findings. Recognition of this association supports appropriate conservative management and may prevent unnecessary interventions.",
+      "journal": "SAGE open medical case reports",
+      "authors": "Burmeister James R, Jawad Malik, Zazay Ismail, Kobernick Aaron",
+      "pub_date": "2026-09-02",
+      "doi": "10.1177/2050313X261486164",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694263/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2065225c229186a4c8d2b14e523cea7291b089adcde19cdd29bd6f8a0e54d21d",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-04T23:01:37Z",
+      "summary_ja": "セマグルチド治療開始後に約200ポンドの意図的な減量を経た79歳男性が、間欠的な両側性耳閉塞感と耳の「ポッピング」を主訴に来院した。耳鏡所見は異常なく、以前のティンパノメトリーでは中耳圧が正常であった。閉塞性耳管機能障害を思わせる所見がないことから、弛緩性耳管機能障害（PETD）と臨床診断された。水分補給、鼻腔内生理食塩水、去充血薬の回避による保存的治療が行われた。",
+      "key_takeaway_ja": "GLP-1受容体作動薬治療に伴う急速かつ極端な減量はPETDを誘発し得るため、耳閉塞感と正常な中耳所見を呈する患者において本症を考慮すべきである。",
+      "why_matters_ja": "セマグルチドをはじめとするGLP-1受容体作動薬の肥満管理における使用増加に伴い、著明かつ急速な減量が増加しており、未認識の耳科合併症の潜在的可能性が高まっている。本関連の認識は適切な保存的治療を支持し、不要な介入を防止できる可能性がある。",
+      "study_type_ja": "単例報告（Case Report）",
+      "endpoints_ja": "単例報告であり、正式な評価項目（endpoint）は定義されていない。臨床診断（PETD）と保存的治療による管理が記載されている。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "1例（79歳男性）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-05T22:54:04Z"
+    },
+    {
+      "pmid": "42687024",
+      "title": "Current therapeutic landscape and future treatment perspectives of MASH.",
+      "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH), the progressive form of metabolic dysfunction-associated steatotic liver disease (MASLD), is a heterogeneous and systemic disease that confers risk not only for cirrhosis and hepatocellular carcinoma (HCC) but also for extrahepatic complications including cardiovascular disease and chronic kidney disease. Over the past decade, numerous late-stage clinical trials have advanced the therapeutic landscape of MASH, culminating in a pivotal inflection point with accelerated approval of the thyroid hormone receptor-β (THRβ) agonist resmetirom and the glucagon-like peptide-1 receptor (GLP-1R) agonist semaglutide, establishing pharmacological options for patients with non-cirrhotic MASH and fibrosis. Concurrently, growing evidence indicates that MASH comprises distinct, partially overlapping disease subsets, ranging from liver-centric phenotypes with accelerated fibrogenesis and liver-related outcomes to cardiometabolic phenotypes characterized by insulin resistance and increased cardiovascular risk. This suggests that optimal treatment efficacy will require stratified and potentially combinatorial approaches. In addition to lifestyle interventions, a cornerstone of MASLD management, pharmacotherapies targeting metabolic dysfunction (including PPAR agonists, FGF21 analogues or incretin-based and glucagon-based therapies), fibrogenesis, inflammation and/or the gut-liver axis are emerging. In this Review, we summarize the therapeutic landscape for MASH and discuss how recent advances in disease phenotyping and biomarkers may enable a transition towards personalized therapy.",
+      "journal": "Nature",
+      "authors": "Gallage Suchira, Govaere Olivier, Anstee Quentin M, Shulman Gerald I, Tacke Frank, Heikenwalder Mathias",
+      "pub_date": "2026-09-02",
+      "doi": "10.1038/s41586-026-10672-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687024/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Semaglutide",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptides",
+        "Non-alcoholic Fatty Liver Disease",
+        "Liver",
+        "Fatty Liver",
+        "Liver Cirrhosis",
+        "Receptors, Thyroid Hormone"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f1999bb80135ecae54c00de48e13e255182d1e69e8ba8c8d04608d3c4701ca78",
+      "fetched_at_utc": "2026-09-03T23:14:59Z",
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "MASH（代謝機能異常関連脂肪性肝炎）の治療の現状と将来の展望を総説したレビュー論文。過去10年間の後期臨床試験の進展を概観し、甲状腺ホルモン受容体β（THRβ）アゴニストのレスメチロームとGLP-1受容体アゴニストのセマグルチドの加速承認を転換点として位置づけている。また、MASHが肝臓中心型と心代謝型という部分的に重複する異なる疾患サブセットから構成されることを示唆し、層別化・併用アプローチの必要性を論じている。",
+      "key_takeaway_ja": "MASHは肝臓中心型（線維化加速・肝関連アウトカム）と心代謝型（インスリン抵抗性・心血管リスク増大）という部分的に重複する異なる疾患サブセットから構成されており、最適な治療効果には層別化および潜在的な併用アプローチが必要である。",
+      "why_matters_ja": "MASHは肝硬変・肝細胞癌だけでなく、心血管疾患や慢性腎臓病などの肝外合併症のリスクも伴う疾患であり、レスメチロームとセマグルチドの加速承認により、非肝硬変性MASHかつ線維化を有する患者に対して薬物治療の選択肢が確立された。",
+      "study_type_ja": "Review",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-05T22:54:29Z"
     },
     {
       "pmid": "42683980",
