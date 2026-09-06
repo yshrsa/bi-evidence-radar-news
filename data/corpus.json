@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-05T22:51:19Z",
+  "generated_at_utc": "2026-09-06T22:52:24Z",
   "documents": [
     {
       "pmid": "42666995",
@@ -143,6 +143,198 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
+    },
+    {
+      "pmid": "42700538",
+      "title": "Dapagliflozin as an adjunct to insulin improves glycemic control, weight, and lipid profile with a superior safety profile in type 2 diabetes: a randomized trial.",
+      "abstract": "OBJECTIVE: To investigate the efficacy and safety of dapagliflozin-insulin combination in patients with Type 2 Diabetes Mellitus (T2DM).\nMETHODS: In this 3-month, randomized controlled trial, 86 T2DM patients were allocated to either insulin monotherapy (Group A) or dapagliflozin-insulin combination (Group B). Primary endpoints included glycemic control (Fasting Blood Glucose [FBG], 2-hour Postprandial Blood Glucose [2hPBG], Hemoglobin A1c [HbA1c]), lipid profile (Total Cholesterol [TC], Triglycerides [TG], Low-Density Lipoprotein Cholesterol [LDL-C], High-Density Lipoprotein Cholesterol [HDL-C]), anthropometrics (Body Mass Index [BMI], Body Weight [BW]), blood pressure (Systolic Blood Pressure [SBP], Diastolic Blood Pressure [DBP]), and adverse events.\nRESULTS: After treatment, the combination therapy (Group B) demonstrated significantly greater improvements than insulin alone (Group A). Reductions in Group B versus Group A were: HbA1c (24.9%vs. 10.3%), FBG (23.6%vs. 5.6%), 2hPBG (25.1%vs. 13.7%), TC (35.1%vs. 16.9%), TG (15.9%vs. 11.0%), LDL-C (15.7%vs. 6.5%), SBP (7.3%vs. 3.2%), DBP (12.6%vs. 7.8%), BMI (9.8%vs. 4.3%), and BW (5.4%vs. 3.3%); while HDL-C increased more in Group B (16.3%vs. 9.9%). Group B demonstrated superior benefits in glycemic control, lipid profile, anthropometrics parameters and blood pressure reductions. All post-treatment between-group comparisons were statistically significant (p < 0.05). Critically, the incidence of adverse events was 71.4% lower in Group B, a statistically significant difference (p = 0.007).\nCONCLUSIONS: Dapagliflozin as an adjunct to insulin provides superior multi-faceted metabolic benefits encompassing glycemic control, weight reduction, lipid improvement, and blood pressure lowering, coupled with a more favorable safety profile, supporting its inclusion in standard insulin regimens for T2DM.",
+      "journal": "Clinics (Sao Paulo, Brazil)",
+      "authors": "Sun Lili, Liu Guiling, Liang Baozhong, You Houmei",
+      "pub_date": "2026-09-05",
+      "doi": "10.1016/j.clinsp.2026.101116",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700538/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3515e0363f4bf83e35097078cca4206eb456b22957ee46afaa817c085f95850a",
+      "fetched_at_utc": "2026-09-06T22:52:24Z",
+      "updated_at_utc": "2026-09-06T22:52:24Z",
+      "summary_ja": "2型糖尿病（T2DM）患者86名を対象に、インスリン単独療法（Group A）とダパグリフロジン＋インスリン併用療法（Group B）を比較した3ヶ月間のランダム化比較試験。血糖コントロール（FBG、2hPBG、HbA1c）、脂質プロファイル（TC、TG、LDL-C、HDL-C）、身体計測（BMI、体重）、血圧（SBP、DBP）、有害事象を主要評価項目として検討した。",
+      "key_takeaway_ja": "ダパグリフロジンのインスリン併用は、インスリン単独療法と比較して血糖コントロール、体重減少、脂質改善、血圧低下の多面的な代謝的優位性を示し、有害事象の発生率も71.4%低く（p=0.007）、より良好な安全性プロファイルを示した。",
+      "why_matters_ja": "ダパグリフロジンのインスリン併用がT2DMにおける標準的インスリンレジメンへの組み入れを支持する根拠を提供する。多面的な代謝的有益性と安全性の両面で優位性を示したことは、臨床実践における治療戦略の選択肢を広げる意義を持つ。",
+      "study_type_ja": "ランダム化比較試験（3ヶ月間）",
+      "endpoints_ja": "血糖コントロール（FBG、2hPBG、HbA1c）、脂質プロファイル（TC、TG、LDL-C、HDL-C）、身体計測（BMI、体重）、血圧（SBP、DBP）、有害事象",
+      "endpoint_results_ja": "Group B（併用療法）vs Group A（インスリン単独）の減少率：HbA1c（24.9% vs 10.3%）、FBG（23.6% vs 5.6%）、2hPBG（25.1% vs 13.7%）、TC（35.1% vs 16.9%）、TG（15.9% vs 11.0%）、LDL-C（15.7% vs 6.5%）、SBP（7.3% vs 3.2%）、DBP（12.6% vs 7.8%）、BMI（9.8% vs 4.3%）、体重（5.4% vs 3.3%）。HDL-CはGroup Bでより増加（16.3% vs 9.9%）。有害事象の発生率はGroup Bで71.4%低く（p=0.007）。全群間比較は統計的に有意（p<0.05）。",
+      "sample_size_ja": "T2DM患者86名（Group A：インスリン単独療法、Group B：ダパグリフロジン＋インスリン併用療法。各群の具体的な人数は抄録に記載なし）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-06T22:52:50Z"
+    },
+    {
+      "pmid": "42700438",
+      "title": "Primary Care Recognition of Rabson-Mendenhall Syndrome Despite Absence of Classical Diabetic Symptoms.",
+      "abstract": "BACKGROUND Rabson-Mendenhall syndrome (RMS) is an extremely rare autosomal recessive disorder caused by pathogenic variants in the insulin receptor gene, leading to severe insulin resistance and compensatory hyperinsulinemia. Classical features include acanthosis nigricans, non-obese or underweight body habitus, hirsutism, dental abnormalities, dysmorphic features, and variable growth abnormalities. Early recognition may be difficult when the initial presentation is dominated by non-specific symptoms rather than classical metabolic complaints. CASE REPORT A 10-year-old Saudi girl presented to a family medicine clinic with intermittent bilateral leg pain and excessive hunger, without polyuria or polydipsia. Examination revealed extensive acanthosis nigricans, moderate hirsutism, deep voice, high-arched palate, and dental enamel defects. Laboratory evaluation showed severe hyperinsulinemia with insulin level of 3522.5 µU/mL, elevated HbA1c of 8.4% (68 mmol/mol), and biochemical hyperandrogenism. Although RMS is classically associated with growth restriction, the patient was tall for age and had a family history of tall stature, requiring cautious interpretation of growth-related findings. Whole-exome sequencing confirmed a homozygous pathogenic insulin receptor variant (c.433C>T, p.Arg145Cys), establishing the diagnosis of RMS. Treatment included vitamin D supplementation, metformin, basal-bolus insulin therapy, dapagliflozin, home glucose monitoring, diabetes education, dietary counseling, and multidisciplinary follow-up. Glycemic control remained suboptimal despite treatment intensification, reflecting the severe receptor-level insulin resistance associated with RMS. CONCLUSIONS In this patient, marked acanthosis nigricans, severe hyperinsulinemia, hyperglycemia, and hyperandrogenic features supported evaluation for a genetic insulin resistance syndrome despite the absence of classical diabetic symptoms.",
+      "journal": "The American journal of case reports",
+      "authors": "Al Eisa Abdullah, Aldayhani Atheer Humoud",
+      "pub_date": "2026-09-05",
+      "doi": "10.12659/AJCR.953067",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700438/",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Child",
+        "Donohue Syndrome",
+        "Acanthosis Nigricans",
+        "Receptor, Insulin"
+      ],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c78569a0c3620e41a373bdb67a7857b389ff4aeb187b5f09c3e5b06393f6c198",
+      "fetched_at_utc": "2026-09-06T22:52:24Z",
+      "updated_at_utc": "2026-09-06T22:52:24Z",
+      "summary_ja": "10歳のサウジアラビア人少女が、多尿・多飲を伴わない間歇性両側下肢痛と過剰な空腹感で一次医療クリニックを受診した。診察で広範な黒色棘皮症、中等度の多毛症、深部声、高口蓋、歯エナメル欠損を認め、検査でインスリン3522.5 µU/mL、HbA1c 8.4%（68 mmol/mol）、生化学的ハイパーアンドロゲニズムが検出された。全エクソーム解析によりインスリン受容体遺伝子のホモ接合性病的変異（c.433C>T, p.Arg145Cys）が確認され、Rabson-Mendenhall症候群（RMS）と診断された。ビタミンD補充、メトホルミン、basal-bolusインスリン療法、ダパグリフロジン、家庭血糖モニタリング、糖尿病教育、食事指導、多職種フォローアップを施行したが、治療強化後も血糖管理は不十分であった。",
+      "key_takeaway_ja": "古典的な糖尿病症状（多尿・多飲）を欠く場合でも、顕著な黒色棘皮症、重度のハイパーインスリン血症、高血糖、ハイパーアンドロゲニック所見を認める場合は、遺伝性インスリン抵抗症候群の評価を検討すべきである。",
+      "why_matters_ja": "RMSは極めて稀な常染色体劣性疾患であり、初期症状が非特異的な場合、早期認識が困難である。一次医療段階での認識が診断の早期確立に重要である。",
+      "study_type_ja": "症例報告",
+      "endpoints_ja": "血糖管理（HbA1c）、インスリン値、ハイパーアンドロゲニズム",
+      "endpoint_results_ja": "インスリン 3522.5 µU/mL、HbA1c 8.4%（68 mmol/mol）、血糖管理は治療強化後も不十分（suboptimal）",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-06T22:53:16Z"
+    },
+    {
+      "pmid": "42700411",
+      "title": "Efficacy and Safety of Luseogliflozin (TS-071) in Japanese Children and Adolescents with Type 2 Diabetes Mellitus: A Multicenter, Randomized, Double-masked, Placebo-controlled Phase 3 Study.",
+      "abstract": "INTRODUCTION: This study evaluated the efficacy and safety of luseogliflozin (TS-071), a sodium-glucose cotransporter 2 (SGLT2) inhibitor, in Japanese children and adolescents with type 2 diabetes (T2D).\nMETHODS: In this multicenter, randomized, double-masked, placebo-controlled phase 3 trial, patients aged 10-17 years with hemoglobin A1c (HbA1c) levels of 7.0%-12.0%, with or without prior metformin use, were enrolled. Participants were randomized (2:1) to receive luseogliflozin 2.5 mg or placebo for 12 weeks (period I), followed by a 40-week open-label extension (period II), allowing dose escalation to 5 mg.\nRESULTS: Forty-eight participants were randomized and received luseogliflozin (n = 31) or placebo (n = 17). The primary endpoint-change in HbA1c from baseline at the end of period I-was -1.45% (95% CI, -1.78% to -1.11%) in the luseogliflozin group. The between-group difference in HbA1c change was -1.76% (95% CI, -2.49% to -1.02%). Luseogliflozin maintained efficacy through 52 weeks, with a mean HbA1c change of -0.92% ± 1.74% at the end of period II. Adverse events (AEs) and adverse drug reactions (ADRs) occurred in 85.4% and 29.2% of patients, respectively. No deaths occurred; three serious AEs and one mild hypoglycemic event were reported. Urinary and genital infections were the most frequent ADRs.\nCONCLUSION: Luseogliflozin significantly improved glycemic control and was well tolerated, supporting its potential as an effective and safe treatment option for children and adolescents with T2D.",
+      "journal": "Hormone research in paediatrics",
+      "authors": "Kikuchi Toru, Nakamura Hidefumi, Umeuchi Hideo, Kitajima Iwao, Yamasaki Hironori, Urakami Tatsuhiko",
+      "pub_date": "2026-09-05",
+      "doi": "10.1159/hrp/adaag009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700411/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "0c8b5f242507b84d29644d05530018706c5ff4647bcc7dda723d3093b42a2928",
+      "fetched_at_utc": "2026-09-06T22:52:24Z",
+      "updated_at_utc": "2026-09-06T22:52:24Z",
+      "summary_ja": "日本小児・思春期（10〜17歳）の2型糖尿病（T2D）患者におけるSGLT2阻害薬ルセオグリフロジン（TS-071）の有効性及び安全性を評価した多施設共同、無作為化、二重盲検、プラセボ対照第III相試験。HbA1c 7.0%〜12.0%の患者を2:1でルセオグリフロジン2.5 mg群またはプラセボ群に無作為化し、12週間（第I期）の投与後、40週間のオープンラベル延長（第II期）を行い、5 mgへの増量が可能であった。",
+      "key_takeaway_ja": "ルセオグリフロジンは日本小児・思春期T2D患者においてHbA1cを有意に低下させ、52週間まで有効性を維持し、忍容性も良好であった。",
+      "why_matters_ja": "小児・思春期T2D患者に対する有効かつ安全な治療選択肢が限られている中、本試験はルセオグリフロジンが同集団における治療選択肢として有望であることを示した。",
+      "study_type_ja": "多施設共同、無作為化、二重盲検、プラセボ対照第III相試験",
+      "endpoints_ja": "主要エンドポイント：第I期（12週間）終了時のベースラインからのHbA1c変化。安全性評価：有害事象（AE）、有害薬物反応（ADR）、重篤な有害事象、低血糖事象。第II期（52週間）終了時のHbA1c変化。",
+      "endpoint_results_ja": "主要エンドポイント（第I期終了時のベースラインからのHbA1c変化）：ルセオグリフロジン群 -1.45%（95% CI, -1.78%〜-1.11%）。群間差：-1.76%（95% CI, -2.49%〜-1.02%）。第II期終了時の平均HbA1c変化：-0.92% ± 1.74%。AE発生率：85.4%。ADR発生率：29.2%。死亡：なし。重篤なAE：3例。軽度低血糖事象：1例。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-06T22:54:37Z"
+    },
+    {
+      "pmid": "42700260",
+      "title": "Empagliflozin mitigates lipopolysaccharide-induced tracheal injury in rats via downregulation of IL-6/JAK/STAT3 signaling pathway and stem cell preservation: histological and molecular study.",
+      "abstract": "Lipopolysaccharide (LPS) is a component of the Gram-negative bacterial cell wall and is considered a potent inflammatory inducer. Empagliflozin (EMPA) is a sodium-glucose co-transporter 2 inhibitor used in treatment of type 2 diabetes mellitus. Interleukin-6/Janus kinase/signal transducer and activator of transcription 3 (IL-6/JAK/STAT3) signaling pathway is essential in driving inflammation, fibrosis, and epithelial-mesenchymal transition (EMT). Tracheal basal stem cells are responsible for epithelial regeneration after injury. This study aimed to investigate the potential protective effects of EMPA against LPS-induced tracheal injury, with emphasis on EMT and tracheal basal stem cells. Sixty adult male rats were allocated into four groups: control; EMPA, which received EMPA (10 mg/kg/day) via oral gavage for 28 days; LPS, which received single intratracheal dose of LPS (5 mg/kg) on day 1; and LPS + EMPA, which received single LPS dose and EMPA for 28 days. Tracheal specimens were processed for biochemical, histological, immunohistochemical and RT-quantitative real-time PCR analysis. Compared to the LPS group, the LPS + EMPA group showed marked improvement of histological, ultrastructural ,and biochemical alterations including maintenance of epithelial and cilia integrity, decreased lipid peroxidation, stimulated antioxidant enzyme activities, reduced serum inflammatory cytokines, increased percentage area of E-cadherin (an epithelial marker) immunostaining, decreased percentage area of fibrosis, vimentin (a mesenchymal marker), and pro-apoptotic Bax; and enhanced percentage area of cytokeratin 5/6 (CK5/6) (stem cell marker). Moreover, EMPA downregulated the IL-6/JAK/STAT3 pathway involved in EMT. In conclusion, EMPA alleviated LPS-induced tracheal injury through its antioxidant and anti-inflammatory properties, downregulation of IL-6/JAK/STAT3 signaling pathway, and preservation of the tracheal basal stem cells.",
+      "journal": "Histochemistry and cell biology",
+      "authors": "Sarhan Nahla Reda, Elekhtiar Sally A, Elmowafy Rasha, Shrief Amira I",
+      "pub_date": "2026-09-05",
+      "doi": "10.1007/s00418-026-02531-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700260/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "STAT3 Transcription Factor",
+        "Lipopolysaccharides",
+        "Male",
+        "Interleukin-6",
+        "Signal Transduction",
+        "Rats",
+        "Down-Regulation",
+        "Glucosides",
+        "Trachea",
+        "Stem Cells",
+        "Benzhydryl Compounds",
+        "Janus Kinases",
+        "Rats, Sprague-Dawley"
+      ],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "bcec56de96b9454fa03cd6de481dfc08fc6819a8945297596a163bd966d828c0",
+      "fetched_at_utc": "2026-09-06T22:52:24Z",
+      "updated_at_utc": "2026-09-06T22:52:24Z",
+      "summary_ja": "LPS誘起気管損傷に対するエンパグリフロジンの保護効果を検討した前臨床動物実験。60頭の成獣雄性ラットを4群（対照群、EMPA群：10 mg/kg/day経口投与28日間、LPS群：1日目に気管内投与5 mg/kg単回投与、LPS+EMPA群）に割り付け、気管標本を生化学的・組織学的・免疫組織化学的・RT-qPCR解析に供した。LPS+EMPA群はLPS群と比較して組織学的・超微構造・生化学的変化の著明な改善が認められ、上皮・線毛の維持、脂質過酸化の減少、抗酸化酵素活性の刺激、血清炎症性サイトカインの減少、E-カドヘリン免疫染色面積率の増加、線維化・ビメンチン・Bax面積率の減少、CK5/6面積率の増加が示された。またEMPAはEMTに関与するIL-6/JAK/STAT3経路を下方調節した。",
+      "key_takeaway_ja": "エンパグリフロジンは抗酸化・抗炎症作用、IL-6/JAK/STAT3シグナル経路の下方調節、および気管基底幹細胞の保存を介してLPS誘起気管損傷を軽減した。",
+      "why_matters_ja": "SGLT2阻害薬の糖尿病治療以外の気管保護作用の可能性を示す前臨床データであり、気道上皮再生・EMT抑制・幹細胞保存の観点から、SGLT2阻害薬のオフターゲット効果や新たな治療応用の機序解明に寄与し得る。",
+      "study_type_ja": "前臨床動物実験（ラットを用いた実験的研究）",
+      "endpoints_ja": "組織学的変化、超微構造変化、脂質過酸化、抗酸化酵素活性、血清炎症性サイトカイン、E-カドヘリン免疫染色面積率、線維化面積率、ビメンチン面積率、Bax面積率、CK5/6面積率、IL-6/JAK/STAT3経路発現",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-06T22:55:53Z"
+    },
+    {
+      "pmid": "42701351",
+      "title": "The Evolution of Medications for Obesity Management.",
+      "abstract": "This narrative review provides an overview of progress in the development of obesity medications, including a synthesis of data describing the efficacy and safety of currently available agents and emerging therapeutic options. Historically, many obesity medications have been withdrawn from the market due to safety concerns. However, expansion in scientific knowledge of the mechanisms regulating appetite and energy balance has led to the development of medications with greater safety and efficacy. The current generation of injectable incretin analogs, semaglutide and tirzepatide, is associated with mean weight loss in the range of 15%-20% over approximately 12-18 months. These agents confer additional substantial cardiometabolic benefits, including reductions in adverse cardiovascular and kidney outcomes, and improvements in glycaemia, blood pressure, lipid profile and steatohepatitis. As therapeutic options continue to expand, obesity medications are poised to play a critical role in the management of cardiometabolic disease.",
+      "journal": "JGH open : an open access journal of gastroenterology and hepatology",
+      "authors": "Gill Jaskirath, Sumithran Priya",
+      "pub_date": "2026-09-04",
+      "doi": "10.1002/jgh3.70466",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701351/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a9842e85ec2432fc4be1d03cdb9e08a52f2a6a6ac874bf0736220c8b85dcce0f",
+      "fetched_at_utc": "2026-09-06T22:52:24Z",
+      "updated_at_utc": "2026-09-06T22:52:24Z",
+      "summary_ja": "肥満治療薬の開発の進歩に関するナラティブレビュー。現在利用可能な薬剤および新興治療法の有効性と安全性のデータを統合し、歴史的に安全性懸念から市場から撤退した薬剤が多い中、食欲・エネルギーバランスのメカニズムに関する科学的知識の拡大により、より安全性・有効性の高い薬剤が開発されてきたことを概観する。現在の注射用インクレチンアナログ（セマグルチド、tirzepatide）は約12〜18ヶ月で平均15%〜20%の体重減少を達成し、心血管・腎臓アウトカムの改善、血糖値・血圧・脂質プロファイル・脂肪性肝炎の改善など、追加の心代謝上の利益をもたらす。",
+      "key_takeaway_ja": "現在の注射用インクレチンアナログ（セマグルチド、tirzepatide）は約12〜18ヶ月で平均15%〜20%の体重減少を達成し、心血管・腎臓アウトカムの改善や血糖値・血圧・脂質プロファイル・脂肪性肝炎の改善など、心代謝上の追加の利益をもたらす。",
+      "why_matters_ja": "治療選択肢が拡大する中、肥満治療薬は心代謝疾患の管理において重要な役割を果たすことが期待される。",
+      "study_type_ja": "ナラティブレビュー",
+      "endpoints_ja": "体重減少、心血管アウトカム、腎臓アウトカム、血糖値、血圧、脂質プロファイル、脂肪性肝炎",
+      "endpoint_results_ja": "平均体重減少：約12〜18ヶ月で15%〜20%",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-06T22:56:10Z"
     },
     {
       "pmid": "42697364",
@@ -1074,7 +1266,16 @@
       "japan_relevant": false,
       "content_sha256": "cb0352e36564e291c0d8b499e326053f2d33d07276246a3a803bceaec113dbad",
       "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z"
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "2013年から2023年に入院したBMI≥30 kg/m²で既往に肥満コードまたは肥満手術の既往がない成人42,243例を対象とした横断的解析。退院時の肥満文書化率は10.6%のみであり、他の心代謝リスク因子（糖尿病59.7%、重症脂質異常症39.0%）と比較して著しく低かった。肥満の文書化は代謝外来受診（OR 2.26）、肥満手術（OR 3.51）、GLP-1受容体作動薬の処方（OR 3.44）と関連していた。",
+      "key_takeaway_ja": "客観的に測定可能な肥満は、他の心代謝リスク因子と比較して依然として著しく文書化不足であり、この文書化ギャップの解消は測定されたBMIを実践的なケアに変換するための前提条件である。",
+      "why_matters_ja": "効果的な肥満治療が標準的な診療になるにつれ、肥満の文書化ギャップを解消することは、測定されたBMIを実践的なケアに変換するための前提条件となる。文書化の有無が代謝外来受診、肥満手術、GLP-1受容体作動薬療法の利用率に影響することを示し、臨床現場におけるドキュメント管理の改善が患者アウトカムに直結することを示唆する。",
+      "study_type_ja": "横断的解析（retrospective cross-sectional analysis）",
+      "endpoints_ja": "主要エンドポイント：BMI≥30 kg/m²の入院患者における退院時の肥満文書化率。副次エンドポイント：他の心代謝リスク因子（糖尿病、重症脂質異常症）との文書化率の比較、肥満文書化と肥満関連ケアの利用率（代謝外来受診、肥満手術、GLP-1受容体作動薬処方）との関連。",
+      "endpoint_results_ja": "退院時の肥満文書化率：10.6%。BMI 1単位増加あたりの文書化オッズ比：OR 1.17（95% CI 1.16-1.18）。肥満文書化と代謝外来受診：OR 2.26（95% CI 2.05-2.49）。肥満文書化と肥満手術：OR 3.51（95% CI 2.74-4.51）。肥満文書化とGLP-1受容体作動薬処方：OR 3.44（95% CI 2.76-4.28）。糖尿病文書化率（HbA1c≥6.5%の患者）：59.7%。重症脂質異常症文書化率（LDL-C≥190 mg/dLの患者）：39.0%。",
+      "sample_size_ja": "42,243例（平均年齢60.9±16.9歳、女性49.7%、平均BMI 33.9±3.9 kg/m²）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-06T22:56:42Z"
     },
     {
       "pmid": "42686906",
@@ -1099,7 +1300,16 @@
       "japan_relevant": false,
       "content_sha256": "b2982620c529b9c31875a16200c4d1170f4a38667a91fbaf2e8cb3869e26d256",
       "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z"
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "20ヶ月齢の雌性C57BL/6マウスにGLP-1Rアゴニストであるセマグルチドを3ヶ月間投与したところ、生理機能の改善、老化の指標の軽減、栄養センサーおよび保存された老化遺伝子調節因子の調節が認められた。継続投与によりマウスの寿命が延長された。直接比較した縦断研究において、セマグルチド投与は基準機能を保ち、カロリー制限の多くの機能的利益を再現するとともに、探索的駆動、空間記憶、グルコース制御において基準値以上の改善とカロリー制限よりも好ましい推移を示した。",
+      "key_takeaway_ja": "生涯の后期に開始したGLP-1R活性化は、雌性マウスにおいて老化を遅らせ寿命を延長し、カロリー制限ミメティックとしての機能を支持する。",
+      "why_matters_ja": "GLP-1R活性化の広範な有益効果の説明に役立つ機能的枠組みを提供するとともに、カロリー摂取量の減少に帰因される以上の効果を明らかにする。",
+      "study_type_ja": "前臨床動物実験（雌性マウス、縦断研究、カロリー制限との直接比較）",
+      "endpoints_ja": "生理機能、老化の指標、栄養センサーおよび保存された老化遺伝子調節因子、寿命、探索的駆動、空間記憶、グルコース制御",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-06T22:56:59Z"
     },
     {
       "pmid": "42686660",
@@ -1121,7 +1331,16 @@
       "japan_relevant": false,
       "content_sha256": "e2f1b17ef7a7e6cf9e898d672461f22521b023e1ff67cae356c9d92da6fc4972",
       "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z"
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "SGLT2阻害薬が糖尿病性黄斑浮腫（DMO）に及ぼす影響について、疾患段階および網膜表現型に応じた反応性を評価するため、実世界データ、介入研究、機序研究の証拠を統合したスコーピングレビュー（PRISMA-ScR、UMIN000061304）。2014年1月から2026年4月までに発表された研究をPubMed、Cochrane Library、ClinicalTrials.gov、WHO-ICTRP、Google Scholarから検索し、40研究を含む。異質性の高さからメタ分析は実施できず、定性的メタサマリーと探索的E-value解析を行った。",
+      "key_takeaway_ja": "SGLT2阻害薬の使用は、網膜症段階を問わずDMOの疾患動態の遅延と関連し、治療負荷の軽減は重度網膜症以前に最も顕著である。SGLT2阻害薬は抗VEGF療法を代替するのではなく、補完的に機能する可能性がある。",
+      "why_matters_ja": "DMOは糖尿病における視力喪失の主要な原因であり、SGLT2阻害薬はすでに心代謝・腎臓適応で広く使用されている。これらの薬剤がDMOの発症率や治療負荷を低減する可能性が示唆されれば、既存の糖尿病治療における網膜保護効果の追加的利点として臨床的に重要である。",
+      "study_type_ja": "スコーピングレビュー（PRISMA-ScR）、定性的メタサマリーおよび探索的E-value解析",
+      "endpoints_ja": "DMO発症、糖尿病性網膜症の進行、抗VEGF注射、コルチコステロイド療法、再硝子体切除術、初回硝子体切除術",
+      "endpoint_results_ja": "DMO発症：16%-35%低減（ハザード比0.65-0.84）。糖尿病性網膜症の進行：ハザード比0.53-0.94。確立したDMOにおける抗VEGF注射・コルチコステロイド療法・再硝子体切除術：ハザード比0.39-0.81。初回硝子体切除術：有意差なし。唯一のランダム化試験（COMET）：主要エンドポイントを達成しなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-06T22:57:28Z"
     },
     {
       "pmid": "42685919",
@@ -2343,6 +2562,33 @@
       "content_sha256": "49d86c207fa3595a19b34e5c14ebb10c07d460a75b2ae99e4162b3a924872e6f",
       "fetched_at_utc": "2026-08-31T15:48:02Z",
       "updated_at_utc": "2026-08-31T15:48:02Z"
+    },
+    {
+      "pmid": "42701458",
+      "title": "Comparative effectiveness of GLP-1 receptor agonists versus mineralocorticoid receptor antagonists as fourth-line pharmacological therapy in patients with resistant hypertension and overweight or obesity: a retrospective multicenter cohort study in the USA.",
+      "abstract": "BACKGROUND: Mineralocorticoid receptor antagonists (MRAs) are the guideline-recommended therapy for resistant hypertension. Resistant hypertension is particularly common in individuals with overweight or obesity. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) induce substantial weight loss and reduce cardiovascular and renal events, with modest reductions in blood pressure. Whether GLP-1RAs provide benefit as an alternative therapeutic strategy in patients with resistant hypertension and overweight or obesity is unknown. We compared the effectiveness of GLP-1RAs and MRAs as fourth-line pharmacologic therapy in this population.\nMETHODS: In this retrospective multicenter cohort study using the TriNetX US Collaborative Network including 67 healthcare organizations, female and male adults with overweight or obesity and resistant hypertension (uncontrolled blood pressure despite ACE-inhibitors/angiotensin receptor blockers, calcium antagonists and diuretics) initiating a fourth-line pharmacological therapy between 01 June 2017 and 31 March 2025 were identified and included. Patients initiating GLP-1RAs (semaglutide or tirzepatide) were compared with those initiating MRAs (spironolactone or eplerenone). The primary outcome was major adverse cardiovascular events (MACE) during 2-year follow-up. Secondary outcomes included all-cause mortality, cardiovascular events, kidney outcomes, and blood pressure changes. Propensity score matching balanced baseline characteristics. Outcomes were analyzed using Kaplan-Meier estimates and Cox proportional hazards models.\nFINDINGS: Among 213,309 eligible patients, 22,694 initiated GLP-1RAs and 5673 initiated MRAs. After propensity score matching, 4153 patients remained in each group. During a median follow-up of 1.4 years, GLP-1RA therapy was associated with lower risks of MACE (HR 0.63, 95% CI 0.52-0.78), all-cause mortality (HR 0.34, 95% CI 0.21-0.55), cardiovascular events (HR 0.74, 95% CI 0.59-0.92), major adverse kidney events (HR 0.64, 95% CI 0.46-0.88), and acute kidney injury (HR 0.62, 95% CI 0.46-0.83) compared with MRAs. Systolic blood pressure reductions at 12 weeks were similar (-5.7 [95% CI -4.0 to -7.4] mmHg versus -6.3 [95% CI -4.7 to -8.0] mmHg).\nINTERPRETATION: In our retrospective study, among adults with resistant hypertension and overweight or obesity, GLP-1RA was associated with lower cardiovascular and kidney risk compared with MRAs despite smaller blood pressure reductions. GLP-1RAs may represent a potential alternative or complementary therapeutic option in this population. Prospective studies are needed to determine whether GLP-1RAs should be incorporated into treatment strategies for resistant hypertension in patients with overweight or obesity.\nFUNDING: None.",
+      "journal": "EClinicalMedicine",
+      "authors": "Tian Zhejia, Willerding Jonas M, Schmidt-Ott Kai M, Melk Anette, Schmidt Bernhard M W",
+      "pub_date": "2026-08-29",
+      "doi": "10.1016/j.eclinm.2026.104176",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701458/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d532469ae1a5237a1ae035045c9c186a2629e921a66d675c8c58e12387aa3635",
+      "fetched_at_utc": "2026-09-06T22:52:24Z",
+      "updated_at_utc": "2026-09-06T22:52:24Z"
     },
     {
       "pmid": "42679726",
@@ -3787,6 +4033,32 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42698756",
+      "title": "Pharmacist-led medication therapy management improving medication adherence in a patient with type 2 diabetes: case report.",
+      "abstract": "BACKGROUND: Poor medication adherence is a major challenge in healthcare for patients with type 2 diabetes mellitus (T2DM), particularly those with long disease duration, multiple comorbidities, and complex therapeutic regimens. This case report describes the application of pharmacist-led MTM (medication therapy management) in a patient with T2DM presenting complex therapeutic regimens and poor adherence.\nPATIENTS AND METHODS: A 76-year-old female with a 30-year history of T2DM complicated by diabetic peripheral neuropathy, hypertension, hyperlipidemia, hepatic steatosis, coronary atherosclerosis, and severe osteoporosis. The patient presented with poor glycemic control and severe medication nonadherence, which was characterized by frequent missed doses, irregular glucose monitoring, and forgotten weekly semaglutide injections. A clinical pharmacist conducted comprehensive MTM, including a full medication review, patient education, systematic medication and blood glucose monitoring, development of an optimized treatment plan in collaboration with the medical team, and ongoing follow-up.\nRESULTS: After 3 months, glycemic control improved significantly, with fasting blood glucose at 7.6 mmol/L, postprandial glucose at 10.2 mmol/L, and glycated hemoglobin (HbA1c) at 7.3%. The Medication Adherence Report Scale-5 (MARS-5) score increased from 8 to 21, and no severe hypoglycemic events or other adverse drug reactions occurred during hospitalization or follow-up.\nCONCLUSION: Improvements in medication adherence and clinical outcomes were achieved following comprehensive pharmacist-led medication therapy management integrated with individualized clinical management in this case.",
+      "journal": "Frontiers in medicine",
+      "authors": "Jiang Hong, Liu Jing, Ying Yin, Zhang Mingwan, Zhao Lu",
+      "pub_date": "2026-08-21",
+      "doi": "10.3389/fmed.2026.1910565",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42698756/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d75e658d6bc449df677980e91a91340228b4b798eab70b0cd17aa70e9456d821",
+      "fetched_at_utc": "2026-09-06T22:52:24Z",
+      "updated_at_utc": "2026-09-06T22:52:24Z"
     },
     {
       "pmid": "42693414",
@@ -7195,6 +7467,41 @@
       "sample_size_ja": ""
     },
     {
+      "pmid": "42699764",
+      "title": "Confluent and reticulated papillomatosis improvement with tirzepatide-associated weight loss: A case report.",
+      "abstract": "",
+      "journal": "JAAD case reports",
+      "authors": "Bindra Harman, Paquette Gabriella, Levin Nikki",
+      "pub_date": "2026-08-04",
+      "doi": "10.1016/j.jdcr.2026.07.054",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699764/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5a553da006e002ff27bdba66004fb59b2c61805798b9347f741e43c31cad9dbe",
+      "fetched_at_utc": "2026-09-06T22:52:24Z",
+      "updated_at_utc": "2026-09-06T22:52:24Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-06T22:52:24Z"
+    },
+    {
       "pmid": "42614235",
       "title": "Association between different sodium-glucose co-transporter 2 inhibitors and the risk of dementia: a network meta-analysis.",
       "abstract": "BACKGROUND: Sodium-glucose cotransporter 2 inhibitors (SGLT2i), as key therapeutic agents for type 2 diabetes, have in recent years been recognized as potentially exerting neuroprotective effects on the central nervous system. However, systematic comparative evidence remains lacking regarding whether different SGLT2i exhibit differential effects on dementia risk. By conducting a network meta-analysis to compare the association between different SGLT2i and the risk of dementia onset, the relative efficacy of each drug in reducing dementia risk is determined.\nMETHODS: A systematic search was conducted across databases including PubMed, Embase, Web of Science, and the Cochrane Library, from their inception to the search cutoff date of 1 December 2025. Randomized controlled trials and observational studies comparing SGLT2i with other antidiabetic medications or placebo, and reporting dementia outcomes, were included. A network meta-analysis employing a random-effects model was conducted. Pooled effect sizes were expressed as hazard ratios with 95% confidence intervals. Relative efficacy among different drugs was ranked using the probability of ranking, whilst heterogeneity and consistency were assessed.\nRESULTS: Six cohort studies involving 845,433 patients were included in this analysis. The results of the network meta-analysis indicated that canagliflozin (HR = 0.75, 95% CrI: 0.59, 0.98), Dapagliflozin (HR = 0.75, 95% CrI: 0.59, 0.98), and Empagliflozin (HR = 0.69, 95% CrI: 0.55, 0.85) significantly reduced the risk of dementia onset. Empagliflozin had the highest probability of being ranked as the most effective treatment (81.2%). However, no statistically significant differences were observed between empagliflozin and dapagliflozin or canagliflozin in the network comparisons. For Alzheimer's disease, Dapagliflozin (HR = 0.68, 95% CrI: 0.48, 0.96) and Empagliflozin (HR = 0.62, 95% CrI: 0.45, 0.87) also demonstrated significant risk reduction, whilst direct comparisons between Empagliflozin and other agents showed no significant differences. For vascular dementia, Empagliflozin (HR = 0.63, 95% CrI: 0.46, 0.87) and Canagliflozin (HR = 0.71, 95% CrI: 0.48, 0.98) also demonstrated favorable outcomes.\nCONCLUSIONS: The findings of this study indicate that dapagliflozin, empagliflozin, and canagliflozin, particularly empagliflozin, demonstrate significant potential in reducing the incidence of dementia and related cognitive impairments. Compared with DPP-4 inhibitors, these agents effectively lower the risk of dementia, Alzheimer's disease, and vascular dementia, offering an effective therapeutic option for diabetic patients, particularly the elderly.",
@@ -8274,6 +8581,86 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42701883",
+      "title": "Prospective Evaluation of Quality-of-Life Improvement After Dapagliflozin Initiation in a Greek Population With HFrEF: The EVOLUTION-HF 12-Month Results.",
+      "abstract": "INTRODUCTION: Heart failure with reduced ejection fraction (HFrEF), defined by a left ventricular ejection fraction ≤ 40%, remains a major global health challenge, associated with substantial morbidity, mortality, and impaired quality of life (QoL), particularly in patients with higher NYHA class. Sodium-glucose cotransporter-2 (SGLT2) inhibitors have emerged as a cornerstone therapy for HFrEF, significantly reducing hospitalizations and mortality regardless of glycemic status, sex, race, or comorbidities.\nMETHODS: EVOLUTION-HF was an observational, multi-center, longitudinal cohort study involving 257 consecutive patients diagnosed with HFrEF who initiated dapagliflozin in a routine clinical setting in Greece. The primary objectives were to characterize baseline demographic and clinical features of patients newly initiated on dapagliflozin for HFrEF and to evaluate dapagliflozin treatment patterns, including discontinuation timing, reasons for discontinuation, and concomitant heart failure and glucose-lowering therapies over time. The secondary objectives are to describe patient-reported outcomes using the KCCQ-23 and to assess adherence to dapagliflozin among patients with HFrEF.\nRESULTS: A total of 257 patients were enrolled and the follow-up period lasted for 12 months. Significant improvements among all KCCQ-23 scores were observed from baseline to 12-months post dapagliflozin initiation, revealing that the initiation and optimization of guideline-directed medical therapy in routine clinical practice provides improvement to quality of life over time.\nCONCLUSIONS: Dapagliflozin was safe and well-tolerated throughout the observation period. Although benefits are observed in most patients, individuals aged > 65 years, with prior myocardial infarction, or recent hospitalizations show a diminished response, underscoring the need for tailored management and closer follow-up in these higher-risk groups.",
+      "journal": "Clinical cardiology",
+      "authors": "Potoupni Victoria, Boulmpou Aristi, Maragkoudakis Spyridon, Briasoulis Alexandros, Foukarakis Emmanouil, Stavrati Alexia, Papadopoulos Konstantinos, Naka Katerina K",
+      "pub_date": "2026-01-01",
+      "doi": "10.1002/clc.70466",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701883/",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Benzhydryl Compounds",
+        "Female",
+        "Quality of Life",
+        "Heart Failure",
+        "Greece",
+        "Male",
+        "Aged",
+        "Glucosides",
+        "Prospective Studies",
+        "Stroke Volume",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Treatment Outcome",
+        "Time Factors",
+        "Ventricular Function, Left",
+        "Middle Aged",
+        "Follow-Up Studies",
+        "Longitudinal Studies"
+      ],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "662a503e7c4fa24efdbf152ebf8727c8665a1ce34fe7c956309e15ae7cb47e2e",
+      "fetched_at_utc": "2026-09-06T22:52:24Z",
+      "updated_at_utc": "2026-09-06T22:52:24Z"
+    },
+    {
+      "pmid": "42700085",
+      "title": "Case report: Tirzepatide-responsive refractory diabetes mellitus in an adult female with prader-willi syndrome.",
+      "abstract": "RATIONALE: Prader-Willi syndrome (PWS) is a complex genetic disorder that affects multiple systems and results from loss of expression of paternally inherited genes in the 15q11.2-q13 region. It is characterized by severe hypotonia and feeding difficulties during infancy, followed by hyperphagia in later childhood and adolescence, which, without strict control of excessive eating behaviors, ultimately leads to severe obesity associated with type 2 diabetes mellitus.\nPATIENT CONCERNS: We present the case of a woman who was diagnosed with PWS and diabetes mellitus in adulthood. She had a history of hypotonia, developmental delay, intellectual disability, hyperphagia, and morbid obesity since childhood, with gonadal dysplasia emerging during puberty. She presented with long-term poorly controlled blood glucose levels.\nDIAGNOSES: Genetic testing revealed a heterozygous deletion in the 15q11.2-q13.1 region on chromosome 15, and DNA methylation analysis confirmed the diagnosis of PWS.\nINTERVENTIONS: The distinctiveness of this case lies in the patient's uncontrollable food-seeking behavior combined with PWS-related severe insulin resistance and β-cell dysfunction, which together resulted in refractory diabetes. Initial combination therapy using multiple glucose-lowering agents, including insulin, metformin, chiglitazar sodium, a glucagon-like peptide-1 receptor agonist, and a sodium-glucose cotransporter-2 inhibitor, demonstrated limited efficacy.\nOUTCOMES: Subsequent substitution of the glucagon-like peptide-1 receptor agonist with the dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 (GLP-1) receptor agonist tirzepatide led to notable improvements in appetite suppression, body weight reduction, and glycemic control.\nLESSONS: This case underscores the importance of considering genetic syndromes in patients with diabetes presenting with early-onset severe obesity and developmental abnormalities and emphasizes the potential therapeutic value of novel antidiabetic agents such as tirzepatide for managing PWS-associated metabolic disturbances. These findings provide important insights into the diagnosis and treatment of diabetes complicated by PWS.",
+      "journal": "Medicine",
+      "authors": "Li Shuang, Yu Junjie, Wei Jilin, Liang Meihua",
+      "pub_date": "2026-01-01",
+      "doi": "10.1097/MD.0000000000050605",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700085/",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Prader-Willi Syndrome",
+        "Tirzepatide",
+        "Diabetes Mellitus, Type 2",
+        "Hypoglycemic Agents",
+        "Adult"
+      ],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ee0eae8b1aa16ace7c119ffef4b0266e57c14b125157ce8f004e87c6b692625c",
+      "fetched_at_utc": "2026-09-06T22:52:24Z",
+      "updated_at_utc": "2026-09-06T22:52:24Z"
     },
     {
       "pmid": "42687606",
