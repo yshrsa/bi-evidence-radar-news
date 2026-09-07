@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-06T22:52:24Z",
+  "generated_at_utc": "2026-09-07T23:28:13Z",
   "documents": [
     {
       "pmid": "42666995",
@@ -143,6 +143,98 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
+    },
+    {
+      "pmid": "42704495",
+      "title": "GLP-1 receptor agonists vs DPP-4 inhibitors and neuropathic complications in type 2 diabetes.",
+      "abstract": "INTRODUCTION: Diabetic peripheral neuropathy is a debilitating complication of type 2 diabetes mellitus (T2DM) associated with foot ulceration, amputation, Charcot neuroarthropathy, and reduced quality of life. Although glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dipeptidyl peptidase-4 (DPP-4) inhibitors are widely used therapies for T2DM, their comparative effects on neuropathy-related lower-extremity complications remain unclear.\nOBJECTIVE: To compare diabetic foot ulcers, lower-extremity amputations, foot/ankle osteomyelitis, Charcot neuroarthropathy, and all-cause mortality in T2DM patients with neuropathy treated with GLP-1 RAs versus DPP-4 inhibitors.\nMETHODS: Using the TriNetX US Collaborative Network, we identified adults with T2DM and diabetic neuropathy, unspecified (ICD-10-CM E11.40), initiating either a GLP-1 RA or a DPP-4 inhibitor. After exclusions and 1:1 propensity score matching for demographics, comorbidities, and medications, 19,770 patients per cohort were balanced. Outcomes were assessed over 1 year and 2 years using Kaplan-Meier and Cox proportional hazards models, with Bonferroni correction (p < 0.01).\nRESULTS: After matching, GLP-1 RAs were associated with a 1-year lower risk of diabetic foot ulcers (2.2% vs 2.7%; HR 0.813, 95% CI 0.716-0.922) and lower all-cause mortality, though the mortality finding was interpreted as hypothesis-generating. Amputation (0.5% vs 0.5%; HR 1.073, 95% CI 0.810-1.421) and foot/ankle osteomyelitis (0.4% vs 0.4%; HR 0.978, 95% CI 0.708-1.349) rates were similar. Charcot neuroarthropathy incidence was higher with GLP-1 RAs (0.3% vs 0.2%; HR 1.993, 95% CI 1.297-3.064).\nDISCUSSION: In T2DM patients with neuropathy, GLP-1 RA therapy was associated with lower risk of diabetic foot ulcers and higher Charcot neuroarthropathy risk compared with DPP-4 inhibitors, while amputation and osteomyelitis risks were similar. These findings support further study of GLP-1 RAs in this population and highlight the need for careful foot monitoring during therapy.",
+      "journal": "Journal of neurology",
+      "authors": "Tawfik Fady, Yalley Eric, Sienkaniec Justyna, Mendoza Marshall, Bhatia Ronak, Boulis Michael, Hashmi Humzah, Mohamed Khalid",
+      "pub_date": "2026-09-07",
+      "doi": "10.1007/s00415-026-14127-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704495/",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Male",
+        "Female",
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Middle Aged",
+        "Aged",
+        "Diabetic Neuropathies",
+        "Diabetic Foot",
+        "Hypoglycemic Agents",
+        "Amputation, Surgical"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f316536a6fee6a29ff7d0a8b773fb566ed59b4f1192fb11eabf07786ec1c5f62",
+      "fetched_at_utc": "2026-09-07T23:28:13Z",
+      "updated_at_utc": "2026-09-07T23:28:13Z",
+      "summary_ja": "TriNetX US Collaborative Networkを用いた観察研究であり、2型糖尿病（T2DM）かつ糖尿病性神経障害（ICD-10-CM E11.40）を有し、GLP-1受容体作動薬（GLP-1 RA）またはDPP-4阻害薬を新規に開始した成人を対象とした。人口統計、合併症、併用薬について1:1プロパensityスコアマッチングを行い、コホートごとに19,770例を均衡させた。1年および2年間の糖尿病性足潰瘍、下肢切断、足/足関節骨髄炎、Charcot神経性関節症、全死因死亡率をKaplan-Meier法およびCox比例ハザードモデル（Bonferroni補正、p<0.01）で比較した。",
+      "key_takeaway_ja": "T2DM合併糖尿病性神経障害患者において、GLP-1 RAはDPP-4阻害薬と比較して糖尿病性足潰瘍のリスクが低かった（1年：2.2% vs 2.7%；HR 0.813, 95% CI 0.716-0.922）一方、Charcot神経性関節症のリスクが高かった（0.3% vs 0.2%；HR 1.993, 95% CI 1.297-3.064）。切断および骨髄炎のリスクは両群で同程度であった。",
+      "why_matters_ja": "糖尿病性末梢神経障害は足潰瘍、切断、Charcot神経性関節症、QOL低下と関連する重大な合併症であり、GLP-1 RAとDPP-4阻害薬の神経障害関連下肢合併症への比較的影響は不明であった。本結果はGLP-1 RA使用该集団におけるさらなる研究の必要性と、治療中の慎重な足モニタリングの重要性を示唆する。",
+      "study_type_ja": "観察コホート研究（TriNetX US Collaborative Networkを用いた1:1プロパensityスコアマッチングによる比較研究）",
+      "endpoints_ja": "糖尿病性足潰瘍、下肢切断、足/足関節骨髄炎、Charcot神経性関節症、全死因死亡率（1年および2年間）",
+      "endpoint_results_ja": "糖尿病性足潰瘍（1年）：GLP-1 RA 2.2% vs DPP-4阻害薬 2.7%；HR 0.813, 95% CI 0.716-0.922。全死因死亡率：GLP-1 RAで低リスク（具体的数値は抄録に記載なし）。下肢切断：0.5% vs 0.5%；HR 1.073, 95% CI 0.810-1.421。足/足関節骨髄炎：0.4% vs 0.4%；HR 0.978, 95% CI 0.708-1.349。Charcot神経性関節症：0.3% vs 0.2%；HR 1.993, 95% CI 1.297-3.064。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-07T23:28:39Z"
+    },
+    {
+      "pmid": "42703061",
+      "title": "Circadian reprogramming of inflammation and metabolism in chronic kidney disease.",
+      "abstract": "BACKGROUND: Chronic kidney disease (CKD) is driven by inflammation, fibrosis, and metabolic dysfunction. While circadian rhythm dysregulation is well documented in chronic disorders, its specific impact on CKD pathogenesis remains elusive.\nMETHODS: We performed four-hour interval time-series RNA sequencing on renal tissues from control and CKD mice. We used the JTK_CYCLE algorithm to identify rhythmic genes and categorize them as lost, acquired, or sustained in CKD; we subsequently performed focused bioinformatic analyses.\nRESULTS: The renal circadian profile was substantially altered; acquired rhythmicity emerged as the dominant pattern, and core clock gene expression was disrupted. Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis revealed that upregulated acquired-rhythmic genes in CKD were enriched in immune-inflammatory pathways; the expression of these genes peaked at Zeitgeber time (ZT) 12-16, consistent with a higher level of renal macrophage infiltration at ZT16 than at ZT0. Conversely, genes associated with nutrient and energy metabolism pathways were downregulated but acquired rhythmicity in CKD. Dapagliflozin improved renal function and restored the circadian expression rhythms of NR1D1 and p-BMAL1.\nCONCLUSIONS: CKD profoundly remodels the renal circadian transcriptome, driving immune-inflammatory and metabolic pathways into maladaptive rhythmicity. Furthermore, dapagliflozin can partially restore the expression of renal core clock genes.",
+      "journal": "Renal failure",
+      "authors": "Li Xiao-Qian, Cheng Lei, Chen Tian-Fen, Ma Yi-Nuo, Li Xiao-Hui, Fu Ting-Yu, Xiao Jing, Zhao Zhan-Zheng",
+      "pub_date": "2026-09-06",
+      "doi": "10.1080/0886022X.2026.2718935",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703061/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Renal Insufficiency, Chronic",
+        "Mice",
+        "Inflammation",
+        "Circadian Rhythm",
+        "Kidney",
+        "Nuclear Receptor Subfamily 1, Group D, Member 1",
+        "Male",
+        "Disease Models, Animal",
+        "ARNTL Transcription Factors",
+        "Transcriptome",
+        "Energy Metabolism",
+        "Mice, Inbred C57BL"
+      ],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "625a5a760236dd801b608cf63715d06f3ba6abefda50fc32ed1f32f8c0295450",
+      "fetched_at_utc": "2026-09-07T23:28:13Z",
+      "updated_at_utc": "2026-09-07T23:28:13Z",
+      "summary_ja": "CKDマウスの腎組織に対して4時間間隔の時間系列RNAシーケンシングを行い、JTK_CYCLEアルゴリズムを用いてCKDにおけるリズム遺伝子の喪失・獲得・維持を分類した。CKDでは獲得リズムが支配的なパターンであり、核心時計遺伝子の発現が破壊されていた。KEGG解析により、CKDで発現上昇した獲得リズム遺伝子は免疫・炎症経路に富み、ZT12-16にピークを示した。一方、栄養・エネルギー代謝経路関連遺伝子は発現低下しながらもリズムを獲得していた。Dapagliflozinは腎機能を改善し、NR1D1およびp-BMAL1の概日発現リズムを回復させた。",
+      "key_takeaway_ja": "CKDは腎概日トランスクリプトームを大きく再編成し、免疫・炎症経路および代謝経路を不適応的なリズムに駆動する。Dapagliflozinは腎核心時計遺伝子の発現を部分的に回復させる。",
+      "why_matters_ja": "CKDにおける概日リズムの再プログラミングを解明することで、CKDの炎症・線維化・代謝異常の病態機序に対する新たな治療標的の発見に寄与する可能性がある。",
+      "study_type_ja": "前臨床（動物モデル）研究：CKDマウス腎組織の時間系列RNAシーケンシングおよびバイオインフォマティクス解析",
+      "endpoints_ja": "['腎概日トランスクリプトームプロファイル（リズム遺伝子の分類：喪失・獲得・維持）', '核心時計遺伝子の発現', '免疫・炎症経路関連遺伝子の発現', '栄養・エネルギー代謝経路関連遺伝子の発現', '腎マクロファージ浸潤', '腎機能（Dapagliflozin投与群）', 'NR1D1およびp-BMAL1の概日発現リズム']",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-07T23:30:19Z"
     },
     {
       "pmid": "42700538",
@@ -1365,7 +1457,16 @@
       "japan_relevant": false,
       "content_sha256": "d1650fe9aed871bc386ee14fa8ec052b527f7fa8b87d6405d3533127f254801b",
       "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z"
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "GLP-1受容体作動薬（GLP-1RA）が肥満、2型糖尿病、心代謝性疾患の管理を変革してきた背景のもと、慢性炎症性皮膚疾患（乾癬、化膿性汗腺炎）におけるGLP-1RAの応用可能性をレビューした総説である。臨床試験、観察研究、実世界解析からの証拠を統合し、GLP-1RAを免疫代謝療法として位置づける概念的枠組みを提案している。",
+      "key_takeaway_ja": "GLP-1RAの皮膚科における最大の治療的有用性は、皮膚炎症の直接的な調節ではなく、疾患重症度と多疾患併存を駆動する代謝機能不全および慢性全身性炎症に対処することにある可能性が示唆された。",
+      "why_matters_ja": "乾癬や化膿性汗腺炎では、肥満・インスリン抵抗性・代謝症候群・心血管疾患が頻繁に併存しており、GLP-1RAが皮膚疾患の転帰改善と関連する代謝・心血管合併症の負担軽減を同時に実現できる可能性がある。これにより、皮膚疾患修飾と統合的皮膚科ケアの将来の機会が提供される。",
+      "study_type_ja": "総説（Review）",
+      "endpoints_ja": "乾癬：皮膚クリアランス、体重減少、乾癬性関節炎リスク。化膿性汗腺炎：心代謝性アウトカム、全身性合併症。",
+      "endpoint_results_ja": "抄録に具体的な数値は記載なし。乾癬ではtirzepatide併用療法で「enhanced skin clearance, substantial weight loss, and reduced risk of psoriatic arthritis」が示されたと記載。化膿性汗腺炎では「improvements in cardiometabolic outcomes and reductions in systemic complications」と記載。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-07T23:30:41Z"
     },
     {
       "pmid": "42685819",
@@ -1390,7 +1491,16 @@
       "japan_relevant": false,
       "content_sha256": "e38e3778ef287c0c7df01fe45a0de5f3482cc14a0638ea6c2d786b6c20398537",
       "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z"
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "BRCA1ヘテロ接合欠損が食餌誘発性代謝異常に与える影響を、WTおよびBrca1+/-マウス（両性）を用いた縦断的代謝フェノタイピングにより検討した。雌マウスではHFD下で肥満・脂肪蓄積・高インスリン血症・糖耐量異常がWT対照比で悪化したが、雄マウスではHFD誘発性体重増加への抵抗性と糖耐量改善が認められた。ヒト遺伝学的解析でもBRCA1とBMI・2型糖尿病・肝脂肪蓄積との関連が支持された。全身代謝表現型が性差を示すにもかかわらず、両性においてHFD誘発性肝脂肪変性の感受性がBrca1ヘテロ接合により増強された。雌マウスでは肝脂肪変性が脂質蓄積・酸化ストレス応答関連の転写再編成、ミトコンドリア呼吸複合体IV活性の低下、ミトコンドリア形態異常、肝臓ATPレベル低下と関連していた。GLP-1/GIP受容体二重作動薬tirzepatideの投与により、雌マウスの全身代謝異常と肝脂肪変性が改善された。",
+      "key_takeaway_ja": "BRCA1ヘテロ接合欠損は全身代謝への影響が性差を示すものの、両性においてHFD誘発性肝脂肪変性の感受性を増強させる。",
+      "why_matters_ja": "BRCA1の生物学的役割を腫瘍抑制から代謝健康の調節へと拡張し、BRCA1遺伝子変異保有者の代謝疾患感受性に関する新たな知見を提供する。",
+      "study_type_ja": "前臨床動物実験（マウスモデル）およびヒト遺伝学的関連解析",
+      "endpoints_ja": "体重、肥満度、脂肪量、インスリン血症、糖耐量、肝脂肪変性、肝臓の転写プロファイル、ミトコンドリア呼吸複合体IV活性、ミトコンドリア形態、肝臓ATPレベル",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-07T23:31:38Z"
     },
     {
       "pmid": "42684836",
@@ -1411,7 +1521,16 @@
       "japan_relevant": false,
       "content_sha256": "66e620c887423166cc1808a5dead31d4287a7f09f6cc55605a2dd9af4a8086c7",
       "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z"
+      "updated_at_utc": "2026-09-03T23:14:59Z",
+      "summary_ja": "透析患者におけるHFpEF（保存型心拍出量心不全）に対するSGLT2阻害薬ヘナグリフロジンの心臓構造への効果と安全性を評価した多施設・無作為化・二重盲検・プラセボ対照試験。透析中のHFpEF患者112名を1:1でヘナグリフロジン群（n=56）とプラセボ群（n=56）に無作為割付し、24週間投与した。主要評価項目はベースラインから24週目までの左室質量指数（LVMI）の変化量であった。ヘナグリフロジン群はプラセボ群と比較してLVMIの減少が有意に大きく（群間差 -5.27 g/m²、95%CI -10.02〜-0.53、P=0.03）、二次評価項目には群間差は認められなかった。有害事象の発生率は両群で同程度（36% vs 34%）であった。",
+      "key_takeaway_ja": "ヘナグリフロジンは透析中のHFpEF患者においてプラセボと比較して24週目でLVMIを有意に減少させ、安全性・忍容性も良好であった。",
+      "why_matters_ja": "透析中のHFpEF患者に対する有効な薬物治療は限られており、SGLT2阻害薬がこの未充足の医療ニーズに対して心臓構造の改善をもたらす可能性を示した点で意義がある。",
+      "study_type_ja": "多施設・無作為化・二重盲検・プラセボ対照試験",
+      "endpoints_ja": "主要評価項目：ベースラインから24週目までの左室質量指数（LVMI）の変化量。二次評価項目：左房容積指数（LAVI）、E/e'、e'、NT-proBNPの変化量および安全性。",
+      "endpoint_results_ja": "LVMIの変化量（最小二乗平均±SE）：ヘナグリフロジン群 -3.27±1.71 g/m² vs プラセボ群 2.01±1.69 g/m²、群間差 -5.27 g/m²（95%CI -10.02〜-0.53 g/m²、P=0.03）。腹膜透析サブグループ：群間差 -6.86 g/m²（95%CI -14.02〜0.29 g/m²）。血液透析サブグループ：群間差 -3.91 g/m²（95%CI -10.45〜2.63 g/m²）。二次評価項目（LAVI、E/e'、e'、NT-proBNP）には群間差は認められなかった。有害事象の発生率：ヘナグリフロジン群 36% vs プラセボ群 34%。",
+      "sample_size_ja": "112名（ヘナグリフロジン群 n=56、プラセボ群 n=56）。内訳：血液透析 60名、腹膜透析 52名。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-07T23:32:05Z"
     },
     {
       "pmid": "42683980",
@@ -1483,7 +1602,16 @@
       "japan_relevant": false,
       "content_sha256": "f337051ef4f0bbb2afb5764d21719197e049063a8a4ac789582e34ee5312f758",
       "fetched_at_utc": "2026-09-02T23:17:23Z",
-      "updated_at_utc": "2026-09-02T23:17:23Z"
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "心血管-腎-代謝（CKM）症候群に肝臓を統合した心血管-腎-肝-代謝（CRHM）症候群の枠組みについて、病態生理学的・疫学的・治療的証拠をレビューした。MASLDとCKDの併存は単独疾患より高い段階依存性死亡リスクを付加的に付与し、肝線維化の重症度が脂肪沈着よりも主要な予後因子であることが大規模コホートデータで確認された。治療面では、resmetirom（THR-β作動薬）がMASH特異的治療としてFDA加速承認（2024年3月）およびEU条件付き承認（2025年8月）を取得し、incretin系療法（semaglutide、tirzepatide）がCRHMスペクトラム全体で有効性を示した。",
+      "key_takeaway_ja": "MASLDとCKDの併存は単独疾患を超えた付加的な段階依存性死亡リスクを付与し、肝線維化の重症度が予後の主要な駆動因子である。肝臓のCKMステージングへの統合は、臨床医のリスク層別化と治療選択に直接的な影響を与える。",
+      "why_matters_ja": "CKM症候群に肝臓を統合することで、高リスク集団におけるMASLDの早期同定（検証済み非侵襲的線維化ツールを用いたCKDコホートでのスクリーニング）が標準的な実践となるべきであり、リスク層別化と治療選択の戦略が変化する可能性がある。",
+      "study_type_ja": "レビュー（総説）",
+      "endpoints_ja": "死亡リスク（MASLDとCKD併存時の段階依存性死亡リスク）、肝線維化の重症度（予後因子としての評価）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-07T23:32:29Z"
     },
     {
       "pmid": "42683551",
@@ -1654,7 +1782,16 @@
       "japan_relevant": false,
       "content_sha256": "dfda501001f8ac57c607e71a1045eec88ff501c2f426b5a9a88445caae31247a",
       "fetched_at_utc": "2026-09-02T23:17:23Z",
-      "updated_at_utc": "2026-09-02T23:17:23Z"
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "GLP-1受容体アゴニスト（GLP-1 RA）の継続的治療における患者報告のケアの連続性（continuity of care）を評価した横断的電子調査研究。学術医療センターの電子カルテから、過去6年間にGLP-1 RA処方歴があり、その後90日以上の処方ギャップが生じた成人を特定し、87項目の調査票を配布した。4,890件の招待に対し261名が回答（5.3%）。主要アウトカムは項目レベルの頻度であり、探索的複合指標として7項目のContinuity-of-Care Index（CCI）と5項目のDiscontinuity Index（DIS）を算出した。",
+      "key_takeaway_ja": "患者は肥満ケアの中断を主にプロセス上の失敗（事前承認の遅延、自己負担費用、薬局の在庫切れ・調剤遅延、クリニック間の断片的な連携）として報告し、透明性のあるワークフロー指向のナビゲーションを優先した。",
+      "why_matters_ja": "GLP-1 RAの中止は体重の再増加と関連しており、患者報告に基づくケア継続の障壁の理解は、治療アドヒアランスを維持するためのシステムレベルの改善に寄与しうる。",
+      "study_type_ja": "横断的電子調査（cross-sectional electronic survey）",
+      "endpoints_ja": "主要アウトカム：項目レベルの頻度。探索的複合指標：7項目のContinuity-of-Care Index（CCI）および5項目のDiscontinuity Index（DIS）、いずれも0-100に再スケーリング。",
+      "endpoint_results_ja": "回答者261名（招待4,890件のうち5.3%）。処方体重管理薬の現在使用：143名（54.8%）。事前承認要件の報告：159名（60.9%）。7日以上の待機または未承認：79名（49.7%）。薬剤に関する連絡先を把握：76.2%。チームの迅速な対応：70.7%。クリニック間の連携：54.1%。必要な次のステップの可視性：52.2%。CCI平均69.5（SD 22.7）、α=0.90、n=242。CCIは最頻来院クリニックで有意に異なる（Kruskal-Wallis p<0.001）：体重管理クリニック中央値82.1、プライマリケア60.7。現在薬剤使用患者のうち14日以上の薬剤ギャップを報告：32.4%。最も望ましいデジタル機能：リフィル・事前承認・予約の一元管理89.5%、リアルタイム事前承認ステータス87.2%。",
+      "sample_size_ja": "261名（招待4,890件のうち回答）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-07T23:32:55Z"
     },
     {
       "pmid": "42682157",
@@ -1709,7 +1846,16 @@
       "japan_relevant": false,
       "content_sha256": "883c3f794b3333232b80ce58d61c14e63687b5f68b2aef88559c0cad7964458e",
       "fetched_at_utc": "2026-09-02T23:17:23Z",
-      "updated_at_utc": "2026-09-02T23:17:23Z"
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "メトホルミン使用中の新規診断2型糖尿病患者において、SGLT2阻害薬とDPP-4阻害薬の開始が新規うつ病リスクに与える影響を評価した全国規模のクレームベース・アクティブコンパレーター・ニューユーザーコホート研究。韓国国民健康保険サービスデータベース（2014-2022年）を用い、90日アディherent-survivorランドマークデザインを採用。傾向スコアマッチング（1:1）により10,013対のマッチ済みコホートを構築した。",
+      "key_takeaway_ja": "メトホルミン使用中の2型糖尿病患者において、SGLT2阻害薬の開始はDPP-4阻害薬と比較して新規うつ病リスクが有意に低かった（HR 0.85, 95% CI 0.73-0.99）。",
+      "why_matters_ja": "2型糖尿病の追加療法としてSGLT2阻害薬を選択することで、DPP-4阻害薬と比較してうつ病リスクの低下が期待できる可能性を示唆しており、薬剤選択時の精神科的な副次的利益の観点から臨床的に意義がある。",
+      "study_type_ja": "全国規模のクレームベース・アクティブコンパレーター・ニューユーザーコホート研究（90日アディherent-survivorランドマークデザイン、傾向スコアマッチング）",
+      "endpoints_ja": "主要エンドポイント：新規うつ病（ICD-10コードF32-F33による外来または入院クレーム2件以上）。二次エンドポイント：自殺死亡率。",
+      "endpoint_results_ja": "主要エンドポイント（新規うつ病）：ITT解析 HR 0.85, 95% CI 0.73-0.99；as-treated解析 HR 0.80, 95% CI 0.65-0.98。二次エンドポイント（自殺死亡率）：両群とも頻度は低かった（具体的な数値は記載なし）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-07T23:33:22Z"
     },
     {
       "pmid": "42681751",
@@ -7055,6 +7201,32 @@
       "sample_size_ja": ""
     },
     {
+      "pmid": "42703498",
+      "title": "Tirzepatide-Based Therapy for Multidomain Metabolic Improvement in an Active Duty Service Member: A Case Report.",
+      "abstract": "Tirzepatide has demonstrated efficacy in multiple domains of metabolic health, such as weight loss, glycemic control, and improvement of metabolic dysfunction-associated steatotic liver disease (MASLD). Despite this, tirzepatide remains understudied and underutilized in the military population. We report a case of a 29-year-old active-duty male with newly diagnosed type 2 diabetes mellitus (T2DM), class II obesity (BMI 35.6 kg/m²), dyslipidemia, and MASLD who experienced marked improvement across multiple metabolic domains over approximately 12 months of tirzepatide-based treatment. This case highlights that a comprehensive treatment approach, including tirzepatide, lifestyle modifications, and adjunctive pharmacotherapy, was associated with substantial multidomain metabolic improvement in young active duty service members (ADSM). Further studies are needed to determine whether these findings translate into broader benefits for military readiness, retention, and healthcare utilization within the Military Health System (MHS).",
+      "journal": "Cureus",
+      "authors": "Kim Shawn K",
+      "pub_date": "2026-08-07",
+      "doi": "10.7759/cureus.114114",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703498/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "1ebe0b11827ef53561fada1226d6ed763160b24ad86d504d84be7634f85a347e",
+      "fetched_at_utc": "2026-09-07T23:28:13Z",
+      "updated_at_utc": "2026-09-07T23:28:13Z"
+    },
+    {
       "pmid": "42663997",
       "title": "Out-of-Pocket Costs and Adherence to Semaglutide for Obesity Among Commercially Insured Adults.",
       "abstract": "",
@@ -8581,6 +8753,72 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42704281",
+      "title": "Treatment strategies for functional hypogonadism in obese men: a systematic review and network meta-analysis.",
+      "abstract": "INTRODUCTION: Obesity-related functional hypogonadism (FH) is a potentially reversible condition associated with sexual dysfunction, metabolic disorders, altered body composition, and impaired quality of life. Although several treatment strategies are available, their comparative benefits and safety remain uncertain. This systematic review and network meta-analysis aimed to characterize their outcome-specific effects and the confidence of the comparative evidence in adult men with obesity-related FH.\nMETHODS: PubMed, Embase, Web of Science, and the Cochrane Library were searched from inception to April 2026 for randomized controlled trials evaluating structured lifestyle therapy (SLT), testosterone replacement therapy (TRT), endogenous testosterone restoration (ETR) therapy, glucagon-like peptide-1 receptor agonist-based therapy, or TRT plus SLT. Frequentist network meta-analyses were performed. Risk of bias was assessed using RoB 2, and confidence in the evidence was evaluated using CINeMA. Sensitivity and direct-evidence analyses were conducted to examine the robustness of the principal findings.\nRESULTS: Twenty-three randomized controlled trials involving 1899 participants were included. Compared with usual care/placebo, TRT plus SLT showed the largest estimated increase in total testosterone (MD 7.19, 95% CI, 1.18-13.21), followed by ETR therapy (MD 4.14, 95% CI, 0.74-7.54) and TRT (MD 2.53, 95% CI, 0.26-4.81). Testosterone replacement therapy plus SLT significantly improved International Index of Erectile Function scores (MD 1.29, 95% CI, 0.07-2.50). No intervention significantly reduced glycated hemoglobin compared with usual care/placebo. Testosterone replacement therapy reduced waist circumference and increased lean mass but also increased hematocrit; ETR therapy and TRT plus SLT also increased lean mass. No significant differences in adverse events were detected. Sensitivity and direct-evidence analyses generally supported the direction of the principal findings.\nDISCUSSION: Available treatments showed distinct outcome-specific effects, but no single strategy was consistently superior across all outcomes. Confidence in many comparisons was low or very low, and the included trials differed in participant characteristics, treatment protocols, and follow-up duration. These findings should inform individualized treatment decisions rather than a definitive treatment ranking, and require confirmation in longer-term head-to-head trials.",
+      "journal": "The journal of sexual medicine",
+      "authors": "Yang Liangliang, He Xinlei, Wang Shize, Li Tingxin, Huang Wenrui, Feng Qiang",
+      "pub_date": "2026-01-01",
+      "doi": "10.1093/jsxmed/qdag272",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704281/",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Obesity",
+        "Testosterone",
+        "Hypogonadism",
+        "Hormone Replacement Therapy",
+        "Randomized Controlled Trials as Topic",
+        "Adult"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "93dbb53ee6335c9a36dce29ec8cdc45c0b6c4a1852f7ccf2a6ab27b12d52d53e",
+      "fetched_at_utc": "2026-09-07T23:28:13Z",
+      "updated_at_utc": "2026-09-07T23:28:13Z"
+    },
+    {
+      "pmid": "42703150",
+      "title": "Off-label semaglutide: A call for monitoring protocols in non-obese populations.",
+      "abstract": "",
+      "journal": "JPMA. The Journal of the Pakistan Medical Association",
+      "authors": "Rehman Muhammad",
+      "pub_date": "2026-01-01",
+      "doi": "10.47391/JPMA.33096",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703150/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ecc51e633f060d991c0067c9dfa7a8c8a49727ac78893bef40870121d250f1ee",
+      "fetched_at_utc": "2026-09-07T23:28:13Z",
+      "updated_at_utc": "2026-09-07T23:28:13Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-07T23:28:13Z"
     },
     {
       "pmid": "42701883",
