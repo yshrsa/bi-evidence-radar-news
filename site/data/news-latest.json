@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-07T23:33:26Z",
+  "generated_at_utc": "2026-09-08T23:25:22Z",
   "items": [
     {
       "pmid": "42666995",
@@ -145,6 +145,201 @@
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
     },
     {
+      "pmid": "42710020",
+      "title": "Efficacy of Cardioprotective Drugs in Cancer Patients Receiving Anthracyclines: A Pairwise Meta-Analysis and Network Meta-Analysis.",
+      "abstract": "Anthracyclines are cornerstone chemotherapeutic agents for several cancers but carry a substantial risk of cardiotoxicity. Multiple cardioprotective drugs have been investigated to prevent cardiac dysfunction in patients receiving anthracycline-based chemotherapy. This study evaluated and ranked the cardioprotective effects of these agents using network meta-analysis. A comprehensive search of PubMed, Cochrane, Scopus, and Web of Science from inception to September 22, 2024 identified randomized clinical trials and cohort studies assessing cardioprotective agents in cancer patients treated with anthracyclines. Interventions included angiotensin-converting enzyme inhibitors (ACEIs), angiotensin receptor blockers, beta-blockers, mineralocorticoid receptor antagonists, statins, sodium-glucose cotransporter 2 (SGLT2) inhibitors, and metformin. The primary outcome was change in left ventricular ejection fraction (LVEF). Secondary outcomes were left ventricular end-diastolic diameter (LVEDD), chemotherapy-related cardiac dysfunction (CTRCD), heart failure (HF), HF hospitalization, and all-cause mortality. Thirty-five studies were included, comprising 31 randomized controlled trials and 4 retrospective studies. Overall, cardioprotective therapy significantly improved LVEF, reduced CTRCD, all-cause mortality, HF incidence, and LVEDD, but had no significant effect on HF hospitalization. Subgroup and network meta-analyses showed that ACEIs plus beta-blockers, beta-blockers alone, statins, and ACEIs significantly improved LVEF versus controls, with ACEIs ranking highest. For CTRCD prevention, statins and beta-blockers significantly reduced risk, whereas ACEIs plus beta-blockers had the most favorable ranking. For mortality, the available retrospective SGLT2 inhibitor studies suggested an association with lower risk; however, because no randomized anthracycline-specific SGLT2 inhibitor trials were available and follow-up duration differed from the RCT evidence for other agents, this finding should be considered hypothesis-generating rather than definitive comparative evidence. ACEIs, beta-blockers, and statins appear effective for preserving cardiac function during anthracycline therapy. Treatment rankings, particularly for outcomes supported by sparse or observational evidence, should be interpreted cautiously, and further randomized trials are needed, particularly to evaluate SGLT2 inhibitors.",
+      "journal": "Journal of cardiovascular pharmacology",
+      "authors": "Maliha Maisha, Satish Vikyath, Kumar Sriram Sunil, Nandy Sneha, Kharawala Amrin, Gonzales-Uribe Antony, Li Wing Fai, Kaushik Sharanya",
+      "pub_date": "2026-09-08",
+      "doi": "10.1097/FJC.0000000000001878",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710020/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d5183cd8d51298e192d575b5375e6f72e50fb549562f369492910f45b65b9ae6",
+      "fetched_at_utc": "2026-09-08T23:21:18Z",
+      "updated_at_utc": "2026-09-08T23:21:18Z",
+      "summary_ja": "アンササイクリン系抗がん剤による心毒性を予防する目的で、ACE阻害薬（ACEI）、アンジオテンシン受容体拮抗薬（ARB）、β遮断薬、鉱質コルチコイド受容体拮抗薬、スタチン、SGLT2阻害薬、メトホルミンの心保護効果をネットワークメタ解析により評価・順位付けした。PubMed、Cochrane、Scopus、Web of Scienceから2024年9月22日までに公開された無作為化臨床試験およびコホート研究を包括的に検索し、35研究（無作為化対照試験31件、後方視的コホート研究4件）を包含した。主要評価項目は左室駆出率（LVEF）の変化、副次評価項目は左室拡張期末径（LVEDD）、化学療法関連心機能障害（CTRCD）、心不全（HF）、HF入院、全死因死亡率であった。",
+      "key_takeaway_ja": "ACEI＋β遮断薬、β遮断薬単独、スタチン、ACEIが対照群と比較してLVEFの改善に有意な効果を示し、ACEIが最も高い順位であった。CTRCD予防ではスタチンとβ遮断薬が有意にリスクを低減し、ACEI＋β遮断薬が最も有利な順位であった。SGLT2阻害薬の死亡率低減効果は後方視的研究からの仮説生成レベルの知見にとどまる。",
+      "why_matters_ja": "アンササイクリン系抗がん剤は複数の癌治療の基幹薬剤であるが、心毒性のリスクが大きい。本メタ解析は、複数の心保護薬の相対的な有効性をネットワークメタ解析により順位付けし、臨床現場での薬剤選択の根拠を提供する。特にACEI、β遮断薬、スタチンの有効性が示された一方、SGLT2阻害薬については無作為化試験の欠如が指摘され、今後の研究の方向性を示す点で重要である。",
+      "study_type_ja": "ペアワイズメタ解析およびネットワークメタ解析（無作為化対照試験31件、後方視的コホート研究4件を含む35研究）",
+      "endpoints_ja": "主要評価項目：左室駆出率（LVEF）の変化。副次評価項目：左室拡張期末径（LVEDD）、化学療法関連心機能障害（CTRCD）、心不全（HF）、HF入院、全死因死亡率。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-08T23:21:43Z"
+    },
+    {
+      "pmid": "42709397",
+      "title": "Tirzepatide Benefit for Early Glycemic and Weight Management in People with T2D in Japan: Rationale, Design, and Baseline Characteristics of T-BEAT Study.",
+      "abstract": "INTRODUCTION: Tirzepatide has demonstrated good efficacy and safety in the management of type 2 diabetes (T2D) in clinical trials. As the importance of early intensive intervention is known, the tirzepatide benefit for early glycemic and weight management (T-BEAT) study investigated the real-world effectiveness of tirzepatide in participants with early stage T2D in Japan.\nMETHODS: This in-progress, noninterventional, multicenter, observational study assesses the glycemic control of tirzepatide (5-15 mg once weekly) or oral semaglutide (7-14 mg once daily) in participants with T2D who were naive to oral antidiabetes drugs (OADs) (diet and exercise only) or received OAD monotherapy, excluding oral semaglutide. The primary endpoint is the mean change in glycated hemoglobin (HbA1c) from baseline after up to 12 months of treatment. Patient-reported treatment satisfaction and other secondary endpoints are also being investigated. Baseline characteristics of the participants are reported.\nRESULTS: In the tirzepatide group (N = 290), mean participant age was 55.2 (standard deviation [SD] 13.4) years, 45.2% were female, and the mean body weight, body mass index (BMI), and baseline HbA1c were 79.6 (SD 13.2) kg, 29.3 (SD 3.5) kg/m2, and 8.0% (SD 0.8), respectively. In the oral semaglutide group (N = 279), the mean participant age was 58.8 (SD 13.3) years, 35.5% were female, and the mean body weight, BMI, and baseline HbA1c were 77.2 (SD 12.3) kg, 28.2 (SD 3.0) kg/m2, and 7.8% (SD 0.7), respectively. In both groups, dyslipidemia was the most common comorbidity (62.1% and 67.7%); 40.7% and 38.0% of participants, respectively, concomitantly used OADs; and sodium glucose co-transporter 2 inhibitors and biguanides were the most common OADs.\nCONCLUSIONS: The T-BEAT study assesses the real-world effectiveness of tirzepatide over a 12-month treatment period in participants with early stage T2D. This study's results are expected to provide valuable information to physicians, enabling them to make informed decisions in routine clinical practice.",
+      "journal": "Diabetes therapy : research, treatment and education of diabetes and related disorders",
+      "authors": "Waki Hironori, Kagitani Hideaki, Osaga Satoshi, Inoue Mariko, Yabe Daisuke",
+      "pub_date": "2026-09-08",
+      "doi": "10.1007/s13300-026-01916-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709397/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "8406d7a1f5a4e10834bda72b3113114930ce1f00613c17624d128b020e31b1d5",
+      "fetched_at_utc": "2026-09-08T23:21:18Z",
+      "updated_at_utc": "2026-09-08T23:21:18Z",
+      "summary_ja": "T-BEAT研究は、日本の早期T2D患者におけるtirzepatide（5-15 mg 週1回）またはoral semaglutide（7-14 mg 毎日1回）のリアルワールド有効性を評価する、進行中の非介入型多施設観察研究である。本論文は研究の根拠、デザイン、およびベースライン特性を報告する。対象はOAD未使用（食事・運動のみ）またはOAD単剤療法（oral semaglutideを除く）のT2D患者。主要エンドポイントは治療開始後最大12ヶ月のHbA1cのベースラインからの平均変化。",
+      "key_takeaway_ja": "本研究は進行中の観察研究であり、本論文ではベースライン特性のみが報告されている。主要エンドポイント（HbA1c変化）の結果は未報告である。",
+      "why_matters_ja": "早期T2D患者におけるtirzepatideのリアルワールド有効性データを日本から提供し、臨床現場での治療判断に有用な情報を与えることが期待される。",
+      "study_type_ja": "非介入型・多施設・観察研究（進行中）",
+      "endpoints_ja": "主要エンドポイント：治療開始後最大12ヶ月のHbA1cのベースラインからの平均変化。二次エンドポイント：患者報告の治療満足度およびその他。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-08T23:22:01Z"
+    },
+    {
+      "pmid": "42709045",
+      "title": "Pharmacokinetics of novel drugs for the treatment of Diabetic nephropathy.",
+      "abstract": "INTRODUCTION: Diabetic kidney disease (DKD) alters drug pharmacokinetics (PK), affecting exposure, pharmacodynamic response, and toxicity. As newer therapies become central to DKD management, understanding their PK profiles is essential for individualized treatment across stages of kidney impairment.\nAREAS COVERED: PubMed/MEDLINE, Embase, and Scopus were searched from database inception through 18 April 2026, for evidence on PK, pharmacodynamics, renal-impairment effects, and drug-drug interactions. Evidence was synthesized for sodium-glucose cotransporter-2 inhibitors (SGLT2i), glucagon-like peptide-1 receptor agonists (GLP-1RA), dual incretin agonists, nonsteroidal mineralocorticoid receptor antagonists (nsMRA), endothelin receptor antagonists (ERA), aldosterone synthase inhibitors (vicadrostat, baxdrostat, and lorundrostat), avenciguat, and ziltivekimab, emphasizing exposure, clearance, metabolism, elimination, and dosing implications.\nEXPERT OPINION: In reduced kidney function, SGLT2i show modest exposure increases but attenuated glucose-lowering effects, finerenone shows modest exposure increases despite minimal renal clearance, and ERA may have larger increases that narrow the therapeutic window. Newer incretin therapies generally maintain stable exposure, while eGFR alone may incompletely capture PK risk because uremia, altered protein binding, and nonrenal clearance can influence exposure. The next advance is likely to be drug-specific decision support integrating estimated glomerular filtration rate trajectory, potassium, dialysis status, body composition, and interacting medications, rather than universal therapeutic drug monitoring.",
+      "journal": "Expert opinion on drug metabolism & toxicology",
+      "authors": "Mousavi Taraneh, Shaya Fadia T, Munir Kashif M, Davis Stephen N",
+      "pub_date": "2026-09-08",
+      "doi": "10.1080/17425255.2026.2729203",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709045/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5a9deaee5259beedaaad503c2fbd2d1a4099d6477e46ae660452c31538eb5d11",
+      "fetched_at_utc": "2026-09-08T23:21:18Z",
+      "updated_at_utc": "2026-09-08T23:21:18Z",
+      "summary_ja": "糖尿病性腎症（DKD）における新規治療薬の薬物動態（PK）に関するレビュー。PubMed/MEDLINE、Embase、Scopusをデータベース開始から2026年4月18日までに検索し、SGLT2阻害薬（SGLT2i）、GLP-1受容体作動薬（GLP-1RA）、デュアルインクレチン作動薬、非ステロイド性ミネラルコルチコイド受容体拮抗薬（nsMRA）、エンドセリン受容体拮抗薬（ERA）、アルドステロン合成酵素阻害薬（vicadrostat、baxdrostat、lorundrostat）、avenciguat、ziltivekimabについて、曝露量、クリアランス、代謝、排泄、投与量への影響を統合した。",
+      "key_takeaway_ja": "腎機能低下時、SGLT2iは曝露量の軽度増加と血糖降下効果の減弱を示し、finerenoneは腎クリアランスが最小限であるにもかかわらず曝露量が軽度増加し、ERAは治療域を狭める可能性のあるより大きな曝露量増加を示す可能性がある。新規インクレチン療法は概ね曝露量が安定しており、eGFR単独では尿毒症、タンパク結合の変化、非腎クリアランスによるPKリスクを十分に捉えられない可能性がある。",
+      "why_matters_ja": "DKD管理において新規療法が中核を占めるようになりつつある中、腎障害の各段階にわたる個別化治療のために、これらの薬物のPKプロファイルの理解が不可欠である。",
+      "study_type_ja": "レビュー（Expert Opinion形式の叙述的レビュー）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-08T23:22:35Z"
+    },
+    {
+      "pmid": "42706941",
+      "title": "Keeping the weight off: can oral orforglipron maintain all the weight loss following glucagon-like peptide-1 receptor agonist (GLP-1 RA) discontinuation?",
+      "abstract": "",
+      "journal": "Expert review of clinical pharmacology",
+      "authors": "Alhazmi Abdulhameed, le Roux Carel W",
+      "pub_date": "2026-09-08",
+      "doi": "10.1080/17512433.2026.2731087",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42706941/",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "688ca00738900a01f1e036c2e257b591ebd9f669aa856bf2298b6e34506e85ce",
+      "fetched_at_utc": "2026-09-08T23:21:18Z",
+      "updated_at_utc": "2026-09-08T23:21:18Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-08T23:21:18Z"
+    },
+    {
+      "pmid": "42705608",
+      "title": "Screening for Metabolic Dysfunction-Associated Steatohepatitis in Adults with Type 2 Diabetes in the U.S. and 5 European Countries: A Cost-Utility Analysis.",
+      "abstract": "BACKGROUND & AIMS: Despite growing consensus of guidelines supporting screening for MASLD using non-invasive tests (NITs) in high-risk populations, access to NITs remains limited across the U.S. and E.U. Cost-effectiveness analyses of multimodal NIT strategies are needed to support implementation, address access challenges and inform coverage decisions.\nMETHODS: A decision-analytic Markov model was developed to evaluate the cost-effectiveness of five multimodal NIT strategies for MASLD in hypothetical cohorts of patients with type 2 diabetes across six U.S. and European markets, compared with no screening; univariate and probabilistic sensitivity analyses were conducted to assess uncertainty.\nRESULTS: Multi-step non-invasive screening strategies were cost-effective compared with no screening across all countries, with ICERs ranging from dominance to £18,572 per QALY gained. In Germany, France, Italy and the US, at least one strategy dominated no screening. Probabilistic sensitivity analysis demonstrated robust cost-effectiveness, with multi-step non-invasive strategies demonstrating a 90-100% probability of cost-effectiveness across countries. Screening strategies involving liver biopsy were dominated by no screening in all settings.\nCONCLUSION: Multi-step non-invasive screening strategies represent a cost-effective approach to improving adherence to guideline-based MASLD care in high-risk populations. As therapeutics capable of reversing fibrosis stages enter the market, the value of screening may increase further. Future research should focus on evaluating the economic impacts of longer-term care and emerging MASH therapeutics.\nIMPACT AND IMPLICATIONS: This paper uses a Markov model to evaluate five strategies for the screening and treatment of MASH in a hypothetical cohort of patients with T2DM in the UK, France, Germany, Spain, Italy, and the US. Despite professional guidelines recommending the use of non-invasive tests to screen and inform care delivery for patients high-risk for advanced fibrosis due to MASH, adoption and payer coverage of non-invasive tests remain limited in many markets. Clinicians, payers, and policymakers may consider the findings presented within this paper, which validate the cost-utility of guidelines-recommended non-invasive screening approaches in high-risk populations, when developing institutional protocols or coverage policies. As approved therapeutics (e.g., resmetirom, semaglutide) enter the market, the value proposition for cost-effective screening strategies will likely continue to grow.",
+      "journal": "JHEP reports : innovation in hepatology",
+      "authors": "Noureddin Mazen, Jones Calum, Schattenberg Jörn M, Romero-Gomez Manuel, Bugianesi Elisabetta, Ratziu Vlad, Dieterich Douglas T, Cohn Kristi",
+      "pub_date": "2026-09-07",
+      "doi": "10.1016/j.jhepr.2026.102018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42705608/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3daaf0ed9d80436a1418e1cb0e4e967884a36a47c2de000015b2d3371404f3e4",
+      "fetched_at_utc": "2026-09-08T23:21:18Z",
+      "updated_at_utc": "2026-09-08T23:21:18Z",
+      "summary_ja": "米国および5つの欧州諸国（英国、フランス、ドイツ、スペイン、イタリア）の2型糖尿病患者において、MASLD（代謝機能異常関連脂肪肝）のスクリーニングとして5つの多段階非侵襲的検査（NIT）戦略のコスト効果性を、スクリーニングなしと比較して評価した決定分析型Markovモデルによるコスト・ユーティリティ分析である。単変量および確率的感度分析も実施した。",
+      "key_takeaway_ja": "多段階非侵襲的スクリーニング戦略は、すべての国においてスクリーニングなしと比較してコスト効果があり、ICERは優越（dominance）から£18,572/QALY増の範囲であった。確率的感度分析では、すべての国で90〜100%のコスト効果確率が示された。肝生検を含む戦略はすべての設定でスクリーニングなしに優越された。",
+      "why_matters_ja": "ガイドラインは高リスク集団におけるNITによるMASLDスクリーニングを支持しているが、米国・EUにおいてNITへのアクセスは依然として限られている。本分析は、実施の推進、アクセス課題の解決、および保険適用（coverage）決定を支援する根拠を提供する。さらに、線維化を逆転させる治療薬（resmetirom、semaglutide等）が市場に登場するにつれ、スクリーニングの価値はさらに高まると考えられる。",
+      "study_type_ja": "コスト・ユーティリティ分析（決定分析型Markovモデル）",
+      "endpoints_ja": "QALY増あたりのICER（コスト効果比）、コスト効果確率（確率的感度分析）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-08T23:23:05Z"
+    },
+    {
+      "pmid": "42705550",
+      "title": "Impact of GLP-1 Dose Intensity on Perioperative and Long-Term Fusion Outcomes Following ACDF.",
+      "abstract": "BACKGROUND CONTEXT: High-dose glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for obesity management, but their perioperative safety and potential effects on fusion-related outcomes after anterior cervical discectomy and fusion (ACDF) remain unclear.\nPURPOSE: To compare short-term postoperative outcomes and longer-term fusion-related outcomes after ACDF among patients receiving high-dose versus standard-dose GLP-1 RA therapy.\nSTUDY DESIGN/SETTING: Retrospective cohort study using the TriNetX Research Network.\nPATIENT SAMPLE: Adult patients undergoing ACDF were identified within TriNetX and stratified into 3 pairwise comparison groups: standard-dose GLP-1 RA versus no GLP-1 exposure, high-dose GLP-1 RA versus no GLP-1 exposure, and high-dose versus standard-dose GLP-1 RA use. A total of 112,065 patients met inclusion criteria across all 3 comparisons. In the primary dose-intensity comparison, 921 patients remained in each cohort after 1:1 propensity score matching.\nOUTCOME MEASURES: Outcomes included 90-day healthcare utilization (readmission, emergency department visits, outpatient visits, physical therapy utilization), 90-day medical and acute postoperative complications, 90-day opioid exposure, and long-term fusion-related outcomes from 180 to 720 days, including pseudarthrosis and posterior cervical fusion.\nMETHODS: Data were queried on March 9, 2026. Adults undergoing ACDF were identified and stratified by preoperative GLP-1 RA dose intensity. Exposure was defined by recorded GLP-1 RA prescription strength from 1 year to 1 week before the index ACDF procedure. Separate 1:1 propensity score matching was performed for each pairwise comparison. Outcomes were evaluated at 1 to 90 days for healthcare utilization, short-term complications, and opioid exposure, and at 180 to 720 days for long-term fusion-related outcomes.\nFUNDING/CONFLICTS OF INTEREST: No funding was received for this study. The authors report no study-specific conflicts of interest or associated biases.\nRESULTS: In the primary high-dose versus standard-dose comparison, 90-day healthcare utilization was similar, including readmission (11.4% vs 10.0%; p = 0.327), emergency department visits (11.4% vs 12.3%; p = 0.564), outpatient visits (49.8% vs 52.1%; p = 0.328), and physical therapy utilization (42.0% vs 44.0%; p = 0.397). Short-term complications were also similar, including composite medical complications (9.6% vs 8.9%; p = 0.629), dysphagia (10.6% vs 11.2%; p = 0.709), hematoma (6.8% vs 6.3%; p = 0.638), dysphonia (1.8% vs 1.6%; p = 0.721), and acute respiratory failure (2.3% vs 1.7%; p = 0.406). Opioid exposure did not differ between cohorts (85.2% vs 83.1%; p = 0.202). Long-term outcomes were likewise similar, including pseudarthrosis (4.0% vs 3.8%; p = 0.822) and posterior cervical fusion (3.0% vs 3.7%; p = 0.398). Compared with matched non-users, both standard-dose and high-dose GLP-1 RA users had lower pseudarthrosis rates, although no additional long-term benefit was observed with higher-dose therapy.\nCONCLUSIONS: High-dose GLP-1 RA therapy was not associated with increased short-term healthcare utilization, postoperative complications, opioid exposure, or long-term fusion-related risk after ACDF compared with standard-dose therapy. These findings provide reassurance that higher-dose GLP-1 regimens do not appear to confer excess perioperative or fusion-related risk in this population.",
+      "journal": "The spine journal : official journal of the North American Spine Society",
+      "authors": "Stirpe Collin, Lee Brandon, Lavu Monish, Ding Idy, Furey Christopher, Cheng Christina W",
+      "pub_date": "2026-09-07",
+      "doi": "10.1016/j.spinee.2026.08.009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42705550/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a00997057df89772bf16826b94beb47e6e3cf820954b866f0853478af3ec9d40",
+      "fetched_at_utc": "2026-09-08T23:21:18Z",
+      "updated_at_utc": "2026-09-08T23:21:18Z",
+      "summary_ja": "TriNetX研究ネットワークを用いた後ろ向きコホート研究であり、前頸部椎間板摘出術併用固定術（ACDF）を受けた成人患者において、高用量GLP-1受容体作動薬（GLP-1 RA）と標準用量GLP-1 RAの術前後の転帰を比較した。1:1プロパティスコアマッチング後、主比較（高用量 vs 標準用量）では各コホート921例が解析対象となった。90日間の医療利用（再入院、救急外来受診、外来受診、理学療法利用）、90日間の医学的・急性術後合併症、90日間のオピオイド曝露、および180〜720日の長期融合関連転帰（偽関節、後方頸部固定術）を評価した。",
+      "key_takeaway_ja": "ACDF後、高用量GLP-1 RA療法は標準用量療法と比較して、90日間の医療利用、術後合併症、オピオイド曝露、長期融合関連リスクのいずれにおいても有意な増加とは関連しなかった。",
+      "why_matters_ja": "高用量GLP-1 RAは肥満管理にますます使用されているが、ACDFにおける術前後の安全性および融合関連転帰への影響は不明であった。本結果は、高用量GLP-1レジメンがこの患者集団において術前後または融合関連の過剰リスクをもたらさないことを示し、手術計画時の安心材料となる。",
+      "study_type_ja": "後ろ向きコホート研究（TriNetX研究ネットワーク）",
+      "endpoints_ja": "90日間の医療利用（再入院、救急外来受診、外来受診、理学療法利用）、90日間の医学的・急性術後合併症（複合医学的合併症、嚥下障害、血腫、声帯麻痺、急性呼吸不全）、90日間のオピオイド曝露、180〜720日の長期融合関連転帰（偽関節、後方頸部固定術）",
+      "endpoint_results_ja": "主比較（高用量 vs 標準用量、各921例）：再入院 11.4% vs 10.0%（p=0.327）、救急外来受診 11.4% vs 12.3%（p=0.564）、外来受診 49.8% vs 52.1%（p=0.328）、理学療法利用 42.0% vs 44.0%（p=0.397）、複合医学的合併症 9.6% vs 8.9%（p=0.629）、嚥下障害 10.6% vs 11.2%（p=0.709）、血腫 6.8% vs 6.3%（p=0.638）、声帯麻痺 1.8% vs 1.6%（p=0.721）、急性呼吸不全 2.3% vs 1.7%（p=0.406）、オピオイド曝露 85.2% vs 83.1%（p=0.202）、偽関節 4.0% vs 3.8%（p=0.822）、後方頸部固定術 3.0% vs 3.7%（p=0.398）。非使用者との比較では、標準用量・高用量GLP-1 RA使用者のいずれも偽関節率が低かったが、高用量による追加の長期利益は認められなかった（具体的な数値は抄録に記載なし）。",
+      "sample_size_ja": "全3比較を通じて112,065例が適格基準を満たした。主比較（高用量 vs 標準用量）では1:1プロパティスコアマッチング後、各コホート921例が解析対象となった。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-08T23:24:02Z"
+    },
+    {
       "pmid": "42704495",
       "title": "GLP-1 receptor agonists vs DPP-4 inhibitors and neuropathic complications in type 2 diabetes.",
       "abstract": "INTRODUCTION: Diabetic peripheral neuropathy is a debilitating complication of type 2 diabetes mellitus (T2DM) associated with foot ulceration, amputation, Charcot neuroarthropathy, and reduced quality of life. Although glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dipeptidyl peptidase-4 (DPP-4) inhibitors are widely used therapies for T2DM, their comparative effects on neuropathy-related lower-extremity complications remain unclear.\nOBJECTIVE: To compare diabetic foot ulcers, lower-extremity amputations, foot/ankle osteomyelitis, Charcot neuroarthropathy, and all-cause mortality in T2DM patients with neuropathy treated with GLP-1 RAs versus DPP-4 inhibitors.\nMETHODS: Using the TriNetX US Collaborative Network, we identified adults with T2DM and diabetic neuropathy, unspecified (ICD-10-CM E11.40), initiating either a GLP-1 RA or a DPP-4 inhibitor. After exclusions and 1:1 propensity score matching for demographics, comorbidities, and medications, 19,770 patients per cohort were balanced. Outcomes were assessed over 1 year and 2 years using Kaplan-Meier and Cox proportional hazards models, with Bonferroni correction (p < 0.01).\nRESULTS: After matching, GLP-1 RAs were associated with a 1-year lower risk of diabetic foot ulcers (2.2% vs 2.7%; HR 0.813, 95% CI 0.716-0.922) and lower all-cause mortality, though the mortality finding was interpreted as hypothesis-generating. Amputation (0.5% vs 0.5%; HR 1.073, 95% CI 0.810-1.421) and foot/ankle osteomyelitis (0.4% vs 0.4%; HR 0.978, 95% CI 0.708-1.349) rates were similar. Charcot neuroarthropathy incidence was higher with GLP-1 RAs (0.3% vs 0.2%; HR 1.993, 95% CI 1.297-3.064).\nDISCUSSION: In T2DM patients with neuropathy, GLP-1 RA therapy was associated with lower risk of diabetic foot ulcers and higher Charcot neuroarthropathy risk compared with DPP-4 inhibitors, while amputation and osteomyelitis risks were similar. These findings support further study of GLP-1 RAs in this population and highlight the need for careful foot monitoring during therapy.",
@@ -187,6 +382,41 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-07T23:28:39Z"
+    },
+    {
+      "pmid": "42707648",
+      "title": "A Systematic Review and Meta-Analysis of Malnutrition and Metabolic Failure in High-Potency Incretin Therapy.",
+      "abstract": "OBJECTIVE: High-potency incretin therapy achieved substantial weight loss, but the extreme energy deficits it induced may obscure the underlying nutritional deterioration. This meta-analysis synthesized data from 19 randomized trials across the SURMOUNT, STEP, SCALE, and OASIS programs to quantify the nutritional and body composition consequences of these agents in adults with obesity.\nMETHODS: This systematic review and meta-analysis followed PRISMA 2020 guidelines. Risk of bias was assessed using the Cochrane RoB2 tool, and certainty of evidence was rated using the GRADE approach. Continuous outcomes were pooled using mean differences within a random-effects model.\nRESULTS: Daily energy intake declined by 24.00%-39.20% across drug classes, with model-estimated daily deficits reaching 1200 kcal. Tirzepatide 15 mg was associated with a mean fat-free mass (FFM) reduction of 1.60 kg, representing 2.80% of body weight. Investigator-reported malnutrition occurred in only 0.12% of participants. Objective laboratory screening identified low total lymphocyte counts below 910 per microliter in 2.90% of active-therapy participants, nearly double the 1.77% in placebo arms, indicating that standard adverse event reporting underestimates true nutritional risk. Pancreatic lipase increased by a mean of 31% in the SCALE program, representing a secondary metabolic signal.\nCONCLUSIONS: Given these findings, a Tiered Stepped-Care Algorithm is proposed, mandating baseline screening of albumin and total lymphocyte count, periodic monitoring at weeks 12, 24, and 52, and defined intervention thresholds to prevent sarcopenia and frailty, particularly in adults aged 65 years and older.",
+      "journal": "Obesity science & practice",
+      "authors": "Ampofo Eugene, Apprey Charles, Amoako Mary, Turkson Fiifi Derrick",
+      "pub_date": "2026-09-06",
+      "doi": "10.1002/osp4.70188",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42707648/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "eb2dc5733b096bfbb75115bbdd919f738a1bda584b14ffdc28262cf4e36598e6",
+      "fetched_at_utc": "2026-09-08T23:21:18Z",
+      "updated_at_utc": "2026-09-08T23:21:18Z",
+      "summary_ja": "高用量インクレチン療法（SURMOUNT、STEP、SCALE、OASISプログラムの19件のランダム化試験）における栄養状態および体組成への影響を定量化したシステマティックレビューおよびメタアナリシス。PRISMA 2020ガイドラインに従い、Cochrane RoB2ツールでバイアスリスクを評価し、GRADEアプローチでエビデンスの確実性を評価した。",
+      "key_takeaway_ja": "調査員報告の栄養失調は参加者の0.12%にしか見られなかったが、客観的な検査スクリーニングでは活性療法群で総リンパ球数910/μL未満が2.90%に認められ、プラセボ群の1.77%のほぼ2倍であった。標準的な有害事象報告は真の栄養リスクを過小評価している。",
+      "why_matters_ja": "高用量インクレチン療法は大幅な減量をもたらすが、それに伴う極端なエネルギー欠乏が潜在的な栄養状態の悪化を隠蔽する可能性がある。標準的な有害事象報告では栄養リスクが過小評価されるため、段階的ステップケアアルゴリズム（ベースラインスクリーニング、週12・24・52での定期モニタリング、介入閾値の定義）の提案が臨床的に重要である。",
+      "study_type_ja": "システマティックレビューおよびメタアナリシス（PRISMA 2020準拠、ランダム効果モデル）",
+      "endpoints_ja": "1日エネルギー摂取量の変化、除脂肪量（FFM）減少量、調査員報告の栄養失調、総リンパ球数（910/μL未満）、膵リパーゼ",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-08T23:24:29Z"
     },
     {
       "pmid": "42703061",
@@ -1856,6 +2086,75 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-07T23:33:22Z"
+    },
+    {
+      "pmid": "42681751",
+      "title": "Incretin-Based Therapies as Cardiometabolic Interventions: Outcome Hierarchy, Receptor-Network Pharmacology and Phenotype-Based Clinical Positioning.",
+      "abstract": "AIMS: Incretin-based pharmacotherapy was initially developed to improve glucose-dependent insulin secretion and glycaemic control in type 2 diabetes, but its clinical interpretation has expanded substantially with cardiovascular outcome trials, kidney outcome data, obesity studies and next-generation polyagonist development. This narrative clinical review uses structured literature identification and outcome-stratified synthesis to evaluate incretin-based therapies as cardiometabolic interventions across diabetes, obesity, cardiovascular disease and chronic kidney disease.\nMATERIALS AND METHODS: The available evidence was interpreted according to therapeutic class, clinical domain, outcome maturity and safety boundaries, integrating clinical outcome evidence with receptor-network pharmacology.\nRESULTS: Selected GLP-1 receptor agonists are supported by hard cardiovascular and renal outcome data, whereas several dual, triple, amylin-linked and oral small-molecule strategies are currently supported mainly by glycaemic, weight-loss, metabolic or early translational endpoints. This distinction is clinically important because treatment positioning should depend on patient phenotype, outcome maturity and safety boundaries rather than mechanistic plausibility alone. In patients with type 2 diabetes and established atherosclerotic cardiovascular disease, GLP-1 receptor agonists with proven cardiovascular outcome benefit should be prioritised when atherosclerotic risk reduction is a major treatment goal. In type 2 diabetes with chronic kidney disease, semaglutide has dedicated kidney outcome evidence. In obesity with cardiometabolic risk, high-magnitude and sustained weight reduction has become a clinically relevant therapeutic target. Receptor-network pharmacology, including GLP-1, GIP, glucagon and amylin receptor signalling, provides a useful explanatory framework for heterogeneous efficacy, tolerability and tissue-level effects.\nCONCLUSIONS: However, clinical use remains bounded by gastrointestinal tolerability, lean-mass preservation, treatment durability, discontinuation effects and long-term safety. This review therefore proposes phenotype-based clinical positioning rather than a prescriptive treatment algorithm.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Sztanek Ferenc, Lőrincz Hajnalka, Harangi Mariann, Nagy Attila Csaba",
+      "pub_date": "2026-09-01",
+      "doi": "10.1111/dom.71277",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42681751/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "0f5216b7321220aef247399852069fea9ee0f4e5555a338fc405c4e0dbd18127",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "インクリチン系薬物療法は当初、2型糖尿病におけるグルコース依存性インスリン分泌の改善と血糖コントロールのために開発されたが、心血管アウトカム試験、腎臓アウトカムデータ、肥満研究、次世代ポリアゴニストの開発により、その臨床的解釈は大幅に拡大している。本叙述的臨床レビューは、構造化文献検索とアウトカム階層別統合を用い、糖尿病・肥満・心血管疾患・慢性腎臓病にまたがるインクリチン系療法を心代謝介入として評価した。選択されたGLP-1受容体アゴニストは確立された心血管・腎臓アウトカムデータにより支持される一方、デュアル・トリプル・アミリン関連・経口小分子戦略の多くは主に血糖・減量・代謝・初期トランスレーショナルエンドポイントにより支持されている。受容体ネットワーク薬理学（GLP-1、GIP、グルカゴン、アミリン受容体シグナリング）は、異質な有効性・耐容性・組織レベル効果の有用な説明枠組みを提供する。臨床利用は消化管耐容性、痩せ体組織の保持、治療持続性、中止効果、長期安全性により制限される。",
+      "key_takeaway_ja": "インクリチン系療法の治療ポジショニングは、患者のフェノタイプ、アウトカムの成熟度、安全性境界に基づいて行うべきであり、単なる機能的妥当性だけでは不十分である。確立された動脈硬化性心血管疾患を有する2型糖尿病患者では、心血管アウトカム利益が証明されたGLP-1受容体アゴニストを優先すべきであり、慢性腎臓病を伴う2型糖尿病ではセマグルチドが専用の腎臓アウトカム証拠を有する。",
+      "why_matters_ja": "インクリチン系療法の臨床的解釈が心血管・腎臓・肥満の領域に大幅に拡大した背景下で、アウトカムの成熟度と患者フェノタイプに基づく体系的な臨床ポジショニングの枠組みを提供し、治療意思決定の根拠となる。",
+      "study_type_ja": "叙述的臨床レビュー（Narrative Clinical Review）",
+      "endpoints_ja": "心血管アウトカム（硬い心血管イベント）、腎臓アウトカム、血糖コントロール、減量、代謝エンドポイント、初期トランスレーショナルエンドポイント、消化管耐容性、痩せ体組織保持、治療持続性、中止効果、長期安全性",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-08T23:24:51Z"
+    },
+    {
+      "pmid": "42680805",
+      "title": "Higher semaglutide dose is associated with lower neuropsychiatric event incidence independent of weight loss.",
+      "abstract": "GLP1 receptor agonists (GLP-1RAs) have transformed obesity treatment, but their impact on neuropsychiatric outcomes remains poorly understood. We conducted an observational study of 63,215 patients with preexisting neuropsychiatric conditions and evaluated 24 incident neuropsychiatric outcomes following treatment initiation. In propensity-matched analyses, semaglutide was associated with broadly lower neuropsychiatric event risk over two years compared with metformin, SGLT2 inhibitors, and DPP-4 inhibitors. Within the semaglutide-treated cohort, higher attained dose during the first two years after treatment initiation (\"pre-landmark period\") was associated with significantly lower incidence during the subsequent two years (\"post-landmark period\") of substance-related disorders (P < 0.001), mood disorders (P < 0.001), anxiety- and stress-related disorders (P < 0.001), central nervous system (CNS) atrophies (P < 0.001), neuromuscular disorders (P = 0.013), eating/sleep/behavioral disorders (P = 0.022), and personality/impulse-control disorders (P = 0.028). Consistent with prior clinical trials, the post-landmark incidence of dementia or CNS degenerative diseases was similar between the high-dose and low-dose semaglutide cohorts (P = 0.15). For most neuropsychiatric diagnoses, post-landmark incidence was strongly associated with the maximum attained dose. In contrast, incident cognitive symptoms and speech/language symptoms were more closely associated with weight loss (p < 0.001 and p < 0.003, respectively). Bulk and single-cell transcriptomic analyses identified low-level, regionally restricted GLP1R transcript signals in central and peripheral nervous system tissues, providing hypothesis-generating context for future experimental investigation. Together, these findings support an association between semaglutide exposure and multiple neuropsychiatric outcomes, and motivate prospective mechanistic and clinical studies.",
+      "journal": "npj metabolic health and disease",
+      "authors": "Murugadoss Karthik, Venkatakrishnan A J, Soundararajan Venky",
+      "pub_date": "2026-09-01",
+      "doi": "10.1038/s44324-026-00131-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42680805/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "491f2acb4f25d50ac1317937d773189d87f3bd05e5186643d4f67fbab6175980",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "既存の神経精神疾患を有する63,215例を対象とした観察研究であり、治療開始後の24の神経精神疾患新規発症アウトカムを評価した。プロパティスコアマッチング解析により、セマグルチドはメトホルミン、SGLT2阻害薬、DPP-4阻害薬と比較して2年間にわたり広範に低い神経精神イベントリスクと関連した。セマグルチド投与コホート内では、治療開始後最初の2年間の到達最高用量が高いほど、その後の2年間の物質関連障害（P<0.001）、気分障害（P<0.001）、不安・ストレス関連障害（P<0.001）、中枢神経系萎縮（P<0.001）、神経筋障害（P=0.013）、摂食・睡眠・行動障害（P=0.022）、人格・衝動制御障害（P=0.028）の発症率が有意に低かった。認知症または中枢神経系変性疾患の発症率は高用量群と低用量群で同程度であった（P=0.15）。認知症状および言語症状は減量とより強く関連した（p<0.001、p<0.003）。",
+      "key_takeaway_ja": "セマグルチドの到達用量が高いほど、減量に依存せずに神経精神イベントの発症率が低いことが示された。",
+      "why_matters_ja": "GLP-1受容体作動薬は肥満治療を変革したが、神経精神系アウトカムへの影響は十分に理解されていない。本研究はセマグルチド曝露と複数の神経精神系アウトカムとの関連を支持し、前向きな機序研究および臨床研究の必要性を提示する。",
+      "study_type_ja": "観察研究（プロパティスコアマッチング解析）",
+      "endpoints_ja": "24の神経精神疾患新規発症アウトカム（物質関連障害、気分障害、不安・ストレス関連障害、中枢神経系萎縮、神経筋障害、摂食・睡眠・行動障害、人格・衝動制御障害、認知症または中枢神経系変性疾患、認知症状、言語症状など）",
+      "endpoint_results_ja": "物質関連障害：P<0.001、気分障害：P<0.001、不安・ストレス関連障害：P<0.001、中枢神経系萎縮：P<0.001、神経筋障害：P=0.013、摂食・睡眠・行動障害：P=0.022、人格・衝動制御障害：P=0.028、認知症または中枢神経系変性疾患：P=0.15、認知症状：p<0.001（減量との関連）、言語症状：p<0.003（減量との関連）",
+      "sample_size_ja": "63,215例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-08T23:25:18Z"
     },
     {
       "pmid": "42679960",
