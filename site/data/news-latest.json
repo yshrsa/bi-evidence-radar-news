@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-10T23:12:43Z",
+  "generated_at_utc": "2026-09-11T23:17:09Z",
   "items": [
     {
       "pmid": "42666995",
@@ -106,6 +106,173 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T14:59:16Z"
+    },
+    {
+      "pmid": "42726191",
+      "title": "Improvement of small fiber neuropathy assessed by corneal confocal microscopy following semaglutide treatment: a case report and literature review.",
+      "abstract": "Diabetic peripheral neuropathy (DPN) is the most common chronic complication of type 2 diabetes (T2D) and a major predisposing factor for the development of diabetic foot, one of the most devastating diabetes-related conditions associated with substantial morbidity and mortality. To date, no pharmacological therapy has been shown capable of preventing, halting, or reversing neuropathic damage. We report the case of a 57-year-old man with T2D and obesity (BMI 35.2 kg/m²) who presented with symptoms and signs of DPN, including a neuropathy symptom score (NSS) of 3/9, a neuropathy disability score (NDS) of 3/10, and a vibration perception threshold (VPT) of 22 volts (V) bilaterally. In vivo corneal confocal microscopy (CCM) was performed to further evaluate small fiber involvement. Despite adequate glycemic control (HbA1c 6.6%), semaglutide was initiated to optimize metabolic status and promote weight loss. After 6 months of treatment, both BMI and HbA1c had improved, while NSS, NDS, and VPT remained unchanged. Repeat CCM demonstrated improvement across all corneal nerve parameters. This case suggests that semaglutide-associated metabolic improvement, or a direct semaglutide effect on small fiber integrity, may contribute to early regeneration of small nerve fibers in DPN. Further studies are urgently needed to determine whether semaglutide has a therapeutic role in the management of DPN.",
+      "journal": "Hormones (Athens, Greece)",
+      "authors": "Anastasiou Ioanna A, Tentolouris Nikolaos, Rebelos Eleni",
+      "pub_date": "2026-09-11",
+      "doi": "10.1007/s42000-026-00826-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726191/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "b72220b45f540f2d13d8355b5ebcc9b7647f2595a6f3c5597486c6e9a182f864",
+      "fetched_at_utc": "2026-09-11T23:13:10Z",
+      "updated_at_utc": "2026-09-11T23:13:10Z",
+      "summary_ja": "T2Dおよび肥満（BMI 35.2 kg/m²）を伴う57歳男性のDPN症例報告および文献レビュー。血糖管理は十分（HbA1c 6.6%）であったが、代謝状態の最適化と減量目的でセマグルチドを開始。6ヶ月後、BMIとHbA1cは改善したが、NSS・NDS・VPTは変化なし。再検査の角膜共焦点顕微鏡（CCM）では、すべての角膜神経パラメータで改善が認められた。",
+      "key_takeaway_ja": "セマグルチド治療に伴う代謝改善、またはセマグルチドの末梢神経線維への直接作用が、DPNにおける小神経線維の早期再生に寄与する可能性がある。",
+      "why_matters_ja": "DPNはT2Dで最も一般的な慢性合併症であり、糖尿病足発症の主要な危険因子である。現在までに、神経障害を予防・停止・逆転できる薬物療法は示されていない。本症例はセマグルチドがDPN管理に治療的役割を果たす可能性を示唆している。",
+      "study_type_ja": "症例報告および文献レビュー",
+      "endpoints_ja": "BMI、HbA1c、神経症状スコア（NSS）、神経障害スコア（NDS）、振動覚閾値（VPT）、角膜共焦点顕微鏡（CCM）による角膜神経パラメータ",
+      "endpoint_results_ja": "ベースライン：BMI 35.2 kg/m²、HbA1c 6.6%、NSS 3/9、NDS 3/10、VPT 22 V（両側）。6ヶ月後：BMI改善（具体値記載なし）、HbA1c改善（具体値記載なし）、NSS変化なし、NDS変化なし、VPT変化なし、CCMではすべての角膜神経パラメータで改善（具体値記載なし）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-11T23:13:45Z"
+    },
+    {
+      "pmid": "42723263",
+      "title": "The SGLT2i Treatment Gap in UK Primary Care: A Cross-Sectional RWE Study of Prescribing in Clinical Practice.",
+      "abstract": "AIMS: Sodium-glucose co-transporter 2 inhibitors (SGLT2i) improve cardiovascular and renal outcomes in type 2 diabetes mellitus (T2DM), chronic kidney disease (CKD) and chronic heart failure (CHF). Despite clinical guideline recommendations, SGLT2i uptake in UK primary care remains suboptimal and information on utilisation is limited. This study aims to quantify and describe the UK primary care population with T2DM, CKD and/or CHF who are eligible for but not currently prescribed an SGLT2i.\nMATERIALS AND METHODS: A cross-sectional study was conducted using routinely collected electronic health records from the Optimum Patient Care Research Database. Adults aged ≥ 18 years on 1 July 2024 were included. Descriptive analyses estimated disease prevalence (defined by morbidity-coded diagnosis), SGLT2i eligibility (defined using NICE clinical guidelines) and current SGLT2i treatment (defined as any SGLT2i prescription in the previous 2 months) by conditions and selected characteristics. Main results are based on diagnosed disease; in a separate CKD sensitivity analysis, indicative CKD (without a morbidity code) was defined using kidney function test results.\nRESULTS: In the study population of 9.8 million adults, prevalence was 6.52% for T2DM, 4.95% for diagnosed CKD (6.07% including indicative CKD) and 1.40% for CHF. Among all SGLT2i-eligible individuals, 17.5% were currently prescribed an SGLT2i. Current SGLT2i treatment was lowest in CKD-only patients (3.8% treated among eligible) and highest in those meeting eligibility criteria for all three indications (32.9% treated). SGLT2i treatment was lower in women and older adults.\nCONCLUSIONS: SGLT2i therapy is significantly underutilised in UK primary care, particularly for CKD. Equitable implementation of SGLT2i clinical guidelines is vital to improve cardio-renal-metabolic care.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Stefanska Chelsea, Chung Ryan, Ramjaun Salman, Jin Danyao, Doherty Ciara, McCafferty Kieran, Seidu Samuel",
+      "pub_date": "2026-09-10",
+      "doi": "10.1111/dom.71298",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42723263/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9adff12be619172ed6f3e2de33f0f68594cd178e679df0b55f76341e9d9a6a48",
+      "fetched_at_utc": "2026-09-11T23:13:10Z",
+      "updated_at_utc": "2026-09-11T23:13:10Z",
+      "summary_ja": "英国プライマリケアにおけるSGLT2阻害薬（SGLT2i）の処方ギャップを定量化・記述することを目的とした横断的RWE研究。Optimum Patient Care Research Databaseの電子健康記録を用い、2024年7月1日時点で18歳以上の成人を対象に、T2DM・CKD・CHFの有病率、NICEガイドラインに基づくSGLT2i適応該当率、および現在のSGLT2i処方率を記述的に分析した。",
+      "key_takeaway_ja": "英国プライマリケアにおいてSGLT2iは著しく未活用されており、特にCKD単独患者では適応該当者のうち3.8%のみが処方されていた。3疾患すべてに該当する患者でも32.9%にとどまり、ガイドラインの公平な実施が課題である。",
+      "why_matters_ja": "SGLT2iは心血管・腎予後改善のエビデンスがあり、ガイドラインで推奨されているにもかかわらず、実臨床での処方率が低いことを大規模RWEデータで定量的に示した。臨床開発・ヘルスケア政策の観点から、未処方の原因解明や介入戦略の設計に重要な基盤データとなる。",
+      "study_type_ja": "横断的RWE研究（電子健康記録を用いた記述的分析）",
+      "endpoints_ja": "T2DM・CKD・CHFの有病率、SGLT2i適応該当率（NICEガイドライン準拠）、現在のSGLT2i処方率（過去2ヶ月間のSGLT2i処方あり）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-11T23:14:04Z"
+    },
+    {
+      "pmid": "42722807",
+      "title": "Carbon Emission Impact of Semaglutide in People with Obesity in the UK Using a Disease Modelling Approach.",
+      "abstract": "OBJECTIVE: We aimed to assess the carbon footprint and clinical outcomes of once-weekly semaglutide in people with overweight or obesity in the UK using a disease modelling approach.\nMETHODS: A per-patient carbon footprint analysis was conducted to estimate emissions related to obesity management with semaglutide 2.4 mg as an add on to diet and exercise versus diet and exercise alone. A Markov state-transition cohort model (Core Obesity Model) was used for the analysis. Data were sourced from STEP and SELECT trials across three populations: (1) body mass index [BMI] ≥ 30 or ≥ 27 with one or more obesity-related complications (BMI30+/BMI27+C), (2) BMI ≥ 27 with one or more complications, including type 2 diabetes mellitus (BMI27+C), and (3) BMI ≥ 27 with established cardiovascular disease (BMI27+CVD). Carbon emissions were estimated using resource-based and cost-based methods. Key outcomes included life-years, quality-adjusted life-years, and incremental carbon footprint effectiveness ratio.\nRESULTS: In the BMI30+/BMI27+C and BMI27+C populations, semaglutide was dominant, yielding 0.30 and 0.25 additional life-years, 0.51 and 0.46 additional quality-adjusted life-years, while reducing lifetime carbon emissions by 1.8% (9850 vs 10,030 kg of CO2 equivalent [CO2e]) and 1.9% (9792 vs 9983 kg CO2e), respectively. Manufacturing emissions of semaglutide were offset by reductions in carbon emissions resulting from fewer obesity-related complications. In the BMI27+CVD population, semaglutide improved life-years by 0.56 and quality-adjusted life-years by 0.59, but emissions increased (14,700 vs 14,444 kg CO2e) because of longer survival and increased monitoring. Scenario and sensitivity analyses confirmed the robustness of the results.\nCONCLUSIONS: Semaglutide offers both clinical and environmental benefits in obesity management, supporting the UK's net-zero emissions goals.",
+      "journal": "PharmacoEconomics",
+      "authors": "Lund Niels, Lübker Christopher, Rasche Andreas, Taylor Matthew, Xu Weiwei, Taneja Loveleen, Shukla Suramya, Olivieri Anamaria-Vera",
+      "pub_date": "2026-09-10",
+      "doi": "10.1007/s40273-026-01659-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722807/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c10c87a756b4ec581e5e4185897825a92f1f26bd6ddb9b59be0aeb2f219ad3de",
+      "fetched_at_utc": "2026-09-11T23:13:10Z",
+      "updated_at_utc": "2026-09-11T23:13:10Z",
+      "summary_ja": "英国における肥満症患者を対象に、週1回セマグルチド2.4 mg（食事・運動療法併用）と食事・運動療法単独の炭素フットプリントと臨床アウトカムを、Markov状態遷移コホートモデル（Core Obesity Model）を用いて評価したモデリング研究。STEP試験とSELECT試験のデータを3つの母集団（BMI30+/BMI27+C、BMI27+C、BMI27+CVD）に適用し、リソースベース法とコストベース法で炭素排出量を推定した。",
+      "key_takeaway_ja": "BMI30+/BMI27+CおよびBMI27+C母集団ではセマグルチドが優位（dominant）であり、寿命・QALYの改善とともに生涯炭素排出量を1.8〜1.9%削減した。一方、BMI27+CVD母集団では生存延長とモニタリング増加により排出量が増加した。",
+      "why_matters_ja": "肥満治療におけるセマグルチドの臨床的効果と環境的インパクトを同時に評価し、英国のネットゼロ排出目標との整合性を示した点で、臨床開発・薬物経済学・環境持続可能性の交差点において重要な知見を提供する。",
+      "study_type_ja": "モデリング研究（Markov状態遷移コホートモデル）",
+      "endpoints_ja": "寿命（life-years）、QALY（quality-adjusted life-years）、生涯炭素排出量（kg CO2e）、増分炭素フットプリント効果比（incremental carbon footprint effectiveness ratio）",
+      "endpoint_results_ja": "BMI30+/BMI27+C：寿命+0.30年、QALY+0.51、炭素排出量 9850 vs 10,030 kg CO2e（1.8%削減）。BMI27+C：寿命+0.25年、QALY+0.46、炭素排出量 9792 vs 9983 kg CO2e（1.9%削減）。BMI27+CVD：寿命+0.56年、QALY+0.59、炭素排出量 14,700 vs 14,444 kg CO2e（増加）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-11T23:14:23Z"
+    },
+    {
+      "pmid": "42722006",
+      "title": "Increased Energy Expenditure through Intermittent Cold Exposure Does Not Enhance Tirzepatide Induced Weight-loss in Obese Mice.",
+      "abstract": "Obesity results from an imbalance between energy intake and energy expenditure. While pharmacological approaches such as tirzepatide, a dual GIP/GLP-1 receptor agonist, reduce food intake and body weight, enhancing energy expenditure via intermittent cold exposure-induced activation of thermogenesis may provide complementary benefits. Intermittent cold exposure increases energy expenditure and improves glucose homeostasis independent of weight loss. The objective of this study was to investigate the individual and combined effects of tirzepatide and intermittent cold exposure (ICE) on weight loss and glucose homeostasis. We hypothesized that combining ICE with tirzepatide would lead to greater weight loss and improvements in glucose homeostasis than tirzepatide alone. Male and female C57BL/6J mice were fed a high fat diet for 8 weeks and then treated with tirzepatide (10 nmol/kg) or vehicle and exposed, or not, to ICE (4°C, 1 h/day, 5 days/week) for 3 weeks. Body weight/composition, energy expenditure, food intake and glucose homeostasis were assessed. Tirzepatide reduced body weight, food intake, and adiposity in both sexes while ICE, acutely increased energy expenditure and improved glucose homeostasis independent of changes in body weight. There were no additive effects of combining tirzepatide and ICE. Our findings highlight that combining tirzepatide-mediated reduction in energy intake with ICE-induced activation of thermogenesis yields complementary, but not necessarily additive improvements in metabolic health.",
+      "journal": "American journal of physiology. Regulatory, integrative and comparative physiology",
+      "authors": "Bellucci Annalaura, Alfares Hadil, Gale Clara, Akcan Michael, Waters Ben, Eisner Katelyn, Baranowski Bradley J, Jeromson Stewart",
+      "pub_date": "2026-09-10",
+      "doi": "10.1152/ajpregu.00220.2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722006/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "69b3919b17d01c9db668cbb66f3e699794ec84b3b96dec4970523e899ae3417d",
+      "fetched_at_utc": "2026-09-11T23:13:10Z",
+      "updated_at_utc": "2026-09-11T23:13:10Z",
+      "summary_ja": "肥満マウス（C57BL/6J、高脂肪食8週間）において、tirzepatide（10 nmol/kg）と間欠的寒冷曝露（ICE：4°C、1時間/日、週5日、3週間）の単独および併用効果について体重・体組成、エネルギー消費、食物摂取量、グルコース恒常性に及ぼす影響を評価した。Tirzepatideは両性で体重・食物摂取量・脂肪量を減少させ、ICEは体重変化に依存せずエネルギー消費を急性増加させグルコース恒常性を改善した。両者の併用による相加効果は認められなかった。",
+      "key_takeaway_ja": "Tirzepatideと間欠的寒冷曝露の併用は、tirzepatide単独投与に比べ体重減少の相加効果を示さず、両介入は代謝健康に対して補完的だが必ずしも相加的ではない改善をもたらす。",
+      "why_matters_ja": "薬物療法（GIP/GLP-1受容体作動薬）と生活習慣介入（寒冷曝露による熱産生促進）の併用が体重減少をさらに増強するかという臨床的に重要な問いに答えており、臨床試験デザインや患者への介入戦略の検討に示唆を与える。",
+      "study_type_ja": "前臨床動物実験（マウスモデル、多群比較介入試験）",
+      "endpoints_ja": "体重/体組成、エネルギー消費、食物摂取量、グルコース恒常性",
+      "endpoint_results_ja": "抄録に具体的な数値は記載されていない。定性的な結果として：tirzepatideは両性で体重・食物摂取量・脂肪量を減少、ICEは体重変化に依存せずエネルギー消費を急性増加させグルコース恒常性を改善、併用による相加効果は認められなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-11T23:14:43Z"
+    },
+    {
+      "pmid": "42721492",
+      "title": "CARDIOVASCULAR EFFECTS OF INCRETIN RECEPTOR AGONISTS: BEYOND GLYCEMIC CONTROL.",
+      "abstract": "Incretin-based therapies have evolved from selective GLP-1RA to dual GLP-1/ GIP agonists and unimolecular triple GLP-1/GIP/glucagon receptor agonists. This review examines the cardiovascular effects of these three pharmacological tiers, with emphasis on mechanisms that operate beyond glycaemic control. Mediation analyses of major CVOTs indicate that glycaemic improvement accounts for less than 15 to 20 percent of the reduction in major adverse cardiovascular events achieved by these agents. The remainder reflects converging effects on weight reduction, lipid remodelling, blood pressure, systemic inflammation, and direct myocardial protection. At the cellular level, incretin signalling preserves mitochondrial bioenergetics, activates antioxidant defences, and inhibits multiple cardiomyocyte death pathways. At the tissue level, recent investigations in isolated human atrial preparations demonstrate direct positive inotropic effects of both GLP-1RA and the triple agonist retatrutide. Cardiac magnetic resonance evidence from the SUMMIT programme documents reverse left ventricular remodelling with tirzepatide in obesity-related heart failure with preserved ejection fraction. Phase 2 data for triple agonists have produced unprecedented surrogate cardiovascular improvements, while Phase 3 outcome data from the TRIUMPH programme remain awaited. The cardiovascular pharmacology of metabolic disease has been fundamentally reshaped, and ongoing trials will determine whether multi-receptor agonism establishes a new therapeutic standard.",
+      "journal": "Canadian journal of physiology and pharmacology",
+      "authors": "Ravic Marko, Srejovic Ivan M, Milosavljevic Isidora, Novakovic Jovana, Jakovljevic Vladimir, Vucicevic Ksenija, Petrovic Djurdjina, Muric Maja",
+      "pub_date": "2026-09-10",
+      "doi": "10.1139/cjpp-2026-0184",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42721492/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a2587b4974dbbab862524a548a13081884611e5ad2814ab4dbdb94b48a5aa2bb",
+      "fetched_at_utc": "2026-09-11T23:13:10Z",
+      "updated_at_utc": "2026-09-11T23:13:10Z",
+      "summary_ja": "本レビューは、インクレチン系治療薬（選択的GLP-1受容体作動薬、GLP-1/GIP二重作動薬、GLP-1/GIP/グルカゴン三重受容体作動薬）の3つの薬理学的階層における心血管効果を、血糖管理を超えたメカニズムに焦点を当てて考察している。主要なCVOTの媒介解析により、血糖改善は主要心血管不良事象（MACE）減少の15〜20%未満しか説明しておらず、残りは体重減少、脂質再構成、血圧、全身性炎症、直接的な心筋保護の収束効果に帰せられる。細胞レベルではミトコンドリア生エネルギーの維持、抗酸化防御の活性化、心筋細胞死経路の抑制が示され、組織レベルではヒト心房標本でのGLP-1RAおよび三重作動薬retatrutideの直接的な正性変力作用が報告されている。SUMMITプログラムではtirzepatideによる肥満関連HFpEFにおける左室逆リモデリングがCMRで確認された。",
+      "key_takeaway_ja": "インクレチン系治療薬によるMACE減少の大部分（80〜85%以上）は血糖改善ではなく、体重減少・脂質再構成・血圧低下・全身性炎症抑制・直接的な心筋保護の収束効果に由来する。",
+      "why_matters_ja": "代謝性疾患の心血管薬理学が根本的に再構築されており、多受容体作動性が新たな治療基準を確立するかどうかは進行中の第III相試験（TRIUMPHプログラム）の結果に委ねられている。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "主要心血管不良事象（MACE）、体重減少、脂質再構成、血圧、全身性炎症、直接的な心筋保護、正性変力作用、左室逆リモデリング",
+      "endpoint_results_ja": "血糖改善はMACE減少の15〜20%未満しか説明しない（主要CVOTの媒介解析）",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-11T23:15:03Z"
     },
     {
       "pmid": "42720721",
@@ -1551,6 +1718,40 @@
       "summary_generated_at_utc": "2026-09-04T23:04:58Z"
     },
     {
+      "pmid": "42692145",
+      "title": "Beyond weight loss: Disentangling the direct effects of semaglutide vs equivalent calorie restriction on reproductive systems of male and female rats.",
+      "abstract": "Semaglutide (SEMA), a glucagon-like peptide-1 (GLP-1) analogue approved for treatment of obesity, is now one of the most used anti-obesity pharmacotherapeutic agents worldwide. The effects of SEMA on body weight, appetite, and adiposity are well established. Moreover, sex differences in these effects are clearly emerging. Metabolism and reproduction are intimately intertwined; yet, whether and how these blockbuster drugs affect the reproductive system of males and females is poorly understood. To address this gap, we investigated the impact of chronic SEMA treatment on gonads and circulating reproductive hormones in diet-induced obese male and female rats. GLP-1 receptor is expressed in ovaries and testes, potentially allowing a direct effect of SEMA. Testicular expression of this receptor was 4-fold higher than in ovaries, supporting a potential male bias for potency of the drug effect. To disambiguate the direct effect of the drug from potential downstream effects of weight loss, and ensuing improvements in metabolism produced by the drug, we also evaluated pair-fed (PF) controls. After 4 weeks of treatment, PF and SEMA males displayed improvements in reproductive measures like sperm motility and mucus penetration parameters. Morphological analysis of male and female gonads largely suggested increased fertility. In males, changes in germinal epithelium and seminiferous tubules were detected. In females, increased folliculogenesis was identified in both SEMA and PF rats. Structural changes in the gonads were accompanied by changes in circulating gonadal hormones in a sex-specific manner. In males, SEMA attenuated the weight-loss-induced reduction in all androgens measured. In females, levels of progesterone, pregnenolone, and estradiol were reduced in a treatment specific manner. Pituitary hormones were also affected in both sexes. Altogether, this study highlights broad SEMA-specific, as well as weight loss induced but rescued by SEMA, effects at transcriptional, functional, and systemic levels on the reproductive systems of males and females.",
+      "journal": "Molecular metabolism",
+      "authors": "Sotzen Morgan R, Byun Suyeun, Ibadin Ngozi O, Knappenberger Mya A, Bento Madison T, Asker Mohammed, Koshkin Sergei, Diaz Francisco J",
+      "pub_date": "2026-09-03",
+      "doi": "10.1016/j.molmet.2026.102436",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692145/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "1fb79ed1f58f16f075406aa50736b0a3300530d1e823d67077aa1d782ab8395e",
+      "fetched_at_utc": "2026-09-04T23:01:37Z",
+      "updated_at_utc": "2026-09-10T23:07:53Z",
+      "summary_ja": "食事誘発性肥満の雄性・雌性ラットにおいて、慢性セマグルチド（SEMA）投与が性腺および循環性生殖ホルモンに与える影響を調査した。体重減少による下流効果と薬剤の直接効果を区別するため、ペアフィード（PF）対照群も併用した。4週間の投与後、PF群およびSEMA群の雄性ラットでは精子運動性や粘液穿透パラメータなどの生殖指標が改善し、両性の性腺の形態解析では受精能の増加が示唆された。雄性ではSEMAが体重減少に伴うすべてのアンドロゲン低下を軽減し、雌性ではプロゲステロン、プレグネノロン、エストラジオールが治療特異的に低下した。",
+      "key_takeaway_ja": "セマグルチドは体重減少を超えて、雄性・雌性の生殖系に広範な性差特異的な影響を及ぼし、転写・機能・全身レベルでSEMA特異的な効果と体重減少由来だがSEMAにより救済される効果が存在する。",
+      "why_matters_ja": "GLP-1受容体は卵巣と精巣に発現しており、セマグルチドは現在世界で最も使用されている抗肥満薬の一つであるにもかかわらず、その生殖系への影響は十分に理解されていない。本研究は、この広範に使用される薬剤の潜在的な生殖への影響を解明する上で重要である。",
+      "study_type_ja": "動物実験（食事誘発性肥満ラットを用いた前臨床研究、ペアフィード対照群を含む制御実験）",
+      "endpoints_ja": "精子運動性、粘液穿透パラメータ、雄性・雌性性腺の形態解析（精上皮、精細管、卵胞発生）、循環性性腺ホルモン（雄性：アンドロゲン、雌性：プロゲステロン、プレグネノロン、エストラジオール）、下垂体ホルモン",
+      "endpoint_results_ja": "精巣におけるGLP-1受容体発現は卵巣の4倍であった。4週間投与後、PF群およびSEMA群の雄性ラットで精子運動性と粘液穿透パラメータが改善。両性の性腺形態解析で受精能の増加が示唆された。雄性ではSEMAが体重減少に伴うすべての測定されたアンドロゲンの低下を軽減した。雌性ではプロゲステロン、プレグネノロン、エストラジオールが治療特異的に低下した。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-11T23:15:31Z"
+    },
+    {
       "pmid": "42691159",
       "title": "(Un)intended consequences of mass-prescribing GLP-1s.",
       "abstract": "It is difficult to overstate how much glucagon-like peptide-1 (GLP-1) pharmacotherapies have inundated the public discourse on obesity. An avalanche of scientific papers, news articles, and social media posts debate the efficacy, affordability, and appropriateness of GLP-1 receptor agonists not just for obesity but also skin disease, erectile dysfunction, pregnancy, and addiction. Attempting to cut through the noise, the World Health Organization (WHO) recently published the first-ever global guidelines recommending GLP-1s for the treatment of obesity, while committing to develop a global framework ensuring \"fair access\" to these medicines for the 1 billion people affected worldwide. Going deeper, the guidelines also advocate for \"robust populationlevel policies\" to address the root causes of obesity in unhealthy food environments. However, to complicate these efforts, WHO's recommendations unfold at a time rife with competitive pressures among pharmaceutical companies, food companies vying for the GLP-1 market segment, and wellness companies promoting supplements and telemedicine programs for what is being billed as a GLP-1 lifestyle. This commercial milieu is ripe for unintended consequences that conspire against fair access to these medicines.",
@@ -2169,7 +2370,7 @@
     {
       "pmid": "42685819",
       "title": "Brca1 heterozygosity leads to hepatic steatosis in male and female mice despite sexually dimorphic effects on systemic metabolism.",
-      "abstract": "BACKGROUND: Carrying a germline BRCA1 mutation increases the risk of several cancers, including breast and ovarian cancer. While BRCA1 is best known for its role in DNA damage repair, emerging evidence suggests broader functions in metabolic regulation.\nMETHODS: To determine whether heterozygous loss of Brca1, as occurs in individuals carrying a germline mutation, modifies susceptibility to diet-induced metabolic dysfunction in a sex-dependent manner, wild-type (WT) and Brca1+/- mice of both sexes were fed a low-fat diet (LFD) or high-fat diet (HFD) and underwent longitudinal metabolic phenotyping.\nRESULTS: Female HFD-fed Brca1+/- mice exhibited exacerbated obesity, increased adiposity, hyperinsulinemia, and impaired glucose tolerance compared with WT controls. In contrast, male Brca1+/- mice showed modest resistance to HFD-induced weight gain and improved glucose tolerance. Human genetic analyses supported an association between BRCA1 and metabolic traits, including BMI, type 2 diabetes and liver fat accumulation. Despite divergent systemic metabolic phenotypes, Brca1 heterozygosity increased susceptibility to HFD-induced hepatic steatosis in both sexes. In HFD-fed female Brca1+/- mice, steatosis was associated with transcriptional remodeling linked to lipid accumulation and oxidative stress responses, together with reduced mitochondrial respiratory complex IV activity, altered mitochondrial morphology, lower hepatic ATP levels. Treatment with the dual GLP‑1/GIP receptor agonist tirzepatide improved systemic metabolic dysfunction and hepatic steatosis in HFD-fed female Brca1+/- mice.\nCONCLUSIONS: These findings identify Brca1 heterozygosity as a modifier of metabolic disease susceptibility and expand the biological role of BRCA1 beyond tumor suppression to include the regulation of metabolic health.",
+      "abstract": "BACKGROUND: Carrying a germline BRCA1 mutation increases the risk of several cancers, including breast and ovarian cancer. While BRCA1 is best known for its role in DNA damage repair, emerging evidence suggests broader functions in metabolic regulation.\nMETHODS: To determine whether heterozygous loss of Brca1, as occurs in individuals carrying a germline mutation, modifies susceptibility to diet-induced metabolic dysfunction in a sex-dependent manner, wild-type (WT) and Brca1+/- mice of both sexes were fed a low-fat diet (LFD) or high-fat diet (HFD) and underwent longitudinal metabolic phenotyping.\nRESULTS: Female HFD-fed Brca1+/- mice exhibited exacerbated obesity, increased adiposity, hyperinsulinemia, and impaired glucose tolerance compared with WT controls. In contrast, male Brca1+/- mice showed modest resistance to HFD-induced weight gain and improved glucose tolerance. Human genetic analyses supported an association between BRCA1 and metabolic traits, including body mass index (BMI), type 2 diabetes and liver fat accumulation. Despite divergent systemic metabolic phenotypes, Brca1 heterozygosity increased susceptibility to HFD-induced hepatic steatosis in both sexes. In HFD-fed female Brca1+/- mice, steatosis was associated with transcriptional remodeling linked to lipid accumulation and oxidative stress responses, together with reduced mitochondrial respiratory complex IV activity, altered mitochondrial morphology, lower hepatic ATP levels. Treatment with the dual GLP‑1/GIP receptor agonist tirzepatide improved systemic metabolic dysfunction and hepatic steatosis in HFD-fed female Brca1+/- mice.\nCONCLUSIONS: These findings identify Brca1 heterozygosity as a modifier of metabolic disease susceptibility and expand the biological role of BRCA1 beyond tumor suppression to include the regulation of metabolic health.",
       "journal": "Metabolism: clinical and experimental",
       "authors": "Palikhe Sailesh, Qiao Linlan, Kutz Caleb, Liang Xiaobo, Dhorajiya Poojaben, Koestler Devin C, Bhardwaj Priya, McCoin Colin S",
       "pub_date": "2026-09-02",
@@ -2187,18 +2388,18 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "e38e3778ef287c0c7df01fe45a0de5f3482cc14a0638ea6c2d786b6c20398537",
+      "content_sha256": "a8273533de8c8df392d2e76b8e37953d98720c287471e7b9960561351566c012",
       "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z",
-      "summary_ja": "BRCA1ヘテロ接合欠損が食餌誘発性代謝異常に与える影響を、WTおよびBrca1+/-マウス（両性）を用いた縦断的代謝フェノタイピングにより検討した。雌マウスではHFD下で肥満・脂肪蓄積・高インスリン血症・糖耐量異常がWT対照比で悪化したが、雄マウスではHFD誘発性体重増加への抵抗性と糖耐量改善が認められた。ヒト遺伝学的解析でもBRCA1とBMI・2型糖尿病・肝脂肪蓄積との関連が支持された。全身代謝表現型が性差を示すにもかかわらず、両性においてHFD誘発性肝脂肪変性の感受性がBrca1ヘテロ接合により増強された。雌マウスでは肝脂肪変性が脂質蓄積・酸化ストレス応答関連の転写再編成、ミトコンドリア呼吸複合体IV活性の低下、ミトコンドリア形態異常、肝臓ATPレベル低下と関連していた。GLP-1/GIP受容体二重作動薬tirzepatideの投与により、雌マウスの全身代謝異常と肝脂肪変性が改善された。",
-      "key_takeaway_ja": "BRCA1ヘテロ接合欠損は全身代謝への影響が性差を示すものの、両性においてHFD誘発性肝脂肪変性の感受性を増強させる。",
-      "why_matters_ja": "BRCA1の生物学的役割を腫瘍抑制から代謝健康の調節へと拡張し、BRCA1遺伝子変異保有者の代謝疾患感受性に関する新たな知見を提供する。",
-      "study_type_ja": "前臨床動物実験（マウスモデル）およびヒト遺伝学的関連解析",
-      "endpoints_ja": "体重、肥満度、脂肪量、インスリン血症、糖耐量、肝脂肪変性、肝臓の転写プロファイル、ミトコンドリア呼吸複合体IV活性、ミトコンドリア形態、肝臓ATPレベル",
+      "updated_at_utc": "2026-09-11T23:13:10Z",
+      "summary_ja": "BRCA1のヘテロ接合欠損（Brca1+/-）が、食餌誘発性代謝異常への感受性に性差を示すかを検討するため、野生型（WT）およびBrca1+/-マウス（両性）を低脂肪食（LFD）または高脂肪食（HFD）で飼育し、縦断的代謝フェノタイピングを行った。雌HFD給餌Brca1+/-マウスではWT対照と比較して肥満、脂肪量増加、高インスリン血症、糖耐量障害が顕著であった一方、雄Brca1+/-マウスではHFD誘発性体重増加に対する軽度の抵抗性と糖耐量改善が認められた。ヒト遺伝解析ではBRCA1とBMI、2型糖尿病、肝脂肪蓄積との関連が支持された。全身代謝表現型が異なるにもかかわらず、Brca1ヘテロ接合は両性においてHFD誘発性肝脂肪症への感受性を増加させた。雌HFD給餌Brca1+/-マウスでは、脂肪蓄積および酸化ストレス応答に関連する転写のリモデリング、ミトコンドリア呼吸複合体IV活性の低下、ミトコンドリア形態の変化、肝ATPレベルの低下が認められた。GLP-1/GIP受容体二重アゴニストtirzepatideの投与により、雌HFD給餌Brca1+/-マウスの全身代謝異常および肝脂肪症が改善された。",
+      "key_takeaway_ja": "Brca1ヘテロ接合は全身代謝表現型に性差を示すものの、両性において高脂肪食誘発性肝脂肪症への感受性を増加させる。BRCA1の役割は腫瘍抑制を超えて代謝健康の調節にも及ぶ。",
+      "why_matters_ja": "BRCA1遺伝子変異保因者において代謝疾患の感受性が変化する可能性を示し、BRCA1の生物学的役割を腫瘍抑制から代謝健康の調節へと拡張する。また、tirzepatideによる改善は、BRCA1変異保因者における代謝合併症管理の新たな治療的示唆を与える。",
+      "study_type_ja": "前臨床（in vivo）動物実験（マウスモデル）およびヒト遺伝解析",
+      "endpoints_ja": "体重増加、脂肪量、インスリン血症、糖耐量、肝脂肪症、肝臓の転写プロファイル（脂肪蓄積・酸化ストレス関連）、ミトコンドリア呼吸複合体IV活性、ミトコンドリア形態、肝ATPレベル、BMI、2型糖尿病、肝脂肪蓄積（ヒト遺伝解析）",
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-07T23:31:38Z"
+      "summary_generated_at_utc": "2026-09-11T23:16:19Z"
     },
     {
       "pmid": "42684836",
@@ -2625,6 +2826,40 @@
       "summary_generated_at_utc": "2026-09-08T23:25:18Z"
     },
     {
+      "pmid": "42680170",
+      "title": "GLP-1 receptor agonist exposure and non-arteritic anterior ischaemic optic neuropathy: an illustrative case.",
+      "abstract": "CLINICAL RELEVANCE: Non-arteritic anterior ischaemic optic neuropathy may occur following exposure to glucagon-like peptide-1 receptor agonists, although a causal relationship has not been established.\nBACKGROUND: Recent evidence has raised concern regarding a possible association between glucagon-like peptide-1 receptor agonists and non-arteritic anterior ischaemic optic neuropathy. We describe an illustrative case occurring in a younger patient without diabetes mellitus or hypertension.\nMETHODS: A 37-year-old woman with obesity and insulin resistance developed painless unilateral visual loss following three once-weekly doses of semaglutide, all administered before symptom onset. Clinical examination, multimodal ophthalmic imaging, visual field testing, neuroimaging, and laboratory investigations were performed.\nRESULTS: The right eye showed optic disc oedema, a dense inferior altitudinal visual field defect, and marked peripapillary retinal nerve fibre layer thickening, supporting a diagnosis of non-arteritic anterior ischaemic optic neuropathy. Investigations excluded alternative inflammatory, demyelinating, infectious, arteritic, compressive, and pseudopapilloedema-related causes. At three months, the optic disc oedema had resolved with residual pallor, while the visual field defect persisted.\nCONCLUSIONS: Although causality cannot be established from a single case, recent glucagon-like peptide-1 receptor agonist exposure may be relevant when evaluating atypical optic neuropathy in younger patients.",
+      "journal": "Clinical & experimental optometry",
+      "authors": "Devebacak Ali, Top Karti Dilek, Sutas Busra, Tunç Murat, Karti Omer, Saatci Ali Osman",
+      "pub_date": "2026-09-01",
+      "doi": "10.1080/08164622.2026.2725047",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42680170/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c850790c8ad7d4e850a8dac0044af019787028c96ac4e3029a70d4ba7c713510",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "肥満とインスリン抵抗性を有する37歳の女性において、セマグルチドの週1回投与3回（すべて症状発現前）後に無痛性片眼視力低下を発症し、視神経乳頭浮腫、密な下方水平視野欠損、乳頭周囲網膜神経線維層の著明な肥厚を認め、非動脈炎性前部虚血性視神経症（NAION）と診断された症例の報告。炎症性・脱髄性・感染性・動脈炎性・圧迫性・偽乳頭浮腫性の原因は除外された。",
+      "key_takeaway_ja": "GLP-1受容体作動薬の曝露後にNAIONが発生し得るが、単一症例から因果関係は確立できない。",
+      "why_matters_ja": "糖尿病や高血圧を有さない若年患者における非定型視神経症の評価において、最近のGLP-1受容体作動薬曝露が関連し得ることを示唆し、臨床的に考慮すべき点を提供する。",
+      "study_type_ja": "症例報告（illustrative case）",
+      "endpoints_ja": "視神経乳頭浮腫、視野欠損（下方水平型）、乳頭周囲網膜神経線維層厚さ、3ヶ月時の視神経乳頭所見",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "1例（37歳女性）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-11T23:17:07Z"
+    },
+    {
       "pmid": "42679960",
       "title": "From evidence to delivery: Optimising SGLT2 inhibitor therapy in heart failure.",
       "abstract": "",
@@ -2656,7 +2891,7 @@
     },
     {
       "pmid": "42674357",
-      "title": "Comment on \"Effect of Semaglutide with Metformin for Weight Loss and Fertility in Polycystic Ovary Syndrome (PCOS) Patients with Obesity: A Pilot Prospective Study\".",
+      "title": "Comment on \"effect of semaglutide with metformin for weight loss and fertility in polycystic ovary syndrome (PCOS) patients with obesity: A pilot prospective study\".",
       "abstract": "",
       "journal": "Clinical nutrition ESPEN",
       "authors": "Siddiraju Sridhar, Tumma Neelimarani, Singh Surendra",
@@ -2675,9 +2910,9 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "5e4ab5b4660231e7d3a31fa7380b8678db1d23611d62b3ef26351204eae3739f",
+      "content_sha256": "14ae24327608742ad4cab76a09f4dbd81890a8874276570901274076bd61a19f",
       "fetched_at_utc": "2026-09-01T04:38:31Z",
-      "updated_at_utc": "2026-09-01T04:38:31Z",
+      "updated_at_utc": "2026-09-11T23:13:10Z",
       "summary_ja": "抄録に記載なし",
       "key_takeaway_ja": "抄録に記載なし",
       "why_matters_ja": "抄録に記載なし",
@@ -2686,7 +2921,7 @@
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-01T04:38:31Z"
+      "summary_generated_at_utc": "2026-09-11T23:13:10Z"
     },
     {
       "pmid": "42674355",
