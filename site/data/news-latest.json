@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-11T23:17:09Z",
+  "generated_at_utc": "2026-09-12T23:04:28Z",
   "items": [
     {
       "pmid": "42666995",
@@ -106,6 +106,109 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T14:59:16Z"
+    },
+    {
+      "pmid": "42728029",
+      "title": "International expert panel review for the use of resmetirom and semaglutide in the management of MASH-related fibrosis: clinical practice update.",
+      "abstract": "The recent conditional US Food and Drug Administration (FDA) approval of two therapies, resmetirom (Rezdiffra) and semaglutide (Wegovy), marks the first time clinicians have pharmacological therapy for metabolic dysfunction-associated steatohepatitis (MASH) with significant fibrosis (F2-F3) without cirrhosis, a disease that previously had no available pharmacological treatment. The two agents act through complementary mechanisms: resmetirom as a liver-directed thyroid hormone receptor-beta agonist and semaglutide as a glucagon-like peptide-1 receptor agonist (GLP-1 RA) with a broad spectrum of metabolic effects. In this international expert panel review, we consolidate data from phase III trials, FDA labels and emerging clinical experience into a single resource. It covers the entire care pathway: non-invasive test-based diagnosis of MASH with significant fibrosis, treatment selection and initiation, on-treatment monitoring and response assessment. We offer practical recommendations for individualising therapy by patient phenotype, managing patients already receiving GLP-1 RAs and defining response, non-response and criteria for switching or combining agents. The proposed framework is intended to evolve as long-term outcomes data emerge and additional MASH therapies become available.",
+      "journal": "Gut",
+      "authors": "Mironova Maria, Ratziu Vlad, Rinella Mary E, Bansal Meena B, Noureddin Mazen, Alkhouri Naim, Anstee Quentin M, Newsome Philip N",
+      "pub_date": "2026-09-11",
+      "doi": "10.1136/gutjnl-2026-340031",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728029/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "680e3d9b7ccba4586572ab78016ef38ba03b2a28a21f1d5499af932988711134",
+      "fetched_at_utc": "2026-09-12T23:01:13Z",
+      "updated_at_utc": "2026-09-12T23:01:13Z",
+      "summary_ja": "MASH（代謝機能異常関連脂肪性肝炎）で有意な線維化（F2-F3）を伴う非肝硬変症例に対する、resmetirom（甲状腺ホルモン受容体βアゴニスト）とsemaglutide（GLP-1受容体アゴニスト）の臨床実践に関する国際専門家パネルレビュー。Phase III試験データ、FDAラベル、および臨床経験の知見を統合し、非侵襲的検査による診断、治療選択・開始、治療中のモニタリング・反応評価を含むケアパス全体をカバーする。患者フェノタイプに応じた個別化治療、GLP-1 RA投与中患者の管理、反応・非反応の定義、薬剤切り替えまたは併用の基準について実践的提言を提示する。",
+      "key_takeaway_ja": "MASHで有意な線維化を伴う症例に対し、初めて薬物療法（resmetiromとsemaglutide）が利用可能となり、本レビューは臨床現場での実践的な使用フレームワークを提供する。",
+      "why_matters_ja": "MASHで有意な線維化を伴う症例は従来薬物療法が存在しなかった疾患であり、本レビューは新承認薬の臨床導入を支援する統合的リソースとして、診断から治療・モニタリングまでのケアパス全体を網羅する。",
+      "study_type_ja": "レビュー（国際専門家パネルレビュー／臨床実践アップデート）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-12T23:01:31Z"
+    },
+    {
+      "pmid": "42727867",
+      "title": "Where the Future Lies: GLP-1 Receptor Agonists as Therapeutics for Dermatologic Comorbidities.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have transformed the management of obesity, type 2 diabetes mellitus, and cardiometabolic disease through effects on weight reduction, glycemic control, and systemic inflammation. Their varied immunometabolic actions have generated increasing interest in dermatology, where chronic inflammatory skin diseases frequently coexist with obesity, insulin resistance, metabolic syndrome, and cardiovascular disease. Emerging evidence from clinical trials, observational studies, and real-world analyses suggests that GLP-1RAs may improve outcomes in psoriasis, hidradenitis suppurativa, and atopic dermatitis while simultaneously reducing the burden of associated metabolic and cardiovascular comorbidities. In psoriasis, combination therapy with tirzepatide has demonstrated enhanced skin clearance, substantial weight loss, and reduced risk of psoriatic arthritis. In hidradenitis suppurativa and atopic dermatitis, GLP-1RAs have been associated with improvements in cardiometabolic outcomes and reductions in systemic complications. Collectively, these findings support an evolving paradigm in which the greatest therapeutic utility of GLP-1RAs in dermatology may lie not only in direct modulation of cutaneous inflammation but also in addressing the metabolic dysfunction and chronic systemic inflammation that drive disease severity and multimorbidity. We review the current clinical evidence and propose a conceptual framework positioning GLP-1RAs as immune-metabolic therapies that target the systemic comorbidities of inflammatory skin disease, highlighting future opportunities for disease modification and integrated dermatologic care.",
+      "journal": "Clinics in dermatology",
+      "authors": "DeCoster Mikaela, Narla Shanthi",
+      "pub_date": "2026-09-11",
+      "doi": "10.1016/j.clindermatol.2026.09.003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727867/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "7774c41bd4a0fa6780d03ccbfc6ab137960b35867af313d9e02969690e98f82f",
+      "fetched_at_utc": "2026-09-12T23:01:13Z",
+      "updated_at_utc": "2026-09-12T23:01:13Z",
+      "summary_ja": "GLP-1受容体アゴニスト（GLP-1RA）が肥満、2型糖尿病、心代謝性疾患の管理を変革してきた背景のもと、その免疫代謝作用が皮膚科領域、特に慢性炎症性皮膚疾患（乾癬、化膿性汗腺炎、アトピー性皮膚炎）における治療応用について検討したレビュー論文。GLP-1RAが皮膚疾患の改善と関連する代謝・心血管合併症の軽減を同時に達成しうる可能性を、臨床試験・観察研究・実世界データから概観し、免疫代謝療法としての概念フレームワークを提案している。",
+      "key_takeaway_ja": "GLP-1RAの皮膚科における最大の治療的有用性は、皮膚炎症の直接的な調節だけでなく、疾患重症度と多疾患併存を駆動する代謝機能不全と慢性全身性炎症に対処することにある可能性が示唆された。",
+      "why_matters_ja": "慢性炎症性皮膚疾患は肥満、インスリン抵抗性、代謝症候群、心血管疾患と頻繁に併存する。GLP-1RAは皮膚疾患そのものの改善と、関連する代謝・心血管合併症の軽減を同時に達成しうるため、統合的な皮膚科ケアの新たなパラダイムを提示する可能性がある。",
+      "study_type_ja": "レビュー（総説）",
+      "endpoints_ja": "乾癬：皮膚クリアランス、体重減少、乾癬性関節炎リスク。化膿性汗腺炎・アトピー性皮膚炎：心代謝性アウトカム、全身性合併症の軽減。",
+      "endpoint_results_ja": "抄録に記載なし（具体的な数値は記載されていない）",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-12T23:01:50Z"
+    },
+    {
+      "pmid": "42727623",
+      "title": "Metabolic Effects of a GLP-1 Analog Combined with Aerobic Training in Ovariectomized Rats.",
+      "abstract": "Menopause is associated with visceral obesity, low-grade chronic inflammation, and increased risk of dyslipidemia, insulin resistance, and type 2 diabetes. Although exercise (EXE) and GLP-1 receptor agonists, such as semaglutide (SEM), have demonstrated beneficial effects on metabolic regulation, their combined impact in menopause models has been less investigated. In this study, ovariectomized female Wistar rats were divided into four experimental groups: sedentary plus saline (SED + SAL), sedentary plus semaglutide (SED + SEM), exercise (EXE + SAL), and EXE + SEM. The aerobic exercise protocol consisted of treadmill running at moderate intensity for four weeks, during which the rats received either SEM or SAL weekly. At the end of the protocol, metabolic parameters were assessed in blood, liver, soleus and gastrocnemius muscles. Both SEM groups had lower body weight, weight gain, relative subcutaneous white adipose tissue (scWAT) mass, glucose, total proteins, and triglycerides in serum and liver, while LDL cholesterol, glycogen in liver and gastrocnemius, and AMPK and HSF1 expression in gastrocnemius increased. EXE decreased total and LDL cholesterol, liver triglycerides and HSF1 expression in both tissues, while glycogen in liver and gastrocnemius, liver HSF1 expression and relative mass were increased. The combination of SEM + EXE increased glycogen content in the gastrocnemius and AMPK expression in both gastrocnemius and liver. This combined treatment reduced HDL levels, hepatic triglycerides and scWAT relative weight. These results suggest that SEM and EXE exert complementary effects on glycemic and lipid metabolism, with partially distinct metabolic outcomes that may involve different underlying mechanisms.",
+      "journal": "Molecular and cellular endocrinology",
+      "authors": "Selau Bruna, Bastos Leonardo Marensi, Normann Rafaella Sanfelice, Cubas Gustavo Kasper, Herrmann Rodrigo de Oliveira Corrêa da Cunha, Barros Lucas Dos Anjos de Oliveira de, de Amaral Marjoriane, Trapp Márcia",
+      "pub_date": "2026-09-11",
+      "doi": "10.1016/j.mce.2026.112917",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727623/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c878f28cd02659cafedb612b188c077c625eb8be943696773186a176675bb117",
+      "fetched_at_utc": "2026-09-12T23:01:13Z",
+      "updated_at_utc": "2026-09-12T23:01:13Z",
+      "summary_ja": "卵巣摘出ラット（閉経モデル）を用い、GLP-1受容体作動薬セマグルチド（SEM）と有酸素運動（EXE）の併用による代謝への影響を4群（SED+SAL、SED+SEM、EXE+SAL、EXE+SEM）で比較検討した。中等強度のトレッドミル走行を4週間実施し、週1回SEMまたはSALを投与した。プロトコル終了時に血液、肝臓、腓腹筋、ヒラメ筋の代謝パラメータを評価した。",
+      "key_takeaway_ja": "SEMとEXEは血糖・脂質代謝に対して相補的な効果を示し、部分的に異なる代謝的アウトカムが異なる基盤メカニズムを介して生じる可能性がある。",
+      "why_matters_ja": "閉経は内臓肥満、低度慢性炎症、脂質異常症・インスリン抵抗性・2型糖尿病のリスク上昇と関連するが、運動とGLP-1受容体作動薬の併用効果は閉経モデルにおいて十分に研究されていない。",
+      "study_type_ja": "動物実験（前臨床研究）：卵巣摘出ラットを用いた4群比較の介入試験",
+      "endpoints_ja": "体重、体重増加、皮下白色脂肪組織（scWAT）相対質量、血清および肝臓のグルコース・総タンパク質・トリグリセリド、LDLコレステロール、HDLコレステロール、肝臓および腓腹筋のグリコーゲン、腓腹筋および肝臓のAMPK発現、腓腹筋および肝臓のHSF1発現、肝臓相対質量",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-12T23:02:12Z"
     },
     {
       "pmid": "42726191",
@@ -1330,7 +1433,7 @@
     {
       "pmid": "42697364",
       "title": "Blood pressure, electrolyte and fluid balance in horses with insulin dysregulation after short-term treatment with canagliflozin.",
-      "abstract": "Short-term treatment with SGLT-2 inhibitors decreases blood pressure in people with type 2 diabetes. The aim was to investigate the impact of a 3-week treatment with canagliflozin on blood pressure in insulin dysregulated (ID) horses and to study effects on fluid balance. This was a single-centre, randomised, double-blind, placebo-controlled, parallel design study. The primary study evaluated glucose and insulin responses during an oral sugar test, and these results have been published previously. Here we report the effect of canagliflozin treatment on blood pressure, PCV, serum proteins and electrolytes. Baseline data were collected over an initial 3-day period from 16 privately owned ID horses and ponies. On the morning of the third day, serum electrolytes, serum proteins and PCV were analysed along with measurement of blood pressure using the non-invasive high definition oscillometry technique. Horses were then randomly assigned to either once-daily oral treatment with 0.6mg/kg canagliflozin or placebo for a 3-week double-blind treatment period at home and a 3-day follow-up period similar to the baseline period, during which the double-blind treatment continued. There was no significant detectable change in systolic-, diastolic- and mean arterial blood pressure in canagliflozin treated horses compared to placebo. PCV, serum protein and electrolytes did not differ between treatments. Compared to humans, a significant reduction in blood pressure was not observed after short-term canagliflozin treatment. Additionally, there were no significant transient changes in PCV, serum protein or electrolyte concentrations as observed in humans with short-term canagliflozin treatment.",
+      "abstract": "Short-term treatment with SGLT-2 inhibitors decreases blood pressure in people with type 2 diabetes. The aim was to investigate the impact of a 3-week treatment with canagliflozin on blood pressure in insulin dysregulated (ID) horses and to study effects on fluid balance. This was a single-centre, randomised, double-blind, placebo-controlled, parallel design study. The primary study evaluated glucose and insulin responses during an oral sugar test, and these results have been published previously. Here we report the effect of canagliflozin treatment on blood pressure, PCV, serum proteins and electrolytes. Baseline data were collected over an initial 3-day period from 16 privately owned ID horses and ponies. On the morning of the third day, blood sampling was performed for analysis of serum electrolytes, serum proteins and PCV, along with measurement of blood pressure using the non-invasive high definition oscillometry technique. Horses were then randomly assigned to either once-daily oral treatment with 0.6 mg/kg canagliflozin or placebo for a 3-week double-blind treatment period at home and a 3-day follow-up period similar to the baseline period, during which the double-blind treatment continued. There was no significant detectable change in systolic-, diastolic- or mean arterial blood pressure in canagliflozin treated horses compared to placebo. PCV, serum protein and electrolytes did not differ between treatments. Compared to humans, a significant reduction in blood pressure was not observed after short-term canagliflozin treatment. Additionally, there were no significant transient changes in PCV, serum protein or electrolyte concentrations as observed in humans with short-term canagliflozin treatment.",
       "journal": "Veterinary journal (London, England : 1997)",
       "authors": "Nostell Katarina, Lindåse Sanna, Svonni Elin, Höglund Katja, Bröjer Johan",
       "pub_date": "2026-09-04",
@@ -1344,18 +1447,18 @@
       "matched_companies": [],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "8fedf00d270b43e7cdaf3519ba9877a728631954acaded02f8278da6687dab65",
+      "content_sha256": "0b0e96a579f33c437ecfccd3c6298a020441969cfc8889e31db5bf8ff40f8c69",
       "fetched_at_utc": "2026-09-05T22:51:19Z",
-      "updated_at_utc": "2026-09-05T22:51:19Z",
-      "summary_ja": "インスリン調節異常（ID）馬16頭を対象に、SGLT-2阻害薬カナグリフロジンの3週間短期投与が血圧、PCV、血清タンパク質、電解質に与える影響を、単一施設・無作為化・二重盲検・プラセボ対照・並行群間比較試験として評価した。",
-      "key_takeaway_ja": "カナグリフロジン3週間短期投与では、プラセボと比較して収縮期・拡張期・平均動脈血圧に有意な変化は認められず、PCV・血清タンパク質・電解質にも群間差は認められなかった。",
-      "why_matters_ja": "ヒトの2型糖尿病患者ではSGLT-2阻害薬の短期投与で血圧低下が報告されているが、ID馬では同様の血圧低下効果が認められなかった。また、ヒトで観察されるPCV・血清タンパク質・電解質の一時的な変化もID馬では認められず、種差の存在を示唆する。",
-      "study_type_ja": "単一施設・無作為化・二重盲検・プラセボ対照・並行群間比較試験",
-      "endpoints_ja": "収縮期血圧、拡張期血圧、平均動脈血圧、PCV、血清タンパク質、電解質",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "16頭（インスリン調節異常の馬およびポニー）",
+      "updated_at_utc": "2026-09-12T23:01:13Z",
+      "summary_ja": "インスリン調節異常（ID）馬における3週間のカナグリフロジン投与が血圧に与える影響および水分平衡への影響を調査した単一施設、無作為化、二重盲検、プラセボ対照、並行群間比較試験。16頭のID馬・ポニーをカナグリフロジン（0.6 mg/kg 1日1回経口投与）群またはプラセボ群に無作為に割り付け、3週間の二重盲検治療期間と3日間のフォローアップ期間を設けた。収縮期血圧、拡張期血圧、平均動脈圧、PCV、血清タンパク質、電解質を評価した。",
+      "key_takeaway_ja": "ヒトとは異なり、短期間のカナグリフロジン投与後、インスリン調節異常馬では血圧の有意な低下も、PCV・血清タンパク質・電解質濃度の一時的な有意な変化も観察されなかった。",
+      "why_matters_ja": "SGLT-2阻害薬はヒトの2型糖尿病患者で血圧を低下させることが知られているが、インスリン調節異常馬において同様の効果が発現するかは不明であった。本結果は、SGLT-2阻害薬の馬への応用において血圧低下という副次的効果や電解質・水分平衡への影響を期待できないことを示唆する。",
+      "study_type_ja": "単一施設、無作為化、二重盲検、プラセボ対照、並行群間比較試験",
+      "endpoints_ja": "収縮期血圧、拡張期血圧、平均動脈圧、PCV、血清タンパク質、電解質",
+      "endpoint_results_ja": "カナグリフロジン投与馬においてプラセボと比較して収縮期血圧、拡張期血圧、平均動脈圧に有意な検出可能な変化はなかった。PCV、血清タンパク質、電解質は治療間で差がなかった。ヒトで観察されるようなPCV、血清タンパク質、電解質濃度の有意な一時的な変化も観察されなかった。",
+      "sample_size_ja": "16頭の私的保有ID馬・ポニー",
       "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-05T22:51:35Z"
+      "summary_generated_at_utc": "2026-09-12T23:02:31Z"
     },
     {
       "pmid": "42697206",
@@ -2888,6 +2991,134 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
       "summary_generated_at_utc": "2026-09-02T23:17:23Z"
+    },
+    {
+      "pmid": "42679839",
+      "title": "Ketoacidosis with SGLT2 inhibitors in routine clinical practice of type 2 diabetes: Scandinavian cohort and nested case-control study.",
+      "abstract": "BACKGROUND: SGLT2 inhibitors increase the risk of ketoacidosis, but data from routine clinical practice are scarce. We used nationwide registers with the aim of assessing the incidence, risk factors, and prognosis of ketoacidosis during SGLT2 inhibitor treatment in patients with type 2 diabetes.\nMETHODS: In this cohort and nested case-control study we used data from three Scandinavian countries. In a cohort of SGLT2 inhibitor-treatment episodes among patients with type 2 diabetes aged at least 18 years in Sweden, Denmark, and Norway, we estimated ketoacidosis incidence. Using a nested case-control design (matched on age, sex, region of birth, calendar time, and time since treatment initiation), we assessed risk factors and precipitating or co-occurring events. Changes in diabetes medications were evaluated.\nFINDINGS: The study period was Jan 1, 2013, to Dec 31, 2021, in Denmark and Sweden, and Jan 1, 2013, to Dec 31, 2022, in Norway. We included 322 597 treatment episodes among 282 282 patients with type 2 diabetes (mean age 63 years, 116 521 [36·1%] of 322 597 women). During a median (IQR) follow-up of 1·3 (0·7-2·8) years, 1452 ketoacidosis events occurred (incidence 2·43 per 1000 person-years). Although highest shortly after initiation, risk persisted throughout follow-up. Strong risk factors included high HbA1c (≥83 vs ≤52 mmol/mol: odds ratio [OR] 15·37 [95% CI 11·50-20·53]), malnutrition (OR 10·54 [7·32-15·18]), previous ketoacidosis (OR 10·40 [7·09-15·24]), low BMI (<20 kg/m2vs 20 to <25 kg/m2: OR 9·98 [5·68-17·53]), and recent hypoglycaemia (OR 5·22 [2·60-10·49]). Infection was the most common precipitating or co-occurring event (454 [31·8%] of 1428 vs 862 [6·1%] of 14 233 for ketoacidosis cases vs controls; OR 7·60 [6·62-8·71]). The strongest associations were observed for alcohol intoxication, acute renal events, acute abdomen, stroke, and major surgery, although associations for some transient exposures, particularly milder conditions, might have been overestimated because of under-registration among controls. Exploratory analyses suggested that the observed associations were largely general to patients with type 2 diabetes rather than specific to SGLT2 inhibitor use. At 1 year after ketoacidosis, 211 (25·1%) of 842 remained on SGLT2 inhibitors and insulin use increased from 269 (31·9%) of 842 to 615 (73·0%) of 842.\nINTERPRETATION: Ketoacidosis risk with SGLT2 inhibitors varies greatly by patient characteristics and is not confined to early in treatment. Risk should be assessed throughout treatment, and patients should be instructed to pause treatment during acute illness and stress.\nFUNDING: Region Stockholm, Swedish Society of Medicine, Karolinska Institutet.",
+      "journal": "The lancet. Diabetes & endocrinology",
+      "authors": "Kadesjö Erik, Söderling Jonas, Hviid Anders, Wintzell Viktor, Svanström Henrik, Eliasson Björn, Gudbjörnsdóttir Soffia, Melbye Mads",
+      "pub_date": "2026-09-01",
+      "doi": "10.1016/S2213-8587(26)00162-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679839/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "501726aed1aedac146fbee8257ee6be6ff581a536e3f799ef78660dddfa5a715",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "スウェーデン、デンマーク、ノルウェーの3カ国の全国登録データを用いたコホート研究およびネスト型ケースコントロール研究により、2型糖尿病患者のSGLT2阻害薬治療中のケトアシドーシスの発生率、リスク因子、予後を評価した。2013年1月から2021年12月（デンマーク・スウェーデン）または2022年12月（ノルウェー）までの期間で、282,282人の2型糖尿病患者（平均年齢63歳）の322,597件の治療エピソードを対象とした。中央値1.3年（IQR 0.7-2.8）の追跡期間中に1,452件のケトアシドーシス事象が発生し、発生率は1,000人年あたり2.43であった。治療開始直後に最も高かったが、追跡期間を通じてリスクは持続した。",
+      "key_takeaway_ja": "SGLT2阻害薬によるケトアシドーシスのリスクは患者特性によって大きく異なり、治療初期に限定されない。高HbA1c（≥83 mmol/mol vs ≤52 mmol/mol: OR 15.37）、栄養失調（OR 10.54）、既往のケトアシドーシス（OR 10.40）、低BMI（OR 9.98）、最近の低血糖（OR 5.22）が強いリスク因子であり、感染が最も一般的な誘発・併発事象であった（OR 7.60）。ケトアシドーシス後1年時点でSGLT2阻害薬を継続したのは25.1%、インスリン使用率は31.9%から73.0%に増加した。",
+      "why_matters_ja": "SGLT2阻害薬は2型糖尿病の標準治療として広く使用されているが、通常臨床実践におけるケトアシドーシスのデータは乏しかった。本研究は全国登録データを用いた大規模コホートにより、リスク因子を特定し、治療期間を通じてリスク評価が必要であることを示し、急性疾患やストレス時に治療を一時中止するよう患者に指導すべきことを支持する。",
+      "study_type_ja": "コホート研究およびネスト型ケースコントロール研究（3カ国の全国登録データを用いた観察研究）",
+      "endpoints_ja": "SGLT2阻害薬治療中のケトアシドーシスの発生率、リスク因子（HbA1c、栄養状態、既往歴、BMI、低血糖）、誘発・併発事象（感染、アルコール中毒、急性腎事象、急性腹症、脳卒中、大手術）、ケトアシドーシス後の糖尿病薬物変更（SGLT2阻害薬継続率、インスリン使用率）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-12T23:03:03Z"
+    },
+    {
+      "pmid": "42679357",
+      "title": "New Evidence in Heart Failure: 2026 Update.",
+      "abstract": "Heart failure (HF) remains a major cause of morbidity, mortality, impaired quality of life and healthcare expenditure worldwide. The global burden of HF continues to increase due to population aging, improved survival, and the growing prevalence of cardiovascular, renal, and metabolic comorbidities. Simultaneously, the pace of scientific progress in HF has accelerated considerably. Recent advances have refined our understanding of HF epidemiology, prognosis, and disease trajectories, including emerging concepts of HF improvement, remission, and recovery. The Second Universal Definition of HF has also updated the classification framework, moving beyond the traditional ejection fraction-based categories. HF is now broadly classified into two major phenotypes: heart failure with reduced ejection fraction (HFrEF) and heart failure with preserved ejection fraction (HFpEF). Novel mechanistic insights highlight the role of inflammation, immune activation, metabolic dysfunction, mitochondrial biology, and multisystem interactions in HF progression. There has also been significant progress in the characterization and management of major comorbidities, including chronic kidney disease (CKD), diabetes, obesity, atrial fibrillation (AF), pulmonary hypertension, frailty, malnutrition, and cancer. Diagnostic innovations include novel biomarkers, multi-omics technologies, artificial intelligence-based approaches, advanced imaging techniques, congestion assessment tools, and emerging digital health solutions. Important advances have occurred in specific HF aetiologies, including cardiomyopathies, cardiac amyloidosis (CA), myocarditis, arrhythmia-induced cardiomyopathy (AiCM), and Chagas cardiomyopathy. Therapeutic developments continue to reshape HF management across the spectrum of left ventricular ejection fraction. Recent evidence has focused on optimization of guideline-directed medical therapy in HFrEF, expansion of evidence-based therapies in HFpEF, and growing roles for sodium-glucose cotransporter-2 inhibitors, finerenone, incretin-based therapies, and transcatheter valve interventions. Collectively, these advances support the transition from a predominantly phenotype-based approach towards a more personalized and biologically informed model of HF care, with the potential to further improve outcomes across the entire HF spectrum.",
+      "journal": "ESC heart failure",
+      "authors": "Liguori Valentino, Rizzello Angelica, Adamo Marianna, Aimo Alberto, Böhm Michael, Papp Zoltán, Ponikowski Piotr, von Haehling Stephan",
+      "pub_date": "2026-09-01",
+      "doi": "10.1093/eschf/xvag216",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679357/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8ffecfb510d13a72068070b98f3af18beac2129c85aec3dbbda884f1ed586582",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "心不全（HF）に関する2026年時点の最新エビデンスを包括的にレビューした総説。HFの疫学・予後・疾患軌跡の理解の深化、第二版Universal Definition of HFによる分類枠組みの更新（HFrEFとHFpEFの2大フェノタイプへの再編）、炎症・免疫活性化・代謝異常・ミトコンドリア生物学などの新規機序、主要随伴疾患（CKD、糖尿病、肥満、心房細動、肺高血圧症、フレイル、栄養失調、がん）の管理、新規バイオマーカー・マルチオミクス・AI・画像診断・デジタルヘルスなどの診断革新、特定病因（心筋症、心筋アミロイドーシス、心筋炎、不整脈誘発性心筋症、チャガス心筋症）の進展、および治療面でのGDMT最適化・HFpEFにおけるエビデンス拡大・SGLT2阻害薬・フィネロノン・インクレチン系薬・経カテーテル弁インターベンションの役割拡大を網羅的に概観している。",
+      "key_takeaway_ja": "心不全の管理は、従来のフェノタイプ中心のアプローチから、より個別化かつ生物学的根拠に基づくモデルへの移行を支持する十分な進展が得られている。",
+      "why_matters_ja": "心不全は依然として世界的な有病率・死亡率・QOL低下・医療費の主要因であり、高齢化・生存率向上・心血管・腎・代謝随伴疾患の増加によりその負担は拡大し続けている。本レビューがまとめる診断・分類・治療の進展は、心不全スペクトラム全体でのアウトカム改善に寄与する可能性がある。",
+      "study_type_ja": "総説（ナラティブレビュー）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-12T23:03:23Z"
+    },
+    {
+      "pmid": "42679352",
+      "title": "Dapagliflozin effects on right ventricular function, pulmonary pressure and coupling: a propensity score analysis from the RIVED-HF.",
+      "abstract": "BACKGROUND: Right ventricular (RV) dysfunction (RVD) represents a power independent prognostic factor in patients with chronic heart failure (CHF); poor evidence exists about the effect of current guideline directed medical therapy on RVD.We investigated whether dapagliflozin improves right ventricular function, right ventricular-pulmonary arterial coupling and pulmonary artery systolic pressure compared with standard therapy in CHF.\nMETHODS: This is a prospective observational registry with propensity score analysis investigating RV function and right heart failure(RIVED), focused on the effects of Dapagliflozin.Efficacy measures were intra and inter-groups changes from baseline to 6 months in RV end diastolic diameter(RVEDD), tricuspid annular peak systolic excursion(TAPSE), RV global longitudinal strain(RVGLS), fractional area changes(FAC), RV systolic tissue doppler wave(S'), PASP values,TAPSE/PASP,and tricuspid regurgitation(TR).Secondary endpoints were N-terminal pro B-type natriuretic peptide(NTproBNP) levels changes and combined adverse events rate of mortality and hospitalization at 180 days.\nRESULTS: The final population analysed was of 142 patients,in a balanced dataset consisting of 71 treated with standard HF therapy plus dapagliflozin(Dapa group) and 71 treated with standard therapy without dapagliflozin(control group).Median age was 78 [75-84] years old and 62% of patients were men. Patients in dapa group were younger(76[66-82] vs 82[74-88] years old;p<0.001) and more frequently affected by diabetes mellitus(44% vs 22%; p=0.002) compared to control group. No significant differences were observed between the two groups in terms of gender, renal function, NTproBNP and NYHA class.Over the 6 months follow-up,the Dapa group showed a significant improvement of RV function compared with controls(TAPSE +1.03 mm,p < 0.001 and S' +0.48 cm/s,p = 0.006); whereas no significant differences between-groups were observed for FAC(p = 0.16).RV GLS at follow-up was significantly improved in the Dapagliflozin group compared with controls(adjusted mean difference -1.54%, p < 0.001). as well as of the pulmonary-arterial coupling (TAPSE/PASP adjusted differences ranging from +0.07 to +0.17,p = 0.025).In patients with PH, a significant decrease in PASP(30[25-34] vs 37[31-45] mmHg,p<0.001) associated with a RVGLS significant improvement (-20 [-22 - -19] vs -19 [-20 - -17] p<0.001) in the Dapagliflozin group were observed.TAPSE/PASP ratio was significantly improved in Dapagliflozin group with respect to the control group(0.67[052-0.78] vs 0.51[0.42-0.61], p<0.001).Secondary endpoints analysis revealed that NT-proBNP levels were significantly improved from baseline to follow-up only in dapaglifozin group(from 938 to 726 pg/ml p = 0.013).The rate of 180-days adverse events was significantly higher in control group with respect to Dapaglifozin group(21% vs 8%, p<0.01).\nCONCLUSIONS: In a real-world HF cohort,dapagliflozin was associated with improved RV morphology and function, lower PASP,and better RV-PA coupling,suggesting a direct haemodynamic and RV-targeted benefit beyond LV remodelling.Trial Registration: (ClinicalTrials.gov Identifier: NCT06002321).",
+      "journal": "ESC heart failure",
+      "authors": "Palazzuoli Alberto, Ruocco Gaetano, Franceschi Sara, Schirò Giuseppe, Petrini Alessia, Manetti Niccolò, Salzano Andrea, Severino Paolo",
+      "pub_date": "2026-09-01",
+      "doi": "10.1093/eschf/xvag230",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679352/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "16b962ec3b337a397164c3c48aca95fb2209e62f3a4e1121d0d529e299460763",
+      "fetched_at_utc": "2026-09-02T23:17:23Z",
+      "updated_at_utc": "2026-09-02T23:17:23Z",
+      "summary_ja": "RIVED-HFレジストリからのプロパシティスコア解析により、慢性心不全（CHF）患者においてダパグリフロジンが標準治療と比較して右室機能、右室-肺動脈カップリング、肺動脈収縮期血圧（PASP）を改善するかを調査した前向き観察研究。最終解析対象は142例（ダパグリフロジン群71例、対照群71例）で、6ヶ月間の追跡期間において、ダパグリフロジン群はTAPSE、S'、RVGLS、TAPSE/PASP比の有意な改善が認められた。肺高血圧を伴う患者ではPASPの有意な低下とRVGLSの改善が観察された。二次エンドポイントではNT-proBNPの有意な低下（938→726 pg/ml）と180日間の有害事象発生率の有意な低下（8% vs 21%）がダパグリフロジン群で認められた。",
+      "key_takeaway_ja": "実臨床の心不全コホートにおいて、ダパグリフロジンは右室形態・機能の改善、PASPの低下、RV-PAカップリングの改善と関連し、左室リモデリングを超えた直接的な血流力学的・右室標的効果を示唆した。",
+      "why_matters_ja": "右室機能不全（RVD）は慢性心不全における強力な独立した予後因子であるが、現在のガイドライン推奨治療がRVDに与える効果に関するエビデンスは乏しい。本研究は、SGLT2阻害薬であるダパグリフロジンが右室機能に直接的な有益な効果を持つ可能性を示し、右室機能不全を伴う心不全患者の治療戦略に新たな視点を提供する。",
+      "study_type_ja": "前向き観察レジストリ（プロパシティスコア解析）",
+      "endpoints_ja": "主要エンドポイント：ベースラインから6ヶ月までのRVEDD、TAPSE、RVGLS、FAC、S'、PASP、TAPSE/PASP、三尖弁逆流（TR）の変化。二次エンドポイント：NT-proBNPレベルの変化、180日間の死亡および入院の複合有害事象発生率。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "142例（ダパグリフロジン群71例、対照群71例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-12T23:04:08Z"
+    },
+    {
+      "pmid": "42678545",
+      "title": "Exploring the therapeutic response to sodium-glucose cotransporter-2 inhibition in INSR-related insulin resistance monogenic diabetes: case-based analysis and narrative review.",
+      "abstract": "BACKGROUND: INSR-related insulin resistance is a form of monogenic diabetes caused by pathogenic variants in the INSR gene, resulting in impaired insulin receptor signalling and a spectrum of insulin resistance. Conventional diabetes management strategies relying on insulin sensitisation or augmentation are often less effective and evidence to guide treatment in those with heterozygous INSR mutations remains limited.\nINDEX CASE ANALYSIS: A 63-year-old male diagnosed with type 2 diabetes aged 40 presented with a relatively stable fasting glucose and disproportionate postprandial hyperglycaemia despite prandial insulin. He had bilateral asymmetric mixed hearing loss (conductive/sensorineural) and early cardiovascular disease. C-peptide was preserved at 1.3 nmol/L with serum glucose at 7.1 mmol/L. Monogenic diabetes genetic testing identified a heterozygous likely pathogenic variant (i.e. mutation) in INSR (c.3473G > A, (p.Arg1158Gln)). Treatment with a sodium-glucose cotransporter-2 inhibitor (SGLT2 inhibitor) achieved 78% time-in-range (TIR). Subsequent SGLT2 inhibitor withdrawal for four months due to pyelonephritis led to TIR deterioration to 2% despite intensified basal insulin. Berberine initiation produced modest improvement (TIR 24%). Following re-introduction of the SGLT2 inhibitor, TIR rapidly improved to 85%, with restoration of a stable overnight profile.\nLITERATURE REVIEW: A narrative review identified eight cases with INSR-related insulin resistance (Donohue/Rabson-Mendenhall/type A insulin resistance) treated with a SGLT2 inhibitor. All reports documented clinically meaningful HbA1c reductions (1.4-3.6%) and, where available, improved CGM metrics.\nCONCLUSIONS: SGLT2 inhibitors provide insulin-independent glycaemic benefit in INSR-related insulin resistance. AMPK-activating strategies, including metformin, berberine, and exercise, may provide adjunctive benefit via cellular glucose uptake, although evidence remains limited. We propose a two-factor therapeutic framework targeting (1) insulin-independent glucosuria and (2) AMPK-mediated glucose uptake as a rational management approach for this rare form of diabetes.",
+      "journal": "Acta diabetologica",
+      "authors": "Franklin David, Mahony Jan, Patel Chirag, Triay Jessica",
+      "pub_date": "2026-09-01",
+      "doi": "10.1007/s00592-026-02795-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678545/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "170c8b303730f9967430b5956c88cef5f1eb95e6fa62185e3942dfe8c14dc5c2",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z",
+      "summary_ja": "INSR関連インスリン抵抗性単一遺伝子糖尿病におけるSGLT2阻害薬の治療反応を探索した症例ベース解析と叙述的レビュー。63歳男性のヘテロ接合INSR変異（c.3473G>A, p.Arg1158Gln）を有する症例で、SGLT2阻害薬によりTIR 78%を達成し、離脱後はTIR 2%に悪化、再開後はTIR 85%に改善した。文献レビューではINSR関連インスリン抵抗性8例のSGLT2阻害薬使用例を同定し、HbA1c 1.4〜3.6%の低下が報告されていた。",
+      "key_takeaway_ja": "SGLT2阻害薬はINSR関連インスリン抵抗性においてインスリン非依存性の血糖管理効果を提供する。",
+      "why_matters_ja": "INSR関連インスリン抵抗性ではインスリン感受性向上やインスリン増強に依存する従来の糖尿病管理戦略はしばしば効果が不十分であり、ヘテロ接合INSR変異を有する患者の治療を導くエビデンスは限られている。",
+      "study_type_ja": "症例ベース解析と叙述的レビュー",
+      "endpoints_ja": "Time-in-range (TIR)、HbA1c、CGM指標",
+      "endpoint_results_ja": "インデックス症例：SGLT2阻害薬でTIR 78%、離脱後TIR 2%、ベルベリン開始でTIR 24%、SGLT2阻害薬再開でTIR 85%。文献レビュー：HbA1c低下1.4〜3.6%。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-12T23:04:25Z"
     },
     {
       "pmid": "42674357",
