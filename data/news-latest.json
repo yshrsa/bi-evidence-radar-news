@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-13T23:11:44Z",
+  "generated_at_utc": "2026-09-14T23:56:34Z",
   "items": [
     {
       "pmid": "42666995",
@@ -108,6 +108,109 @@
       "summary_generated_at_utc": "2026-08-31T14:59:16Z"
     },
     {
+      "pmid": "42735222",
+      "title": "SGLT2 Inhibitor Empagliflozin Reduces Circulating Monocyte-Platelet Aggregates: A Pilot Study.",
+      "abstract": "",
+      "journal": "Circulation",
+      "authors": "Safa B Ilkin, Oakes Jared M, Simmons Joshua D, Nian Hui, Kirk Leslie A, Cassidy Anna C, Olson Eric C, Hatem Zaid",
+      "pub_date": "2026-09-14",
+      "doi": "10.1161/CIRCULATIONAHA.125.077432",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42735222/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "8d73db7e32cd6740c1d7e61308702ff106c573c993accc6236684311630a905e",
+      "fetched_at_utc": "2026-09-14T23:51:11Z",
+      "updated_at_utc": "2026-09-14T23:51:11Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-14T23:51:11Z"
+    },
+    {
+      "pmid": "42734721",
+      "title": "DUTCH weight control in atrial fibrillation study (DUTCH-WAIST) : Design and rationale of a randomised controlled trial.",
+      "abstract": "BACKGROUND: Obesity is a well-established and highly prevalent risk factor for atrial fibrillation (AF) and its progression by promoting structural and electrical atrial remodelling, leading to AF recurrence and persistence. Weight loss is expected to reverse atrial remodelling and improve rhythm control. Optimal strategies for weight management are, however, under-explored.\nOBJECTIVE: To quantify the effect of clinically meaningful weight loss on rhythm control in overweight patients with first detected persistent AF.\nDESIGN: A multicentre, double-blind, randomised, placebo-controlled trial evaluating semaglutide 2.4 mg once weekly versus placebo, in addition to combined lifestyle intervention (CLI), during a one-year period.\nPARTICIPANTS: Adults with a BMI > 30 kg/m2, or BMI > 27 kg/m2 with a weight-related comorbidity, and first detected (< 6 months) persistent AF scheduled for electrical cardioversion.\nINTERVENTION: Weekly subcutaneous injections of semaglutide 2.4 mg or placebo, alongside CLI and standard AF care in both groups.\nOUTCOMES: The co-primary outcome is (i) a hierarchical assessment of rhythm status at one year, ranking patients by severity from arrhythmic death to sinus rhythm without any additional rhythm control support. (ii) the composite of either persistent atrial fibrillation on ECG, catheter ablation for AF, arrhythmic death, or any serious adverse event due to anti-arrhythmic drugs occurring within 1 year.\nCONCLUSION: This study investigates whether treatment of overweight with semaglutide, as an adjunct to lifestyle intervention, enhances rhythm control in AF patients with first detected persistent AF and overweight, offering a potential new approach to reducing AF burden and cardiovascular risk in this population.",
+      "journal": "Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation",
+      "authors": "Voorhout Leonard, Pisters Ron, Huisman Menno, Klok Erik, Rutten Frans, Geersing Geert-Jan, Tieleman Robert, Cornel Jan Hein",
+      "pub_date": "2026-09-14",
+      "doi": "10.1007/s12471-026-02074-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42734721/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c0b3ae2e673784ec27afb3923f737d968dc5d681da30f37e8d734267021ae914",
+      "fetched_at_utc": "2026-09-14T23:51:11Z",
+      "updated_at_utc": "2026-09-14T23:51:11Z",
+      "summary_ja": "DUTCH-WAIST試験は、肥満を伴う初回検出の持続性心房細動（AF）患者において、週1回セマグルチド2.4 mg皮下注射を併用生活習慣介入（CLI）および標準AF治療に追加してプラセボと比較する、多施設・二重盲検・ランダム化・プラセボ対照試験のデザインと根拠を報告する論文である。対象はBMI>30 kg/m2、またはBMI>27 kg/m2かつ体重関連合併症を有し、電気的除細動が予定されている初回検出（6ヶ月未満）の持続性AFを有する成人である。",
+      "key_takeaway_ja": "本論文は完了した試験の結果ではなく、セマグルチドがCLIに追加されることで初回検出の持続性AFを伴う肥満患者のリズムコントロールを改善するかを評価するRCTのデザインと根拠を提示するものである。",
+      "why_matters_ja": "肥満は心房の構造的・電気的リモデリングを促進しAFの再発・持続を招く確立されたリスク因子であり、減量により心房リモデリングが逆転しリズムコントロールが改善すると期待されるが、最適な体重管理戦略は未十分に探索されている。セマグルチドというGLP-1受容体作動薬がAFのリズムコントロールに寄与するかどうかは、AF負荷および心血管リスク低減の新たなアプローチとして臨床的に重要である。",
+      "study_type_ja": "ランダム化比較試験（RCT）のデザイン・根拠論文（Design and rationale）",
+      "endpoints_ja": "共同一次エンドポイント：(i) 1年時点のリズム状態の階層的評価（不整死から追加のリズムコントロール支援なしの洞調律までの重症度順ランキング）、(ii) 1年以内の持続性心房細動（心電図上）、AFに対するカテーテルアブレーション、不整死、抗不整脈薬による重大な有害事象の複合エンドポイント",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-14T23:51:29Z"
+    },
+    {
+      "pmid": "42733032",
+      "title": "Effects of GLP-1 receptor agonists on body weight and cardiovascular outcomes: a review.",
+      "abstract": "Obesity is a rapidly increasing global health challenge that is strongly linked to the cardiorenometabolic syndrome, cardiovascular morbidity, and mortality. Lifestyle interventions remain the cornerstone of treatment, but average long-term weight loss is modest and durable weight maintenance is often limited. Bariatric surgery is not suitable for all patients, and substantial weight regain occurs in a considerable proportion over time. Glucagon-like peptide‑1 receptor agonists (GLP-1RAs), originally developed for type 2 diabetes (T2D), have emerged as potent agents for weight reduction and cardiometabolic risk improvement. By enhancing glucose-dependent insulin secretion, suppressing appetite, improving lipid metabolism, and exerting anti-inflammatory, endothelial, and haemodynamic effects, GLP-1RAs influence multiple pathways relevant to cardiovascular disease.Across large cardiovascular-outcome trials, GLP-1RAs consistently reduce major adverse cardiovascular events (MACE), all-cause mortality, and heart-failure hospitalizations in individuals with T2D. In populations with overweight or obesity without diabetes, semaglutide, as shown in the SELECT trial, has demonstrated significant cardiovascular risk reduction, partly independent of weight loss. Overall, GLP-1RAs represent a therapeutic option for cardiovascular prevention across a broad spectrum of patients at high-risk for or with established CVD. This review provides a comprehensive overview of the pleiotropic cardiovascular effects associated with GLP-1RAs and discusses their potential integration into cardiovascular care.",
+      "journal": "Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation",
+      "authors": "van Maren Susan J F, van Doorn Eveline P M, Smits Mark M, Tack Cees J J, van Rossum Elisabeth F C, El Messaoudi Saloua",
+      "pub_date": "2026-09-14",
+      "doi": "10.1007/s12471-026-02073-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733032/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "091872ae5b4180eef1556cd7bb3ddac52c22608395e50ff61531f21c95a61157",
+      "fetched_at_utc": "2026-09-14T23:51:11Z",
+      "updated_at_utc": "2026-09-14T23:51:11Z",
+      "summary_ja": "肥満は心腎代謝症候群、心血管疾患の有病率・死亡率と強く関連する世界的な健康課題である。GLP-1受容体作動薬（GLP-1RAs）は、インスリン分泌の促進、食欲抑制、脂質代謝の改善、抗炎症・内皮・血流力学的効果を通じて心血管疾患に関連する複数の経路に影響を与える。大規模心血管アウトカム試験において、GLP-1RAsはT2D患者で主要心血管不良事象（MACE）、全死因死亡率、心不全入院を一貫して減少させる。糖尿病を伴わない過体重・肥満患者では、SELECT試験においてセマグルチドが体重減少に部分的に独立して心血管リスクの有意な減少を示した。本レビューはGLP-1RAsに伴う多面的な心血管効果の包括的な概要を提供し、心血管ケアへの統合の可能性を議論する。",
+      "key_takeaway_ja": "GLP-1RAsは、心血管疾患のリスクが高いまたは確立されたCVDを有する幅広い患者群における心血管予防の治療選択肢である。",
+      "why_matters_ja": "肥満は急速に増加する世界的な健康課題であり、生活習慣介入の長期体重減少は限定的で、肥満手術はすべての患者に適用可能ではない。GLP-1RAsは体重減少と心血管代謝リスク改善の両面で有望な治療選択肢として位置づけられる。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "主要心血管不良事象（MACE）、全死因死亡率、心不全入院、心血管リスク減少、体重",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-14T23:52:01Z"
+    },
+    {
       "pmid": "42732089",
       "title": "GLP-1 receptor agonist use and mental health outcomes in adolescents with obesity: a retrospective review.",
       "abstract": "OBJECTIVES: Adolescent obesity is associated with increased rates of depression and suicidality. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly used to treat pediatric obesity, yet concerns remain regarding potential psychiatric effects. This study evaluated changes in depressive symptoms and suicidality screening scores among adolescents with obesity treated with GLP-1RAs in a pediatric endocrinology setting. We evaluated changes in depressive symptoms and suicidality following initiation of GLP-1RA therapy in adolescents with obesity.\nMETHODS: We performed a retrospective chart review of adolescents aged 12-21 years with obesity treated with liraglutide or semaglutide at a single academic center between June 2022 and December 2024. Demographic, clinical, and psychosocial data were extracted from the electronic health record at baseline and follow-up. Depressive symptoms or suicidality were screened at clinic visits per protocol using either the Patient Health Questionnaire-9 (PHQ-9) or the Ask Suicide-Screening Questions (ASQ), respectively. Analyses were restricted to patients with paired baseline and follow-up assessments using the same instrument. Paired nonparametric tests were used for longitudinal comparisons.\nRESULTS: Forty-four adolescents met inclusion criteria. Among patients with paired PHQ-9 data (n=15), the median PHQ-9 score decreased significantly from 6 (IQR 2-14) at baseline to 1 (IQR 0-5) at follow-up (p=0.003), independent of changes in BMI. Among patients with paired ASQ data (n=23), no increase in suicidality or new suicidal ideation was observed.\nCONCLUSIONS: In this small, exploratory retrospective review, no evidence of short-term psychological harm or increased suicidality was observed among adolescents receiving GLP-1RA therapy. These findings support the short-term psychosocial safety of GLP-1RA therapy in adolescents with obesity. Larger prospective case-control studies are needed to better characterize psychiatric safety and psychosocial outcomes.",
@@ -140,6 +243,70 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-13T23:06:41Z"
+    },
+    {
+      "pmid": "42733229",
+      "title": "Association of GLP-1-based therapy with asthma-related outcomes in patients with obesity: a propensity-matched retrospective cohort study.",
+      "abstract": "BACKGROUND: Obesity worsens asthma morbidity, but observational associations between glucagon-like peptide-1 (GLP-1)-based therapy and respiratory outcomes may be confounded by treatment selection.\nRESEARCH DESIGN AND METHODS: We conducted an active-comparator retrospective cohort study in the TriNetX US Collaborative Network across 72 healthcare organizations. Adults with body mass index (BMI) ≥30 kg/m2, repeated asthma documentation, and subsequent GLP-1-based therapy were compared with patients receiving active non-GLP pharmacologic weight-management therapy. After 1:1 propensity-score matching, 2,423 patients remained per cohort. Outcomes were assessed from day 1 through day 365 after the treatment-aligned index event.\nRESULTS: Recorded asthma exacerbation occurred in 1.7% versus 4.0% (risk difference [RD], -2.2%; 95% confidence interval (CI), -3.2% to -1.3%; risk ratio [RR], 0.438; 95% CI, 0.306-0.626). GLP-1-based therapy was also associated with lower systemic glucocorticoid exposure (16.4% vs 23.1%; RR, 0.712), emergency department/critical-care utilization (7.1% vs 13.0%; RR, 0.541), and acute respiratory failure (0.7% vs 1.8%; RR, 0.364). BMI- and glycated hemoglobin (HbA1c)-restricted sensitivity analyses were generally directionally concordant. GLP-1-specific adverse events were not systematically assessed.\nCONCLUSIONS: GLP-1-based therapy was associated with fewer recorded one-year respiratory and utilization events than active non-GLP pharmacotherapy. Residual confounding, treatment-persistence uncertainty, and exposure/outcome misclassification preclude causal inference.",
+      "journal": "Expert review of respiratory medicine",
+      "authors": "McCraw Cameron Dean, Grayeb Dominique Rose, Gupta Navneet, Zafar Palwasha, Javed Anam, Kainat, Adrish Zayaan A, Saeed Humza",
+      "pub_date": "2026-09-13",
+      "doi": "10.1080/17476348.2026.2730537",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733229/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "db8f471a6a1751da24076b529fd2a420ab5af81f6c1192220248fcc4459bf6c3",
+      "fetched_at_utc": "2026-09-14T23:51:11Z",
+      "updated_at_utc": "2026-09-14T23:51:11Z",
+      "summary_ja": "TriNetX US Collaborative Networkの72医療機関を対象に、BMI≥30 kg/m²かつ反復した喘息の文書化があり、その後GLP-1系療法を受けた成人を、活性非GLP系薬物による体重管理療法を受けた患者と比較した1:1プロパensityスコアマッチングによる後向きコホート研究。マッチング後、コホートごとに2,423例が残存。治療整合インデックスイベント後1日目から365日目までのアウトカムを評価した。GLP-1系療法群では、記録された喘息増悪（1.7% vs 4.0%）、全身性グルココルチコイド曝露（16.4% vs 23.1%）、救急外来/集中治療利用（7.1% vs 13.0%）、急性呼吸不全（0.7% vs 1.8%）が有意に低かった。BMIおよびHbA1c制限の感度解析は概ね方向性一致であった。著者は残存交絡、治療継続の不確実性、曝露/アウトカムの誤分類により因果推論は不可能と述べている。",
+      "key_takeaway_ja": "GLP-1系療法は、活性非GLP系薬物療法と比較して、1年間の記録された呼吸器イベントおよび医療利用が少なかったが、残存交絡や曝露/アウトカムの誤分類により因果関係の推論はできない。",
+      "why_matters_ja": "肥満は喘息の病態を悪化させることが知られており、体重管理目的で広く使用されているGLP-1系療法が喘息関連アウトカムに有益な影響を与える可能性があることは、臨床的に重要な示唆を与える。",
+      "study_type_ja": "後向きコホート研究（活性比較、1:1プロパensityスコアマッチング）",
+      "endpoints_ja": "記録された喘息増悪、全身性グルココルチコイド曝露、救急外来/集中治療利用、急性呼吸不全",
+      "endpoint_results_ja": "喘息増悪：1.7% vs 4.0%（RD, -2.2%; 95% CI, -3.2% to -1.3%; RR, 0.438; 95% CI, 0.306-0.626）。全身性グルココルチコイド曝露：16.4% vs 23.1%（RR, 0.712）。救急外来/集中治療利用：7.1% vs 13.0%（RR, 0.541）。急性呼吸不全：0.7% vs 1.8%（RR, 0.364）。",
+      "sample_size_ja": "コホートごとに2,423例（1:1プロパensityスコアマッチング後）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-14T23:53:04Z"
+    },
+    {
+      "pmid": "42733212",
+      "title": "Effect of dapagliflozin on electrocardiographic arrhythmic markers in patients with type 2 diabetes mellitus.",
+      "abstract": "AIMS: Arrhythmic risk is elevated in type 2 diabetes mellitus (T2DM) partly because of abnormal ventricular repolarization. Sodium-glucose cotransporter-2 (SGLT-2) inhibitors may favourably modify electrophysiological properties beyond their glycaemic effects. We aimed to evaluate the association between dapagliflozin initiation and changes in ECG-derived arrhythmic markers in SGLT-2 inhibitor-naive patients with T2DM.\nMETHODS: In this prospective, non-randomized, controlled observational study, 700 T2DM patients (350 dapagliflozin, 350 control) were enrolled between June 2023 and February 2026 at a single tertiary-care center. Dapagliflozin was initiated as part of routine clinical care; controls continued existing antidiabetic therapy. Twelve-lead ECGs and echocardiograms were obtained at baseline and after 3 months. Primary outcomes were changes in QT interval, QTc, QT dispersion, Tp-e interval, Tp-e/QT ratio and Tp-e/QTc ratio. All 700 enrolled patients completed 3-month follow-up.\nRESULTS: At 3 months, the dapagliflozin group showed significant reductions in QT (-8.8 ms), QTc (-10.1 ms), QTd (-5.1 ms), Tp-e (-6.2 ms), Tp-e/QT (-0.012) and Tp-e/QTc (-0.010) (all p < .001), whereas no clinically meaningful changes occurred in controls. Between-group delta comparisons confirmed significantly greater reductions with dapagliflozin (all p < .001; Cohen's d: 0.48-1.08). Reduction in Tp-e correlated weakly with HbA1c improvement (r = -0.145, p = .037, r2 ≈ 2%); the Tp-e/QT vs. HbA1c correlation did not reach statistical significance (r = -0.147, p = .086). Left ventricular ejection fraction (LVEF) improved modestly (+0.8%, p = .003), and left atrial diameter decreased (-0.6 mm, p < .001).\nCONCLUSION: Three months of dapagliflozin therapy was associated with improvements in multiple ECG-based arrhythmic markers in patients T2DM.",
+      "journal": "British journal of clinical pharmacology",
+      "authors": "Traş Gülüzar, Polat Fuat, Saday Bozkurt Melike, Altıntaş İsmail",
+      "pub_date": "2026-09-13",
+      "doi": "10.1002/bcp.70823",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733212/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9c9b0912075b3af473e3cb797834cccdcebbfc3440b8d912f2b90348652ff92d",
+      "fetched_at_utc": "2026-09-14T23:51:11Z",
+      "updated_at_utc": "2026-09-14T23:51:11Z",
+      "summary_ja": "前向き・非ランダム化・対照観察研究として、単一サードケアセンターで2023年6月から2026年2月にかけて、SGLT-2阻害薬未使用の2型糖尿病（T2DM）患者700例（ダパグリフロジン群350例、対照群350例）を対象に、ダパグリフロジンの開始が心電図由来の不整脈マーカーに与える影響を評価した。ダパグリフロジンは通常の臨床診療の一部として開始され、対照群は既存の抗糖尿病療法を継続した。ベースラインと3ヶ月後に12誘導心電図と心エコー検査を実施し、全700例が3ヶ月フォローアップを完了した。主要アウトカムはQT間隔、QTc、QT分散、Tp-e間隔、Tp-e/QT比、Tp-e/QTc比の変化であった。",
+      "key_takeaway_ja": "3ヶ月間のダパグリフロジン療法は、2型糖尿病患者においてQT間隔（-8.8 ms）、QTc（-10.1 ms）、QT分散（-5.1 ms）、Tp-e間隔（-6.2 ms）、Tp-e/QT比（-0.012）、Tp-e/QTc比（-0.010）のすべての心電図由来不整脈マーカーの有意な改善と関連した（すべてp<.001）。",
+      "why_matters_ja": "2型糖尿病患者では心室再分極異常に起因する不整脈リスクが上昇しており、SGLT-2阻害薬は血糖管理効果を超えて電気生理学的特性を好ましく修正する可能性がある。本結果は、ダパグリフロジンが心臓電気生理学的保護効果を持つ可能性を示唆し、T2DM患者の心血管リスク管理において新たな機序を提供する。",
+      "study_type_ja": "前向き・非ランダム化・対照観察研究",
+      "endpoints_ja": "主要アウトカム：QT間隔、QTc、QT分散（QTd）、Tp-e間隔、Tp-e/QT比、Tp-e/QTc比の変化（ベースラインから3ヶ月後）。副次評価としてHbA1c改善との相関、左室駆出率（LVEF）、左房径の変化。",
+      "endpoint_results_ja": "ダパグリフロジン群3ヶ月時：QT -8.8 ms、QTc -10.1 ms、QTd -5.1 ms、Tp-e -6.2 ms、Tp-e/QT -0.012、Tp-e/QTc -0.010（すべてp<.001）。群間デルタ比較：すべてp<.001、Cohen's d 0.48-1.08。Tp-eとHbA1c改善の相関：r=-0.145、p=.037、r²≈2%。Tp-e/QTとHbA1cの相関：r=-0.147、p=.086（有意でない）。LVEF：+0.8%（p=.003）。左房径：-0.6 mm（p<.001）。対照群では臨床的に有意な変化は認められなかった。",
+      "sample_size_ja": "700例（ダパグリフロジン群350例、対照群350例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-14T23:53:42Z"
     },
     {
       "pmid": "42731700",
@@ -3447,6 +3614,137 @@
       "summary_generated_at_utc": "2026-09-12T23:04:25Z"
     },
     {
+      "pmid": "42678052",
+      "title": "GLP-1 Receptor Agonist Use and A1 Pulley Release After Corticosteroid Injection for Trigger Finger in Type 2 Diabetes.",
+      "abstract": "BACKGROUND: Patients with type 2 diabetes mellitus (T2DM) have a higher incidence of trigger finger and are more likely to require operative A1 pulley release. The impact of glucagon-like peptide-1 receptor agonist (GLP-1RA) therapy on treatment progression remains unclear. This study evaluated the association between GLP-1RA use and progression to operative A1 pulley release following corticosteroid injection for trigger finger in patients with T2DM.\nMETHODS: A retrospective analysis was conducted using the TriNetX Research Network to identify adults with T2DM and trigger finger who underwent an initial corticosteroid injection. Patients were grouped by GLP-1RA exposure and propensity-matched (1:1) for demographics, comorbidities, and other diabetic medications. The primary outcome was A1 pulley release at 6, 12, and 24 months after injection. Relative risks (RRs) and 95% confidence intervals (CIs) were calculated, and balance was assessed using standardized mean differences <0.10.\nRESULTS: A total of 69 222 patients met inclusion criteria (5871 with GLP-1RA exposure and 63 351 without). After matching, 5863 patients remained in each cohort. Glucagon-like peptide-1 receptor agonist use was not associated with a significant difference in 6-month release rates (6.1% in GLP-1RA users vs 6.8% in nonusers). However, GLP-1RA users had lower release rates at 12 (10.6% vs 11.9%; RR, 0.89; 95% CI, 0.81-0.99; P = .027) and 24 months (14.2% vs 15.7%; RR, 0.90; 95% CI, 0.83-0.98; P = .016). These differences corresponded to absolute risk reductions of 1.4% and 1.7%, or numbers needed to treat of 71 and 59, at 12 and 24 months, respectively.\nCONCLUSION: Glucagon-like peptide-1 receptor agonist therapy was associated with a small but statistically significant reduction in progression to A1 pulley release at 12 and 24 months after corticosteroid injection for trigger finger in patients with T2DM.Level of evidence: Level III.",
+      "journal": "Hand (New York, N.Y.)",
+      "authors": "Khan Asim A, Jan Kyleen, Kim Jason H, Gaccione-Barreto Lia, Simcock Xavier C",
+      "pub_date": "2026-09-01",
+      "doi": "10.1177/15589447261480181",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678052/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "bfb838d00aaaa8d6595c2373c8355c35e14955bc34ab89e67ee80cd760881532",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z",
+      "summary_ja": "TriNetX Research Networkを用いた後ろ向きコホート研究。2型糖尿病（T2DM）かつトリガー指で初回ステロイド注射を受けた成人を対象に、GLP-1受容体作動薬（GLP-1RA）曝露群と非曝露群を1:1プロパティスコアマッチングし、注射後6・12・24ヶ月のA1プーリー解放（手術）への進行を比較した。69,222例が基準を満たし（GLP-1RA曝露5,871例、非曝露63,351例）、マッチング後各コホート5,863例となった。6ヶ月では有意差なし（6.1% vs 6.8%）であったが、12ヶ月（10.6% vs 11.9%；RR 0.89；95% CI 0.81-0.99；P=.027）および24ヶ月（14.2% vs 15.7%；RR 0.90；95% CI 0.83-0.98；P=.016）ではGLP-1RA使用者で有意に低い解放率を示した。絶対リスク減少は12ヶ月で1.4%、24ヶ月で1.7%、NNTはそれぞれ71と59であった。",
+      "key_takeaway_ja": "T2DM患者のトリガー指に対するステロイド注射後、GLP-1RA使用は12ヶ月および24ヶ月でのA1プーリー解放への進行を統計的に有意に、ただし小幅に減少させることが示された。",
+      "why_matters_ja": "T2DM患者はトリガー指の発生率が高く、手術的A1プーリー解放を要する可能性が高い。GLP-1RAが治療進行に与える影響は不明であったが、本結果はGLP-1RAがトリガー指の手術進行を抑制する可能性を示し、T2DM患者の保存的治療戦略に示唆を与える。",
+      "study_type_ja": "後ろ向きコホート研究（プロパティスコアマッチング、TriNetX Research Networkを用いた観察研究）",
+      "endpoints_ja": "ステロイド注射後6ヶ月、12ヶ月、24ヶ月におけるA1プーリー解放（手術）の発生率",
+      "endpoint_results_ja": "6ヶ月：GLP-1RA使用者6.1% vs 非使用者6.8%（有意差なし）。12ヶ月：10.6% vs 11.9%；RR 0.89；95% CI 0.81-0.99；P=.027。24ヶ月：14.2% vs 15.7%；RR 0.90；95% CI 0.83-0.98；P=.016。絶対リスク減少：12ヶ月1.4%、24ヶ月1.7%。NNT：12ヶ月71、24ヶ月59。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-14T23:54:16Z"
+    },
+    {
+      "pmid": "42675203",
+      "title": "Effects of dapagliflozin on proteinuria, glycemic control, and treatment burden in diabetic kidney transplant recipients: a matched cohort study.",
+      "abstract": "AIMS: Diabetes mellitus and persistent proteinuria are major determinants of cardiovascular morbidity, graft dysfunction, and mortality after kidney transplantation. Although sodium-glucose cotransporter-2 (SGLT2) inhibitors have demonstrated substantial cardiorenal benefits in chronic kidney disease, data regarding their use in kidney transplant recipients remain limited. This study aimed to evaluate the clinical effects of dapagliflozin on proteinuria, graft function, glycemic measures, treatment burden, and observed safety events in diabetic kidney transplant recipients.\nMETHODS: We conducted an exploratory retrospective 1:1 clinically matched cohort study of diabetic kidney transplant recipients followed between 2010 and 2022. Among 282 transplant recipients, 68 had diabetes mellitus. Eighteen patients initiated dapagliflozin 10 mg/day and were included in the all-treated tolerability cohort; three discontinued treatment before completing 3 months because of patient preference unrelated to documented adverse events, leaving 15 recipients who received dapagliflozin for at least 12 months in the efficacy cohort. Fifteen diabetic kidney transplant recipients not receiving SGLT2 inhibitor therapy were selected as 1:1 clinically matched comparable controls according to prespecified matching criteria. Primary outcomes were changes in proteinuria and eGFR. Secondary outcomes included HbA1c, fasting plasma glucose, insulin requirements, antihypertensive medication burden, and observed safety events.\nRESULTS: Thirty diabetic kidney transplant recipients were included in the 12-month efficacy analysis (15 dapagliflozin-treated recipients and 15 1:1 clinically matched comparable controls). Baseline demographic, transplant-related, renal, and glycemic characteristics were broadly comparable between groups. Proteinuria decreased more in the dapagliflozin group than in controls (median change, - 157 [- 310 to - 52] vs. -12 [- 48 to + 25] mg/day; Hodges-Lehmann location-shift estimate, - 171 mg/day; 95% CI, - 310 to - 32; p = 0.009), while eGFR remained stable (between-group difference in ΔeGFR, + 1.6 mL/min/1.73 m²; 95% CI, - 1.8 to + 5.0; p = 0.31). HbA1c decreased from 8.10% (65 mmol/mol) to 7.10% (54 mmol/mol) in the dapagliflozin group, whereas it decreased from 8.18% (66 mmol/mol) to 7.80% (62 mmol/mol) in controls. Greater reductions were also observed in fasting plasma glucose and daily insulin dose. Two urinary tract infections requiring oral antibiotics occurred in the dapagliflozin group and one in controls. No genital infections, diabetic ketoacidosis, acute rejection, graft loss, cardiovascular events, severe infections requiring hospitalization, or deaths were observed.\nCONCLUSIONS: In this exploratory 1:1 clinically matched cohort of selected diabetic kidney transplant recipients, dapagliflozin use was associated with reduced proteinuria, improved glycemic measures, and lower treatment burden over 12 months, without observed major graft-related or serious infectious events. However, the retrospective design, small sample size, selected cohort, and treatment-completer efficacy analysis preclude causal inference and definitive safety conclusions. Larger prospective multicenter studies are required before routine implementation in transplant practice can be recommended.",
+      "journal": "Acta diabetologica",
+      "authors": "Ural Zeynep, Derici Ulver",
+      "pub_date": "2026-09-01",
+      "doi": "10.1007/s00592-026-02792-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42675203/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ac00da9dfd16d2930b027835dc43165ffb98cd3c68d34dcfcb365f7673ce9f47",
+      "fetched_at_utc": "2026-09-01T23:16:30Z",
+      "updated_at_utc": "2026-09-01T23:16:30Z",
+      "summary_ja": "糖尿病性腎移植受容者におけるダパグリフロジンの蛋白尿、移植腎機能、血糖指標、治療負担、安全性への影響を評価した探索的後ろ向き1:1臨床マッチドコホート研究。2010〜2022年にフォローアップされた282名の腎移植受容者中、糖尿病を合併した68名から、ダパグリフロジン10 mg/日を投与開始した18名を全投与耐性コホートに、12ヶ月以上投与を継続した15名を有効性コホートに分類し、SGLT2阻害薬未使用の15名を事前定義されたマッチング基準に基づき1:1で対照群として選択した。12ヶ月の有効性解析には計30名（ダパグリフロジン群15名、対照群15名）が組み込まれた。",
+      "key_takeaway_ja": "糖尿病性腎移植受容者において、ダパグリフロジンの使用は12ヶ月間で蛋白尿の減少、血糖指標の改善、治療負担の低下と関連したが、主要な移植腎関連事象や重大な感染症事象は観察されなかった。ただし、後ろ向きデザイン、小規模サンプル、選択コホート、治療継続者による有効性解析のため、因果推論や安全性の確定的結論は得られない。",
+      "why_matters_ja": "SGLT2阻害薬は慢性腎臓病において心腎保護効果を示しているが、腎移植受容者におけるデータは限られている。糖尿病と持続性蛋白尿は腎移植後の心血管疾患、移植腎機能不全、死亡率の主要な決定因子であり、本研究はこの特定集団におけるSGLT2阻害薬使用の予備的証拠を提供する。",
+      "study_type_ja": "探索的後ろ向き1:1臨床マッチドコホート研究",
+      "endpoints_ja": "主要エンドポイント：蛋白尿の変化、eGFRの変化。二次エンドポイント：HbA1c、空腹時血糖、インスリン必要量、降圧薬の投与負担、観察された安全性事象。",
+      "endpoint_results_ja": "蛋白尿：ダパグリフロジン群の中央値変化 -157 [-310 to -52] mg/day vs 対照群 -12 [-48 to +25] mg/day；Hodges-Lehmann location-shift estimate -171 mg/day；95% CI -310 to -32；p=0.009。eGFR：群間ΔeGFR差 +1.6 mL/min/1.73 m²；95% CI -1.8 to +5.0；p=0.31。HbA1c：ダパグリフロジン群 8.10%（65 mmol/mol）→ 7.10%（54 mmol/mol）；対照群 8.18%（66 mmol/mol）→ 7.80%（62 mmol/mol）。空腹時血糖および日量インスリン：両群で減少、ダパグリフロジン群でより大きな減少（具体的な数値は抄録に記載なし）。安全性：ダパグリフロジン群で経口抗生物質を要した尿路感染症2例、対照群で1例。生殖器感染症、糖尿病性ケトアシドーシス、急性拒絶反応、移植腎喪失、心血管事象、入院を要した重症感染症、死亡は観察されなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-14T23:54:47Z"
+    },
+    {
+      "pmid": "42673608",
+      "title": "Association of GLP-1 Agonists With Postoperative Complications Following Knee Extensor Mechanism Repair:An Analysis of 1,092 Patients.",
+      "abstract": "BACKGROUND: Diabetes and obesity are recognized as risk factors for postoperative complications including increased surgical site infection (SSI) and reoperation in patients undergoing knee extensor mechanism repair. However, limited literature evaluates how preoperative glucagon-like peptide-1 (GLP-1) receptor agonist therapy may influence these outcomes. This study evaluated GLP-1 receptor agonist use as an independent risk factor for postoperative outcomes following knee extensor mechanism repair.\nMATERIALS AND METHODS: Patients who underwent quadriceps or patellar tendon repair from 2012 to 2025 were identified in the TriNetX database and stratified by GLP-1 agonist use within 1 year of surgery. One-to-one propensity score matching yielded 2 well-balanced cohorts (n = 546). Postoperative complications were assessed at 90 days, 1 year, and 2 years, and Kaplan-Meier survival analysis was performed.\nRESULTS: No significant 90-day postoperative differences were observed. At 1 year, patients using GLP-1 agonists demonstrated significantly lower rates of SSI (2.38% vs 5.31%; odds ratio [OR] = 0.435; P = .0118) and wound complications (2.02% vs 5.31%; OR = 0.367; P = .0037). Differences persisted at 2 years, with lower rates of SSI (2.75% vs 6.04%; OR = 0.439; P = .0079), wound complications (2.38% vs 6.04%; OR = 0.379; P = .0026), and acute kidney injury (9.71% vs 13.55%; OR = 0.686; P = .0474). No significant differences in revision surgery were found. Kaplan-Meier analysis demonstrated significant separation for SSI and wound complications beginning at 1 year.\nCONCLUSION: Preoperative GLP-1 receptor agonist therapy was associated with reduced postoperative SSI and wound complications following knee extensor mechanism repair. These findings suggest potential for perioperative risk modulation as GLP-1 use becomes increasingly prevalent in patients undergoing knee extensor mechanism repair.",
+      "journal": "Orthopedics",
+      "authors": "Forst Elliot, Tully Lindsey, Moran Thomas E, Althoff Alyssa D",
+      "pub_date": "2026-09-01",
+      "doi": "10.3928/01477447-20260811-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673608/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8263db50c5a48c1174aa65fa526297e67aa57d872dab9853b54c073a70e033d8",
+      "fetched_at_utc": "2026-09-01T04:38:31Z",
+      "updated_at_utc": "2026-09-01T04:38:31Z",
+      "summary_ja": "2012年から2025年に大腿四頭筋腱または膝蓋腱修復術を受けた患者をTriNetXデータベースから特定し、術前1年以内のGLP-1受容体作動薬使用の有無で層別化し、1対1の傾向スコアマッチングにより2つのコホート（n=546）を構築した。術後90日、1年、2年時点の合併症を評価し、Kaplan-Meier生存解析を行った。",
+      "key_takeaway_ja": "術前GLP-1受容体作動薬の使用は、膝伸展機構修復術後の術後1年および2年時点でのSSI（手術部位感染）および創合併症の有意な低減と関連していた。再手術率には有意差は認められなかった。",
+      "why_matters_ja": "糖尿病と肥満は膝伸展機構修復術後のSSIや再手術のリスク因子として知られているが、術前GLP-1受容体作動薬療法がこれらの転帰に与える影響を評価した文献は限られていた。GLP-1使用が増加する中で、術周期のリスク調整の可能性を示唆する。",
+      "study_type_ja": "後ろ向きデータベース解析（TriNetX）、1対1傾向スコアマッチング",
+      "endpoints_ja": "術後90日・1年・2年時点のSSI、創合併症、急性腎障害、再手術",
+      "endpoint_results_ja": "90日：有意差なし。1年：SSI 2.38% vs 5.31%（OR=0.435, P=.0118）、創合併症 2.02% vs 5.31%（OR=0.367, P=.0037）。2年：SSI 2.75% vs 6.04%（OR=0.439, P=.0079）、創合併症 2.38% vs 6.04%（OR=0.379, P=.0026）、急性腎障害 9.71% vs 13.55%（OR=0.686, P=.0474）。再手術：有意差なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-14T23:55:41Z"
+    },
+    {
+      "pmid": "42673585",
+      "title": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review.",
+      "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for weight management.\nPURPOSE: To update our prior systematic review evaluating the efficacy and safety of GLP-1 RAs and co-agonists among adults with overweight or obesity without diabetes.\nDATA SOURCES: MEDLINE, Embase, and Cochrane Central Register of Controlled Trials from 5 October 2024 through 25 March 2026.\nSTUDY SELECTION: Randomized controlled trials ([RCTs] treatment duration ≥16 weeks).\nDATA EXTRACTION: Two reviewers independently extracted data.\nDATA SYNTHESIS: Thirty-eight RCTs (n = 25 816) were included, adding 14 new trials (n = 11 000) to the prior review. Among commercially available therapies, placebo-subtracted weight loss reached up to -5.8% (95% CI, -8.0% to -3.6%) for liraglutide, -14.8% (CI, -16.2% to -13.4%) for subcutaneous semaglutide, -14.3% (CI, -17.2% to -11.4%) for oral semaglutide, -12.4% (CI, -15.1% to -9.7%) for orforglipron, and -19.0% (CI, -21.6% to -16.4%) for tirzepatide. Numerically greater placebo-subtracted reductions were seen with emerging multiagonists, including -23.9% (CI, -29.3% to -18.5%) with amycretin and -22.1% (CI, -24.9% to -19.3%) with retatrutide. Gastrointestinal adverse events (AEs) remained common (GLP-1 RA vs. placebo: 76.0% vs. 40.1%). Discontinuation due to AEs was generally low (10.7% vs. 3.4%) but numerically higher with some oral agents. Serious AEs (6.5% vs. 5.2%) and deaths (0.1% vs. 0.0%) were rare, with no new safety signals identified. Head-to-head data showed greater weight loss with semaglutide and JNJ-64565111 than liraglutide and greater weight loss with tirzepatide and cagrilintide-semaglutide (CagriSema; Novo Nordisk) than semaglutide.\nLIMITATIONS: Heterogeneity precluded quantitative synthesis. Safety outcomes were inconsistently reported.\nCONCLUSION: Glucagon-like peptide-1 receptor agonists demonstrate substantial weight loss in adults without diabetes, with an expanding range of therapeutic options, including oral and multiagonist therapies.\nPRIMARY FUNDING SOURCE: None. (PROSPERO: CRD42024505558).",
+      "journal": "Annals of internal medicine",
+      "authors": "Moiz Areesha, Filion Kristian B, Samuels Aaron E, Tsoukas Michael A, Yu Oriana H Y, Peters Tricia M, Eisenberg Mark J",
+      "pub_date": "2026-09-01",
+      "doi": "10.7326/ANNALS-25-05519",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673585/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3b67750ddb22f4a17aeac103272d7892558a5f2c5434f2308cd165c3767beee5",
+      "fetched_at_utc": "2026-09-01T04:38:31Z",
+      "updated_at_utc": "2026-09-01T04:38:31Z",
+      "summary_ja": "糖尿病を有しない過体重または肥満の成人におけるGLP-1受容体作動薬（GLP-1 RA）および共作動薬の減量効果と安全性を評価した更新版システマティックレビュー。2024年10月5日から2026年3月25日までのMEDLINE、Embase、Cochrane Central Register of Controlled Trialsを検索し、治療期間16週間以上の無作為化比較試験（RCT）を対象とした。38件のRCT（n=25,816）が包含され、先行レビューに14件の新規試験（n=11,000）が追加された。",
+      "key_takeaway_ja": "市販薬の中でプラセボ減算体重減少はtirzepatideが最大（-19.0%、95% CI, -21.6%～-16.4%）であり、新興マルチアゴニストではamycretin（-23.9%、CI, -29.3%～-18.5%）とretatrutide（-22.1%、CI, -24.9%～-19.3%）が数値上さらに大きい減量を示した。消化管有害事象は依然として多く（GLP-1 RA vs. プラセボ：76.0% vs. 40.1%）、有害事象による中止は全体的に低かった（10.7% vs. 3.4%）。重大有害事象（6.5% vs. 5.2%）や死亡（0.1% vs. 0.0%）はまれで、新たな安全性シグナルは認められなかった。",
+      "why_matters_ja": "GLP-1 RAは減量管理にますます使用されており、経口製剤やマルチアゴニストを含む治療選択肢が拡大している。本更新版レビューは、糖尿病を有しない成人におけるこれらの薬剤の最新のエビデンスを体系的に整理し、臨床現場での薬剤選択に資する。",
+      "study_type_ja": "システマティックレビュー（更新版）",
+      "endpoints_ja": "プラセボ減算体重減少率、消化管有害事象、有害事象による中止率、重大有害事象、死亡",
+      "endpoint_results_ja": "プラセボ減算体重減少率：liraglutide -5.8%（95% CI, -8.0%～-3.6%）、皮下semaglutide -14.8%（CI, -16.2%～-13.4%）、経口semaglutide -14.3%（CI, -17.2%～-11.4%）、orforglipron -12.4%（CI, -15.1%～-9.7%）、tirzepatide -19.0%（CI, -21.6%～-16.4%）、amycretin -23.9%（CI, -29.3%～-18.5%）、retatrutide -22.1%（CI, -24.9%～-19.3%）。消化管有害事象：GLP-1 RA vs. プラセボ 76.0% vs. 40.1%。有害事象による中止：10.7% vs. 3.4%。重大有害事象：6.5% vs. 5.2%。死亡：0.1% vs. 0.0%。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-14T23:56:29Z"
+    },
+    {
       "pmid": "42674357",
       "title": "Comment on \"effect of semaglutide with metformin for weight loss and fertility in polycystic ovary syndrome (PCOS) patients with obesity: A pilot prospective study\".",
       "abstract": "",
@@ -4659,6 +4957,40 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
       "summary_generated_at_utc": "2026-09-01T00:23:30Z"
+    },
+    {
+      "pmid": "42733526",
+      "title": "Effects of Losartan, Empagliflozin, and Their Combination on Uric Acid Concentrations in People With Type 2 Diabetes.",
+      "abstract": "",
+      "journal": "Kidney medicine",
+      "authors": "Suijk Danii L S, Simson Preciosa X C, Scholtes Rosalie A, Mosterd Charlotte M, Hesp Anne C, Hoorn Ewout J, Bjornstad Petter, van Raalte Daniel H",
+      "pub_date": "2026-06-13",
+      "doi": "10.1016/j.xkme.2026.101436",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733526/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "756c8d36e5fdd38289412b8b4576d7b98cda6bf7ddbf7348f4089d592e1b4a07",
+      "fetched_at_utc": "2026-09-14T23:51:11Z",
+      "updated_at_utc": "2026-09-14T23:51:11Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-14T23:51:11Z"
     },
     {
       "pmid": "42703150",
