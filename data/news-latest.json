@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-17T23:37:45Z",
+  "generated_at_utc": "2026-09-18T23:19:47Z",
   "items": [
     {
       "pmid": "42666995",
@@ -106,6 +106,248 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T14:59:16Z"
+    },
+    {
+      "pmid": "42757508",
+      "title": "Plain language review: non-invasive screening for metabolic dysfunction-associated steatotic liver disease (MASLD) and metabolic dysfunction-associated steatohepatitis (MASH) in primary care.",
+      "abstract": "",
+      "journal": "Postgraduate medicine",
+      "authors": "Kugelmas Marcelo, Chao Ariana M",
+      "pub_date": "2026-09-18",
+      "doi": "10.1080/00325481.2026.2724170",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42757508/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c0d62662edbd4f48546f50e3e07f1215629065db69080e2fcd78f598ec2e01c5",
+      "fetched_at_utc": "2026-09-18T23:15:45Z",
+      "updated_at_utc": "2026-09-18T23:15:45Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-18T23:15:45Z"
+    },
+    {
+      "pmid": "42756500",
+      "title": "Simultaneous and recurrent hordeola and chalazia associated with tirzepatide therapy: a case series.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) and dual GLP-1/glucose-dependent insulinotropic polypeptide (GIP) receptor agonists are increasingly prescribed for obesity and type 2 diabetes, but eyelid gland pathology has not previously been reported with these agents. We describe what we believe to be the first reported case series of 2 patients who developed multiple simultaneous internal hordeola after starting tirzepatide, a dual GLP-1/GIP receptor agonist. Patient 1, a 44-year-old woman, developed 6 simultaneous hordeola 4 weeks after dose escalation, 5 of which progressed to chalazia; lesions lessened after tirzepatide discontinuation and worsened upon rechallenge, a positive rechallenge providing strong evidence of causality. Patient 2, a 73-year-old woman with mild pre-existing blepharitis, developed 6 simultaneous hordeola 10 weeks after initiation of her 5 mg dose, 2 of which progressed to chalazia. Both patients lacked classic infectious blepharitis signs despite active lesions, supporting a sterile, obstructive meibomian gland process rather than infection, though both found the recurrences bothersome. These cases suggest a possible, previously undescribed association between tirzepatide and simultaneous or recurrent meibomian gland obstruction. Clinicians should be aware of this potential adverse eyelid effect and pursue conservative ophthalmic management before considering medication changes.",
+      "journal": "JCEM case reports",
+      "authors": "Kolker Andrew",
+      "pub_date": "2026-09-17",
+      "doi": "10.1210/jcemcr/luag284",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42756500/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a91cf5650c6a5fa56ac88c85aeff229e98164d3b73753b62d0de8be240b2791f",
+      "fetched_at_utc": "2026-09-18T23:15:45Z",
+      "updated_at_utc": "2026-09-18T23:15:45Z",
+      "summary_ja": "tirzepatide（GLP-1/GIP受容体二重作動薬）開始後に複数の同時性内麦粒腫を発症した2例の症例系列報告。症例1（44歳女性）は用量増量後4週間で6個の同時性麦粒腫を発症し、うち5個が霰粒腫へ進行した。tirzepatide中止後には病変が軽減し、再投与で悪化し、陽性再挑発により因果関係の強い根拠が得られた。症例2（73歳女性、軽度の既存のまぶた炎あり）は5mg投与開始後10週間で6個の同時性麦粒腫を発症し、うち2個が霰粒腫へ進行した。両例とも活動性病変にもかかわらず典型的な感染性まぶた炎の所見を欠き、感染ではなく無菌性のマイボーム腺閉塞性病変を支持した。",
+      "key_takeaway_ja": "tirzepatideと同時性または再発性マイボーム腺閉塞（麦粒腫・霰粒腫）との関連を示す初の症例系列報告であり、陽性再挑発により因果関係の強い根拠が得られた。",
+      "why_matters_ja": "GLP-1受容体作動薬およびGLP-1/GIP二重受容体作動薬は肥満や2型糖尿病に対して処方が増加しているが、まぶた腺病変はこれまでにこれらの薬剤では報告されていなかった。臨床医はこの潜在的な有害なまぶたへの影響に注意し、薬剤変更を検討する前に保存的な眼科的治療を追求すべきである。",
+      "study_type_ja": "症例系列（2例）",
+      "endpoints_ja": "抄録に正式なendpointとして明示された項目はない。観察された転帰として、tirzepatide開始後の同時性内麦粒腫の発症、霰粒腫への進行、tirzepatide中止後の病変変化、再投与時の病変変化（再挑発）が記載されている。",
+      "endpoint_results_ja": "症例1：用量増量後4週間で6個の同時性麦粒腫発症、うち5個が霰粒腫へ進行。tirzepatide中止後病変軽減、再投与で悪化（陽性再挑発）。症例2：5mg投与開始後10週間で6個の同時性麦粒腫発症、うち2個が霰粒腫へ進行。",
+      "sample_size_ja": "2例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-18T23:16:09Z"
+    },
+    {
+      "pmid": "42755180",
+      "title": "Antidiabetic drug exposure and risk of bladder cancer: A systematic review and meta-analysis.",
+      "abstract": "BACKGROUND: Type 2 diabetes mellitus (T2DM) is associated with an increased risk of bladder cancer, but the impact of specific antidiabetic drug classes remains uncertain.\nMETHODS: We conducted a systematic review and meta-analysis following PRISMA guidelines. PubMed/MEDLINE, Embase, Scopus and CENTRAL were searched through 2024 for observational studies assessing the association between antidiabetic drug exposure and incident bladder cancer. Adjusted effect estimates (HRs, RRs, ORs) were pooled using random-effects models. Analyses were performed separately for pioglitazone, metformin and sodium-glucose cotransporter 2 (SGLT2) inhibitors. Heterogeneity was assessed using the I2 statistic.\nRESULTS: Fourteen observational studies including approximately 6.3 million individuals with T2DM were included. Pioglitazone use was not significantly associated with bladder cancer risk (pooled RR ≈ 1.05, 95% CI 0.52-2.09), although substantial heterogeneity was observed (I2 = 99%). Several studies suggested a duration and dose-dependent association, particularly with prolonged exposure. Metformin use was associated with a lower risk of bladder cancer (pooled RR = 0.67, 95% CI 0.46-0.98), although substantial heterogeneity was observed. SGLT2 inhibitor use was not associated with an increased risk of bladder cancer (pooled RR = 0.98, 95% CI 0.70-1.37), with moderate heterogeneity across studies (I2 = 63%).\nCONCLUSIONS: We did not demonstrate a statistically significant association between pioglitazone use and bladder cancer risk. However, several individual studies suggested a possible duration-dependent effect with prolonged exposure. Metformin use was associated with a lower risk of bladder cancer (pooled RR = 0.67, 95% CI 0.46-0.98), although substantial heterogeneity was observed. SGLT2 inhibitors appear oncologically safe with respect to bladder cancer.",
+      "journal": "Urologia",
+      "authors": "Mathez William, Vincentelli Antoine, Chaoui Iyad, Bruyère Franck, Bourgi Ali",
+      "pub_date": "2026-09-17",
+      "doi": "10.1177/03915603261486088",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755180/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4a4f6b7ca1983d12e83f3e3e6e9b9cdf9589c030e27248868bfba278caa3c504",
+      "fetched_at_utc": "2026-09-18T23:15:45Z",
+      "updated_at_utc": "2026-09-18T23:15:45Z",
+      "summary_ja": "2型糖尿病（T2DM）患者における抗糖尿病薬曝露と膀胱癌発症リスクの関連を評価した観察研究を対象とした、PRISMAガイドラインに準拠したシステマティックレビューおよびメタアナリシス。ピオグリタゾン、メトホルミン、SGLT2阻害薬についてそれぞれ個別に解析を行った。",
+      "key_takeaway_ja": "ピオグリタゾンは膀胱癌リスクとの有意な関連は認められなかったが、長期曝露における期間依存性の関連を示唆する研究が複数存在した。メトホルミンは膀胱癌リスクの低下と関連し（pooled RR = 0.67, 95% CI 0.46-0.98）、SGLT2阻害薬は膀胱癌に対して腫瘍学的に安全であると考えられた。",
+      "why_matters_ja": "T2DMは膀胱癌リスクの上昇と関連するが、特定の抗糖尿病薬クラスの影響は不確実であった。本メタアナリシスは、T2DM患者における抗糖尿病薬選択時の膀胱癌リスクに関するエビデンスを提供し、臨床的な薬剤選択の判断材料となる。",
+      "study_type_ja": "システマティックレビューおよびメタアナリシス",
+      "endpoints_ja": "抗糖尿病薬曝露と膀胱癌発症リスクの関連（調整済み効果推定値：HR、RR、OR）",
+      "endpoint_results_ja": "ピオグリタゾン：pooled RR ≈ 1.05, 95% CI 0.52-2.09, I² = 99%。メトホルミン：pooled RR = 0.67, 95% CI 0.46-0.98。SGLT2阻害薬：pooled RR = 0.98, 95% CI 0.70-1.37, I² = 63%。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-18T23:17:11Z"
+    },
+    {
+      "pmid": "42755136",
+      "title": "Preferences for Obesity Medications Among People With Overweight or Obesity in the United States: A Discrete-Choice Experiment (OPTIC).",
+      "abstract": "AIMS: To evaluate the relative importance of attributes driving obesity medication (OM) choice and preferences among individuals with overweight or obesity.\nMATERIALS AND METHODS: US adults with obesity or overweight and ≥ 1 obesity-related complication completed an online survey including a discrete-choice experiment (DCE) in October-November 2025. In the DCE, participants chose between 2 hypothetical, experimentally designed OM profiles with attributes/levels related to efficacy, cardiovascular (CV) risk reduction, side effects, administration (route/frequency), and dosing instruction requirements. In a fixed-choice comparison, participants chose between 2 predefined oral OM profiles. Relative preference weights for the DCE attribute levels were estimated using a random-parameters logit model to estimate attribute importance, tradeoffs, and predicted treatment choice.\nRESULTS: Among 800 participants (400 OM-naïve/400 OM-experienced, 400 injection-naïve/400 injection-experienced), the most important attributes were route of administration, average weight-loss percentage, CV risk reduction, and the proportion of people achieving ≥ 20% weight loss. Dosing instructions had the lowest relative importance. There was a preference for 1 OM profile (Treatment A-a hypothetical oral semaglutide-like profile) over the alternative OM profile (Treatment B-a hypothetical orforglipron-like profile), according to the responses from the DCE (84.2% vs. 15.8%) and the fixed-choice question (90.0% vs. 10.0%). Only 23.4% indicated that taking an OM treatment on an empty stomach and waiting 30 min to eat would be disruptive to their lives. Most (73.3%) OM-naïve participants were open to taking an oral OM.\nCONCLUSIONS: Individuals with overweight or obesity prioritise weight-loss efficacy, CV risk reduction, and oral administration in OM treatment decisions; dosing instruction requirements were of low importance.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Almandoz Jaime P, Tchang Beverly G, Myers Kelley, Traina Andrea, Bhavsar Jigish, Divino Victoria, Kent Cannon, Bell Sara Tadesse",
+      "pub_date": "2026-09-17",
+      "doi": "10.1111/dom.71318",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755136/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "24dbeac0b390b35cc307a2fac850924d6067448dc1e68d019f7ace3b95cc7a97",
+      "fetched_at_utc": "2026-09-18T23:15:45Z",
+      "updated_at_utc": "2026-09-18T23:15:45Z",
+      "summary_ja": "米国で過体重または肥満を有する成人を対象に、肥満治療薬（OM）の選択に影響する属性の相対的importanceを評価する離散選択実験（DCE）をオンライン調査として実施した。800名（OM未使用400名/OM使用経験あり400名、注射未使用400名/注射使用経験あり400名）が、効能、心血管リスク低減、副作用、投与経路/頻度、投与指示要件を属性とする2つの仮想的OMプロファイルから選択した。最も重要な属性は投与経路、平均減量率、心血管リスク低減、20%以上の減量を達成した人の割合であり、投与指示要件は最も低かった。固定選択比較では、経口セマグルチド様プロファイル（Treatment A）が経口オルフグリプロン様プロファイル（Treatment B）に対して優位に選択された。",
+      "key_takeaway_ja": "過体重または肥満を有する個人は、肥満治療薬の選択において減量効果、心血管リスク低減、経口投与を優先し、投与指示要件は重要性が低い。",
+      "why_matters_ja": "肥満治療薬の開発・承認・臨床現場での治療選択において、患者の好み（preference）を把握することは、薬物設計、ラベリング、および個別化治療の意思決定に直接寄与する。",
+      "study_type_ja": "離散選択実験（DCE）を伴う観察的調査研究（オンライン調査）",
+      "endpoints_ja": "DCE属性レベルの相対的preference weight（属性importance、tradeoff、予測治療選択）、2つの経口OMプロファイル間の固定選択比較",
+      "endpoint_results_ja": "DCE: Treatment A（経口セマグルチド様）84.2% vs Treatment B（経口オルフグリプロン様）15.8%。固定選択: Treatment A 90.0% vs Treatment B 10.0%。空腹時にOMを服用し30分間食事を待つことが生活に支障をきたすと回答した割合は23.4%。OM未使用参加者の73.3%が経口OMの服用に前向きであった。",
+      "sample_size_ja": "800名（OM未使用400名/OM使用経験あり400名、注射未使用400名/注射使用経験あり400名）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-18T23:17:36Z"
+    },
+    {
+      "pmid": "42754765",
+      "title": "Exit Interviews Examining Patient Experiences with Tirzepatide and Dulaglutide for Treatment of Type 2 Diabetes in the SURPASS-CVOT Trial.",
+      "abstract": "INTRODUCTION: Qualitative exit interviews with people who recently completed a clinical trial can provide in-depth insights into their treatment experience and the benefits they consider most meaningful. The purpose of this exit interview study was to examine the impact of long-term treatment with dulaglutide and tirzepatide from the perspective of patients with type 2 diabetes (T2D) and established atherosclerotic cardiovascular disease.\nMETHODS: Interviews were conducted after participants completed treatment with either dulaglutide or tirzepatide in the multiyear SURPASS-CVOT clinical trial. Interviews were conducted by telephone or web-based conference using a semi-structured interview guide. The interviews were transcribed and analyzed following a content analysis approach.\nRESULTS: In total, 147 people were invited to participate in exit interviews across 10 US trial sites. A total of 74 participants were interviewed (63.5% male; mean age = 68.9 years), including 31 treated with dulaglutide and 43 treated with tirzepatide. Participants reported treatment benefits during the trial, such as improved glycemic control (97.3%), weight reduction (91.9%), reduced appetite (78.4%), improved diet and eating habits (64.9%), increased energy (56.8%), and decreased desire for unhealthy food (41.9%). Some also noted improvement in conditions other than T2D, including joint pain/osteoarthritis (18.9%) and sleep apnea (8.1%). Nearly all participants said these treatment-related changes were meaningful. Participants described improvements in quality of life and daily activities associated with treatment. The most commonly reported adverse event was nausea (28.4%). Most participants said they would be very likely (77.0%) or likely (16.2%) to recommend their treatment to others.\nCONCLUSIONS: Exit interview results indicate that self-reported treatment benefits were important to people who received long-term treatment with dulaglutide or tirzepatide.",
+      "journal": "Diabetes therapy : research, treatment and education of diabetes and related disorders",
+      "authors": "Stewart Katie D, Matza Louis S, Chinthammit Chanadda, Pavo Imre, Bartee Amy K, Boye Kristina S",
+      "pub_date": "2026-09-17",
+      "doi": "10.1007/s13300-026-01907-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754765/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f950850b2bf2c46e75b042dd83f8dc0da2a8453f9272536a13f8b1b42d57a56d",
+      "fetched_at_utc": "2026-09-18T23:15:45Z",
+      "updated_at_utc": "2026-09-18T23:15:45Z",
+      "summary_ja": "SURPASS-CVOT試験の完了後に実施された定性エグジットインタビュー研究。10の米国試験サイトから147名が招待され、74名がインタビューに回答した（男性63.5%、平均年齢68.9歳）。デュラグルチド群31名、tirzepatide群43名。参加者は血糖コントロール改善（97.3%）、体重減少（91.9%）、食欲抑制（78.4%）などの治療効果を報告し、最も頻度の高い有害事象は悪心（28.4%）であった。治療を他者に強く推奨すると回答した参加者は77.0%、推奨すると回答した参加者は16.2%であった。",
+      "key_takeaway_ja": "SURPASS-CVOT試験における長期デュラグルチドまたはtirzepatide治療を受けたT2D患者の自己報告による治療効果は、血糖コントロール改善、体重減少、食欲抑制の面で高く、患者にとって有意義な変化であった。",
+      "why_matters_ja": "心血管アウトカム試験（CVOT）の文脈で、GLP-1受容体作動薬の長期治療に対する患者視点の質的エビデンスを提供し、患者報告アウトカム（PRO）や治療受容性・継続性の理解に寄与する。",
+      "study_type_ja": "定性研究（半構造化エグジットインタビュー、内容分析法による分析）。SURPASS-CVOT試験の伴走研究。",
+      "endpoints_ja": "患者が報告した治療効果（血糖コントロール改善、体重減少、食欲抑制、食事・食習慣の改善、エネルギー増加、不健康な食品への欲求減少）、T2D以外の症状改善（関節痛/変形性関節症、睡眠時無呼吸）、有害事象、他者への治療推奨意欲",
+      "endpoint_results_ja": "血糖コントロール改善: 97.3%、体重減少: 91.9%、食欲抑制: 78.4%、食事・食習慣の改善: 64.9%、エネルギー増加: 56.8%、不健康な食品への欲求減少: 41.9%、関節痛/変形性関節症の改善: 18.9%、睡眠時無呼吸の改善: 8.1%、悪心（最も頻度の高い有害事象）: 28.4%、治療を強く推奨する: 77.0%、治療を推奨する: 16.2%",
+      "sample_size_ja": "74名（デュラグルチド群31名、tirzepatide群43名）。147名が招待された。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-18T23:18:02Z"
+    },
+    {
+      "pmid": "42754392",
+      "title": "Do Preoperative Glucagon-Like Peptide-1 Receptor Agonists Influence Lumbar Fusion Outcomes? A Systematic Review and Meta-Analysis.",
+      "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly used in patients with obesity and type 2 diabetes, but lumbar fusion-specific associations with postoperative outcomes remain uncertain.\nOBJECTIVE: To evaluate the association between preoperative GLP-1RA exposure and surgical and postoperative outcomes in adults undergoing lumbar fusion.\nMETHODS: PubMed, Embase, and the Cochrane Library were searched from inception through 14 May 2026. Comparative studies of adults undergoing lumbar fusion with and without preoperative GLP-1RA exposure were included. Two reviewers independently screened studies, extracted data, and assessed risk of bias using the Risk of Bias in Non-randomized Studies of Interventions (ROBINS-I). Random-effects meta-analyses generated odds ratios with 95% confidence intervals. The protocol was prospectively registered in PROSPERO (CRD420261414637).\nRESULTS: Seven retrospective cohorts involving 28,525 patients were included; 6 used propensity score matching or another matching strategy. No statistically significant associations were observed between preoperative GLP-1RA exposure and reoperation or revision (OR: 0.74, 95% CI: 0.44-1.24; P = 0.25), postoperative infection (OR: 0.83, 95% CI: 0.68-1.00; P = 0.05), wound complications (OR: 0.86, 95% CI: 0.65-1.12; P = 0.26), or postoperative respiratory complications (OR: 1.08, 95% CI: 0.63-1.84; P = 0.69). Deep vein thrombosis, pulmonary embolism, and unplanned emergency department visits also did not differ significantly. All included studies were observational and predominantly used large administrative data sources.\nCONCLUSIONS: Across the evaluated outcomes, the available observational evidence did not identify a signal of increased postoperative risk associated with preoperative GLP-1RA exposure after lumbar fusion. Prospective studies with standardized exposure definitions and perioperative management protocols are warranted to confirm these findings and better define their clinical implications.\nCLINICAL RELEVANCE: Current observational evidence does not establish preoperative GLP-1RA exposure alone as an independent risk factor for adverse outcomes after lumbar fusion.",
+      "journal": "International journal of spine surgery",
+      "authors": "Alves Matheus Loiola Magalhães, Moura Costa Antônio Olímpio da Silva, Costa Julia do Vale Moura, Ferreira Julia Sader Neves, Porto Letícia Lisboa Brito, Garrido Gustavo Azevedo, Gonzalez João Victor Pereira, Tome José Otávio Donadeli",
+      "pub_date": "2026-09-17",
+      "doi": "10.14444/8954",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754392/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "216b3f10d84755c311c16a1803c310688b8dad6dc7e7f8ed724d14223c83f8cf",
+      "fetched_at_utc": "2026-09-18T23:15:45Z",
+      "updated_at_utc": "2026-09-18T23:15:45Z",
+      "summary_ja": "腰椎融合術における術前GLP-1受容体アゴニスト（GLP-1RA）曝露と術後アウトカムの関連を評価した系統的レビューおよびメタアナリシス。PubMed、Embase、Cochrane Libraryを2026年5月14日まで検索し、腰椎融合術を受けた成人を対象とした比較研究7件（後向きコホート、計28,525例）を含む。6件がプロパensity score matchingまたはその他のマッチング戦略を使用。ランダム効果メタアナリシスによりオッズ比と95%信頼区間を算出。術前GLP-1RA曝露と再手術・修正術、術後感染、創部合併症、術後呼吸器合併症の間に統計的に有意な関連は認められなかった。",
+      "key_takeaway_ja": "腰椎融合術後の術前GLP-1RA曝露は、再手術・修正術、術後感染、創部合併症、術後呼吸器合併症、深部静脈血栓症、肺塞栓症、計画外救急外来受診のいずれにおいても、術後リスク増加のシグナルを示さなかった。",
+      "why_matters_ja": "肥満や2型糖尿病を有する患者においてGLP-1RAの使用が増加しているが、腰椎融合術における術後アウトカムへの影響は不確実であった。本結果は、術前GLP-1RA曝露単独が腰椎融合術後の有害事象の独立したリスク因子ではないことを示唆し、術前管理や手術適応判断の臨床的示唆を与える。",
+      "study_type_ja": "系統的レビューおよびメタアナリシス（後向きコホート研究7件の集積）",
+      "endpoints_ja": "再手術・修正術、術後感染、創部合併症、術後呼吸器合併症、深部静脈血栓症、肺塞栓症、計画外救急外来受診",
+      "endpoint_results_ja": "再手術・修正術: OR 0.74, 95% CI 0.44-1.24, P=0.25。術後感染: OR 0.83, 95% CI 0.68-1.00, P=0.05。創部合併症: OR 0.86, 95% CI 0.65-1.12, P=0.26。術後呼吸器合併症: OR 1.08, 95% CI 0.63-1.84, P=0.69。深部静脈血栓症、肺塞栓症、計画外救急外来受診: 有意差なし（具体的な数値は抄録に記載なし）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-18T23:18:33Z"
+    },
+    {
+      "pmid": "42754274",
+      "title": "Semaglutide as adjunct treatment for obesity in adolescents receiving antipsychotic medication (the GOAL trial): protocol for a single-arm, open-label feasibility study.",
+      "abstract": "INTRODUCTION: Adolescents treated with antipsychotic medication are at increased risk of obesity and metabolic complications, yet evidence-based interventions in this group remain limited. Glucagon-like peptide-1 receptor agonists have demonstrated efficacy in the treatment of obesity in both adults and adolescents. The aim of this trial is to assess the feasibility of a 36-week treatment period with a glucagon-like peptide-1 receptor agonist as an adjunct to standard care in adolescents with antipsychotic-associated obesity, defined as completion from baseline to end of treatment. The findings from this feasibility trial will inform the design and support the scale-up of a subsequent randomised controlled trial.\nMETHODS AND ANALYSIS: The GOAL trial is a single-arm, open-label feasibility study conducted at Copenhagen University Hospital, Bispebjerg, Denmark, in collaboration with the Child and Adolescent Mental Health Center. A total of 34 adolescents aged 12-18 years with obesity, defined as body mass index SD score equal to or greater than +1.28 and body fat percentage at or above the 95th percentile, receiving stable antipsychotic treatment will be enrolled. The study population includes adolescents with a range of psychiatric diagnoses requiring antipsychotic treatment, including psychotic disorders, mood disorders and neurodevelopmental disorders. Adolescents receiving antipsychotic treatment under coercion are excluded. Participants will receive once-weekly subcutaneous semaglutide at a dose up to 2.4 milligrams for 36 weeks in addition to standard care, followed by an 18-month observational follow-up period. The primary outcome is study completion rate. Additional feasibility outcomes include recruitment rate, treatment adherence and completion of study procedures. Secondary outcomes include changes in body mass index SD score, body composition, metabolic biomarkers and psychiatric outcomes. Feasibility outcomes will be analysed descriptively. Exploratory longitudinal analyses will be conducted using linear mixed-effects models.\nETHICS AND DISSEMINATION: The study complies with the Declaration of Helsinki and European Union Clinical Trials Regulation (536/2014) and is approved in the Clinical Trials Information System (2024-5 17 471-21-02). Written informed consent will be obtained from participants and their legal guardians. Results will be disseminated through peer-reviewed publications and scientific conferences.\nTRIAL REGISTRATION NUMBER: 2024-5 17 471-21-02.",
+      "journal": "BMJ open",
+      "authors": "Giraldi Laura Victoria, Andersen Jon Trærup, Jespersen Jonas, Baden Christoffer Storm, Fonvig Cilius Esmann, Riis Troels, Dalhoff Kim Peder, Holm Jens-Christian",
+      "pub_date": "2026-09-17",
+      "doi": "10.1136/bmjopen-2026-123779",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754274/",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial Protocol"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Adolescent",
+        "Semaglutide",
+        "Antipsychotic Agents",
+        "Feasibility Studies",
+        "Female",
+        "Child",
+        "Pediatric Obesity",
+        "Male",
+        "Body Mass Index",
+        "Denmark",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Mental Disorders"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "cd6782ecfd7a4b15beaed3f084c330a0fff2162ae7d9b735ce74a137e137a26d",
+      "fetched_at_utc": "2026-09-18T23:15:45Z",
+      "updated_at_utc": "2026-09-18T23:15:45Z",
+      "summary_ja": "GOAL試験は、抗精神病薬を服用中の思春期肥満患者において、標準治療にセマグルチド（週1回皮下注射、最大2.4mg）を36週間追加投与する単群・オープンラベルのフィージビリティ試験のプロトコルである。コペンハーゲン大学病院（デンマーク）で実施され、12〜18歳でBMI SDスコア+1.28以上かつ体脂肪率95パーセンタイル以上の思春期肥満患者34名を登録する。主評価項目は試験完了率であり、追加のフィージビリティ評価項目として登録率、治療アドヒアランス、試験手順の完了率を設ける。二次評価項目としてBMI SDスコアの変化、体組成、代謝バイオマーカー、精神科的転帰を含む。36週間の治療後、18か月の観察フォローアップ期間を設ける。",
+      "key_takeaway_ja": "本試験はプロトコル論文であり、抗精神病薬関連肥満の思春期患者におけるGLP-1受容体作動薬のフィージビリティを評価し、その結果を基に後続のランダム化比較試験（RCT）の設計と規模拡大を支援することを目的としている。",
+      "why_matters_ja": "抗精神病薬を服用する思春期患者は肥満および代謝合併症のリスクが上昇しているが、この集団におけるエビデンスに基づく介入は限られている。本試験は、この未充足の臨床ニーズに応えるための初期段階のフィージビリティ評価であり、将来的なRCTの基盤を築くものである。",
+      "study_type_ja": "単群・オープンラベル・フィージビリティ試験（プロトコル）",
+      "endpoints_ja": "主評価項目：試験完了率（ベースラインから治療終了までの完了）。追加フィージビリティ評価項目：登録率、治療アドヒアランス、試験手順の完了率。二次評価項目：BMI SDスコアの変化、体組成、代謝バイオマーカー、精神科的転帰。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "34名（12〜18歳の思春期肥満患者）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-18T23:19:08Z"
     },
     {
       "pmid": "42753116",
@@ -382,6 +624,75 @@
       "sample_size_ja": "1例",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-17T23:37:41Z"
+    },
+    {
+      "pmid": "42751094",
+      "title": "Postmenopausal bleeding associated with semaglutide: a diagnostic challenge.",
+      "abstract": "Semaglutide, a glucagon-like peptide-1 (GLP-1) receptor agonist, is widely used for obesity and type 2 diabetes management, but its gynecological adverse effects have not been systematically described. We report a 58-year-old postmenopausal woman with new-onset vaginal bleeding six weeks after starting semaglutide for weight reduction, with onset following dose escalation to 0.5 mg weekly. Hemoglobin fell from 12.9 g/dL (Système International [SI]: 129 g/L) to 10.8 g/dL (SI: 108 g/L) (reference range, 12.0-16.0 g/dL [SI: 120-160 g/L]). The serum follicle-stimulating hormone (FSH) concentration was elevated at 68.4 mIU/mL (SI: 68.4 IU/L; reference, >25 IU/L postmenopausal), and estradiol was suppressed at 3.5 pg/mL (SI: 13 pmol/L; reference, <5.4 pg/mL [SI: <20 pmol/L]), consistent with stable postmenopausal status throughout, without hormonal reactivation (no return toward a premenopausal pattern). Endometrial malignancy, structural pathology, and coagulopathy were excluded. The Naranjo Adverse Drug Reaction Probability Scale score was 6 (\"probable\"). Bleeding resolved completely within five weeks of discontinuation. We propose that rapid semaglutide-induced adipose loss may transiently alter peripheral estrogen metabolism, destabilizing the endometrium despite unchanged hormone levels. This case highlights postmenopausal bleeding as a rare but clinically important adverse effect of GLP-1 receptor agonist therapy warranting malignancy-first evaluation.",
+      "journal": "JCEM case reports",
+      "authors": "Prasad Sai, Parmar Vidhi, Sharma Anukriti, Kaur Navjot, Kothia Darpan, Bavaria Deep",
+      "pub_date": "2026-09-16",
+      "doi": "10.1210/jcemcr/luag261",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751094/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "63f03f64c4e4b9c81c07b54e3fa6c7c8f7fb42260ce85a25d61edd1ed492747f",
+      "fetched_at_utc": "2026-09-17T23:32:18Z",
+      "updated_at_utc": "2026-09-17T23:32:18Z",
+      "summary_ja": "セマグルチド（GLP-1受容体作動薬）を減量目的に開始した58歳の閉経後女性において、投与開始6週後（0.5 mg/週への増量後）に新規の腟出血が出現した症例報告。ヘモグロビンが12.9 g/dLから10.8 g/dLに低下した。FSH 68.4 mIU/mL、エストラジオール 3.5 pg/mLと閉経後のホルモンプロファイルは安定しており、ホルモン再活性化は認めなかった。子宮内膜悪性腫瘍、構造異常、凝固異常は除外された。Naranjo尺度スコアは6（probable）。投与中止後5週以内に出血は完全に消退した。",
+      "key_takeaway_ja": "セマグルチドによる急速な脂肪減少が末梢エストロゲン代謝を一過性に変化させ、ホルモン値が変化しないにもかかわらず子宮内膜を不安定化させ、閉経後出血を引き起こす可能性が示唆された。",
+      "why_matters_ja": "GLP-1受容体作動薬の婦人科系有害事象として閉経後出血が初めて体系的に報告されたものであり、この薬剤使用下の閉経後出血には悪性腫瘍を優先的に除外する評価が必要であることを示している。",
+      "study_type_ja": "症例報告",
+      "endpoints_ja": "腟出血の出現と消退、ヘモグロビン変化、FSH、エストラジオール、Naranjo有害事象確率尺度スコア、子宮内膜悪性腫瘍・構造異常・凝固異常の除外",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "1例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-18T23:19:26Z"
+    },
+    {
+      "pmid": "42749027",
+      "title": "From Gila Monster Venom to Dermatology: The History of GLP-1 Receptor Agonists.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have evolved from novel therapies for type 2 diabetes mellitus into widely used treatments for obesity and metabolic disease. Their origins can be traced to the Gila monster (Heloderma suspectum), a venomous lizard native to the deserts of the southwestern United States and northwestern Mexico. The discovery of exendin-4, a peptide isolated from the venom of the Gila monster, led to the subsequent development of longer acting GLP-1RAs. Long before its contribution to modern medicine would be recognized, the Gila monster was revered in Navajo culture and folklore. We have examined the historic development of GLP-1 RAs, from the natural history and cultural significance of the Gila monster to the discovery of exendin-4 and the subsequent development of modern therapeutics. We describe the scientific advances that led to the translation of a venom-derived peptide into a major therapeutic class, including the development of exenatide, liraglutide and semaglutide. The history of GLP-1 receptor agonists demonstrates how observations in nature can lead to major therapeutic advances. What began with a view of a venomous desert lizard has evolved into one of the most important therapeutic classes in modern metabolic medicine, with expanding therapeutic applications in dermatology. The Gila monster (Heloderma suspectum) is a venomous lizard native to the deserts of the southwestern United States and northwestern Mexico. Long revered in indigenous cultural traditions, the Gila monster made an unexpected contribution to modern medicine. The discovery of exendin-4, a peptide within its venom, ultimately led to the development of glucagon-like peptide-1 receptor agonists (GLP-1RAs), representing one of the most significant therapeutic advances in modern metabolic medicine. GLP-1RAs are synthetic polypeptides that mimic the actions of the endogenous incretin hormone glucagon-like peptide-1. Initially developed for the treatment of type 2 diabetes mellitus, they have transformed obesity management and are now among the most widely prescribed therapies worldwide. As recognition of obesity has emerged as a major global public health challenge, GLP-1RAs have provided an effective pharmacologic approach to weight management. According to the World Health Organization, more than 1 billion people worldwide have been living with obesity as of 2022 [1]. The success of GLP-1RAs can be traced to the discovery of exendin-4, a peptide isolated from Gila monster venom that shares key biologic properties with human GLP-1 while demonstrating greater resistance to enzymatic degradation. Emerging evidence suggests that GLP-1RAs may influence inflammatory skin disease through a combination of weight reduction, improvements in metabolic health, and modulation of inflammatory and immune pathways [2]. This has generated increasing interest in the potential applications of GLP-1RAs within dermatology. In this review, we have examined the cultural significance and physiologic adaptations of the Gila monster, the discovery of exendin-4 and the subsequent development of GLP-1 RAs from venom-derived peptide to an expanding modern therapeutic class. We have explored how observations from a venomous desert lizard has translated into one of the most important therapeutic advances in metabolic medicine with evolving therapeutic applications in dermatology.",
+      "journal": "Clinics in dermatology",
+      "authors": "Dyson Sarah, Hoenig Leonard, Levell Nick J",
+      "pub_date": "2026-09-16",
+      "doi": "10.1016/j.clindermatol.2026.09.011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42749027/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3551225de36690ff933dc10a15a00bc9e9d987791c989e7d6292c821173430c0",
+      "fetched_at_utc": "2026-09-17T23:32:18Z",
+      "updated_at_utc": "2026-09-17T23:32:18Z",
+      "summary_ja": "本レビューは、GLP-1受容体作動薬（GLP-1RAs）の歴史的発展を考察したものである。ギラモンスター（Heloderma suspectum）の毒からexendin-4が発見された経緯から、exenatide、liraglutide、semaglutideといった現代のGLP-1RAsの開発に至るまでの科学的進歩を概観し、さらに皮膚科学における応用の拡大についても言及している。",
+      "key_takeaway_ja": "自然界の観察（ギラモンスターの毒）が、現代の代謝医学における最も重要な治療クラスの一つであるGLP-1RAsの開発につながり、その応用は皮膚科学にも拡大しつつある。",
+      "why_matters_ja": "GLP-1RAsは2型糖尿病の治療から肥満・代謝疾患の管理へと進化し、現在では世界中で最も広く処方されている治療法のひとつとなっている。WHOの推計では2022年時点で世界で10億人以上が肥満を抱えており、GLP-1RAsは体重管理に対する有効な薬物学的アプローチを提供している。また、炎症性皮膚疾患への影響（体重減少、代謝健康の改善、炎症・免疫経路の調節）に関する証拠が蓄積しており、皮膚科学における応用が期待されている。",
+      "study_type_ja": "レビュー（歴史・叙述的レビュー）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-18T23:19:44Z"
     },
     {
       "pmid": "42747817",
@@ -799,42 +1110,6 @@
       "sample_size_ja": "脱落率15%、両側α 0.05、検出力0.9を考慮し、合計56名が算出された。",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-15T23:32:40Z"
-    },
-    {
-      "pmid": "42736522",
-      "title": "Real-World Evidence for Existing Anti-Obesity Therapies-The Realities of Treatment Adherence, Tolerability, Access and Patient Satisfaction.",
-      "abstract": "BACKGROUND: Obesity is associated with substantial cardiometabolic and psychosocial morbidity. Although randomized controlled trials demonstrate the efficacy of anti-obesity therapies, outcomes in real-world practice may be attenuated due to limited access, tolerability, adherence and insufficient long-term support.\nPURPOSE: This narrative review aimed to synthesize real-world evidence on adherence, tolerability, access and patient satisfaction across lifestyle programmes, pharmacotherapy, metabolic bariatric surgery (MBS) and endoscopic procedures, with emphasis on incretin-based medications.\nMETHODS: PubMed/MEDLINE search was conducted through July 2026. Studies reporting real-world treatment effectiveness, adherence, persistence, discontinuation, tolerability, access or patient satisfaction in adults or adolescents with overweight or obesity were included. Randomized trials and reviews were used to contextualize real-world findings.\nFINDINGS: Intensive lifestyle interventions generally achieve approximately 5% weight loss, but attrition and weight regain after programme completion are common. Incretin-based therapies, including semaglutide and tirzepatide, produce substantial weight loss in trials but real-world effectiveness is relatively smaller because of non-initiation, incomplete dose escalation, gastrointestinal adverse effects, treatment interruptions, and financial or insurance barriers. Older medications demonstrate poor persistence, largely related to neurologic, psychiatric or gastrointestinal intolerance, despite lower costs for some agents. MBS provides the greatest and most durable weight loss but remains substantially underused, with racial, socioeconomic and insurance disparities. Endoscopic sleeve gastroplasty offers moderate, durable weight loss with low serious adverse event rates, whereas intragastric balloons are more limited by intolerance, reintervention and weight regain after removal.\nCONCLUSIONS: Real-world effectiveness is determined not only by biological efficacy but also by treatment tolerability, adherence, access and sustained support. Proactive adverse effect management, individualized behavioural support, streamlined referral pathways and policies that improve affordability and equitable access are essential to narrowing the trial-to-practice gap.",
-      "journal": "Diabetes, obesity & metabolism",
-      "authors": "Kassem Sameer",
-      "pub_date": "2026-09-14",
-      "doi": "10.1111/dom.71293",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736522/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "e30228212a150954011e73f36b8c1500c80edf898e85a9706082b731e438d7af",
-      "fetched_at_utc": "2026-09-15T23:31:00Z",
-      "updated_at_utc": "2026-09-15T23:31:00Z",
-      "summary_ja": "肥満は心代謝性・心理社会的合併症と関連する。ランダム化比較試験では抗肥満療法の有効性が示されているが、実臨床ではアクセスの制限、忍容性、アドヒアランス、長期サポートの不足によりアウトカムが低下する可能性がある。本叙述的レビューは、生活習慣プログラム、薬物療法、代謝・肥満外科手術（MBS）、内視鏡的手術における実世界のエビデンス（アドヒアランス、忍容性、アクセス、患者満足度）を統合し、インクレチン系薬剤に重点を置いた。PubMed/MEDLINEを2026年7月まで検索し、過体重または肥満の成人・青少年における実世界の治療効果、アドヒアランス、継続率、中止、忍容性、アクセス、患者満足度を報告した研究を対象とした。",
-      "key_takeaway_ja": "実世界での有効性は生物学的有効性だけでなく、治療の忍容性、アドヒアランス、アクセス、持続的なサポートによって決定される。試験と実臨床のギャップを縮小するには、能動的な有害事象管理、個別化された行動支援、リファラル経路の簡素化、および費用対効果と公平なアクセスを改善する政策が不可欠である。",
-      "why_matters_ja": "ランダム化比較試験で示された抗肥満療法の有効性が、実臨床では非開始、不完全な用量増量、消化管有害事象、治療中断、経済的・保険上の障壁により相対的に低下していることを示しており、実臨床での治療戦略や政策立案に直接的な示唆を与える。",
-      "study_type_ja": "叙述的レビュー（Narrative Review）",
-      "endpoints_ja": "体重減少率、アドヒアランス、継続率（persistence）、中止率、忍容性、アクセス、患者満足度、有害事象",
-      "endpoint_results_ja": "集学的生活習慣介入：約5%の体重減少（プログラム終了後の脱落と体重再増加が頻回）。インクレチン系療法（セマグルチド、tirzepatide）：試験では著明な体重減少を示すが、実世界では非開始・不完全な用量増量・消化管有害事象・治療中断・経済的・保険上の障壁により相対的に小さい。旧来薬剤：神経系・精神系・消化管の不耐容性により継続率が低い。MBS：最大かつ最も持続的な体重減少だが、人種・社会経済的・保険の格差により未だ十分に利用されていない。内視鏡スリーブ胃形成術：中等度で持続的な体重減少、重大有害事象率は低い。胃内バルーン：不耐容性、再介入、除去後の体重再増加により制限される。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-15T23:33:00Z"
     },
     {
       "pmid": "42736042",
@@ -2199,40 +2474,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-09T23:17:21Z"
-    },
-    {
-      "pmid": "42710812",
-      "title": "Association of tirzepatide with reverse cardiac remodeling and improved diastolic function in obesity-related HFpEF: A prospective real-world cohort study.",
-      "abstract": "BACKGROUND: Obesity-related heart failure with preserved ejection fraction (HFpEF) is characterized by concentric remodeling, diastolic dysfunction, and systemic inflammation. Tirzepatide, a dual GIP/GLP-1 receptor agonist, produces substantial weight loss, but real-world echocardiographic evidence of cardiac reverse remodeling remains limited, particularly in prospective cohorts.\nMETHODS: We conducted a prospective, single-center, longitudinal observational cohort study of 50 adults with obesity-related HFpEF (LVEF ≥50%, BMI ≥30 kg/m2) initiating tirzepatide in routine care. Co-primary endpoints were changes in left ventricular (LV) mass and the E/e' ratio from baseline to ≈6 months. Multiplicity was controlled via hierarchical gate-keeping with Benjamini-Hochberg false discovery rate (FDR) correction.\nRESULTS: Over a median follow-up of 5.8 months, mean LV mass decreased by -12.4 g (95% CI -15.4 to -9.4; q < 0.001; SRM -1.16) and E/e' improved by -1.45 (95% CI -1.85 to -1.11; q < 0.001; SRM -1.08). KCCQ score increased by +13.1 points (q < 0.001), 6-min walk distance by +43 m (q < 0.001), and BMI decreased by -5.8 kg/m2 (q < 0.001). NT-proBNP, hs-CRP, and hs-TnT all declined significantly (all q < 0.01). NYHA class improved in 30 patients (60%) with none worsening (p < 0.001).\nCONCLUSIONS: In real-world practice, tirzepatide use was associated with reverse cardiac remodeling, improved diastolic function, and better health status in obesity-related HFpEF. These findings complement randomized trial evidence and support further evaluation of incretin-based therapy in obesity-related HFpEF.",
-      "journal": "International journal of cardiology",
-      "authors": "Karanxha Juliana, Guni Mirjeta, Xhabija Nereida, Dede Monika, Mone Iris, Prifti Edi",
-      "pub_date": "2026-09-08",
-      "doi": "10.1016/j.ijcard.2026.134773",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42710812/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "aa782e2f4aa404d70d2bc6bd99633c8a98b99fceab0a6605a675e7b047f56484",
-      "fetched_at_utc": "2026-09-09T23:11:46Z",
-      "updated_at_utc": "2026-09-09T23:11:46Z",
-      "summary_ja": "肥満関連HFpEF（LVEF≥50%、BMI≥30 kg/m2）の成人50名を対象とした前向き単一施設縦断観察コホート研究。通常診療でtirzepatideを開始した患者を中央値5.8ヶ月追跡し、共同一次エンドポイントである左室質量（LV mass）およびE/e'比の変化を評価した。LV massは-12.4 g（95% CI -15.4〜-9.4）、E/e'は-1.45（95% CI -1.85〜-1.11）と有意に改善し、KCCQスコア（+13.1点）、6分間歩行距離（+43 m）、BMI（-5.8 kg/m2）、NT-proBNP、hs-CRP、hs-TnTも有意に改善し、NYHA classは30例（60%）で改善、悪化はなし。",
-      "key_takeaway_ja": "実臨床において、tirzepatideの使用は肥満関連HFpEF患者で心臓の逆リモデリング、拡張機能の改善、健康状態の向上と関連していた。",
-      "why_matters_ja": "肥満関連HFpEFにおけるtirzepatideの心エコーによる逆リモデリングの実臨床エビデンス、特に前向きコホートでのものは限られていた。本研究はランダム化試験のエビデンスを補完し、肥満関連HFpEFにおけるインクレチン系療法のさらなる評価を支持する。",
-      "study_type_ja": "前向き単一施設縦断観察コホート研究（prospective real-world cohort study）",
-      "endpoints_ja": "共同一次エンドポイント：ベースラインから約6ヶ月時の左室質量（LV mass）の変化、E/e'比の変化。二次エンドポイント：KCCQスコア、6分間歩行距離、BMI、NT-proBNP、hs-CRP、hs-TnT、NYHA class。",
-      "endpoint_results_ja": "LV mass：-12.4 g（95% CI -15.4 to -9.4; q < 0.001; SRM -1.16）。E/e'：-1.45（95% CI -1.85 to -1.11; q < 0.001; SRM -1.08）。KCCQスコア：+13.1点（q < 0.001）。6分間歩行距離：+43 m（q < 0.001）。BMI：-5.8 kg/m2（q < 0.001）。NT-proBNP、hs-CRP、hs-TnT：いずれも有意に低下（all q < 0.01）。NYHA class：30例（60%）で改善、悪化なし（p < 0.001）。",
-      "sample_size_ja": "50名（肥満関連HFpEFの成人）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-10T23:11:38Z"
     },
     {
       "pmid": "42710804",
@@ -4968,270 +5209,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:26:00Z"
-    },
-    {
-      "pmid": "42649514",
-      "title": "Disease-modifying anti-diabetic drugs (DMADDs): bridging the SIMPLE approach to disease interception.",
-      "abstract": "The traditional glucose-centric paradigm of type 2 diabetes management is being superseded by growing evidence that certain agents, sodium-glucose cotransporter-2 inhibitors (SGLT2i), glucagon-like peptide-1 receptor agonists (GLP-1RA), and pioglitazone, confer cardiovascular, renal, and hepatic benefits that extend well beyond glycemic control. Building on the previously proposed \"diabetes/disease-modifying drugs (DMDs)\" concept introduced through the SIMPLE framework, we propose a more mechanistically precise term: Disease-Modifying Anti-Diabetic Drugs (DMADDs). DMADDs are defined by four criteria: glucose-independent clinical benefit, durable organ-specific protection, mechanistic evidence of anti-inflammatory or anti-fibrotic activity, and sustained legacy effects or remission potential. Using these criteria, SGLT2i, GLP-1RA, and pioglitazone emerge as prototypical agents, while metformin, dipeptidyl peptidase-4 (DPP-4) inhibitors, insulin, and sulfonylureas do not meet the full threshold. We explicitly explain why metformin and DPP-4 inhibitors are excluded as DMADDs, situate the DMADD framework within the heterogeneity of type 2 diabetes and against what non-pharmacological interventions can achieve, and state the limitations of the proposal. Recent evidence reinforces this framework: the SOUL trial established cardiovascular superiority for oral semaglutide, extending disease-modifying properties beyond injectable formulations, while Phase 3 TRIUMPH data position retatrutide as an emerging triple-agonist candidate awaiting cardiovascular outcome data. The 2026 American Diabetes Association Standards of Care now recommend SGLT2i and GLP-1RA independent of baseline glycated hemoglobin (HbA1c), an institutional shift that mirrors the disease-interception logic proposed here. We argue that adopting the DMADD framework could reorient diabetes therapeutics from glycemic normalization toward early disease interception, potentially preserving β-cell function and expanding the clinical horizon toward remission. This terminology offers a unifying scaffold for future trials, regulatory classification, and clinical guidelines, redefining therapeutic success in type 2 diabetes beyond glucose control alone.",
-      "journal": "Cardiovascular diabetology",
-      "authors": "Koca Nizameddin, Uyar Seyit, Şahintürk Yasin, Yıldız Hamit, Del Prato Stefano, DeFronzo RalphA",
-      "pub_date": "2026-08-26",
-      "doi": "10.1186/s12933-026-03346-2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42649514/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Diabetes Mellitus, Type 2",
-        "Hypoglycemic Agents",
-        "Treatment Outcome",
-        "Blood Glucose",
-        "Glucagon-Like Peptide-1 Receptor Agonists",
-        "Sodium-Glucose Transporter 2 Inhibitors",
-        "Animals",
-        "Biomarkers",
-        "Glycemic Control",
-        "PPAR-gamma Agonists",
-        "Incretins",
-        "Semaglutide",
-        "Remission Induction"
-      ],
-      "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "d0a81f334ed35e4a4323e8d2ff720ed20639f254db708edf047218936f5a9f47",
-      "summary_ja": "本稿は、2型糖尿病治療における血糖中心のパラダイムから、SGLT2阻害薬・GLP-1受容体作動薬・ピオグリタゾンが血糖管理を超えた心血管・腎・肝臓の利益をもたらすという証拠に基づき、Disease-Modifying Anti-Diabetic Drugs（DMADDs）という概念を提案する論考である。DMADDsは、血糖依存でない臨床的利益、持続的な臓器特異的保護、抗炎症または抗線維化の機能的証拠、持続的なレガシー効果または寛解可能性の4基準で定義され、SGLT2i・GLP-1RA・ピオグリタゾンが原型とされる一方、メトホルミン・DPP-4阻害薬・インスリン・スルホニルウレアは基準を満たさない。さらに、SOUL試験の経口セマグルチドの心血管優越性、TRIUMPHのレトラルチドの心血管アウトカム待ち、2026年ADA基準のHbA1c非依存推奨を背景に、早期疾患遮断と寛解への転換を主張している。",
-      "key_takeaway_ja": "DMADDsの枠組みは、2型糖尿病の治療目標を血糖正常化から早期疾患遮断・臓器保護・寛解可能性へ再定義し、将来の試験・規制分類・ガイドラインに統合的な基盤を提供しうる。",
-      "why_matters_ja": "SGLT2阻害薬とGLP-1受容体作動薬を血糖依存でない心血管・腎・肝臓保護を持つ疾患修飾薬として位置づけ、心血管アウトカムやHbA1c非依存の推奨を支持するため、Boehringer IngelheimのCardio-Renal-Metabolic領域で戦略的に関連する。",
-      "study_type_ja": "概念提言・論考（DMADDs概念の提案と既存証拠の整理）",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:25:28Z"
-    },
-    {
-      "pmid": "42649452",
-      "title": "Safety of Concurrent Empagliflozin and Spironolactone Initiation in Acute Heart Failure Across the Ejection Fraction Spectrum.",
-      "abstract": "",
-      "journal": "Journal of general internal medicine",
-      "authors": "Huang Cheng-Wei, Kong Sa, Nguyen AnMarie T, Lee Janet S, Han Bing, Lee Ming-Sum",
-      "pub_date": "2026-08-26",
-      "doi": "10.1007/s11606-026-10740-9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42649452/",
-      "publication_types": [
-        "Letter"
-      ],
-      "mesh_terms": [],
-      "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
-      "matched_assets": [
-        "empagliflozin"
-      ],
-      "matched_companies": [
-        "Boehringer Ingelheim"
-      ],
-      "bi_related": true,
-      "japan_relevant": false,
-      "content_sha256": "84118094d9c497dfbb5547eeedd3db67048f06424a72d01a6e7ae487adb604f0",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
-    },
-    {
-      "pmid": "42648932",
-      "title": "Perioperative discontinuation of sodium-glucose cotransporter-2 inhibitors and cardiac complications after noncardiac surgery: stopping is only half the question. Comment on Br J Anaesth 2026; 137: 440-9.",
-      "abstract": "",
-      "journal": "British journal of anaesthesia",
-      "authors": "Jiang Fangrong, Shen Ting",
-      "pub_date": "2026-08-26",
-      "doi": "10.1016/j.bja.2026.07.038",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42648932/",
-      "publication_types": [
-        "Letter"
-      ],
-      "mesh_terms": [],
-      "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "928f4e1020c8aef0b4ac7114a41bf7e4c416b5ede41d8d37189e6a31fdd36c62",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
-    },
-    {
-      "pmid": "42648283",
-      "title": "Association of semaglutide use with kidney outcomes in adults with ADPKD: A propensity score-matched real-world study.",
-      "abstract": "ObjectiveAutosomal dominant polycystic kidney disease (ADPKD) is a progressive hereditary kidney disorder with limited treatment options. Although semaglutide has demonstrated kidney-protective effects in other populations, its renal effects in ADPKD remain unknown.MethodsWe conducted a retrospective propensity score-matched cohort study using the TriNetX Research Network. Adults with ADPKD between 2000 and 2024 were identified. Patients receiving sodium-glucose cotransporter-2 inhibitors, tolvaptan, or other glucagon-like peptide-1 receptor agonists were excluded. Semaglutide users were matched 1:1 with non-users. Outcomes included creatinine-based estimated glomerular filtration rate (eGFR), stage 5 chronic kidney disease (CKD), end-stage kidney disease (ESKD), body mass index (BMI), acute kidney injury (AKI), urinary tract infection (UTI), volume depletion, and all-cause mortality.ResultsAmong 45,613 adults with ADPKD, 323 semaglutide users and 31,300 non-users met the eligibility criteria; 320 matched pairs were analyzed. At follow-up, semaglutide users had a higher mean creatinine-based eGFR than non-users (57.52 ± 28.19 vs. 50.93 ± 33.80 mL/min/1.73 m2; p = 0.013) and a lower risk of progression to stage 5 CKD (hazard ratio, 0.447; 95% confidence interval, 0.230-0.872). No significant differences were observed in ESKD, AKI, or UTI. Semaglutide use was also associated with lower incidences of volume depletion and all-cause mortality.ConclusionsSemaglutide use was associated with higher follow-up eGFR of creatinine-based eGFR and a lower risk of stage 5 CKD in patients with ADPKD. Because semaglutide-induced weight loss and reductions in muscle mass may lower serum creatinine independently of true glomerular filtration, the observed preservation of creatinine-based eGFR should be interpreted cautiously. Given the observational design, limited follow-up, and potential residual confounding, these findings should be considered hypothesis-generating and require confirmation in prospective studies.",
-      "journal": "Science progress",
-      "authors": "Chen To-Pang, Tsai Shang-Feng",
-      "pub_date": "2026-08-26",
-      "doi": "10.1177/00368504261484176",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42648283/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Semaglutide",
-        "Female",
-        "Male",
-        "Polycystic Kidney, Autosomal Dominant",
-        "Glucagon-Like Peptides",
-        "Middle Aged",
-        "Propensity Score",
-        "Adult",
-        "Retrospective Studies",
-        "Glomerular Filtration Rate",
-        "Kidney"
-      ],
-      "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "1152e1e307cab163bd1366ffb2e4543028adae37cb14ce634d9fc6d887f2a2ff",
-      "summary_ja": "TriNetX Research Networkを用いた後方視的傾向スコアマッチングコホート研究で、2000〜2024年のADPKD成人を対象に、SGLT2阻害薬・トルバプタン・他のGLP-1受容体作動薬使用者を除外したうえで、セマグルチド使用者と非使用者を1:1マッチングして320ペアを解析した。フォローアップ時、セマグルチド使用者は非使用者よりクレアチニンベースeGFRが高く、CKDステージ5への進行リスクが低かった。ESKD、AKI、UTIには有意差が認められず、volume depletionと全死因死亡率は低率と関連した。",
-      "key_takeaway_ja": "ADPKD成人におけるセマグルチド使用は、クレアチニンベースeGFRの維持とCKDステージ5への進行リスク低下と関連したが、観察研究であり仮説生成に留まる。",
-      "why_matters_ja": "Boehringer IngelheimのCardio-Renal-Metabolic領域では、GLP-1受容体作動薬の腎保護効果をADPKDという限定的な腎疾患で示唆する点で注目される。",
-      "study_type_ja": "後方視的傾向スコアマッチングコホート研究（TriNetX Research Network、実世界データ）",
-      "endpoints_ja": "主要: 抄録に記載なし。副次: 抄録に記載なし。アウトカム: クレアチニンベースeGFR、CKDステージ5、ESKD、BMI、急性腎障害、尿路感染症、volume depletion、全死因死亡率",
-      "endpoint_results_ja": "クレアチニンベースeGFR: セマグルチド使用者 57.52 ± 28.19 vs 非使用者 50.93 ± 33.80 mL/min/1.73 m2; p = 0.013。CKDステージ5: hazard ratio 0.447; 95% confidence interval 0.230-0.872。ESKD: 有意差なし。AKI: 有意差なし。UTI: 有意差なし。BMI: 抄録に記載なし。volume depletion: 低率と関連。全死因死亡率: 低率と関連。",
-      "sample_size_ja": "N=45,613（ADPKD成人）。適格: セマグルチド使用者323名、非使用者31,300名。解析: 1:1マッチング320ペア",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:23:12Z"
-    },
-    {
-      "pmid": "42647148",
-      "title": "PharmaPlain: SOUL trial looking at the effect of oral semaglutide on cardiovascular outcomes in people with type 2 diabetes and atherosclerotic cardiovascular disease and/or chronic kidney disease.",
-      "abstract": "",
-      "journal": "European heart journal. Cardiovascular pharmacotherapy",
-      "authors": "Monroe Rhonda E, Marx Nikolaus, McGuire Darren K",
-      "pub_date": "2026-08-26",
-      "doi": "10.1093/ehjcvp/pvag055",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42647148/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "b47fcb174acc85246823995478829c2d7cc4a818f6312f3d9f2807df41399cbc",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-01T00:23:30Z"
-    },
-    {
-      "pmid": "42647098",
-      "title": "Nonscarring Alopecia in Adults Treated With GLP-1s: A Propensity Score Matched TriNetX Cohort Study.",
-      "abstract": "OBJECTIVE(S): GLP-1 receptor agonists (GLP-1s) are widely prescribed for type 2 diabetes (T2DM) and obesity, but associated hair loss outcomes remain poorly characterized. We evaluated whether GLP-1s were associated with different subtypes of hair loss in adults with T2DM or obesity.\nMETHODS: This retrospective TriNetX cohort study included adults with established care from 2018 to 2025. GLP-1 users were grouped by indication and propensity score matched to nonusers by demographics, comorbidities, and hair loss-associated medications. Outcomes were new diagnoses of nonscarring alopecia, telogen effluvium, and alopecia areata as a negative control. Hair loss outcomes were assessed at 1, 3, and 5 years after semaglutide initiation and 1, 1.5, and 2 years after tirzepatide initiation. Secondary analyses compared semaglutide and tirzepatide with other GLP-1s and evaluated differences in follow-up BMI between patients with and without hair loss outcomes.\nRESULTS: Semaglutide and tirzepatide were associated with higher odds of other nonscarring alopecia across T2DM and BMI cohorts. Telogen effluvium odds were elevated with semaglutide use at 3 and 5 years and with tirzepatide at all follow-up periods. Compared with other GLP-1s, both medications showed higher odds of other nonscarring alopecia; tirzepatide also showed higher odds of telogen effluvium. Follow-up BMI was lower in GLP-1 users with hair loss than without hair loss. Alopecia areata was not associated with GLP-1 use.\nCONCLUSION: Semaglutide and tirzepatide were associated with higher odds of nonscarring hair loss, particularly telogen effluvium. This association and follow-up BMI findings suggest that weight loss-associated physiologic stress may contribute to hair loss during GLP-1 therapy.",
-      "journal": "The Laryngoscope",
-      "authors": "Katragadda Rishi, Hayden Jamil, Saltagi Abdul K, Welschmeyer Alexandra F, Quereshy Humzah A, Karasik Daniel, Rabbani Cyrus C, Gourishetti Saikrishna C",
-      "pub_date": "2026-08-26",
-      "doi": "10.1002/lary.70810",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42647098/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "221cb7fd2c0fec78148f2600fc3f20a2452663155431be09415f9ba31567d966",
-      "summary_ja": "本稿は、2018〜2025年に確立されたケアを持つ成人を対象とした後方視的TriNetXコホート研究であり、GLP-1受容体作動薬使用者を適応別に分類し、人口統計・合併症・脱毛関連薬物でプロパティスコアマッチングした非使用者と比較した。セマグルチドとチルゼパチドは、T2DMおよびBMIコホートでその他の非瘢痕性脱毛症のオッズが高く、休止期脱毛症のオッズもセマグルチドでは開始後3年・5年、チルゼパチドでは全フォローアップ期間で上昇した。円形脱毛症はGLP-1使用と関連せず、脱毛症アウトカムを有するGLP-1使用者のfollow-up BMIは非有症例より低かった。",
-      "key_takeaway_ja": "セマグルチドとチルゼパチドは非瘢痕性脱毛症、特に休止期脱毛症のオッズ上昇と関連し、減重に伴う生理的ストレスが脱毛に寄与する可能性が示唆された。",
-      "why_matters_ja": "GLP-1受容体作動薬のT2DM・肥満適応における脱毛という安全性シグナルを後方視的コホートで示しており、Cardio-Renal-Metabolic領域のGLP-1開発・リスク管理上、患者モニタリングや安全性評価の参考となり得る。",
-      "study_type_ja": "後方視的TriNetXコホート研究（プロパティスコアマッチング）",
-      "endpoints_ja": "主要: 抄録に記載なし。副次: 非瘢痕性脱毛症の新規診断、休止期脱毛症の新規診断、円形脱毛症の新規診断（ネガティブコントロール）、follow-up BMI",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:19:51Z"
-    },
-    {
-      "pmid": "42645721",
-      "title": "Empagliflozin protects against indomethacin-induced gastric injury in rats: evidence from inflammatory, apoptotic, and early PI3K/Akt/VEGF-related changes.",
-      "abstract": "Non-steroidal anti-inflammatory drugs (NSAIDs), particularly indomethacin, are widely used for the treatment of pain and inflammation but frequently cause gastric mucosal injury. Empagliflozin, a sodium-glucose cotransporter-2 (SGLT2) inhibitor primarily used for type 2 diabetes, has recently attracted attention due to its anti-inflammatory, antioxidant, and cytoprotective properties. The present study investigated the potential gastroprotective effects of empagliflozin against indomethacin-induced gastric injury in rats and explored the underlying mechanisms related to inflammation, oxidative stress, apoptosis, and PI3K/Akt/VEGF-related signaling pathways. Male Sprague-Dawley rats were divided into six groups: control, indomethacin, indomethacin + famotidine, indomethacin + empagliflozin (10 mg/kg), indomethacin + empagliflozin (20 mg/kg), and empagliflozin (20 mg/kg). Rats were pretreated with empagliflozin for 7 days before induction of acute gastric injury with indomethacin. Gastric tissues were evaluated using biochemical, histopathological, immunohistochemical, and Western blot analyses. Indomethacin administration significantly increased pro-inflammatory cytokines (TNF-α and IL-6), reduced prostaglandin E2 levels, and increased cleaved caspase-3 expression, indicating activation of inflammatory and apoptotic pathways. Empagliflozin treatment significantly reduced inflammatory cytokine levels, restored prostaglandin levels, and suppressed cleaved caspase-3 expression, while oxidative stress-related parameters showed limited and non-uniform changes. In addition, empagliflozin was associated with changes in cyclooxygenase activity and PI3K/Akt/VEGF-related signaling in this acute injury model. Histopathological findings were generally consistent with the biochemical results and suggested partial improvement in gastric mucosal damage following empagliflozin treatment. Taken together, these findings indicate that empagliflozin exerts gastroprotective effects mainly through modulation of inflammatory and apoptotic pathways, with accompanying early changes in oxidative stress-related parameters and PI3K/Akt/VEGF-related signaling. These results suggest that empagliflozin may represent a potential candidate for the prevention of NSAID-induced gastric injury.",
-      "journal": "Inflammopharmacology",
-      "authors": "Toprak-Semiz Ayça, Topçu Atilla, Deniz Esra, Öztürk Çiğdem, Mataracı Karakaş Sibel, Nalkıran İhsan, Sevim Nalkıran Hatice, Arpa Medeni",
-      "pub_date": "2026-08-26",
-      "doi": "10.1007/s10787-026-02374-4",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42645721/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
-      "matched_assets": [
-        "empagliflozin"
-      ],
-      "matched_companies": [
-        "Boehringer Ingelheim"
-      ],
-      "bi_related": true,
-      "japan_relevant": false,
-      "content_sha256": "35a37347e0c2d0dae4f6e8388a1594ae892b2fd0a658f46283dc13a51c838a36",
-      "summary_ja": "本研究は、インジメタシン誘発胃損傷モデルの雄性Sprague-Dawleyラットを用いた前臨床研究である。エンパグリフロジンの事前投与は、インジメタシンによる炎症性サイトカイン（TNF-α、IL-6）の上昇やcleaved caspase-3発現の上昇を抑制し、プロスタグランジンE2レベルを回復させた。組織病理学的所見は、エンパグリフロジン投与による胃粘膜損傷の部分的な改善を示唆した。",
-      "key_takeaway_ja": "エンパグリフロジンは炎症およびアポトーシス経路の調節を介してNSAID誘発性胃損傷に対する胃保護作用を発揮し、その予防における潜在的な候補となり得る。",
-      "why_matters_ja": "SGLT2阻害薬であるエンパグリフロジンの抗炎症・細胞保護作用がNSAID誘発性胃損傷の予防に寄与し得ることを示唆しており、Cardio-Renal-Metabolic領域におけるSGLT2阻害薬の多面的な薬理作用の理解に重要である。",
-      "study_type_ja": "前臨床・動物モデル（インジメタシン誘発急性胃損傷モデルを用いたラット実験）",
-      "endpoints_ja": "主要: 胃粘膜損傷（組織病理学的所見）、TNF-α、IL-6、プロスタグランジンE2、cleaved caspase-3発現。副次: 酸化ストレス関連パラメータ、シクロオキシゲナーゼ活性、PI3K/Akt/VEGF関連シグナル伝達",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:14:16Z"
     }
   ]
 }
