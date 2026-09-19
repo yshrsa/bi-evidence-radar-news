@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-18T23:15:45Z",
+  "generated_at_utc": "2026-09-19T22:57:58Z",
   "documents": [
     {
       "pmid": "42666995",
@@ -106,6 +106,142 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T14:59:16Z"
+    },
+    {
+      "pmid": "42760621",
+      "title": "Orforglipron: An Oral GLP-1 Receptor Agonist for Obesity Treatment.",
+      "abstract": "OBJECTIVE: To describe the properties of a newly approved oral glucagon-like peptide-1 receptor agonist for the treatment of obesity.\nDATA SOURCES: A literature search of MEDLINE and SCOPUS was performed without date range exclusions using the search terms orforglipron and obesity. Additional articles were identified from review of clinical trial bibliographies and product monograph.\nSTUDY SELECTION AND DATA EXTRACTION: Two phase 1 studies in healthy individuals and in patients with type 2 diabetes mellitus and 4 phase 2/3 clinical trials specifically evaluating orforglipron use for obesity were identified for analysis, using no date exclusion criteria.\nDATA SYNTHESIS: Orforglipron was evaluated in 4 phase 2/3 trials regarding its efficacy for weight loss. These trials showed a mean 7.1% to 10.6% placebo-adjusted weight reduction with orforglipron. Adverse events seen with its use were primarily gastrointestinal.Relevance to Patient Care and Clinical Practice in Comparison With Existing Drugs:Orforglipron provides an oral weight management option that is potentially more effective than liraglutide, similarly effective compared with semaglutide, and less effective than tirzepatide. As a non-injectable option that does not require strict oral administration parameters, orforglipron has advantages in certain patient populations.\nCONCLUSIONS: Orforglipron is a potentially useful addition for the treatment of obesity, but it still requires additional data on efficacy in treatment of obesity-related comorbidities for full comparison.",
+      "journal": "The Annals of pharmacotherapy",
+      "authors": "Wietholter Jon P, Terpening Chris M",
+      "pub_date": "2026-09-18",
+      "doi": "10.1177/10600280261486055",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760621/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d1c378a8ab7ba396d9497ec976804527b5d7d8024d3e56a29a9bf661819e515a",
+      "fetched_at_utc": "2026-09-19T22:57:58Z",
+      "updated_at_utc": "2026-09-19T22:57:58Z",
+      "summary_ja": "Orforglipronは、肥満治療のための新規承認された経口GLP-1受容体作動薬である。本レビューでは、MEDLINEおよびSCOPUSの文献検索により、健康な被験者および2型糖尿病患者におけるPhase 1試験2件と、肥満に対するorforglipronの効果を評価したPhase 2/3試験4件を特定・分析した。",
+      "key_takeaway_ja": "Orforglipronは肥満治療に有用な経口選択肢であり、liraglutideより効果が高く、semaglutideと同等、tirzepatideより効果が低いと評価された。",
+      "why_matters_ja": "注射不要の経口製剤であり、厳格な経口投与条件を必要としないため、特定の患者集団において利点を持つ。",
+      "study_type_ja": "レビュー（文献レビュー）",
+      "endpoints_ja": "プラセボ補正体重減少率",
+      "endpoint_results_ja": "Phase 2/3試験4件において、orforglipronによるプラセボ補正体重減少は平均7.1%〜10.6%であった。有害事象は主に消化器系であった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-19T22:58:12Z"
+    },
+    {
+      "pmid": "42760157",
+      "title": "Epigenetic determinants of GLP-1 responsiveness: Integrating dietary modulation beyond genetics.",
+      "abstract": "Glucagon-like peptide-1 receptor (GLP-1R) agonists have become major therapeutic agents for obesity and type 2 diabetes, yet clinical responses vary substantially among individuals. Although genetic variation contributes to this heterogeneity, it does not fully explain differences in glycemic control, body weight reduction, or broader metabolic outcomes. This narrative review discusses diet-driven epigenetic regulation as a potential framework linking modifiable nutritional exposures to GLP-1 physiology and variability in GLP-1R agonist responsiveness. Endogenous GLP-1 biology and the pharmacological targeting of incretin signaling are first summarized, followed by genetic determinants of GLP-1 responsiveness and their limitations. Major diet-sensitive regulatory mechanisms are then examined, including one-carbon metabolism and DNA methylation, histone modification and chromatin remodeling, microbiome-derived metabolites, and RNA-mediated or epitranscriptomic regulation. These mechanisms may influence endogenous GLP-1 secretion and degradation, GLP-1R expression, β-cell functional capacity, and the broader metabolic or inflammatory context in which incretin signaling occurs. However, direct clinical evidence linking diet-induced epigenetic changes to GLP-1R agonist therapeutic response remains limited. Therefore, diet-epigenome interactions should be interpreted as plausible modifiers of GLP-1-related metabolic biology rather than established determinants of pharmacological efficacy. Future studies integrating dietary assessment, gut hormone profiling, microbiome analysis, epigenomic markers, and multidimensional therapeutic outcomes are needed to determine whether diet-sensitive molecular signatures can support precision nutrition strategies alongside GLP-1-based therapy.",
+      "journal": "Obesity research & clinical practice",
+      "authors": "Shin Hyo Ri, Kim Tae Yoon, Min Kyongpil, Park Ui-Hyun, Oh Sang Woo, Kim Jae Kyeom",
+      "pub_date": "2026-09-18",
+      "doi": "10.1016/j.orcp.2026.09.004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760157/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "e7189d5ea77f29227b4d52879be00e64171f46ab073ff4dfdf5bf8edd5e57eea",
+      "fetched_at_utc": "2026-09-19T22:57:58Z",
+      "updated_at_utc": "2026-09-19T22:57:58Z",
+      "summary_ja": "本叙述的レビューは、GLP-1受容体アゴニストに対する臨床応答の個人差を説明する枠組みとして、食事由来のエピジェネティック調節に焦点を当てている。内因性GLP-1生物学、遺伝的決定因子とその限界、および食事感受性の調節機構（一炭素代謝とDNAメチル化、ヒストン修飾とクロマチンリモデリング、マイクロバイオーム由来代謝物、RNA介在性またはエピトランスクリプトミック調節）を概観し、これらが内因性GLP-1分泌・分解、GLP-1R発現、β細胞機能、およびインクレチンシグナリングの代謝・炎症的背景に影響しうることを論じている。",
+      "key_takeaway_ja": "食事誘発性エピジェネティック変化とGLP-1Rアゴニストの治療応答を直接結びつける臨床証拠は依然として限られており、食事-エピゲノム相互作用は確立された薬理学的有効性の決定因子ではなく、GLP-1関連代謝生物学の妥当な修正因子として解釈されるべきである。",
+      "why_matters_ja": "GLP-1Rアゴニストは肥満および2型糖尿病の主要な治療薬となったが、血糖コントロール、体重減少、広範な代謝アウトカムにおいて個人差が大きい。遺伝的変異だけではこの異質性を十分に説明できないため、食事由来のエピジェネティック機構の解明は、GLP-1ベース治療と併用したプレシジョンニュートリション戦略の基盤となりうる。",
+      "study_type_ja": "叙述的レビュー（Narrative Review）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-19T22:58:31Z"
+    },
+    {
+      "pmid": "42759496",
+      "title": "Neutrophil-to-Lymphocyte Ratio in Patients With Heart Failure: Findings From The EMPEROR Program.",
+      "abstract": "BACKGROUND: Sodium-glucose cotransporter 2 inhibitors (SGLT2i) are a cornerstone of treatment for chronic heart failure (CHF), a condition characterised by systemic inflammation and congestion.\nOBJECTIVES: We investigated the relationship between the neutrophil-to-lymphocyte ratio (NLR), which is thought to reflect both inflammation and congestion, and the clinical characteristics and outcomes of patients with CHF. Additionally, we sought to evaluate the effects of empagliflozin on NLR and across NLR quintiles.\nMETHODS: For this post-hoc analysis, we used the EMPEROR-Pooled database, which combines the EMPEROR-Reduced (NCT03057977) and EMPEROR-Preserved (NCT03057951) trials, in which 9706 patients with CHF were randomised to empagliflozin or placebo and had NLR available at baseline. The primary outcome was time to first heart failure hospitalisation or cardiovascular death; secondary endpoints included all-cause mortality and renal outcomes.\nRESULTS: Compared with patients in the lowest NLR quintile, those in the highest quintile were older, more likely to be men, more symptomatic, had higher plasma NT-proBNP and more likely to be treated with loop diuretics. Compared to the lowest NLR quintile, patients in the highest quintile had a greater risk of the primary outcome (14.9% versus 27.3% events; adjusted hazard ratio 1.44 (1.16-1.80); p=0.001), mainly due to more heart failure hospitalisations. Baseline NLR did not modify the effect of empagliflozin on either primary and secondary endpoints. NLR increased during follow-up but this was not affected by empagliflozin.\nCONCLUSIONS: In patients with CHF, a higher NLR was associated with greater congestion and poorer prognosis. The efficacy of empagliflozin was consistent, regardless of baseline NLR.",
+      "journal": "ESC heart failure",
+      "authors": "Pellicori Pierpaolo, Ferreira Joao Pedro, Butler Javed, Filippatos Gerasimos, Cleland John G F, Maffia Pasquale, Anker Stefan D, Zannad Faiez",
+      "pub_date": "2026-09-18",
+      "doi": "10.1093/eschf/xvag243",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759496/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "d71d08e752a0b768e8bef727f0380b9864e859cd392503488deb38e3f7300f1f",
+      "fetched_at_utc": "2026-09-19T22:57:58Z",
+      "updated_at_utc": "2026-09-19T22:57:58Z",
+      "summary_ja": "EMPEROR-Pooledデータベース（EMPEROR-ReducedとEMPEROR-Preservedの統合）を用いたpost-hoc解析であり、慢性心不全患者における好中球/リンパ球比（NLR）と臨床特性・予後の関係、およびNLR五分位別でのエンパグリフロジンの効果を評価した。",
+      "key_takeaway_ja": "慢性心不全患者において、NLRが高いほどうっ血が強く予後不良であり、エンパグリフロジンの効果はベースラインNLRにかかわらず一貫していた。",
+      "why_matters_ja": "NLRは炎症とうっ血の両方を反映する指標であり、慢性心不全の病態生理の核心を捉える。NLRによる患者層別化とSGLT2阻害薬の効果がNLRで変調されるかどうかの知見は、個別化治療の判断に寄与する。",
+      "study_type_ja": "ランダム化比較試験（EMPEROR-ReducedおよびEMPEROR-Preserved）の統合データベースを用いたpost-hoc解析",
+      "endpoints_ja": "主要エンドポイント：初回心不全入院または心血管死までの時間。二次エンドポイント：全死因死亡、腎機能アウトカム。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "9706例（慢性心不全患者、エンパグリフロジンまたはプラセボにランダム化され、ベースラインでNLRが利用可能）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-19T22:58:55Z"
+    },
+    {
+      "pmid": "42759294",
+      "title": "Dapagliflozin Prevents Heart Failure With Preserved Ejection Fraction by Inhibiting the Sodium/Hydrogen Exchanger.",
+      "abstract": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors have shown protective effects against heart failure with preserved ejection fraction (HFpEF), but SGLT2 is not expressed significantly in the heart. Here, we investigated the mechanism by which the SGLT2 inhibitor dapagliflozin (Dapa) alters HypoMg-associated HFpEF. HypoMg was induced by a low-Mg diet in mice or in a human cardiomyocyte cell line. Three weeks of Dapa treatment prevented HypoMg-induced HFpEF in mice. In RL-14 cardiomyocytes, sodium-hydrogen exchanger 1 (NHE1) overexpression or activation mimicked the cellular effects of HypoMg. Dapa reversed these changes. Dapa prevented cardiac HFpEF by inhibiting cardiomyocyte NHE1 activity and suppressing macrophage activation.",
+      "journal": "JACC. Basic to translational science",
+      "authors": "Liu Man, Liu Hong, Kim Eunji, Kang Gyeoung-Jin, Neumann Mitchell C, Johnson Madeline, Murikinati Ruthvika, Dudley Samuel C",
+      "pub_date": "2026-09-18",
+      "doi": "10.1016/j.jacbts.2026.101698",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759294/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5e0bf7c6f6baedb7e92498beda6a6691578cfda498d732e09283a31a7175d085",
+      "fetched_at_utc": "2026-09-19T22:57:58Z",
+      "updated_at_utc": "2026-09-19T22:57:58Z",
+      "summary_ja": "SGLT2阻害薬ダパグリフロジン（Dapa）がHFpEF（保存型左室機能不全）に保護効果を示すものの、SGLT2は心臓に有意に発現していない。本研究では、低マグネシウム食によるHypoMg関連HFpEFモデル（マウス）およびヒト心筋細胞株（RL-14）を用い、Dapaの作用機序を解析した。3週間のDapa投与はマウスにおけるHypoMg誘発HFpEFを予防した。RL-14心筋細胞では、NHE1の過発現または活性化がHypoMgの細胞内効果を模倣し、Dapaはこれらの変化を逆転させた。Dapaは心筋細胞のNHE1活性を抑制し、マクロファージ活性化を抑制することで心臓HFpEFを予防した。",
+      "key_takeaway_ja": "ダパグリフロジンは心筋細胞のNHE1活性抑制とマクロファージ活性化抑制を介してHFpEFを予防し、SGLT2が心臓に有意に発現していないにもかかわらずSGLT2阻害薬がHFpEFに有効であることの機序を説明した。",
+      "why_matters_ja": "SGLT2阻害薬はHFpEFに対して保護効果を示すが、SGLT2は心臓に有意に発現しておらず、その作用機序は不明であった。本研究はSGLT2阻害薬のHFpEFに対する心臓保護効果の新たな機序（NHE1抑制・マクロファージ活性化抑制）を明らかにし、SGLT2非依存性の心臓保護作用の理解に寄与する。",
+      "study_type_ja": "基礎・転換研究（マウスモデルおよびヒト心筋細胞株を用いた機序解析）",
+      "endpoints_ja": "マウスにおけるHypoMg誘発HFpEFの予防、RL-14心筋細胞におけるNHE1活性、マクロファージ活性化",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-19T22:59:20Z"
     },
     {
       "pmid": "42757508",
@@ -720,7 +856,16 @@
       "japan_relevant": false,
       "content_sha256": "9528a99c8cdfe1de21ebbde19e752ac894d5a9ab1ac0d829b7c111b0d26772c3",
       "fetched_at_utc": "2026-09-17T23:32:18Z",
-      "updated_at_utc": "2026-09-17T23:32:18Z"
+      "updated_at_utc": "2026-09-17T23:32:18Z",
+      "summary_ja": "GLP-1受容体作動薬（GLP-1 RA）が泌尿器科・男性科領域に与える影響を、2020〜2026年のPubMed検索に基づくナラティブレビューとして総説した。勃起機能障害、低テストステロン血症、男性の生殖能力、腎保護、前立腺がん、下尿路症状、術期管理の各領域を網羅的にレビューした。",
+      "key_takeaway_ja": "GLP-1 RAは肥満関連低テストステロン血症男性における総テストステロン増加・勃起機能改善、アルブミン尿減少・eGFR低下の遅延による腎保護、前立腺がんリスク低下のエピデミオロジー的シグナル、体重減少を介した腹圧性尿失禁・過活動膀胱への間接的効果など複数の泌尿器科領域で臨床的に有意な効果を示す一方、非糖尿病の肥満男性におけるセマグルチド使用時の新規勃起機能障害リスクの4.5倍増加、胃排出遅延による術期誤嚥リスク、女性におけるデータの実質的欠如といった警告シグナルも存在する。",
+      "why_matters_ja": "肥満・代謝症候群と泌尿器科・男性科疾患の間の密接な病理生理学的関連により、GLP-1 RAは泌尿器科医にとって直接的な臨床的関連性を持つ。治療の機会であると同時に臨床的課題でもあり、系統的な男性科・腎科モニタリングおよび性尿路・術期への影響に関する能動的な患者教育が推奨される。泌尿器科エンドポイントを持つ前向き対照試験の必要性が指摘されている。",
+      "study_type_ja": "ナラティブレビュー（2020〜2026年のPubMed検索に基づく）",
+      "endpoints_ja": "総テストステロン、勃起機能、アルブミン尿、eGFR、前立腺がんリスク、腹圧性尿失禁、過活動膀胱、新規勃起機能障害、術期誤嚥リスク",
+      "endpoint_results_ja": "体重減少は最大22%（体重比）。非糖尿病の肥満男性におけるセマグルチド使用時の新規勃起機能障害リスクは4.5倍増加。肥満関連低テストステロン血症男性で総テストステロン増加および勃起機能改善。アルブミン尿減少およびeGFR低下の遅延。前立腺がんリスク低下のエピデミオロジー的シグナル。体重減少を介した腹圧性尿失禁・過活動膀胱への間接的効果。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-19T22:59:46Z"
     },
     {
       "pmid": "42747817",
@@ -983,6 +1128,36 @@
       "updated_at_utc": "2026-09-16T23:37:55Z"
     },
     {
+      "pmid": "42759347",
+      "title": "A longitudinal case report illustrating diagnostic complexity among overlapping sleep-wake phenotypes.",
+      "abstract": "The coexistence of multiple primary sleep disorders in a single patient is uncommon and poses significant diagnostic and therapeutic challenges. We report a 45-year-old woman with severe mixed sleep apnea (OSA/CSA), NREM parasomnia (night terrors), sleep-related eating disorder (SRED), nightmare disorder (with RBD like behavior but no REM atonia on PSG), and central hypersomnolence phenotype minimally affected with PAP optimization and delayed sleep-wake phase disorder. Symptoms began more than two decades earlier and included violent dream-enactment behaviors, hypnopompic hallucinations, sleep inertia, and chronic excessive daytime sleepiness (EDS). Treatment required multi-modal therapy. Positive airway pressure therapy successfully treated sleep disordered breathing while pitolisant and solriamfetol produced the most durable improvement in daytime sleepiness. Together melatonin plus clonazepam reduced parasomnia frequency and severity. Several other agents (including prazosin, sodium oxybate, paroxetine, and modafinil) were tried and discontinued for limited benefit or adverse effects. Notably, GLP-1 receptor agonist (GLP-1 RA) therapy for obesity was followed by a substantial weight loss and coincided with resolution of SRED. Because this occurred alongside improved sleep stability, PAP adherence, behavioral adaptation, and medication changes, causality cannot be inferred. The observation may justify further study of metabolic and incretin-related pathways in sleep-related eating behaviors. Overall, this case highlights the complexity of overlapping sleep-wake disorders, the need for individualized pharmacologic sequencing, and a potential emerging role for GLP-1 agonists in SRED.",
+      "journal": "Sleep medicine",
+      "authors": "Martirosyan Zara, Whitesell Peter",
+      "pub_date": "2026-09-15",
+      "doi": "10.1016/j.sleep.2026.109254",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759347/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "e9b16be286bfe59f07288f4c2fa6532913a46e3a873a1db7c4ee6c2d68078316",
+      "fetched_at_utc": "2026-09-19T22:57:58Z",
+      "updated_at_utc": "2026-09-19T22:57:58Z",
+      "summary_ja": "45歳女性において、混合型睡眠時無呼吸（OSA/CSA）、NREMパラソムニア（夜驚症）、睡眠関連摂食障害（SRED）、悪夢障害（RBD様行動ありだがPSGでREMアトニアなし）、中枢性過眠フェノタイプ、および遅延睡眠覚醒型障害が併存した縦断的症例報告。症状は20年以上前に発症し、暴力的な夢行動、覚醒前幻覚、睡眠慣性、慢性の過剰日中眠気（EDS）を伴った。治療には多面的なアプローチが必要であり、PAPで睡眠時呼吸障害を治療、ピトリサンとソリアムフェトールで日中眠気に最も持続的な改善、メラトニンとクロナゼパムでパラソムニアの頻度と重症度を軽減した。GLP-1受容体作動薬による減量とSREDの解決が同時期に観察されたが、因果関係は推定できない。",
+      "key_takeaway_ja": "重複する睡眠覚醒障害の複雑性、個別化された薬物療法の順序設計の必要性、およびSREDにおけるGLP-1作動薬の潜在的な役割を示した。",
+      "why_matters_ja": "単一患者における複数の原発性睡眠障害の併存は稀であり、診断・治療上の重大な課題を呈する。GLP-1受容体作動薬とSRED解決の関連は、睡眠関連摂食行動における代謝・インクレチン関連経路のさらなる研究を正当化する可能性がある。",
+      "study_type_ja": "縦断的症例報告",
+      "endpoints_ja": "睡眠時呼吸障害（PAP治療による）、日中眠気（ピトリサン・ソリアムフェトールによる）、パラソムニアの頻度と重症度（メラトニン＋クロナゼパムによる）、SRED（GLP-1受容体作動薬による）、体重",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "1例（45歳女性）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-19T23:01:03Z"
+    },
+    {
       "pmid": "42746314",
       "title": "Assessing the Growing Impact of Oral GLP-1 Agonists on National Obesity Policies of the United Kingdom.",
       "abstract": "Obesity is a widely recognised major health concern within the United Kingdom (UK), culminating in rising costs for the National Health Service (NHS) per annum. Considering recent approval from regulatory bodies for the administration of oral glucagon-like peptide-1 (GLP-1) receptor agonists for weight management, this editorial explores the potential impact of oral GLP-1 receptor agonists on UK obesity policies, as well as establishing their safety profile and purported long-term health outcomes. It outlines key challenges faced by the NHS and the UK Government, such as growing inequalities in current access to the medication and the assurance of fair state provision, targeting the highest-risk patient groups first. Whilst national policy in tackling obesity is an ever-evolving landscape, it is imperative that oral GLP-1 receptor agonists are recognised by the wider populace not as substitutes for established methods but as tools to augment their efficacy.",
@@ -1104,7 +1279,16 @@
       "japan_relevant": false,
       "content_sha256": "6330056635010ccb3374dfcf739f898b381be59a29528810a78dc520b8b87418",
       "fetched_at_utc": "2026-09-16T23:37:55Z",
-      "updated_at_utc": "2026-09-16T23:37:55Z"
+      "updated_at_utc": "2026-09-16T23:37:55Z",
+      "summary_ja": "台湾の14病院・クリニックで実施された前向き多施設リアルワールド研究（NCT06283641、2024年2月〜2025年3月）。肥満を有する思春期患者41例を対象に、リラグルチドの安全性と有効性をベースライン、13週、26週で評価した。主要評価項目は有害事象・有害薬物反応の発生割合、体重・BMI・BMI SDSの変化であった。",
+      "key_takeaway_ja": "台湾の肥満思春期患者において、3.0 mg/day未満のリラグルチドは良好な忍容性を示し、体重・BMI・BMI SDSの有意な減少が確認された。有害事象はすべて軽度であり、不耐容による治療中断はなかった。",
+      "why_matters_ja": "小児肥満は多くの代謝合併症と関連するが、治療選択肢は限られている。本研究は、思春期肥満患者におけるGLP-1受容体作動薬（リラグルチド）のリアルワールドでの安全性・有効性に関する前向き多施設データを提供する。",
+      "study_type_ja": "前向き多施設リアルワールド研究（観察研究）",
+      "endpoints_ja": "有害事象の発生割合、有害薬物反応の発生割合、体重の変化、BMIの変化、BMI SDSの変化",
+      "endpoint_results_ja": "有害事象：19.5%（8/41、すべて軽度）。有害薬物反応：9.8%（4/41、6イベント）。13週時：体重 -2.7 ± 3.8 kg（p = 0.0003）、BMI -1.3 ± 1.4 kg/m²（p < 0.0001）、BMI SDS -0.2 ± 0.2（p < 0.0001）。26週時：体重 -4.4 ± 5.7 kg（p = 0.0015）、BMI -1.9 ± 2.1 kg/m²（p = 0.0004）、BMI SDS -0.4 ± 0.3（p < 0.0001）。",
+      "sample_size_ja": "41例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-19T23:01:26Z"
     },
     {
       "pmid": "42743093",
@@ -5244,6 +5428,33 @@
       "summary_generated_at_utc": "2026-09-14T23:56:29Z"
     },
     {
+      "pmid": "42760177",
+      "title": "Distinct pattern of reported adverse event with SGLT2 inhibitors in heart failure: A pharmacovigilance study using VigiBase data.",
+      "abstract": "BACKGROUND AND AIMS: Sodium-glucose cotransporter 2 inhibitors (SGLT-2i), developed for type 2 diabetes mellitus (T2DM), have been approved in symptomatic heart failure (HF). Comparison of their safety profiles between T2DM and HF remain scarce. Using international pharmacovigilance data, reported adverse events (AEs) with SGLT-2i were compared between T2DM and HF indications.\nMETHODS: Individual case safety reports (ICSRs) involving dapagliflozin or empagliflozin, both approved for T2DM and HF, were collected from the World Health Organization's pharmacovigilance database up to September 30, 2024. Five AEs of interest were specifically investigated including ketoacidosis, genitourinary infection, Fournier's gangrene, amputation and kidney failure. Reporting odds ratio (ROR) and 95% confidence interval (CI) were calculated to compare reported AEs between T2DM and HF indication.\nRESULTS: Of the 47,804 ICSRs selected, only 10.0% involved HF patients. Serious AEs accounted for 41.0% of cases in T2DM patients and 44.2% in HF patients. As expected, ketoacidosis (14.6% vs 4.1%), Fournier's gangrene (2.3% vs 1.8%), and amputation (0.5% vs 0.3%) were significantly more reported in T2DM and kidney failure was more reported in HF (6.1% vs 3.8% in T2DM). The differences were illustrated by significant ROR. However, no difference was evidenced for genitourinary tract infections between the two indications. Median time to onset of AEs was shorter in HF (111.5 days±198.7 vs 264.9±664.9 in T2DM, p<0.001) and AEs leading to death were more frequently reported in this subgroup.\nCONCLUSION: SGLT2 inhibitor safety profiles differ across indications, shaped in part by patient characteristics. In heart failure, the reporting of unexpected serious events, such as ketoacidosis, and a higher proportion of fatal outcomes sharply reinforces the need for intensified safety surveillance.",
+      "journal": "Therapie",
+      "authors": "Chebbo Omar, Roubille François, Faillie Jean-Luc, Chapet Nicolas, Palassin Pascale",
+      "pub_date": "2026-08-31",
+      "doi": "10.1016/j.therap.2026.07.007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760177/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "2c567384e91c1f52ef0d51daad6dd2e920fa1c2cc7434d955cfaa6f2e8783d12",
+      "fetched_at_utc": "2026-09-19T22:57:58Z",
+      "updated_at_utc": "2026-09-19T22:57:58Z"
+    },
+    {
       "pmid": "42741157",
       "title": "Glucagon-like peptide-1 receptor agonists and tirzepatide are associated with reduced mortality, cardiovascular, and psychiatric risks in patients with hidradenitis suppurativa and type 2 diabetes and/or obesity: a retrospective cohort study.",
       "abstract": "BACKGROUND: Hidradenitis suppurativa (HS) is a chronic inflammatory skin disease strongly associated with obesity and diabetes mellitus type 2 (T2D). GLP-1 receptor agonists (GLP-1RAs) and tirzepatide are increasingly used for metabolic control, but their systemic effects in HS remain poorly characterized.\nOBJECTIVES: To compare all-cause mortality, cardiovascular, rheumatologic, metabolic, psychiatric, and non-communicable inflammatory outcomes in HS patients with T2D or obesity treated with GLP-1RAs/tirzepatide vs. alternative metabolic medications.\nMETHODS: This retrospective cohort study used the US Collaborative Network in TriNetX. Adults (≥18 years) with HS and T2D or obesity were included, excluding prior bariatric surgery. Exposed patients received a GLP-1RA or tirzepatide for at least one year, controls received other systemic antidiabetic or anti-obesity agents. Outcomes over a 2-year follow-up were assessed using 1:1 propensity score matching (PSM) for each outcome category. Outcomes included all-cause mortality, cardiovascular, rheumatologic, metabolic, psychiatric, and non-communicable inflammatory events. Hazard ratios (HRs) with 95% confidence intervals (CIs) were calculated, and Cox regression was used to confirm significant findings. Sensitivity analyses and benchmark comparisons were performed.\nRESULTS: Before matching, 8,564 patients received GLP-1RA/tirzepatide and 6,299 alternative therapies. After matching, GLP-1RA/tirzepatide use was associated with reduced all-cause mortality (HR: 0.24, 95% CI: 0.145-0.395; p < 0.0001) and major adverse cardiovascular events (MACE) (HR: 0.61, 95% CI: 0.500-0.749; p < 0.0001). Risks of stroke and heart failure were also reduced (both p < 0.05). Psychiatric outcomes, including depression (HR: 0.78), suicidal ideation (HR: 0.38), and substance use disorder (HR: 0.58), were significantly reduced (all p < 0.05). Risks for rheumatologic and non-communicable chronic inflammatory outcomes were similar among groups. A modest increase in the risk of hyperlipidemia (HR: 1.25), metabolic dysfunction-associated steatotic liver disease (MASLD) (HR: 1.37), and nausea/vomiting (HR: 1.31) was observed in the GLP-1RA/tirzepatide group compared with alternative therapies (all p < 0.05).\nCONCLUSION: GLP-1RAs and tirzepatide are associated with reduced mortality, cardiovascular and psychiatric morbidity in HS patients with obesity or T2D, without increasing rheumatologic or inflammatory risk. These results extend the systemic benefits of GLP-1RAs and tirzepatide beyond metabolic control and suggest potential therapeutic value in HS.",
@@ -6033,6 +6244,32 @@
       "content_sha256": "1b3c80ad7314148825b0981a4ec6fbf611f78d3f7f4ea2f962d2155ffdfb955b",
       "fetched_at_utc": "2026-08-31T15:48:02Z",
       "updated_at_utc": "2026-08-31T15:48:02Z"
+    },
+    {
+      "pmid": "42760239",
+      "title": "The 2026 American College of Cardiology Expert Consensus Decision Pathway for Heart Failure with Preserved Ejection Fraction: Implications for Cardiothoracic and Vascular Anesthesia.",
+      "abstract": "Heart failure with preserved ejection fraction (HFpEF) is a heterogeneous, multisystem syndrome frequently encountered by perioperative clinicians. The 2026 American College of Cardiology Expert Consensus Decision Pathway (ECDP) updates the 2023 pathway in response to major advances in diagnosis and therapy. It emphasizes probability-based diagnosis, recognition that normal natriuretic peptide concentrations do not exclude HFpEF, and systematic exclusion of cardiac and noncardiac mimics. The revised ECDP incorporates the HFpEF-ABA screening score, expands sex-specific considerations, and frames HFpEF within a cardiovascular-kidney-metabolic construct. Sodium-glucose cotransporter 2 inhibition and nonsteroidal mineralocorticoid receptor antagonism are positioned as foundational therapy when not contraindicated. Finerenone is favored over steroidal mineralocorticoid receptor antagonists, incretin-based therapy is incorporated for obesity-related HFpEF, and angiotensin receptor-neprilysin inhibition is selectively considered in women and in patients with a left ventricular ejection fraction below approximately 55% to 60%. The evidence remains nuanced because several pivotal trials enrolled patients with ejection fractions beginning at 40% or 45%, and benefits were often driven by fewer worsening heart failure events rather than cardiovascular mortality. This review summarizes the principal 2026 changes to the ECDP, critically appraises their evidentiary limits, and translates the pathway into implications for preoperative assessment, medication management, hemodynamic planning, and postoperative surveillance.",
+      "journal": "Journal of cardiothoracic and vascular anesthesia",
+      "authors": "Ripoll Juan G, Herrera Harrison R, Zaremba Solomiia, Maruniak Stepan, Ursoleo Jacopo D'Andria, Wieruszewski Patrick M, Ramakrishna Harish",
+      "pub_date": "2026-08-28",
+      "doi": "10.1053/j.jvca.2026.08.160",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760239/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4a6f3c94f697686a39340e666143558a84a106e9992d540e303c393ce6391dcf",
+      "fetched_at_utc": "2026-09-19T22:57:58Z",
+      "updated_at_utc": "2026-09-19T22:57:58Z"
     },
     {
       "pmid": "42729683",
