@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-19T23:01:30Z",
+  "generated_at_utc": "2026-09-20T23:18:36Z",
   "items": [
     {
       "pmid": "42666995",
@@ -106,6 +106,108 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T14:59:16Z"
+    },
+    {
+      "pmid": "42762980",
+      "title": "Changes in Abdominal Adiposity and Associations With Metabolic Health Markers Following Tirzepatide in Japanese Participants With Obesity Disease: Results From the SURMOUNT-J Study.",
+      "abstract": "OBJECTIVES: This analysis characterized obesity-related outcomes in SURMOUNT-J and explored relationships among weight loss, abdominal adiposity, and metabolic improvements.\nMETHODS: Japanese adults with obesity disease without diabetes were randomized (1:1:1) to tirzepatide (10 or 15 mg) or placebo plus lifestyle modification. Prespecified analyses evaluated changes from baseline to week 72 in obesity and glycemic parameters. Post hoc analyses assessed correlations among changes in weight, anthropometrics, abdominal adiposity (visceral adipose tissue [VAT], subcutaneous adipose tissue [SAT], hepatic fat fraction [HFF]), and glycemic outcomes.\nRESULTS: Among 225 participants (placebo n=75; tirzepatide 10 mg n=73; 15 mg n=77), tirzepatide significantly increased high molecular weight adiponectin (mean change: 78.9% and 88.4% vs 0.9%) and reduced leptin (-57.3% and -63.1% vs -8.4%), high-sensitivity C-reactive protein (-55.1% and -65.3% vs -17.7%), and liver-related markers, including procollagen III (-21.3% and -24.8% vs -3.8%) and cytokeratin-18 (-59.8% and -62.0% vs -32.8%) (all P<.001). Glucose, insulin, and C-peptide AUC during a 75-g oral glucose tolerance test were also significantly reduced. At week 72, weight loss correlated linearly with reductions in adiposity. Weight loss was strongly correlated with VAT reduction (r=0.722-0.837 across groups), and VAT reductions strongly correlated with waist measures (r=0.837). Weight and VAT reductions showed moderate correlations with reductions in glucose, insulin, and C-peptide AUC (r=0.378-0.656).\nCONCLUSION: Tirzepatide-induced reductions in body weight and VAT were associated with improvements in metabolic markers and glucose metabolism. Strong associations between anthropometric measures and VAT support their use as surrogate markers of visceral adiposity in Japanese patients with obesity disease.",
+      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+      "authors": "Waki Hironori, Kaneyuki Eiji, Shingaki Tomotaka, Oura Tomonori, Nagakubo Takashi, Ishigaki Yasushi",
+      "pub_date": "2026-09-19",
+      "doi": "10.1016/j.eprac.2026.09.006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762980/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "12174e74f192ede5099ce3744be9c0fd070a8faeb80b010b0a1a3c88d7b04ad9",
+      "fetched_at_utc": "2026-09-20T23:12:36Z",
+      "updated_at_utc": "2026-09-20T23:12:36Z",
+      "summary_ja": "SURMOUNT-J試験において、糖尿病を伴わない日本成人肥満症患者225名を1:1:1でtirzepatide 10 mg、15 mg、プラセボ＋生活習慣指導にランダム化し、ベースラインから72週までの肥満関連パラメータおよび血糖パラメータの変化を評価した。事前指定解析とpost hoc解析により、体重減少、腹部脂肪量（VAT、SAT、HFF）、代謝マーカー間の関連を探索した。",
+      "key_takeaway_ja": "Tirzepatideによる体重減少と内臓脂肪（VAT）の減少は、代謝マーカー（アディポネクチン、レプチン、hs-CRP、肝関連マーカー）およびグルコース代謝の改善と関連しており、日本肥満症患者において人体計測指標（体重、腹囲）が内臓脂肪のサロゲートマーカーとして使用可能である。",
+      "why_matters_ja": "日本肥満症患者において、体重や腹囲などの簡便な人体計測指標が内臓脂肪のサロゲートマーカーとして使用可能であることが示されたことで、画像検査に依存しない臨床現場での内臓脂肪評価が期待される。",
+      "study_type_ja": "ランダム化比較試験（SURMOUNT-J）の事前指定解析およびpost hoc解析",
+      "endpoints_ja": "事前指定解析：ベースラインから72週までの肥満パラメータ（体重、人体計測指標）および血糖パラメータ（75 g OGTT中のグルコース、インスリン、C-ペプチドAUC）の変化。Post hoc解析：体重、人体計測指標、腹部脂肪量（VAT、SAT、HFF）、血糖アウトカム間の相関。代謝マーカー：高分子量アディポネクチン、レプチン、hs-CRP、プロコラゲンIII、サイトケラチン-18。",
+      "endpoint_results_ja": "高分子量アディポネクチン：平均変化 78.9%（10 mg）および88.4%（15 mg）vs 0.9%（プラセボ）。レプチン：-57.3%（10 mg）および-63.1%（15 mg）vs -8.4%（プラセボ）。hs-CRP：-55.1%（10 mg）および-65.3%（15 mg）vs -17.7%（プラセボ）。プロコラゲンIII：-21.3%（10 mg）および-24.8%（15 mg）vs -3.8%（プラセボ）。サイトケラチン-18：-59.8%（10 mg）および-62.0%（15 mg）vs -32.8%（プラセボ）。以上すべてP<.001。体重減少とVAT減少の相関：r=0.722-0.837（群間）。VAT減少と腹囲指標の相関：r=0.837。体重・VAT減少とグルコース、インスリン、C-ペプチドAUC減少の相関：r=0.378-0.656。",
+      "sample_size_ja": "225名（プラセボ n=75、tirzepatide 10 mg n=73、tirzepatide 15 mg n=77）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-20T23:13:54Z"
+    },
+    {
+      "pmid": "42762910",
+      "title": "Finerenone attenuates myocardial fibrosis in myocardial infarction complicated by chronic kidney disease: an integrated study combining network pharmacology, molecular simulations, and in vivo experiments.",
+      "abstract": "BACKGROUND: Myocardial infarction (MI) complicated by chronic kidney disease (CKD) is associated with adverse outcomes and exacerbated myocardial fibrotic remodeling. Finerenone is a non-steroidal mineralocorticoid receptor antagonist, but its effects and myocardial signaling changes in non-diabetic CKD-MI remain insufficiently characterized.\nMETHODS: Network pharmacology identified candidate genes associated with finerenone and CKD-MI, and protein-protein interaction network topology prioritized candidate hub nodes. Molecular docking predicted finerenone-protein binding poses, while 100-ns molecular dynamics simulations characterized the conformational behavior of the modeled complexes under the applied simulation conditions. In a murine non-diabetic CKD-MI model, we assessed survival, left ventricular function, myocardial fibrotic remodeling, and myocardial EGFR, PI3K p85, and Akt phosphorylation.\nRESULTS: Among 188 overlapping candidate genes, eight candidate hub nodes were prioritized. The PI3K-Akt pathway was significantly enriched, with EGFR, PIK3CA, and PIK3R1 among the prioritized nodes. Predicted docking scores ranged from -8.6 to -7.3 kcal/mol, and modeled complexes exhibited stable conformational behavior under the applied simulation conditions. In vivo, finerenone improved 28-day survival (88.9% vs. 60.0% in vehicle-treated CKD-MI mice), preserved left ventricular systolic function, reduced myocardial collagen deposition and fibrotic marker protein levels, and lowered the phosphorylation-to-total protein ratios of EGFR, PI3K p85, and Akt.\nCONCLUSION: Finerenone exhibited cardioprotective and antifibrotic effects in a murine non-diabetic CKD-MI model. Integrated in silico and in vivo data suggest that the EGFR-PI3K-Akt axis is a candidate signaling pathway associated with these protective effects, although its causal contribution remains to be established.",
+      "journal": "European journal of pharmacology",
+      "authors": "Xiang Yulong, Chen Jinming, Ruan Xianlin, Gao Xin, Jing Ling, Zhang Weipeng, Xu Junyan, Liu Yong",
+      "pub_date": "2026-09-19",
+      "doi": "10.1016/j.ejphar.2026.179350",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762910/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3921e71cabd2f2920739050dd2a13459bd7369b76a3f7fbb10f7813e1101cd51",
+      "fetched_at_utc": "2026-09-20T23:12:36Z",
+      "updated_at_utc": "2026-09-20T23:12:36Z",
+      "summary_ja": "非糖尿病性CKD合併心筋梗塞（CKD-MI）におけるフィネレノンの心筋線維化への影響を、ネットワーク薬理学、分子シミュレーション（ドッキングおよび100 ns分子動力学シミュレーション）、およびマウスin vivo実験を統合して検討した。ネットワーク薬理学により188個の重複候補遺伝子から8個のハブノードを特定し、PI3K-Akt経路が有意にエンリッチされた。ドッキングスコアは-8.6〜-7.3 kcal/molの範囲であった。in vivoでは、フィネレノンは28日生存率を改善し（88.9% vs. 60.0%）、左室収縮機能を保持し、心筋コラーゲン沈着および線維化マーカー蛋白レベルを減少させ、EGFR、PI3K p85、Aktのリン酸化/全蛋白比を低下させた。",
+      "key_takeaway_ja": "フィネレノンは非糖尿病性CKD-MIマウスモデルにおいて心保護・抗線維化効果を示し、EGFR-PI3K-Akt軸がこれらの保護効果に関連する候補シグナル経路として示唆されたが、因果的寄与は未確定である。",
+      "why_matters_ja": "CKD合併心筋梗塞は不良予後および増悪した心筋線維性リモデリングと関連するが、非糖尿病性CKD-MIにおけるフィネレノンの効果と心筋シグナル変化は十分に特徴づけられていなかった。本研究はフィネレノンの心保護作用の機序に関するin silicoおよびin vivoの統合的知見を提供する。",
+      "study_type_ja": "ネットワーク薬理学、分子シミュレーション（ドッキング・分子動力学）、およびin vivo動物実験（マウス非糖尿病性CKD-MIモデル）を統合した前臨床研究",
+      "endpoints_ja": "28日生存率、左室収縮機能、心筋コラーゲン沈着、線維化マーカー蛋白レベル、EGFR・PI3K p85・Aktのリン酸化/全蛋白比",
+      "endpoint_results_ja": "28日生存率：88.9%（フィネレノン群）vs. 60.0%（vehicle投与CKD-MI群）。ドッキングスコア：-8.6〜-7.3 kcal/mol。左室収縮機能、心筋コラーゲン沈着、線維化マーカー蛋白レベル、EGFR・PI3K p85・Aktのリン酸化/全蛋白比については定量的数値の記載なし（定性的に改善・減少と記載）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-20T23:14:37Z"
+    },
+    {
+      "pmid": "42762372",
+      "title": "Oral semaglutide vs DPP-4 inhibitors in reducing risk of cognitive impairment in elderly patients with HFpEF and obesity: comment.",
+      "abstract": "",
+      "journal": "Internal and emergency medicine",
+      "authors": "Odic Pierre, Nardi Olivier, Foucault-Fruchard Laura",
+      "pub_date": "2026-09-19",
+      "doi": "10.1007/s11739-026-04533-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762372/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "29569f817414f5822f72e780d0fe92e3dd02f7114049a4ad37bcdea3103e0121",
+      "fetched_at_utc": "2026-09-20T23:12:36Z",
+      "updated_at_utc": "2026-09-20T23:12:36Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-20T23:12:36Z"
     },
     {
       "pmid": "42760621",
@@ -1091,6 +1193,40 @@
       "summary_generated_at_utc": "2026-09-16T23:40:14Z"
     },
     {
+      "pmid": "42763732",
+      "title": "Efficacy and Safety of CagriSema for Metabolic Outcomes: Systematic Review and Pairwise Meta-Analysis of Randomized Controlled Trials.",
+      "abstract": "BACKGROUND: Overweight status, obesity, and diabetes represent significant socioeconomic burdens that require long-term management.\nMETHODS: To evaluate the efficacy and safety of dual-agonist CagriSema vs semaglutide monotherapy, cagrilintide monotherapy, and placebo in adults with overweight/obese status and type 2 diabetes, we searched Embase, MEDLINE, PubMed, and the Cochrane Library up to 14 June 2026 for randomized controlled trials (RCTs). Separate pairwise meta-analyses were conducted using random effects models.\nRESULTS: Eight RCTs comprising 6898 participants were included. CagriSema was associated with significantly greater percentage body weight reduction compared to semaglutide [MD -6.60%; 95%CI: -8.51 to -4.68; P<0.0001; I2 =82%], cagrilintide [MD -8.15%; 95%CI: -11.40 to -4.89; P<0.0001; I2 =95%], and placebo [MD -14.30%; 95%CI: -17.41 to -11.19; P<0.0001; I2 =99%]. A greater decrease in the percentage of glycated hemoglobin was also observed for CagriSema than for semaglutide [MD -0.09%; 95%CI: -0.14 to -0.04; P=0.0004; I2 =39%], cagrilintide [MD -0.87%; 95% CI -1.48 to -0.26; p = 0.005; I2 = 97%], and placebo [MD -1.55%; 95% CI -2.14 to -0.97; p < 0.0001; I2 = 99%]. Furthermore, CagriSema achieved significantly greater reductions in absolute body weight, waist circumference and body mass index across all comparators (all p < 0.0001). CagriSema demonstrated better blood pressure control compared with cagrilintide and placebo, with effects comparable to those of semaglutide. Moreover, CagriSema significantly decreased C-reactive protein and improved lipid profiles compared with cagrilintide and placebo. CagriSema increased any adverse events and gastrointestinal adverse events compared with all comparators. Substantial statistical heterogeneity was observed in several continuous outcomes, driven by diverse baseline clinical characteristics and background therapies.\nCONCLUSION: Compared with current standard monotherapies and placebos, CagriSema demonstrates superior weight loss, glucose, and lipid control. Key limitations include the relatively small number of eligible trials and the current lack of long-term cardiovascular endpoints.",
+      "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "authors": "Shao Chuhan, Lin Hanmo, Yu Jie, Chen Haiyan, Ren Yaolin, Ren Jing, Zeng Yuan, Wu Yifan",
+      "pub_date": "2026-09-15",
+      "doi": "10.2147/DMSO.S616418",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763732/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "10240a08a2e3a2672ffa92ad449619164bc5c96f069a85a7c1ffc957d4003a04",
+      "fetched_at_utc": "2026-09-20T23:12:36Z",
+      "updated_at_utc": "2026-09-20T23:12:36Z",
+      "summary_ja": "肥満/過体重を伴う2型糖尿病成人を対象に、デュアルアゴニストCagriSemaのセマグルチド単独療法、カグリリンチド単独療法、プラセボに対する有効性及び安全性を評価したランダム化比較試験（RCT）の系統的レビューおよびペアワイズメタ解析。Embase、MEDLINE、PubMed、Cochrane Libraryを2026年6月14日までに検索し、8件のRCT（6,898名）を含む。ランダム効果モデルを用いて個別のペアワイズメタ解析を実施した。",
+      "key_takeaway_ja": "CagriSemaは、既存の標準単独療法およびプラセボと比較して、体重減少、血糖コントロール、脂質コントロールにおいて優越性を示したが、有害事象（特に消化管有害事象）は増加した。",
+      "why_matters_ja": "過体重、肥満、糖尿病は長期的管理を要する重大な社会経済的負担であり、CagriSemaというデュアルアゴニストが既存の単独療法を上回る代謝アウトカムをもたらす可能性は、治療選択肢の拡大に寄与しうる。ただし、長期的心血管エンドポイントの欠如が限界として指摘されている。",
+      "study_type_ja": "系統的レビューおよびペアワイズメタ解析（ランダム化比較試験）",
+      "endpoints_ja": "体重減少率（percentage body weight reduction）、ヘモグロビンA1c（HbA1c）減少率、絶対体重、腹囲、BMI、血圧、C反応性蛋白（CRP）、脂質プロファイル、全有害事象、消化管有害事象",
+      "endpoint_results_ja": "体重減少率：CagriSema vs セマグルチド [MD -6.60%; 95%CI: -8.51 to -4.68; P<0.0001; I2=82%]、vs カグリリンチド [MD -8.15%; 95%CI: -11.40 to -4.89; P<0.0001; I2=95%]、vs プラセボ [MD -14.30%; 95%CI: -17.41 to -11.19; P<0.0001; I2=99%]。HbA1c減少率：CagriSema vs セマグルチド [MD -0.09%; 95%CI: -0.14 to -0.04; P=0.0004; I2=39%]、vs カグリリンチド [MD -0.87%; 95%CI: -1.48 to -0.26; P=0.005; I2=97%]、vs プラセボ [MD -1.55%; 95%CI: -2.14 to -0.97; P<0.0001; I2=99%]。絶対体重、腹囲、BMI：全比較対照群で有意な減少（all p<0.0001）。血圧：カグリリンチドおよびプラセボより優位に良好、セマグルチドと同等。CRP：カグリリンチドおよびプラセボより有意に減少。脂質プロファイル：カグリリンチドおよびプラセボより有意に改善。有害事象：全比較対照群と比較して全有害事象および消化管有害事象が増加。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-20T23:16:30Z"
+    },
+    {
       "pmid": "42759347",
       "title": "A longitudinal case report illustrating diagnostic complexity among overlapping sleep-wake phenotypes.",
       "abstract": "The coexistence of multiple primary sleep disorders in a single patient is uncommon and poses significant diagnostic and therapeutic challenges. We report a 45-year-old woman with severe mixed sleep apnea (OSA/CSA), NREM parasomnia (night terrors), sleep-related eating disorder (SRED), nightmare disorder (with RBD like behavior but no REM atonia on PSG), and central hypersomnolence phenotype minimally affected with PAP optimization and delayed sleep-wake phase disorder. Symptoms began more than two decades earlier and included violent dream-enactment behaviors, hypnopompic hallucinations, sleep inertia, and chronic excessive daytime sleepiness (EDS). Treatment required multi-modal therapy. Positive airway pressure therapy successfully treated sleep disordered breathing while pitolisant and solriamfetol produced the most durable improvement in daytime sleepiness. Together melatonin plus clonazepam reduced parasomnia frequency and severity. Several other agents (including prazosin, sodium oxybate, paroxetine, and modafinil) were tried and discontinued for limited benefit or adverse effects. Notably, GLP-1 receptor agonist (GLP-1 RA) therapy for obesity was followed by a substantial weight loss and coincided with resolution of SRED. Because this occurred alongside improved sleep stability, PAP adherence, behavioral adaptation, and medication changes, causality cannot be inferred. The observation may justify further study of metabolic and incretin-related pathways in sleep-related eating behaviors. Overall, this case highlights the complexity of overlapping sleep-wake disorders, the need for individualized pharmacologic sequencing, and a potential emerging role for GLP-1 agonists in SRED.",
@@ -1345,6 +1481,89 @@
       "summary_generated_at_utc": "2026-09-15T23:32:40Z"
     },
     {
+      "pmid": "42761673",
+      "title": "Longitudinal Changes in Corneal Epithelial and Central Corneal Thickness in Type 2 Diabetes Assessed by AS-OCT: A Real-World Study.",
+      "abstract": "PURPOSE: To evaluate longitudinal changes in central corneal epithelial thickness (CCET) and central corneal thickness (CCT) using anterior segment optical coherence tomography (AS-OCT) over 12 months in adults with type 2 diabetes receiving one of two routinely prescribed oral antidiabetic regimens, and to explore their association with glycemic changes.\nMETHODS: In this retrospective observational cohort study, 40 adults with type 2 diabetes receiving one of two routinely prescribed treatment regimens (vildagliptin-metformin, n=19; empagliflozin-metformin, n=21) underwent AS-OCT at baseline, 3 months, and 12 months. Glycated hemoglobin and fasting plasma glucose were assessed at each visit. Precision analysis indicated detectable between-group differences of 4.7 µm for CCT and 6.1 µm for CCET.\nRESULTS: Both groups showed significant within-group glycated hemoglobin improvement (mean reduction: -2.28% and -2.88% in the vildagliptin-metformin and empagliflozin-metformin groups, respectively; p<0.05) without between-group differences. CCT and CCET showed no statistically detectable longitudinal change over 12 months, with no significant differences in longitudinal change between groups. Glycated hemoglobin change showed a modest independent association with CCT change (β = 0.81 µm per 1% glycated hemoglobin; 95% CI 0.20-1.42; p=0.011; n=32).\nCONCLUSIONS: Corneal structural parameters showed no statistically detectable longitudinal change or between-group difference over 12 months. Given the modest sample size and observational design, these findings should be considered hypothesis-generating and require confirmation in larger prospective studies.",
+      "journal": "Clinical ophthalmology (Auckland, N.Z.)",
+      "authors": "Boyacı İhsan, Demirci Göktuğ",
+      "pub_date": "2026-09-14",
+      "doi": "10.2147/OPTH.S636441",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42761673/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "84af7e6d443a1fa300595e9ab1d34301513b12d12e057e5322cad91238dfed0b",
+      "fetched_at_utc": "2026-09-20T23:12:36Z",
+      "updated_at_utc": "2026-09-20T23:12:36Z",
+      "summary_ja": "2型糖尿病成人40名（ビルダグリプチン-メトホルミン群 n=19、エンパグリフロジン-メトホルミン群 n=21）を対象に、AS-OCTを用いてベースライン、3か月、12か月時の中央角膜上皮厚（CCET）と中央角膜厚（CCT）の縦断的変化を評価した後ろ向き観察コホート研究。血糖変化との関連も検討した。",
+      "key_takeaway_ja": "12か月間のCCETおよびCCTには統計的に検出可能な縦断的変化は認められず、群間差も有意ではなかった。HbA1c変化とCCT変化の間には modest な独立した関連が認められた（β = 0.81 µm per 1% HbA1c; 95% CI 0.20-1.42; p=0.011; n=32）。",
+      "why_matters_ja": "糖尿病における角膜構造パラメータの経時的変化をAS-OCTで評価する初期のエビデンスを提供するが、サンプルサイズが小さく観察研究デザインであるため、仮説生成段階の知見であり、より大規模な前向き研究での確認が必要である。",
+      "study_type_ja": "後ろ向き観察コホート研究",
+      "endpoints_ja": "中央角膜上皮厚（CCET）および中央角膜厚（CCT）の12か月間の縦断的変化、血糖変化（HbA1c、空腹時血糖）との関連",
+      "endpoint_results_ja": "HbA1c平均減少：ビルダグリプチン-メトホルミン群 -2.28%、エンパグリフロジン-メトホルミン群 -2.88%（p<0.05）、群間差なし。CCTおよびCCET：12か月間で統計的に検出可能な縦断的変化なし、群間の縦断的変化に有意差なし。HbA1c変化とCCT変化の関連：β = 0.81 µm per 1% HbA1c; 95% CI 0.20-1.42; p=0.011; n=32。精度解析：群間差の検出可能閾値はCCT 4.7 µm、CCET 6.1 µm。",
+      "sample_size_ja": "40名（ビルダグリプチン-メトホルミン群 n=19、エンパグリフロジン-メトホルミン群 n=21）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-20T23:17:01Z"
+    },
+    {
+      "pmid": "42736522",
+      "title": "Real-World Evidence for Existing Anti-Obesity Therapies-The Realities of Treatment Adherence, Tolerability, Access and Patient Satisfaction.",
+      "abstract": "BACKGROUND: Obesity is associated with substantial cardiometabolic and psychosocial morbidity. Although randomized controlled trials demonstrate the efficacy of anti-obesity therapies, outcomes in real-world practice may be attenuated due to limited access, tolerability, adherence and insufficient long-term support.\nPURPOSE: This narrative review aimed to synthesize real-world evidence on adherence, tolerability, access and patient satisfaction across lifestyle programmes, pharmacotherapy, metabolic bariatric surgery (MBS) and endoscopic procedures, with emphasis on incretin-based medications.\nMETHODS: PubMed/MEDLINE search was conducted through July 2026. Studies reporting real-world treatment effectiveness, adherence, persistence, discontinuation, tolerability, access or patient satisfaction in adults or adolescents with overweight or obesity were included. Randomized trials and reviews were used to contextualize real-world findings.\nFINDINGS: Intensive lifestyle interventions generally achieve approximately 5% weight loss, but attrition and weight regain after programme completion are common. Incretin-based therapies, including semaglutide and tirzepatide, produce substantial weight loss in trials but real-world effectiveness is relatively smaller because of non-initiation, incomplete dose escalation, gastrointestinal adverse effects, treatment interruptions, and financial or insurance barriers. Older medications demonstrate poor persistence, largely related to neurologic, psychiatric or gastrointestinal intolerance, despite lower costs for some agents. MBS provides the greatest and most durable weight loss but remains substantially underused, with racial, socioeconomic and insurance disparities. Endoscopic sleeve gastroplasty offers moderate, durable weight loss with low serious adverse event rates, whereas intragastric balloons are more limited by intolerance, reintervention and weight regain after removal.\nCONCLUSIONS: Real-world effectiveness is determined not only by biological efficacy but also by treatment tolerability, adherence, access and sustained support. Proactive adverse effect management, individualized behavioural support, streamlined referral pathways and policies that improve affordability and equitable access are essential to narrowing the trial-to-practice gap.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Kassem Sameer",
+      "pub_date": "2026-09-14",
+      "doi": "10.1111/dom.71293",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736522/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Anti-Obesity Agents",
+        "Patient Satisfaction",
+        "Obesity",
+        "Bariatric Surgery",
+        "Semaglutide",
+        "Weight Loss",
+        "Tirzepatide",
+        "Incretins",
+        "Health Services Accessibility",
+        "Treatment Adherence and Compliance"
+      ],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "0c4192f483ff6a0245beb40160e03a4d5b2a7201db2ef77cbfc1edf5b2c79261",
+      "fetched_at_utc": "2026-09-15T23:31:00Z",
+      "updated_at_utc": "2026-09-18T23:15:45Z",
+      "summary_ja": "肥満症に対する既存の抗肥満療法（生活習慣プログラム、薬物療法、代謝・肥満外科手術、内視鏡的手術）におけるアドヒアランス、忍容性、アクセス、患者満足度に関するリアルワールドエビデンスを統合したナラティブレビュー。インクレチン系薬剤に重点を置いている。",
+      "key_takeaway_ja": "リアルワールドにおける抗肥満療法の有効性は、生物学的有効性だけでなく、治療の忍容性、アドヒアランス、アクセス、持続的なサポートによって決定される。",
+      "why_matters_ja": "ランダム化比較試験で示された有効性とリアルワールドでの実効性との間にギャップが存在し、その原因としてアクセス制限、忍容性問題、アドヒアランス不良、長期サポートの不足が指摘されている。このギャップを縮小するための戦略（副作用の能動的な管理、個別化された行動支援、紹介経路の簡素化、費用対効果と公平なアクセスを改善する政策）が提言されている。",
+      "study_type_ja": "ナラティブレビュー",
+      "endpoints_ja": "体重減少、アドヒアランス、継続率（persistence）、中止率（discontinuation）、忍容性、アクセス、患者満足度",
+      "endpoint_results_ja": "集学的な生活習慣介入は概ね約5%の体重減少を達成するが、プログラム終了後の脱落と体重再増加が頻繁にみられる。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-20T23:17:32Z"
+    },
+    {
       "pmid": "42736042",
       "title": "GLP-1 Receptor Agonist-Based Prandial Insulin De-Intensification in Outpatients With Type 2 Diabetes Receiving Basal-Bolus Insulin Therapy or Multiple Daily Injections: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.",
       "abstract": "AIMS: This systematic review and meta-analysis aimed to compare GLP-1 receptor agonist (GLP-1RA)-based prandial insulin de-intensification with continued basal-bolus insulin therapy (BBI) or multiple daily injections (MDI) in adult outpatients with type 2 diabetes receiving established BBI/MDI at randomisation.\nMATERIALS AND METHODS: PubMed, Embase, the Cochrane Central Register of Controlled Trials (CENTRAL) and Web of Science were searched for randomised controlled trials enrolling adult outpatients with type 2 diabetes receiving established BBI/MDI at randomisation. Eligible trials compared a GLP-1RA-based strategy involving protocol-directed withdrawal, replacement or substantial reduction of scheduled prandial insulin while maintaining basal insulin versus continued BBI/MDI therapy. The primary outcome was change in HbA1c. Secondary outcomes included changes in body weight, total daily insulin dose (TDD), hypoglycaemia and de-intensification-related outcomes.\nRESULTS: Seven randomised controlled trials involving 1332 participants were included. Compared with continued BBI/MDI therapy, GLP-1RA-based prandial insulin de-intensification was not associated with a significant difference in HbA1c change (mean difference [MD] -0.08 percentage points, 95% confidence interval [CI] -0.28 to 0.12; p = 0.391). The de-intensification strategy was associated with reductions in body weight (MD -4.94 kg, 95% CI -7.37 to -2.51; p = 0.003) and total daily insulin dose (MD -33.32 U/day, 95% CI -52.23 to -14.41; p = 0.006). The risk of experiencing at least one hypoglycaemic event was lower with GLP-1RA-based de-intensification (risk ratio [RR] 0.76, 95% CI 0.66 to 0.87; p = 0.007).\nCONCLUSIONS: In adults with type 2 diabetes receiving established BBI/MDI therapy, GLP-1RA-based prandial insulin de-intensification was associated with maintenance of short-term glycaemic control while reducing body weight and total daily insulin requirements. A potential reduction in hypoglycaemia remains uncertain. This strategy may represent an option for treatment optimisation in appropriately selected patients receiving intensive insulin therapy; however, further studies are needed to determine its long-term sustainability and optimal implementation.",
@@ -1504,6 +1723,41 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-15T23:34:42Z"
+    },
+    {
+      "pmid": "42735804",
+      "title": "GLP-1 receptor agonists, epigenetic aging, and the prospect of pharmacological healthspan extension.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) reduce major adverse cardiovascular events, all-cause mortality, and systemic inflammation in randomized controlled trials, with effect sizes exceeding those predicted from glycemic and weight-related improvements alone. The convergence of these findings with a maturing body of evidence linking metabolic dysfunction to accelerated epigenetic aging has prompted renewed interest in GLP-1 RAs as candidate gerotherapeutic agents. The present review synthesizes contemporary preclinical, mechanistic, and clinical evidence relevant to this question. The SELECT trial demonstrated a 19% reduction in all-cause mortality (hazard ratio [HR] 0.81) in patients with obesity without diabetes, the FLOW trial demonstrated a 24% reduction in the primary kidney composite endpoint (HR 0.76), and the first randomized evidence of GLP-1 RA modulation of validated DNA methylation clocks was reported in 2025, with significant deceleration of DunedinPACE, PCGrimAge, and PhenoAge over 32 weeks of semaglutide therapy. Mechanistic studies have identified convergent pathways involving the hypothalamic GLP-1 receptor, AMPK/SIRT1 signaling, and microbiome-derived short-chain fatty acid production. The aggregate evidence supports the framing of GLP-1 RAs as a candidate class of geroprotective therapeutics, although definitive trials with prespecified epigenetic aging endpoints, durability follow-up, body-composition assessment, prespecified sex-stratified analyses, and adequate representation of diverse populations remain to be conducted; the pending EVOKE and EVOKE+ readouts in early Alzheimer's disease will be particularly consequential.",
+      "journal": "Experimental gerontology",
+      "authors": "Al-Ali Dana, El Hajj Nady",
+      "pub_date": "2026-09-14",
+      "doi": "10.1016/j.exger.2026.113325",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42735804/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9a4d833f02172afa2f094fd440ec8f9fc2dee6b03c144a4c678ca00238be6733",
+      "fetched_at_utc": "2026-09-15T23:31:00Z",
+      "updated_at_utc": "2026-09-15T23:31:00Z",
+      "summary_ja": "本レビューは、GLP-1受容体作動薬（GLP-1 RAs）が老化促進因子として機能する可能性に関する前臨床・機序・臨床のエビデンスを統合的に総説するものである。SELECT試験における全死因死亡率の19%減少（HR 0.81）、FLOW試験における主要腎複合エンドポイントの24%減少（HR 0.76）、および2025年に報告されたセマグルチド32週間投与によるDunedinPACE・PCGrimAge・PhenoAgeの有意な減速を示す最初のランダム化試験エビデンスを基に、GLP-1 RAsをゲロプロテクティブ治療薬候補として位置づけている。",
+      "key_takeaway_ja": "GLP-1 RAsは心血管イベント・全死因死亡率の減少に加え、2025年に初めてDNAメチル化時計の減速を示すランダム化試験エビデンスが得られ、ゲロプロテクティブ治療薬候補としての枠組みが支持されるが、エピジェネティック老化エンドポイントを事前指定した決定的試験・耐久性フォローアップ・体組成評価・性別層別解析・多様な集団の十分な代表性を含む試験が未実施である。",
+      "why_matters_ja": "代謝機能不全とエピジェネティック老化加速との関連が蓄積する中、既存の心血管・代謝薬が健康寿命延伸の薬理学的介入として機能し得る可能性を示唆し、老化研究と臨床薬学の交差点において重要な方向性を提示する。",
+      "study_type_ja": "Review",
+      "endpoints_ja": "全死因死亡率（SELECT試験）、主要腎複合エンドポイント（FLOW試験）、主要心血管有害事象、全身性炎症、DNAメチル化時計（DunedinPACE、PCGrimAge、PhenoAge）",
+      "endpoint_results_ja": "SELECT試験：全死因死亡率19%減少（HR 0.81）、糖尿病を伴わない肥満患者。FLOW試験：主要腎複合エンドポイント24%減少（HR 0.76）。2025年ランダム化試験：セマグルチド32週間投与でDunedinPACE・PCGrimAge・PhenoAgeの有意な減速（具体的な数値は抄録に記載なし）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-20T23:18:14Z"
     },
     {
       "pmid": "42735222",
@@ -1772,6 +2026,40 @@
       "sample_size_ja": "1,250,717名（60論文：46件のRCT、13件のRWE研究、1件の薬物警戒研究）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-13T23:08:25Z"
+    },
+    {
+      "pmid": "42743759",
+      "title": "Combination of genetic eNOS deficiency and high-fat diet induces reproducible cardiometabolic HFpEF.",
+      "abstract": "Heart failure with preserved ejection fraction (HFpEF) is a complex, multi-organ cardiometabolic syndrome lacking universally effective therapies. We developed and validated a robust murine model leveraging complete, constitutive genetic endothelial nitric oxide synthase deficiency (eNOS KO) coupled with metabolic stress via a high-fat diet (HFD) in both male and female cohorts. eNOS KO mice subjected to HFD (10 weeks for males; 15 weeks for females) developed a severe and highly reproducible cardiometabolic HFpEF phenotype. Despite preserved left ventricular ejection fraction, both sexes exhibited profound diastolic dysfunction, characterized by elevated E/e' ratios and left ventricular end-diastolic pressures (LVEDP), alongside severe exercise intolerance. Consistent with the systemic clinical syndrome, pathological remodeling extended to multi-organ damage, featuring prominent cardiac fibrosis, severe hepatic steatosis, and renal tubulointerstitial fibrosis. Finally, chronic administration of the dual GIP/GLP-1 receptor agonist tirzepatide largely reversed the hemodynamic, functional, and systemic fibrotic derangements. In conclusion, this novel eNOS KO mouse + HFD model provides a rapidly developing, highly penetrant, and chemically unconfounded platform that ensures robust HFpEF induction across both sexes. This model can be readily adopted for the investigation of mechanistic insights into HFpEF pathobiology and for the study of novel HFpEF therapeutics.",
+      "journal": "Redox biology",
+      "authors": "Elbatreek Mahmoud H, Khodade Vinayak, Amin Darshan, Huerta Miguel, Allerton Timothy D, Polhemus David J, Shah Sanjiv J, Vondriska Thomas M",
+      "pub_date": "2026-09-11",
+      "doi": "10.1016/j.redox.2026.104394",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42743759/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a5a170f0b2ed6915538bc21cf5c1489c93f33b567e9a9fbe6efa36b434d071fe",
+      "fetched_at_utc": "2026-09-16T23:37:55Z",
+      "updated_at_utc": "2026-09-16T23:37:55Z",
+      "summary_ja": "eNOSノックアウトマウスに高脂肪食（HFD）を投与することで、心拍出分数は保たれたまま重度の拡張機能不全（E/e'比上昇、左室終末拡張期圧上昇）、重度の運動不耐容、心筋線維化、重度の肝脂肪変性、腎尿細間質線維化を伴う再現性の高い心代謝性HFpEF表現型を誘導できるマウスモデルを開発・検証した。さらに、GIP/GLP-1受容体二重作動薬tirzepatideの慢性投与により、血流力学的・機能的・全身線維化の異常がほぼ完全に改善した。",
+      "key_takeaway_ja": "eNOS KOマウス＋HFDモデルは、両性で迅速に発症し、高浸透性かつ化学的に無混淆のHFpEF研究プラットフォームとして機能する。",
+      "why_matters_ja": "HFpEFは汎用的に有効な治療法が欠如している複雑な多臓器心代謝性症候群であり、本モデルはHFpEFの病態生理の解明や新規治療薬の検討に即座に採用可能なプラットフォームを提供する。",
+      "study_type_ja": "動物実験（マウスモデルの開発・検証）",
+      "endpoints_ja": "左室駆出率、拡張機能不全（E/e'比、左室終末拡張期圧）、運動不耐容、心筋線維化、肝脂肪変性、腎尿細間質線維化、tirzepatide投与による血流力学的・機能的・全身線維化パラメータの改善",
+      "endpoint_results_ja": "左室駆出率は保たれた。E/e'比と左室終末拡張期圧は上昇し、重度の運動不耐容を認めた。心筋線維化、重度の肝脂肪変性、腎尿細間質線維化を伴った。tirzepatideの慢性投与により血流力学的・機能的・全身線維化の異常がほぼ完全に改善した。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-20T23:18:33Z"
     },
     {
       "pmid": "42729904",
@@ -4932,277 +5220,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-14T23:55:41Z"
-    },
-    {
-      "pmid": "42673585",
-      "title": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review.",
-      "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for weight management.\nPURPOSE: To update our prior systematic review evaluating the efficacy and safety of GLP-1 RAs and co-agonists among adults with overweight or obesity without diabetes.\nDATA SOURCES: MEDLINE, Embase, and Cochrane Central Register of Controlled Trials from 5 October 2024 through 25 March 2026.\nSTUDY SELECTION: Randomized controlled trials ([RCTs] treatment duration ≥16 weeks).\nDATA EXTRACTION: Two reviewers independently extracted data.\nDATA SYNTHESIS: Thirty-eight RCTs (n = 25 816) were included, adding 14 new trials (n = 11 000) to the prior review. Among commercially available therapies, placebo-subtracted weight loss reached up to -5.8% (95% CI, -8.0% to -3.6%) for liraglutide, -14.8% (CI, -16.2% to -13.4%) for subcutaneous semaglutide, -14.3% (CI, -17.2% to -11.4%) for oral semaglutide, -12.4% (CI, -15.1% to -9.7%) for orforglipron, and -19.0% (CI, -21.6% to -16.4%) for tirzepatide. Numerically greater placebo-subtracted reductions were seen with emerging multiagonists, including -23.9% (CI, -29.3% to -18.5%) with amycretin and -22.1% (CI, -24.9% to -19.3%) with retatrutide. Gastrointestinal adverse events (AEs) remained common (GLP-1 RA vs. placebo: 76.0% vs. 40.1%). Discontinuation due to AEs was generally low (10.7% vs. 3.4%) but numerically higher with some oral agents. Serious AEs (6.5% vs. 5.2%) and deaths (0.1% vs. 0.0%) were rare, with no new safety signals identified. Head-to-head data showed greater weight loss with semaglutide and JNJ-64565111 than liraglutide and greater weight loss with tirzepatide and cagrilintide-semaglutide (CagriSema; Novo Nordisk) than semaglutide.\nLIMITATIONS: Heterogeneity precluded quantitative synthesis. Safety outcomes were inconsistently reported.\nCONCLUSION: Glucagon-like peptide-1 receptor agonists demonstrate substantial weight loss in adults without diabetes, with an expanding range of therapeutic options, including oral and multiagonist therapies.\nPRIMARY FUNDING SOURCE: None. (PROSPERO: CRD42024505558).",
-      "journal": "Annals of internal medicine",
-      "authors": "Moiz Areesha, Filion Kristian B, Samuels Aaron E, Tsoukas Michael A, Yu Oriana H Y, Peters Tricia M, Eisenberg Mark J",
-      "pub_date": "2026-09-01",
-      "doi": "10.7326/ANNALS-25-05519",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42673585/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "3b67750ddb22f4a17aeac103272d7892558a5f2c5434f2308cd165c3767beee5",
-      "fetched_at_utc": "2026-09-01T04:38:31Z",
-      "updated_at_utc": "2026-09-01T04:38:31Z",
-      "summary_ja": "糖尿病を有しない過体重または肥満の成人におけるGLP-1受容体作動薬（GLP-1 RA）および共作動薬の減量効果と安全性を評価した更新版システマティックレビュー。2024年10月5日から2026年3月25日までのMEDLINE、Embase、Cochrane Central Register of Controlled Trialsを検索し、治療期間16週間以上の無作為化比較試験（RCT）を対象とした。38件のRCT（n=25,816）が包含され、先行レビューに14件の新規試験（n=11,000）が追加された。",
-      "key_takeaway_ja": "市販薬の中でプラセボ減算体重減少はtirzepatideが最大（-19.0%、95% CI, -21.6%～-16.4%）であり、新興マルチアゴニストではamycretin（-23.9%、CI, -29.3%～-18.5%）とretatrutide（-22.1%、CI, -24.9%～-19.3%）が数値上さらに大きい減量を示した。消化管有害事象は依然として多く（GLP-1 RA vs. プラセボ：76.0% vs. 40.1%）、有害事象による中止は全体的に低かった（10.7% vs. 3.4%）。重大有害事象（6.5% vs. 5.2%）や死亡（0.1% vs. 0.0%）はまれで、新たな安全性シグナルは認められなかった。",
-      "why_matters_ja": "GLP-1 RAは減量管理にますます使用されており、経口製剤やマルチアゴニストを含む治療選択肢が拡大している。本更新版レビューは、糖尿病を有しない成人におけるこれらの薬剤の最新のエビデンスを体系的に整理し、臨床現場での薬剤選択に資する。",
-      "study_type_ja": "システマティックレビュー（更新版）",
-      "endpoints_ja": "プラセボ減算体重減少率、消化管有害事象、有害事象による中止率、重大有害事象、死亡",
-      "endpoint_results_ja": "プラセボ減算体重減少率：liraglutide -5.8%（95% CI, -8.0%～-3.6%）、皮下semaglutide -14.8%（CI, -16.2%～-13.4%）、経口semaglutide -14.3%（CI, -17.2%～-11.4%）、orforglipron -12.4%（CI, -15.1%～-9.7%）、tirzepatide -19.0%（CI, -21.6%～-16.4%）、amycretin -23.9%（CI, -29.3%～-18.5%）、retatrutide -22.1%（CI, -24.9%～-19.3%）。消化管有害事象：GLP-1 RA vs. プラセボ 76.0% vs. 40.1%。有害事象による中止：10.7% vs. 3.4%。重大有害事象：6.5% vs. 5.2%。死亡：0.1% vs. 0.0%。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-14T23:56:29Z"
-    },
-    {
-      "pmid": "42674357",
-      "title": "Comment on \"effect of semaglutide with metformin for weight loss and fertility in polycystic ovary syndrome (PCOS) patients with obesity: A pilot prospective study\".",
-      "abstract": "",
-      "journal": "Clinical nutrition ESPEN",
-      "authors": "Siddiraju Sridhar, Tumma Neelimarani, Singh Surendra",
-      "pub_date": "2026-08-31",
-      "doi": "10.1016/j.clnesp.2026.105077",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42674357/",
-      "publication_types": [
-        "Letter"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "14ae24327608742ad4cab76a09f4dbd81890a8874276570901274076bd61a19f",
-      "fetched_at_utc": "2026-09-01T04:38:31Z",
-      "updated_at_utc": "2026-09-11T23:13:10Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-11T23:13:10Z"
-    },
-    {
-      "pmid": "42674355",
-      "title": "Reply - Letter to the editor: Comment on \"effect of semaglutide with metformin for weight loss and fertility in polycystic ovary syndrome (PCOS) patients with obesity: A pilot prospective study.",
-      "abstract": "",
-      "journal": "Clinical nutrition ESPEN",
-      "authors": "Bolek Tomáš, Péč Martin Jozef, Ságová Ivana, Jurica Jakub, Samoš Matej, Turňová Petra",
-      "pub_date": "2026-08-31",
-      "doi": "10.1016/j.clnesp.2026.105080",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42674355/",
-      "publication_types": [
-        "Letter"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "093f01aac1189f8d258ea6c25d36150b310f78f1c388c70b8b5f74426c2c61ff",
-      "fetched_at_utc": "2026-09-01T04:38:31Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-03T23:14:59Z"
-    },
-    {
-      "pmid": "42671848",
-      "title": "Biliary Events and GLP-1 Receptor Agonist Therapy in Adolescents and Young Adults.",
-      "abstract": "",
-      "journal": "JAMA pediatrics",
-      "authors": "Rodrigues de Oliveira Filho Josélio, Papadakis Lena, Collins Reagan A, Shnawa Ghadeer N, Griggs Cornelia L",
-      "pub_date": "2026-08-31",
-      "doi": "10.1001/jamapediatrics.2026.3918",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671848/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "1df35c472c4ffe0078a417e7b7fe4c090e616cf9c6d875c1f4e1a048594713f0",
-      "fetched_at_utc": "2026-09-01T00:25:30Z",
-      "updated_at_utc": "2026-09-01T00:25:30Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-01T00:25:30Z"
-    },
-    {
-      "pmid": "42671478",
-      "title": "Trials and tribulations of spironolactone in heart failure with preserved ejection fraction: Insights from the SPIRIT-HF trial.",
-      "abstract": "Heart failure with preserved ejection fraction represents a clinical challenge, accounting for at least 50% of heart failure (HF) cases globally, with a historical lack of efficacious and disease-modifying therapies. Mineralocorticoid receptor antagonists, specifically the steroidal agent spironolactone, have a strong theoretical potential to mitigate systemic inflammation, microvascular endothelial dysfunction, and myocardial fibrosis, which commonly affect patients with HF. However, the clinical validation of spironolactone has been influenced by methodological inconsistencies and safety concerns. The pivotal TOPCAT trial yielded neutral primary outcome results globally, confounded by significant geographical disparities. To provide further evidence the SPIRIT-HF trial evaluated spironolactone in a population with HF and mildly reduced or preserved ejection fraction. This trial was affected by critical operational issues related to the COVID-19 pandemic, resulting in an underpowered study population with a very high study drug discontinuation rate. The trial ultimately failed to demonstrate a cardiovascular benefit on any of the evaluated outcomes. The ongoing SPIRRIT-HFpEF trial represents a pragmatic, registry-based study to overcome traditional enrollment barriers, while evidence from the FINEARTS-HF trial on finerenone, a novel non-steroidal antagonist, has finally highlighted a major role for mineralocorticoid receptor antagonism in patients with HF and mildly reduced or preserved ejection fraction. This meeting report examines the SPIRIT-HF trial and place its results within the broader evidence on steroidal and nonsteroidal MRA in patients with HFpEF.",
-      "journal": "Heart failure reviews",
-      "authors": "Basile Christian, Monzo Luca, Farmakis Dimitrios, Keramida Kalliopi, Liori Sotiria, Kapelios Chris J, Sverdlov Aaron L, Grupper Avishay",
-      "pub_date": "2026-08-31",
-      "doi": "10.1007/s10741-026-10675-7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671478/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Heart Failure",
-        "Spironolactone",
-        "Stroke Volume",
-        "Mineralocorticoid Receptor Antagonists",
-        "Randomized Controlled Trials as Topic"
-      ],
-      "matched_assets": [
-        "finerenone"
-      ],
-      "matched_companies": [
-        "Bayer"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "825ada1ed0cdae77029bebef7f4eda18a7747b4703c4cd069f9a196487f958ae",
-      "fetched_at_utc": "2026-09-01T00:25:30Z",
-      "updated_at_utc": "2026-09-01T00:25:30Z",
-      "summary_ja": "本稿はSPIRIT-HF試験の会議報告であり、HFpEFにおけるスピロノラクトンの臨床検証の経緯を概観する。TOPCAT試験は地理的偏りにより主要アウトカムが中立であった。SPIRIT-HF試験はCOVID-19パンデミックによる運営上の問題により、被験者数が不足し、試験薬の中止率が非常に高かった。最終的に心血管上の利益はどの評価アウトカムでも示されなかった。一方、非ステロイド性MRAであるフィネロノンを対象としたFINEARTS-HF試験は、HFpEFにおけるMRA阻害の重要な役割を初めて示した。本報告はSPIRIT-HFの結果をステロイド性及び非ステロイド性MRAのより広いエビデンスの文脈に位置づけている。",
-      "key_takeaway_ja": "SPIRIT-HF試験は被験者数不足と高い中止率により、スピロノラクトンの心血管上の利益をどのアウトカムでも示せなかった。一方、非ステロイド性MRAであるフィネロノンを対象としたFINEARTS-HF試験は、HFpEFにおけるMRA阻害の重要な役割を初めて示した。",
-      "why_matters_ja": "HFpEFは世界的にHF症例の少なくとも50%を占め、歴史的に有効な疾患修飾療法が欠如していた。ステロイド性MRAであるスピロノラクトンが失敗した理由と、非ステロイド性MRAであるフィネロノンが成功した理由の理解は、HFpEF治療戦略の方向性を示す上で重要である。",
-      "study_type_ja": "Review（会議報告）",
-      "endpoints_ja": "心血管上の利益（具体的なアウトカム名は抄録に明記されていない）",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-01T00:26:20Z"
-    },
-    {
-      "pmid": "42671364",
-      "title": "Dapagliflozin in pulmonary arterial hypertension and chronic thromboembolic pulmonary hypertension: The DAPAH randomized controlled trial.",
-      "abstract": "BACKGROUND: SGLT2 inhibitors (SGLT2i) reduce mortality in left heart failure. In pulmonary arterial hypertension (PAH), preclinical data suggest SGLT2i improve right ventricular function through metabolic modulation and inhibition of vascular remodeling via smooth muscle cell pathways. The DAPAH trial evaluated whether the potential benefits of SGLT2 inhibition translate into clinical efficacy for symptomatic patients on background vasodilator therapy with either PAH or chronic thromboembolic pulmonary hypertension.\nMETHODS: In this single-center, double-blind trial, 52 patients were randomized (1:1) to dapagliflozin 10 mg daily or placebo for 12 weeks. The primary endpoint was change in Peak VO2. Secondary endpoints included invasive hemodynamics, NT-proBNP, 6-minute walk distance (6MWD) and REVEAL Lite 2 scores.\nRESULTS: Baseline characteristics were balanced (n=52; mean age 66.5 years; 63% female; n=40 PAH, n=12 CTEPH). Fifty-one patients had complete data on Peak VO2. At 12 weeks, there was no significant difference in Peak VO2 (Adjusted Mean Difference: -0.67 mL/kg/min; 95% CI [-1.67, 0.33]; p=0.187). No significant treatment effects were observed for pulmonary vascular resistance (p=0.255), 6MWD (p=0.22), or NT-proBNP trajectory (interaction p=0.681). REVEAL Lite 2 scores showed a small reduction with dapagliflozin (-0.66; 95% CI [-1.25, -0.06]; p=0.031). Metabolic target engagement was evident from a significant reduction in serum urate (P-interaction < 0.001). Dapagliflozin was safe and well-tolerated.\nCONCLUSION: This randomized study of SGLT2i in pre-capillary PH showed that 12 weeks of dapagliflozin did not significantly improve exercise capacity, hemodynamics, or functional status compared to placebo.\nCLINICALTRIALS: gov (NCT05179356).",
-      "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
-      "authors": "Ersbøll Mads Kristian, Kjærgaard Jesper, Waidtløw Karin, Køber Lars, Gustafsson Finn, Kiely David G, Montani David, Carlsen Jørn",
-      "pub_date": "2026-08-31",
-      "doi": "10.1016/j.healun.2026.07.008",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671364/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "dapagliflozin"
-      ],
-      "matched_companies": [
-        "AstraZeneca"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "59b78f663d0e771182f4476de26da385d666efba82c68944012108b9027f1827",
-      "fetched_at_utc": "2026-09-01T00:25:30Z",
-      "updated_at_utc": "2026-09-01T00:25:30Z",
-      "summary_ja": "DAPAH試験は、背景の血管拡張薬治療中の症状性PAHまたはCTEPH患者において、ダパグリフロジン10 mg/日12週間の投与が運動耐容能を改善するかを評価した単一施設・二重盲検・無作為化対照試験である。52例が1:1でダパグリフロジン群またはプラセボ群に無作為化された。主要エンドポイントであるPeak VO2の変化には有意差を認めなかった。二次エンドポイント（肺血管抵抗、6MWD、NT-proBNP）にも有意な治療効果は認められなかった。REVEAL Lite 2スコアにはダパグリフロジン群で軽度の有意な低下が認められた。ダパグリフロジンは安全で忍容性も良好であった。",
-      "key_takeaway_ja": "前毛細血管性肺高血圧症患者において、12週間のダパグリフロジン投与はプラセボと比較して運動耐容能、血流力学、機能状態を有意に改善しなかった。",
-      "why_matters_ja": "SGLT2阻害薬は左心不全で死亡率を低下させることが示されており、前臨床データでは代謝調節および血管リモデリング抑制を介して右心機能の改善が示唆されていた。本試験は、これらの潜在的な利点が症状性PAH/CTEPH患者において臨床的有効性として転換されるかを検証したものであり、SGLT2阻害薬の右心不全・肺高血圧領域での役割を明確にする上で重要である。",
-      "study_type_ja": "単一施設・二重盲検・無作為化対照試験（RCT）、12週間",
-      "endpoints_ja": "主要エンドポイント：Peak VO2の変化。二次エンドポイント：侵襲的血流力学、NT-proBNP、6分間歩行距離（6MWD）、REVEAL Lite 2スコア。",
-      "endpoint_results_ja": "Peak VO2：調整平均差 -0.67 mL/kg/min、95% CI [-1.67, 0.33]、p=0.187。肺血管抵抗：p=0.255。6MWD：p=0.22。NT-proBNP推移：交互作用 p=0.681。REVEAL Lite 2スコア：-0.66、95% CI [-1.25, -0.06]、p=0.031。血清尿酸：P-interaction < 0.001。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-01T00:27:00Z"
-    },
-    {
-      "pmid": "42671242",
-      "title": "Sex in CKD trials: representation and treatment effects of cardiorenoprotective therapies.",
-      "abstract": "BACKGROUND: Women comprise a substantial proportion of the chronic kidney disease (CKD) population and differ from men in disease phenotype, progression, and treatment exposure. Underrepresentation of women and limited sex-specific reporting may therefore reduce the generalizability of evidence from contemporary CKD trials.\nMETHODS: We conducted a meta-epidemiological study of randomized trials evaluating sodium-glucose cotransporter-2 inhibitors, glucagon-like peptide-1 receptor agonists, and non-steroidal mineralocorticoid receptor antagonists in adults with CKD. Female representation was quantified using the enrollment disparity difference (EDD), defined as the observed proportion of female trial participants minus the expected proportion derived from sex-specific Global Burden of Disease CKD prevalence estimates matched to trial population characteristics. Trial-level EDDs were pooled using random-effects meta-analysis. Meta-regression was used to examine trial-level correlates of EDD. Historical analyses extended the cohort to earlier cardiorenal pharmacotherapies to evaluate temporal trends, with pivotal CKD trials examined descriptively. Reporting of sex-specific cardiovascular and kidney outcomes was also assessed.\nRESULTS: Fifty-five randomized trials were included. Median female enrollment was 33.1%, and 52 trials (94.5%) enrolled fewer women than expected. The pooled EDD was -0.17 (95% CI, -0.20; -0.14), with negative estimates across all intervention classes. In meta-regression, phase II design and albuminuria requirement were associated with greater female underrepresentation, whereas diabetes requirement and female first authorship were associated with smaller enrollment disparity, including after adjustment for other key trial characteristics. Sex-specific outcomes were reported in 13 trials (23.6%). Extension to 117 trials provided no statistically supported evidence of improvement in female representation over time, including after adjustment for intervention class; all 38 pivotal CKD trials enrolled fewer women than expected.\nCONCLUSIONS: Women remain underrepresented in cardiorenoprotective therapy trials, with limited sex-specific outcome reporting. Historical benchmarking indicates that successive advances in CKD pharmacotherapy have not been accompanied by demonstrable improvement in the sex representativeness of the evidence base.",
-      "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
-      "authors": "Bellos Ioannis, Athanasiou Maria, Nikita Konstantina S, Benetou Vassiliki",
-      "pub_date": "2026-08-31",
-      "doi": "10.1093/ndt/gfag199",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671242/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "225a64507ea23aba3fc9813eb305765ea0325b34adea3f4d326d4778f01c73a7",
-      "fetched_at_utc": "2026-09-01T00:25:30Z",
-      "updated_at_utc": "2026-09-01T00:25:30Z",
-      "summary_ja": "CKD成人を対象にSGLT2阻害薬、GLP-1受容体作動薬、非ステロイド性ミネラルコルチコイド受容体拮抗薬を評価した無作為化試験55試験を対象としたメタ疫学研究。女性参加者の割合をGlobal Burden of DiseaseのCKD有病率推定値に基づき算出された期待割合と比較し、Enrollment Disparity Difference（EDD）として定量化した。中央値の女性参加割合は33.1%であり、52試験（94.5%）で期待値より女性の参加が少なかった。プールされたEDDは-0.17（95%CI, -0.20; -0.14）であり、全介入クラスで負の推定値であった。メタ回帰では、Phase IIデザインとアルブミン尿要件が女性の過小代表と関連し、糖尿病要件と女性第一著者が過小代表の縮小と関連した。性別別アウトカムの報告は13試験（23.6%）のみであった。117試験への拡張分析では、時間的な改善の統計的証拠は得られず、38の主要CKD試験すべてで期待値より女性の参加が少なかった。",
-      "key_takeaway_ja": "心腎保護療法試験において女性は依然として過小代表であり、性別別アウトカムの報告も限定的である。CKD薬物療法の逐次的な進歩は、エビデンスベースの性別代表性の改善を伴っていない。",
-      "why_matters_ja": "女性はCKD患者の相当な割合を占め、男性と疾病表現型・進行・治療曝露において異なる。女性の過小代表と性別別報告の不足は、現代のCKD試験からのエビデンスの一般化可能性を低下させる可能性がある。",
-      "study_type_ja": "メタ疫学研究（無作為化試験の系統的レビュー）",
-      "endpoints_ja": "女性参加者の割合（Enrollment Disparity Difference: EDD）、性別別心血管・腎アウトカムの報告率、時間的なトレンド",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-01T00:27:28Z"
-    },
-    {
-      "pmid": "42670683",
-      "title": "Efficacy and safety of henagliflozin in IgA nephropathy: A real-world observational study from China.",
-      "abstract": "BACKGROUND: Sodium-glucose cotransporter 2 (SGLT2) inhibitors are now recommended as first-line therapies for chronic kidney disease. However, real-world evidence on henagliflozin, China's first-developed SGLT2 inhibitor, for treating IgA nephropathy (IgAN) is lacking. This study explored the real-world efficacy and safety of henagliflozin in Chinese IgAN patients.\nMATERIALS AND METHODS: This study retrospectively reviewed 48 IgAN patients on henagliflozin for 12 weeks. The primary outcome was the urinary albumin-to-creatinine ratio (UACR). Secondary outcomes included estimated glomerular filtration rate (eGFR), serum creatinine (Scr), uric acid (UA), and albumin (Alb). Adverse events (AEs) were also recorded.\nRESULTS: Henagliflozin induced a significant reduction in UACR between baseline and week 12 (227.26; IQR, 90.13 - 677.85 vs. 153.06; IQR, 24.68 - 401.76 mg/g; p < 0.001), with a median decrease of 47.9%. Clinical response, defined as a ≥ 30% decrease in UACR, was achieved in 64.6% of patients by week 12. The UA levels also decreased markedly (p < 0.001). The eGFR declined until week 8 (p ≤ 0.015) but returned to near-baseline level by week 12 (p = 0.055). Scr increased over time (p = 0.005), and Alb improved until week 8 (p ≤ 0.007) and then plateaued at week 12 (p = 0.45). AEs included urinary tract infections in 5 patients, Scr increase of ≥ 50% in 1, and hyperkalemia in 1.\nCONCLUSION: Henagliflozin demonstrated significant albuminuria- and UA-lowering effects over 12 weeks in Chinese IgAN patients. With renal-metabolic benefits and favorable safety, henagliflozin is emerging as an encouraging therapeutic option for IgAN.",
-      "journal": "Clinical nephrology",
-      "authors": "Zhang Yi Qian, Wu Jun Xia, Tu Hai Yan, Ren Zhao Ting, Chen Pei Pei, Zhang Jia Xiu, Ma Kun Ling",
-      "pub_date": "2026-08-31",
-      "doi": "10.5414/CN111956",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42670683/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "fd30937643d1ba4bd5e0e45fb17c4c723b903219ec2bfa8f92d32f3d3949b743",
-      "fetched_at_utc": "2026-09-01T00:25:30Z",
-      "updated_at_utc": "2026-09-01T00:25:30Z",
-      "summary_ja": "中国のIgA腎症（IgAN）患者48例を対象に、ヘナグリフロジンを12週間投与した後ろ向き観察研究。主要評価項目は尿アルブミン/クレアチニン比（UACR）であり、二次評価項目としてeGFR、血清クレアチニン（Scr）、尿酸（UA）、アルブミン（Alb）を評価した。UACRはベースラインから12週目で有意に低下し（中央値47.9%減少、p<0.001）、UACR 30%以上の減少を達成した患者は64.6%であった。尿酸も有意に低下した（p<0.001）。eGFRは8週目まで低下したが12週目にはベースライン近傍に回復した（p=0.055）。Scrは時間とともに増加した（p=0.005）。Albは8週目まで改善し12週目でプラトーに達した（p=0.45）。有害事象として尿路感染症5例、Scr 50%以上の増加1例、高カリウム血症1例が報告された。",
-      "key_takeaway_ja": "ヘナグリフロジンは中国のIgAN患者において12週間でUACRおよび尿酸を有意に低下させ、腎代謝上の利益と良好な安全性を示した。",
-      "why_matters_ja": "SGLT2阻害薬は慢性腎臓病の第一選択療法として推奨されているが、中国で最初に開発されたSGLT2阻害薬であるヘナグリフロジンのIgANにおける実世界のエビデンスは不足していた。本研究は、ヘナグリフロジンがIgANの治療選択肢として有望であることを示す実世界データを提供する。",
-      "study_type_ja": "後ろ向き観察研究（実世界研究）",
-      "endpoints_ja": "主要評価項目：尿アルブミン/クレアチニン比（UACR）。二次評価項目：推定糸球体濾過量（eGFR）、血清クレアチニン（Scr）、尿酸（UA）、アルブミン（Alb）、有害事象（AEs）。",
-      "endpoint_results_ja": "UACR：ベースライン 227.26（IQR 90.13–677.85）vs 12週目 153.06（IQR 24.68–401.76）mg/g、p<0.001、中央値減少率47.9%。臨床反応（UACR 30%以上の減少）：64.6%。UA：有意に低下（p<0.001）、具体的な数値は記載なし。eGFR：8週目まで低下（p≤0.015）、12週目でベースライン近傍に回復（p=0.055）。Scr：時間とともに増加（p=0.005）。Alb：8週目まで改善（p≤0.007）、12週目でプラトー（p=0.45）。有害事象：尿路感染症5例、Scr 50%以上の増加1例、高カリウム血症1例。",
-      "sample_size_ja": "48例",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-01T00:28:16Z"
     }
   ]
 }
