@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-22T00:03:03Z",
+  "generated_at_utc": "2026-09-22T23:35:14Z",
   "documents": [
     {
       "pmid": "42666995",
@@ -35,6 +35,241 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42770322",
+      "title": "Early versus delayed or no empagliflozin initiation after hospitalisation for heart failure in the United States: A target trial emulation.",
+      "abstract": "BACKGROUND: Sodium-glucose cotransporter-2 inhibitors (SGLT2is) are a foundational therapy for heart failure (HF), yet initiation is frequently delayed in clinical practice. Evidence comparing outcomes associated with early versus delayed or no initiation following hospitalisation for heart failure (HHF) remains limited.\nMETHODS: This retrospective cohort study used the Optum de-identified Clinformatics Data Mart and included adults hospitalised for HF between September 2021 and December 2023. A target trial emulation using the clone-censor-weight approach compared patients according to the timing of empagliflozin initiation: during HHF or within 0-7 days post-discharge (early), 8-91 days post-discharge (intermediate), and 92-365 days post-discharge or no initiation within 1 year of discharge (delayed or no initiation). Outcomes assessed during the first year after discharge included all-cause mortality, worsening HF events, and all-cause hospitalisations. Health care resource utilisation (HCRU) was assessed using landmark analyses at Days 7 and 91 post-discharge.\nRESULTS: Among 99,738 eligible patients (mean age [standard deviation] 78.0 [9.2] years; 54.2% female), early and intermediate empagliflozin initiation were associated with lower 1-year post-discharge all-cause mortality than delayed or no initiation (risk ratio [RR] 0.73, 95% confidence interval [CI]: 0.69-0.78; and RR 0.93, 95% CI: 0.89-0.97, respectively). Further, 1-year absolute mortality risk was 24.7% with early, 31.1% with intermediate, and 33.6% with delayed or no initiation. Early initiation was also associated with lower risks of worsening HF events (RR 0.89, 95% CI: 0.84-0.94), HF rehospitalisations (RR 0.86, 95% CI: 0.81-0.92), emergency department (ED) visits (RR 0.87, 95% CI: 0.82-0.93), and all-cause hospitalisations (RR 0.91, 95% CI: 0.88-0.94). Associations for intermediate initiation were in the same direction but smaller in magnitude. In landmark analyses, early initiation was associated with lower acute care utilisation rates, including all-cause and HF-related hospitalisations (for 7 days analysis: incidence rate ratio [IRR] 0.80, 95% CI: 0.77-0.84; IRR 0.76, 95% CI: 0.70-0.83, respectively), and all-cause and HF-related ED visits (IRR 0.87, 95% CI 0.83-0.91; IRR 0.78, 95% CI 0.72-0.86, respectively), compared with no initiation.\nCONCLUSIONS: Early empagliflozin initiation was associated with lower risks of 1-year post-discharge all-cause mortality, worsening HF events, and all-cause hospitalisations compared with delayed or no initiation, and with lower acute care utilisation rates compared with no initiation.",
+      "journal": "ESC heart failure",
+      "authors": "Greene Stephen J, Tskhvarashvili Giorgi, Tran Phuong, Hermans Ruben, Enshaeifar Shirin, Adam Atif, Martinez Traba Monica, Schmedt Niklas",
+      "pub_date": "2026-09-22",
+      "doi": "10.1093/eschf/xvag242",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42770322/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "f8cd14756bea069889c823399626f0ca9e526a770b754f4a37a87ae5bcfaf729",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
+      "pmid": "42770197",
+      "title": "Beyond efficacy: health inequities limiting access to semaglutide for obesity management.",
+      "abstract": "",
+      "journal": "Postgraduate medical journal",
+      "authors": "Islam Kanwal, Hassan Mahmood",
+      "pub_date": "2026-09-22",
+      "doi": "10.1093/postmj/qgag129",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42770197/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "306aefd2f82aba5b079cc44248f0851dfc92689b846ba259b494aa1de54b87de",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
+      "pmid": "42768905",
+      "title": "Trends in GLP-1 Receptor Agonist Prescribing Without an Apparent FDA-Approved Indication.",
+      "abstract": "OBJECTIVE: This study evaluated temporal trends and patient characteristics associated with glucagon-like peptide-1 (GLP-1) receptor agonist prescribing among US adults without an apparent FDA-approved indication.\nMETHODS: This retrospective cohort study used Cosmos electronic health records (01/2021-12/2025). Adults prescribed liraglutide, semaglutide, or tirzepatide without a documented indication (type 2 diabetes or obesity with qualifying comorbidities) were included. Patients without a recorded weight ≥ 6 months prior to first prescription were excluded. Demographic and clinical characteristics were compared using t-tests and χ2 tests.\nRESULTS: Among 92,415,648 adults without an apparent FDA-approved indication, 1,133,953 (1.2%) were prescribed GLP-1 receptor agonists. Prescribing increased from 0.1% in 2021 to 1.5% in 2025 (15-fold). Recipients had higher median BMI (25.9 vs. 24.5 kg/m2) and were more often female (85.5%) and White (60.0%). Hypertension and dyslipidemia were more common, while coronary artery disease and heart failure were less prevalent. Notably, 35.1% had normal BMI; eating disorders were more frequent (1.8% vs. 0.3%). GLP-1 receptor agonist use was associated with lower social vulnerability and private insurance.\nCONCLUSIONS: GLP-1 receptor agonist prescribing without an apparent FDA-approved indication has increased rapidly and disproportionately involves socioeconomically advantaged populations, including individuals without obesity. The risk-benefit profile in these populations remains uncertain.",
+      "journal": "Obesity (Silver Spring, Md.)",
+      "authors": "Orandi Babak J, Yan Leila, Levan Macey L, Lofton Holly F, Chhabra Karan R, Ren-Fielding Christine J, Husain S Ali, McAdams-DeMarco Mara A",
+      "pub_date": "2026-09-22",
+      "doi": "10.1002/oby.70301",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768905/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a59a9aff02fd50b9d95319c00f1aed88de8c415b86a76e3f61ea0fd8dacdda61",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
+      "pmid": "42768195",
+      "title": "Future GLP-1 receptor co-agonists and their cardiac effects.",
+      "abstract": "Agonists at glucagon-like-peptide-1 receptors (GLP-1R) are becoming approved drugs to treat not only type 2 diabetes and obesity but also cardiac diseases such as coronary heart disease, myocardial infarction and heart failure. Agonism at the GLP-1R can be combined with agonism at additional receptors (co-agonists) to obtain drugs which are more potent to induce weight loss. Therefore, new co-agonists were developed that not solely stimulate GLP-1R. We discuss here the known (for tirzepatide and retatrutide) or predicted contractile effects of such co-agonists on isolated cardiac preparations of experimental animals, mainly in mice and compare these results with data in isolated human cardiac preparations. We point out where preclinical studies in mice may be misleading in order to study cardiac effects of the drugs of interest in the human heart and as potential drugs for heart diseases. We address in some detail which additional receptors are or might be involved, the receptor expression of such additional receptors in the heart of various experimental animals. We will discuss not only receptor agonists but also a receptor antagonist (AMG133). We identify research needs and controversies in the literature. We make suggestions for further preclinical research and what improvements in drug design for treatment may lie ahead.",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "authors": "Neumann Joachim, Kirchefer Uwe, Hofmann Britt, Gergs Ulrich",
+      "pub_date": "2026-09-22",
+      "doi": "10.1007/s00210-026-05908-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768195/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "77f7d5ce194be48c4f1ab878c4673b33b65f127222fc6c6b3520d2fd48dce8fa",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
+      "pmid": "42768849",
+      "title": "Comparative Risk of Nonarteritic Anterior Ischemic Optic Neuropathy Among Glucagon-Like Peptide-1 Receptor Agonists: An Integrated Safety and Mechanistic Analysis.",
+      "abstract": "AIMS: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are widely used for Type 2 diabetes (T2DM) and obesity, but emerging evidence links them to nonarteritic anterior ischemic optic neuropathy (NAION). Whether this risk differs across agents and the underlying mechanisms remains unclear. We aimed to compare the risks of NAION associated with different GLP-1RAs and to explore the potential molecular mechanisms underlying this adverse reaction.\nMATERIALS AND METHODS: A network meta-analysis was performed to quantitatively compare the differences in NAION risk. Real-world pharmacovigilance data from the FDA Adverse Event Reporting System (FAERS) were used for validation. Network toxicology was further applied to identify central hub targets and signalling pathways. Molecular docking was conducted to evaluate the binding capacity of GLP-1RAs to central hub targets.\nRESULTS: The network meta-analysis revealed significant differences in NAION risk across GLP-1RAs. Compared with non-GLP-1RA treatments, semaglutide showed the highest risk (HR = 1.538, 95% CI: 1.305-1.816), followed by liraglutide (HR = 1.251, 95% CI: 1.080-1.450). FAERS pharmacovigilance analysis suggested a strong disproportionate signal for semaglutide (ROR = 94.534, 95% CI: 83.093-107.552) and a statistically significant but weaker signal for liraglutide (ROR = 4.519, 95% CI: 2.617-7.802). Network toxicology identified CASP3 as the central hub target, and pathway enrichment analysis revealed that the underlying mechanisms were primarily related to Alzheimer's disease, neurodegeneration pathways, and lipid and atherosclerosis pathways. Molecular docking suggested that semaglutide and liraglutide had high binding affinity to CASP3.\nCONCLUSIONS: The combined strategy of network meta-analysis, pharmacovigilance, network toxicology and molecular docking provides insights into possible risk differences and potential mechanisms, and may guide future research on the safety profile of GLP-1RAs.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Sun Hong, Xin Xiu, Yan Jingchao, Huang Taomin",
+      "pub_date": "2026-09-21",
+      "doi": "10.1111/dom.71358",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768849/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "e50ac210c40a42bc4a346495a1f0e1aa3fdc4bc41b3ca6c7b9abb965e565ae51",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
+      "pmid": "42768825",
+      "title": "Oral Semaglutide in Routine Clinical Practice: 24-Month Real-World Effectiveness, Persistence and Safety in Adults With Type 2 Diabetes.",
+      "abstract": "AIMS: Real-world long-term data on oral semaglutide are limited. We evaluated its 24-month effectiveness, persistence, and safety in adults with type 2 diabetes (T2D).\nMATERIALS AND METHODS: This retrospective real-world study included 232 adults with T2D initiating oral semaglutide at an Italian diabetes clinic. Changes in HbA1c, body weight, eGFR, urinary albumin-to-creatinine ratio (UACR) and lipid profile were assessed using linear mixed models. The composite endpoint of HbA1c ≤ 7% and ≥ 5% weight loss was assessed over follow-up. Treatment persistence was evaluated by Kaplan-Meier analysis, and predictors of discontinuation by multivariable Cox regression with time-dependent covariates. HbA1c and body weight before and after switching to another GLP1 receptor agonist were also evaluated.\nRESULTS: Over 24 months, oral semaglutide significantly reduced HbA1c (-0.8%; p < 0.0001) and body weight (-5.7 kg; p < 0.0001). The composite endpoint was progressively achieved by 44.0% of individuals at 24 months. Non-breakfast administration was independently associated with lower HbA1c after adjustment for BMI, age and sex (β = -0.32; p = 0.041). eGFR and UACR remained stable while total and LDL cholesterol decreased significantly (both p < 0.0001). Treatment persistence at 24 months was 68.5% (mean 19.4 months). Among discontinuers, switching to another GLP1 receptor agonist was the most common strategy (36.2%) and resulted in a further HbA1c reduction (Δ = -0.98%; p = 0.005). No safety concerns emerged.\nCONCLUSIONS: In this real-world cohort, oral semaglutide provided sustained improvements in glycaemic control, body weight, and lipid profile, with preserved renal function and high treatment persistence over 24 months.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Baldassarre Maria Pompea Antonia, Di Dalmazi Giulia, Carrieri Federica, Centorame Giorgia, Piacentino Luigi, Coluzzi Sara, Formoso Gloria",
+      "pub_date": "2026-09-21",
+      "doi": "10.1111/dom.71371",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768825/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "31c8bc084874243260bad1cc90f96a2adff80b0f155dcfb4d3e1e22f40a78f7a",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
+      "pmid": "42767573",
+      "title": "Combination pharmacotherapy for MASH: Potential synergistic approaches.",
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most prevalent and severe liver disease globally, encompassing a spectrum from isolated steatosis to metabolic dysfunction-associated steatohepatitis (MASH), the progressive inflammatory form that can lead to fibrosis, cirrhosis, and hepatocellular carcinoma. The multifaceted pathogenesis of MASH, particularly in the setting of obesity and type 2 diabetes mellitus (T2DM), has resulted in the exploration of pharmaca that target metabolic, inflammatory, and fibrotic processes. Until quite recently, demonstrating efficacy in phase 3 trials with single agents has been challenging. Multiple combination trials have been conducted, often requiring complex multi-arm designs, but demonstrating limited additive benefit over monotherapy. The recent conditional approval of two monotherapies targeting metabolic pathways, the thyroid hormone receptor beta agonist (THRβ) resmetirom and the glucagon-like peptide 1 receptor agonist (GLP1 RA) semaglutide, is kickstarting the therapeutic armamentarium for MASH. Other promising monotherapies may follow in the near future, in particular fibroblast growth factor 21 (FGF21) analogues and pan-peroxisome proliferator-activated receptor (pan-PPAR) agonist lanifibranor. As a result, the position of combination therapy in MASH may shift toward add-on strategies evaluated in clinical practice rather than pharma-driven trial settings. The four monotherapy classes mentioned may be applied in combination, as is already occurring with resmetirom and semaglutide. In this review, we break down the rationale for the various combinations. In addition, we highlight the unmet need for effective antifibrotic therapies and discuss future directions for combination therapy in MASH. Based on the available data, we provide recommendations for the most promising combination strategies.",
+      "journal": "Biochemical pharmacology",
+      "authors": "Meije Dana A, Holleboom Adriaan G, van de Graaf Stan F J",
+      "pub_date": "2026-09-21",
+      "doi": "10.1016/j.bcp.2026.118492",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767573/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2514da80d29e8b0ca069f0bf46c8ade8e9cc13c8c68e7c9ab084193257e93502",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
+      "pmid": "42767321",
+      "title": "Safety of Sodium/Glucose Cotransporter 2 Inhibitors in Patients With Type 2 Diabetes and CKD.",
+      "abstract": "RATIONALE & OBJECTIVE: Patients with chronic kidney disease (CKD) are often underrepresented in clinical trials evaluating the safety profile of newer medication classes for type 2 diabetes (T2D). Given the high burden of comorbidities and polypharmacy in this population, further safety research is needed. This study aimed to detect potential adverse events associated with sodium/glucose cotransporter 2 (SGLT2) inhibitors in patients with T2D and CKD, using a tree-based scan statistic approach.\nSTUDY DESIGN: New-user active comparator cohort study.\nSETTING & PARTICIPANTS: Medicare Fee-for-service data (October 2016 - December 2020) and the Merative MarketScan commercial claims database (October 2016 - December 2022) used to identify patients aged ≥65 years (Medicare) or ≥18 years (MarketScan) with T2D and CKD (Stages III-IV).\nEXPOSURES: New use of SGLT2 inhibitors or glucagon-like peptide-1 receptor agonists (GLP-1RA).\nOUTCOMES: ICD-10 coded adverse outcome events, in outpatient, inpatient, or emergency department settings.\nANALYTIC APPROACH: After 1:1 propensity-score matching, a hierarchical data-mining surveillance method using ICD-10 outcomes, a tree-based scan statistic, to identify signals for incident adverse events.\nRESULTS: We identified 22,328 matched pairs in Medicare (mean age, 74 years; 45% female) and 8,918 matched pairs in MarketScan (mean age, 65 years; 42% female). In both cohorts, based on outpatient diagnosis codes, SGLT2 inhibitor initiation showed safety signals for genital infections in both females and males (p < 0.001). However, the tree-based scan statistic did not detect any safety signals based on inpatient/ED diagnosis codes.\nLIMITATIONS: Residual confounding, potential misclassification, and limited power.\nCONCLUSIONS: In two large real-world cohorts of patients with T2D and CKD, the tree-based scan statistic identified previously known adverse events, but no new safety signals associated with SGLT2 inhibitor use compared with GLP-1RA use.",
+      "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+      "authors": "Ortega-Montiel Janinne, Alkabbani Wajd, Hahn Georg, Liu Jun, Byrne Caroline F, Wexler Deborah J, Patorno Elisabetta, Paik Julie M",
+      "pub_date": "2026-09-21",
+      "doi": "10.1053/j.ajkd.2026.06.013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767321/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2d5c76326fb5a83e50e5ba19eec2422de925e2096f961b233ae25be89a30e280",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
+      "pmid": "42767161",
+      "title": "Adjuvant Glucagon-like Peptide-1 Receptor Agonist Therapy Post-Bariatric Surgery: An Exploratory Single-Institution Analysis.",
+      "abstract": "INTRODUCTION: Suboptimal clinical response can occur after bariatric surgery. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are becoming increasingly available for managing obesity and may augment weight loss after bariatric surgery. This exploratory study aimed to evaluate the association between adjuvant GLP-1RA use and post-bariatric surgery weight loss outcomes.\nMETHODS: A single-institution retrospective cohort of adults who underwent sleeve gastrectomy (SG) or Roux-en-Y gastric bypass (RYGB) between July 2022 and June 2024 was identified. Patients initiated on GLP-1RA therapy (semaglutide or tirzepatide) within one year postoperatively (adjuvant GLP-1RA) were compared to those without GLP-1RA therapy (GLP-naive). Propensity-score matched outcomes, including total weight loss percentage (TWL%) and excess weight loss percentage, were compared at 2 wk and 3, 6, and 12 mo postoperatively.\nRESULTS: A total of 808 patients were identified. Adjuvant GLP-1RA and GLP-naive groups consisted of 22 and 385 (SG) and 7 and 394 (RYGB) patients, respectively. The mean time-to-initiation of GLP-1RA therapy was 7.8 ± 3.0 mo (SG) and 7.9 ± 2.3 mo (RYGB) postoperatively. No statistically significant difference in weight loss outcomes was observed between the adjuvant GLP-1RA or GLP-naive groups in either procedural cohort at any postoperative time point after propensity score matching on baseline characteristics and early postoperative weight loss (P ≥ 0.07). Within the SG procedural cohort, TWL% was numerically higher in the adjuvant GLP-1RA group but did not reach statistical significance (22.6% versus 18.3%, P = 0.07).\nCONCLUSIONS: Adjuvant GLP-1RA therapy was not associated with significantly improved weight loss outcomes after bariatric surgery, though a trend toward increased TWL% with adjuvant GLP-1RA therapy was observed for patients who underwent SG. Larger, prospective studies evaluating earlier initiation and longer duration of post-bariatric GLP-1RA therapy are needed to further characterize the potential benefit of this intervention.",
+      "journal": "The Journal of surgical research",
+      "authors": "Cross-Najafi Arthur A, Benavidez Maria C, No Jennifer J, Ngo Kim C, Redpath Sophia, Nin Darren Z, Schimpke Scott W, Myers Jonathan A",
+      "pub_date": "2026-09-21",
+      "doi": "10.1016/j.jss.2026.08.047",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767161/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "028ebfe53a06af98eb907215bf42bb9874fff0b2397f1affb629dbcf13341006",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
     },
     {
       "pmid": "42765974",
@@ -169,6 +404,31 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-22T00:05:17Z"
+    },
+    {
+      "pmid": "42769274",
+      "title": "Dementia progression with GLP-1 receptor agonists in people with mild cognitive impairment and type 2 diabetes: target-trial emulation study.",
+      "abstract": "INTRODUCTION: In people with type 2 diabetes (T2D) without dementia, glucagon-like peptide-1 receptor agonists (GLP-1 RAs) improved cardiovascular, kidney, and mortality outcomes, with multiple real-world studies suggesting reduced risk of dementia onset. However, the EVOKE/EVOKE+ randomized-controlled trials (RCTs) found that oral semaglutide did not slow cognitive decline in individuals with early Alzheimer's disease (AD), most (86%) without T2D. It is unclear whether GLP-1 RA therapy influences progression to dementia in people with both T2D and mild cognitive impairment (MCI).\nMETHODS: In a target-trial emulation hypothesis-generating study using TriNetX global collaborative network data, we compared incident dementia (including AD) in adults with MCI and T2D without dementia, who were new users of GLP-1 RAs versus dipeptidyl peptidase-4 inhibitors (DPP4i).\nRESULTS: We included 1320 propensity-score-matched (1:1) individuals who initiated GLP-1 RAs or DPP4i in the period 2010 to 2021 (702 women; mean age 67.2 years). Over up to 5 years of follow-up, incident dementia occurred in 101 and 132 participants initiating GLP-1 RAs and DPP4i, respectively (Cox proportional hazard ratio 0.74 [95% confidence interval [CI]: 0.57 to 0.95]). At a mean follow-up of 3.9 years, the respective Kaplan-Meier-derived cumulative incidences were 15.5% and 20.4% (absolute difference -4.9% [95% CI -9.4 to -0.4], number needed to treat of 21 [11 to 234] individuals to prevent one event). Various sensitivity analyses supported the primary analysis: comparing GLP-1 RAs with basal insulin, using alternative outcome definitions, repeating the analyses across baseline subgroups, and using a negative control outcome.\nCONCLUSION: In this hypothesis-generating study, initiation of GLP-1 RAs versus DPP4i in people with T2D and MCI without dementia was associated with a lower risk of incident dementia.",
+      "journal": "Alzheimer's & dementia (New York, N. Y.)",
+      "authors": "Schechter Meir, Sehtman-Shachar Dvora R, Fishkin Alisa, Mosenzon Ofri, Cukierman-Yaffe Tali, Sharon Ronit, Leibowitz Gil, Arkadir David",
+      "pub_date": "2026-09-20",
+      "doi": "10.1002/trc2.70315",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42769274/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "21f827501b5a7e216f7e2f639cfc96c4b4870a42f647787eb46064287a422ef3",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
     },
     {
       "pmid": "42764443",
@@ -3523,6 +3783,89 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
       "summary_generated_at_utc": "2026-09-08T23:21:18Z"
+    },
+    {
+      "pmid": "42770962",
+      "title": "GLP-1 receptor agonists and ocular safety- Pharmacokinetic insights into ischemic optic neuropathy and diabetic retinopathy risk: A review.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have transformed the management of type 2 diabetes mellitus and obesity, but their expanding use has raised concerns about ocular safety. This narrative review aimed to evaluate associations between individual GLP-1 RAs and the risk of developing non-arteritic anterior ischemic optic neuropathy (NAION) or diabetic retinopathy (DR), with particular emphasis on whether pharmacokinetic exposure and formulation explain within-class heterogeneity. PubMed was searched through June 2026, without a lower date limit, for human clinical trials, observational studies, and meta-analyses reporting quantitative ocular outcomes; reference lists, regulatory prescribing information, and pharmacokinetic data were also reviewed. Reported hazard ratios ranged from 1.29 to 7.64 for NAION and from 0.42 to 1.76 for DR. The most consistent NAION signal involved high-exposure subcutaneous semaglutide, whereas findings for oral semaglutide, liraglutide, dulaglutide, exenatide, and tirzepatide were absent, inconsistent, or weaker. DR worsening was likewise most evident with high-bioavailability subcutaneous semaglutide, but appeared more closely related to rapid, large reductions in glycated hemoglobin (HbA1c), particularly reductions of at least 2%, than to a class-specific retinal effect. Observational exposure patterns supported a preliminary, hypothesis-generating NAION threshold at a steady-state concentration (Css) of approximately 30-55 nmol/L. Semaglutide 7.2 mg, with an estimated Css of approximately 230 nmol/L, and highly bioavailable oral orforglipron warrant formulation-specific postmarketing ocular surveillance, although direct evidence of NAION risk remains unavailable. Current evidence does not support class-wide prescribing restrictions. An individualized approach considering patient-specific ocular risk, agent, formulation, and dose is more appropriate, while prospective studies with standardized ophthalmic endpoints are needed to establish causality and validate pharmacokinetic and pharmacogenomic risk parameters.",
+      "journal": "Biomolecules & biomedicine",
+      "authors": "Malluhi Marwan, Al-Naemi Ahmad, Akhtar Saghir",
+      "pub_date": "2026-09-07",
+      "doi": "10.17305/bb.2026.14701",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42770962/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "20e98b71831a64b78fc8a1cb0c3a0275caa11491c095becfc7fa2f638ac1b4c5",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
+      "pmid": "42769395",
+      "title": "Case Report: Acute biliary pancreatitis after semaglutide dose escalation in an adolescent with obesity and cholelithiasis.",
+      "abstract": "BACKGROUND: Semaglutide is increasingly used for weight management in adolescents with obesity. Although gastrointestinal adverse effects are common, gallbladder disease and acute pancreatitis are less frequent but clinically important complications. The relationship between semaglutide therapy, biliary disease, and pancreatitis in adolescents remains incompletely characterized.\nCASE DESCRIPTION: A 16-year-old female with obesity was treated with glucagon-like peptide-1 receptor agonists for weight management. Following approximately nine months of liraglutide therapy, she was transitioned to semaglutide and subsequently escalated to 2.4 mg once weekly, with substantial weight loss. An abdominal ultrasound performed before escalation to 2.4 mg demonstrated multiple small gallstones without biliary ductal dilatation. Approximately five weeks after dose escalation, she presented with severe epigastric pain, nausea, and vomiting. Laboratory investigations demonstrated elevated lipase, bilirubin, AST, and ALT. Ultrasound and magnetic resonance cholangiopancreatography confirmed multiple gallstones without choledocholithiasis or biliary ductal dilatation. She was diagnosed with acute biliary pancreatitis and managed conservatively. Semaglutide was discontinued, followed by laparoscopic cholecystectomy. Histopathology demonstrated chronic calculous cholecystitis. The Naranjo Adverse Drug Reaction Probability Scale yielded a score of 3, corresponding to a possible adverse drug reaction.\nCONCLUSION: This case highlights the clinical complexity of acute biliary pancreatitis occurring during semaglutide therapy in an adolescent with documented cholelithiasis. Although a definitive causal relationship cannot be established, the temporal relationship dose escalation and substantial weight loss raises the possibility that semaglutide may have contributed to the development of biliary complications and subsequent pancreatitis. Clinicians should remain vigilant for gallbladder disease and pancreatitis in adolescents receiving glucagon-like peptide-1 receptor agonists, particularly those with known gallstones or substantial weight loss.",
+      "journal": "Frontiers in pediatrics",
+      "authors": "Alanizi Abdalrhman H, Alruwythi Ghadeer M, Alotaibi Norah H, Alanazi Noof H, Alghurabi Amirah M, Qubaiban Reem, Alsubaie Nawal",
+      "pub_date": "2026-09-07",
+      "doi": "10.3389/fped.2026.1959617",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42769395/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a73a869970395ed0185e0fa5294faa6691155cde9588ec6d48397edc590cc1d4",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
+      "pmid": "42769318",
+      "title": "Advances in the management of obesity: non-pharmacological strategies, herbal formulations, current pharmacotherapy, emerging drugs, and future perspectives.",
+      "abstract": "Obesity is a long-term, complex disorder characterised by excessive adiposity that increases the risk of metabolic and cardiovascular diseases. Obesity is a significant health problem, with its prevalence increasing steadily over the last several decades. This rising trend has contributed substantially to the burden of metabolic, cardiovascular and other chronic diseases. Lifestyle modification remains the primary approach to obesity treatment; long-term weight reduction is difficult to achieve and sustain due to complex neurohormonal mechanisms that regulate appetite and energy homeostasis. Consequently, pharmacotherapy has become an essential component of comprehensive obesity management in appropriately selected patients. Recent advances in obesity pharmacology have revolutionised treatment strategies, particularly with the introduction of incretin-based therapies such as glucagon-like peptide-1 (GLP-1) receptor agonists and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists, which have demonstrated unprecedented efficacy in achieving clinically meaningful and sustained weight loss. Furthermore, several novel agents, including triple agonists, oral peptide formulations, and combination therapies, are currently undergoing clinical evaluation and are expected to further transform obesity treatment. This review provides the current understanding of obesity pharmacotherapy, discusses approved anti-obesity medications, highlights emerging therapeutic agents and drugs under clinical development, and explores future perspectives in obesity management. Additionally, the review addresses current challenges, safety concerns, and public health strategies required to combat the growing obesity epidemic.",
+      "journal": "Frontiers in endocrinology",
+      "authors": "Mehetre Kaushal Navanath, Dawane Jayshree Shriram",
+      "pub_date": "2026-09-07",
+      "doi": "10.3389/fendo.2026.1933913",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42769318/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Obesity",
+        "Anti-Obesity Agents",
+        "Animals",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Weight Loss"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f7f16d3a958d283a4ae1a0a5d5e66f2d6a78027fb02bf75cea394a20597a3ded",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
     },
     {
       "pmid": "42751445",
@@ -8403,6 +8746,32 @@
       "sample_size_ja": ""
     },
     {
+      "pmid": "42769739",
+      "title": "Long-Term Clinical Outcomes and Real-World Effectiveness of Tirzepatide in Adults With Overweight or Obesity: A Systematic Review.",
+      "abstract": "Obesity is a chronic, progressive, and relapsing disease associated with substantial morbidity, premature mortality, and increased healthcare utilisation. Although lifestyle modification remains the cornerstone of management, long-term weight-loss maintenance is challenging. Tirzepatide, a once-weekly dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist, has demonstrated substantial weight-loss efficacy, but its long-term clinical outcomes have not been comprehensively synthesised. A systematic search of Ovid MEDLINE ALL, Embase, the Cochrane Central Register of Controlled Trials (CENTRAL), and Cumulative Index to Nursing and Allied Health Literature (CINAHL) was conducted from database inception to June 30, 2026. Eligible studies included Phase III randomised controlled trials, randomised withdrawal trials, long-term extension studies, prespecified secondary analyses reporting unique outcomes, and real-world observational studies. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the Cochrane Risk of Bias 2 (RoB 2) and Risk Of Bias In Non-randomized Studies of Interventions (ROBINS-I) tools. Owing to substantial clinical and methodological heterogeneity, findings were synthesised narratively in accordance with the Synthesis Without Meta-analysis (SWiM) guidelines. Twenty-six publications representing 11 independent parent studies met the inclusion criteria, comprising eight Phase III randomised controlled trials, one long-term extension study, two real-world observational cohort studies, and 15 prespecified secondary analyses. Tirzepatide consistently produced substantial, dose-dependent, and durable weight reduction, with mean weight loss approaching 21% after 72 weeks. Continued therapy maintained weight loss, whereas treatment discontinuation resulted in progressive weight regain. Tirzepatide also improved cardiometabolic risk factors, body composition, physical functioning, and health-related quality of life. Gastrointestinal adverse events were the most common and were generally mild to moderate. Real-world studies demonstrated effectiveness and safety comparable to those observed in randomised clinical trials. Current evidence indicates that tirzepatide provides durable weight reduction and broad cardiometabolic benefits in adults with overweight or obesity. Sustained treatment is important for maintaining these benefits, while additional long-term studies are needed to evaluate treatment persistence, cardiovascular outcomes, comparative effectiveness, and long-term safety across diverse populations.",
+      "journal": "Cureus",
+      "authors": "Olaniyi Aliyu O, Gogineni Khyathi Krishna, Olaniyi Happiness, Sabir Hamza, Agbonrofo Eboigbe Gloria, Yerima Susuti R, Gabriels Nazeem",
+      "pub_date": "2026-08-22",
+      "doi": "10.7759/cureus.114962",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42769739/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "86130bb4318a2ba9d2e44b761a5155e66ad5e1e401a8c4981e01372f70b788b7",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
       "pmid": "42738922",
       "title": "Lifestyle Medicine as Co-Therapy During Incretin-Based Anti-Obesity Pharmacotherapy: Integrating Physical Activity, Nutrition, and Behavioral Strategies for Long-Term Success.",
       "abstract": "BACKGROUND/OBJECTIVES: Obesity is a chronic, progressive, and relapsing disease that requires long-term, multidisciplinary management rather than episodic weight-loss treatment. Although novel incretin-based anti-obesity pharmacotherapies, including GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists, have markedly improved the clinical management of obesity, weight reduction alone does not fully capture treatment success. Body composition, lean mass preservation, physical function, nutritional adequacy, psychological well-being, adherence, and long-term weight-loss maintenance are increasingly recognized as essential therapeutic outcomes. This narrative review critically examines the role of lifestyle medicine as a co-therapeutic strategy during modern anti-obesity pharmacotherapy, with particular attention to physical activity, nutrition, behavioral support, and individualized monitoring.\nMETHODS: A narrative literature search was conducted in PubMed up to June 2026. The review included studies addressing adults with overweight or obesity and evidence related to anti-obesity pharmacotherapy, physical activity, nutrition, body composition, functional outcomes, eating behavior, quality of life, treatment tolerability, adherence, weight regain, and long-term maintenance.\nRESULTS: Current evidence indicates that incretin-based therapies produce substantial and clinically meaningful weight loss, but pharmacological efficacy may be limited by reductions in lean mass, gastrointestinal adverse events, inadequate nutritional intake, treatment discontinuation, and weight regain after drug withdrawal. Physical activity should be considered a therapeutic component rather than only a tool for increasing energy expenditure, as aerobic exercise supports cardiometabolic health and cardiorespiratory fitness, while resistance training helps preserve muscle strength, bone health, and functional capacity. Nutritional strategies are equally important, particularly during appetite suppression, to maintain adequate protein, fiber, fluids, micronutrients, and diet quality. Behavioral factors, including sleep, stress, mood, stigma, self-regulation, and the food environment, may influence adherence and long-term outcomes.\nCONCLUSIONS: Novel anti-obesity drugs should not be viewed as replacements for lifestyle medicine but as powerful tools within an integrated chronic-care model. The goal of treatment should move beyond maximal body-weight reduction to durable improvements in body composition, metabolic health, physical function, nutritional status, quality of life, and weight-loss maintenance.",
@@ -8467,6 +8836,31 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42769283",
+      "title": "Original rDNA Semaglutide Versus Synthetic Copies: Differences and Clinical Implications.",
+      "abstract": "The therapeutic dominance of semaglutide in managing diabetes, obesity, and cardio-kidney-metabolic diseases has spurred an influx of generics, biosimilars, and compounded pharmacosimilars. However, shared nomenclature does not guarantee therapeutic equivalence. This analysis introduces the ABCDE framework (author-proposed conceptual checklist) to differentiate reference r-DNA semaglutide from synthetic or informally marketed copies. Evaluation rests on five pillars: (A) approved status, where regulatory authorization does not inherently imply interchangeability; (B) bioavailability, noting that identical exposure metrics may mask divergent impurity profiles and immunogenic risks; (C) consistency, highlighting that recombinant versus synthetic manufacturing can alter peptide stability and aggregation; (D) drug-device performance, with standardized pens helping to mitigate dosing errors that may occur with multidose vials; and (E) evidence, emphasizing that the robust clinical data from the SUSTAIN/STEP/SELECT programs are not transferable to copies. Consequently, we suggest that clinicians may find it useful to weigh product-specific evidence over label similarity when evaluating pharmacosimilars, using the ABCDE domains as a conceptual checklist (author-proposed mnemonic). Until stronger product-specific comparability evidence is available for alternative products, many clinicians may reasonably view reference semaglutide as the best-characterized option.",
+      "journal": "Cureus",
+      "authors": "Mohan Viswanathan, Kalra Sanjay, Ahluwalia Abhay, Gangopadhyay Kalyan K, Bhattacharyya Arpandev, Saboo Banshi, Kesavadev Jothydev, Ramakrishnan Santosh",
+      "pub_date": "2026-08-21",
+      "doi": "10.7759/cureus.114959",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42769283/",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d975e11791499d13830190bba11b4a886ae83b194275d6e5b1d19c022c6d06ab",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
     },
     {
       "pmid": "42765077",
@@ -10482,6 +10876,33 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42769115",
+      "title": "Sodium-glucose cotransporter 2 inhibitors reduce new-onset heart failure and death after myocardial infarction with a preserved ejection fraction following coronary intervention.",
+      "abstract": "PURPOSE: To evaluate whether SGLT2is (sodium-glucose cotransporter-2 inhibitors prevent new-onset heart failure (HF) in patients with preserved left ventricular ejection fraction (LVEF) following percutaneous coronary intervention (PCI) for acute myocardial infarction (AMI).\nMETHODS: This retrospective cohort study enrolled AMI-PCI patients with LVEF ≥ 50% and no prior HF. Based on discharge medication, patients were assigned to a SGLT2i group (empagliflozin or dapagliflozin 10 mg once daily) or a non-SGLT2i group. After 1:1 propensity score matching (PSM), 115 matched pairs were identified. Fasting glucose, lipid profiles, estimated glomerular filtration rate (eGFR), N-terminal pro-B-type natriuretic peptide (NT-proBNP), high-sensitivity cardiac troponin I (hs-cTnI), and echocardiographic values were assessed within 72 hours post-PCI. The primary outcome was the occurrence of new-onset HF events; secondary outcomes included all-cause mortality, cardiovascular mortality, and major adverse cardiovascular events (MACE). Follow-up period was at least 18 months.\nRESULTS: SGLT2i significantly reduced new-onset HF events (6.09% vs. 15.65%, P=0.020), all-cause mortality (3.48% vs. 10.43%, P=0.038), cardiovascular mortality (1.74% vs. 9.57%, P=0.010), and MACE (7.83% vs. 18.26%, P=0.019). Multivariable Cox regression confirmed SGLT2i use as an independent protective factor (HR, 0.583; 95% CI, 0.371-0.916; P=0.017).\nCONCLUSION: Among patients with AMI undergoing PCI and preserved LVEF, SGLT2 inhibitor use was associated with a significant reduction in new-onset HF events and improved survival outcome.",
+      "journal": "American journal of translational research",
+      "authors": "Li Lingjuan, Zhang Aihui, Liang Suozhu, Zhang Haitao, Xu Hui, Li Dan",
+      "pub_date": "2026-08-15",
+      "doi": "10.62347/WPFV8330",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42769115/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "48798d823be1ed6a4b9e8710f5a222097ae2c5f98de54ec26c8201b1b41b3eb3",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z"
     },
     {
       "pmid": "42603595",

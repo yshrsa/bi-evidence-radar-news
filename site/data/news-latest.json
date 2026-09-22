@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-22T00:08:59Z",
+  "generated_at_utc": "2026-09-22T23:35:50Z",
   "items": [
     {
       "pmid": "42666995",
@@ -35,6 +35,40 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42770197",
+      "title": "Beyond efficacy: health inequities limiting access to semaglutide for obesity management.",
+      "abstract": "",
+      "journal": "Postgraduate medical journal",
+      "authors": "Islam Kanwal, Hassan Mahmood",
+      "pub_date": "2026-09-22",
+      "doi": "10.1093/postmj/qgag129",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42770197/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "306aefd2f82aba5b079cc44248f0851dfc92689b846ba259b494aa1de54b87de",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-22T23:35:14Z"
     },
     {
       "pmid": "42765974",
@@ -5207,40 +5241,6 @@
       "sample_size_ja": "63,215例",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-08T23:25:18Z"
-    },
-    {
-      "pmid": "42680170",
-      "title": "GLP-1 receptor agonist exposure and non-arteritic anterior ischaemic optic neuropathy: an illustrative case.",
-      "abstract": "CLINICAL RELEVANCE: Non-arteritic anterior ischaemic optic neuropathy may occur following exposure to glucagon-like peptide-1 receptor agonists, although a causal relationship has not been established.\nBACKGROUND: Recent evidence has raised concern regarding a possible association between glucagon-like peptide-1 receptor agonists and non-arteritic anterior ischaemic optic neuropathy. We describe an illustrative case occurring in a younger patient without diabetes mellitus or hypertension.\nMETHODS: A 37-year-old woman with obesity and insulin resistance developed painless unilateral visual loss following three once-weekly doses of semaglutide, all administered before symptom onset. Clinical examination, multimodal ophthalmic imaging, visual field testing, neuroimaging, and laboratory investigations were performed.\nRESULTS: The right eye showed optic disc oedema, a dense inferior altitudinal visual field defect, and marked peripapillary retinal nerve fibre layer thickening, supporting a diagnosis of non-arteritic anterior ischaemic optic neuropathy. Investigations excluded alternative inflammatory, demyelinating, infectious, arteritic, compressive, and pseudopapilloedema-related causes. At three months, the optic disc oedema had resolved with residual pallor, while the visual field defect persisted.\nCONCLUSIONS: Although causality cannot be established from a single case, recent glucagon-like peptide-1 receptor agonist exposure may be relevant when evaluating atypical optic neuropathy in younger patients.",
-      "journal": "Clinical & experimental optometry",
-      "authors": "Devebacak Ali, Top Karti Dilek, Sutas Busra, Tunç Murat, Karti Omer, Saatci Ali Osman",
-      "pub_date": "2026-09-01",
-      "doi": "10.1080/08164622.2026.2725047",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42680170/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "c850790c8ad7d4e850a8dac0044af019787028c96ac4e3029a70d4ba7c713510",
-      "fetched_at_utc": "2026-09-02T23:17:23Z",
-      "updated_at_utc": "2026-09-02T23:17:23Z",
-      "summary_ja": "肥満とインスリン抵抗性を有する37歳の女性において、セマグルチドの週1回投与3回（すべて症状発現前）後に無痛性片眼視力低下を発症し、視神経乳頭浮腫、密な下方水平視野欠損、乳頭周囲網膜神経線維層の著明な肥厚を認め、非動脈炎性前部虚血性視神経症（NAION）と診断された症例の報告。炎症性・脱髄性・感染性・動脈炎性・圧迫性・偽乳頭浮腫性の原因は除外された。",
-      "key_takeaway_ja": "GLP-1受容体作動薬の曝露後にNAIONが発生し得るが、単一症例から因果関係は確立できない。",
-      "why_matters_ja": "糖尿病や高血圧を有さない若年患者における非定型視神経症の評価において、最近のGLP-1受容体作動薬曝露が関連し得ることを示唆し、臨床的に考慮すべき点を提供する。",
-      "study_type_ja": "症例報告（illustrative case）",
-      "endpoints_ja": "視神経乳頭浮腫、視野欠損（下方水平型）、乳頭周囲網膜神経線維層厚さ、3ヶ月時の視神経乳頭所見",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "1例（37歳女性）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-11T23:17:07Z"
     }
   ]
 }
