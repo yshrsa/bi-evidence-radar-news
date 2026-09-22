@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-20T23:18:36Z",
+  "generated_at_utc": "2026-09-22T00:08:59Z",
   "items": [
     {
       "pmid": "42666995",
@@ -35,6 +35,279 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42765974",
+      "title": "Effects of Empagliflozin on Cardiovascular Outcomes Are Consistent Across Sociodemographic Subgroups: A Real-World Analysis From the EMPRISE Study.",
+      "abstract": "OBJECTIVE: We aimed to explore the heterogeneity of empagliflozin treatment effects on major adverse cardiovascular events (MACE), hospitalization for heart failure (HHF), and all-cause mortality (ACM) across sociodemographic and cardiovascular disease (CVD) subgroups of adults with type 2 diabetes (T2D).\nRESEARCH DESIGN AND METHODS: Using 2014-2020 Medicare claims data, we examined rates of MACE (e.g., composite myocardial infarction, stroke, all-cause mortality [ACM]), HHF, and ACM among propensity score-matched individuals aged ≥65 years with T2D initiating empagliflozin compared with those prescribed dipeptidyl peptidase-4 inhibitors (DPP4is) and those prescribed GLP-1 receptor agonists (GLP-1RAs). We calculated hazard ratios (HRs) and incidence rate differences (IRDs) overall and by age, sex, race or ethnicity, socioeconomic factors, and baseline CVD.\nRESULTS: Empagliflozin was associated with decreased risk of MACE (HR 0.77, 99.9% CI [0.69, 0.85]; IRD = -10.3 [-14.1, -6.4]); HHF (HR 0.72 [0.67, 0.79]; IRD = -18.3 [-22.9, -13.6]); and ACM (HR 0.66 [0.57, 0.76]; IRD = -8.6 [-11.4, -5.8]) compared with DPP4is. Effect heterogeneity by baseline CVD was present across all outcomes on the IRD scale but only for HHF on the HR scale. Empagliflozin was also associated with decreased risk of HHF (HR 0.88 [0.81, 0.95]; IRD = -6.9 [-10.8, -3.1]) versus GLP-1RAs, with effect heterogeneity by baseline CVD on the IRD scale. No effect heterogeneity was observed by sociodemographic factors, although a numeric trend suggested greater absolute benefit in patients aged ≥75 years compared with those aged 65-74 years.\nCONCLUSIONS: Empagliflozin reduced cardiovascular events across sociodemographic and CVD subgroups compared with both DPP4is and GLP-1RAs, with higher absolute benefits observed in those with prevalent CVD.",
+      "journal": "Diabetes care",
+      "authors": "Cromer Sara J, Tesfaye Helen, Cho Hanseul, Wexler Deborah J, Ortega-Montiel Janinne, Schmedt Niklas, Shay Christina M, Paik Julie M",
+      "pub_date": "2026-09-21",
+      "doi": "10.2337/dca26-0039",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765974/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": true,
+      "content_sha256": "f275394b3a498dda97c2c9645ade8375fbd9367a0458339bdcbea925d68b9ff7",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "EMPRISE研究の2014-2020年Medicare請求データを用いた実世界解析であり、2型糖尿病を有する65歳以上の成人において、エンパグリフロジンの主要心血管イベント（MACE）、心不全による入院（HHF）、全死因死亡（ACM）への治療効果の異質性を、社会人口統計学的および心血管疾患（CVD）サブグループ間で検討した。プロパensityスコアマッチングにより、エンパグリフロジン開始群をDPP-4阻害薬群およびGLP-1受容体作動薬群と比較し、ハザード比（HR）と発生率差（IRD）を年齢、性別、人種・民族、社会経済的要因、ベースラインCVD別に算出した。",
+      "key_takeaway_ja": "エンパグリフロジンはDPP-4阻害薬およびGLP-1受容体作動薬と比較して、社会人口統計学的およびCVDサブグループ全体で心血管イベントを減少させた。社会人口統計学的要因による効果の異質性は観察されなかったが、ベースラインCVDを有する患者で絶対的ベネフィットがより大きく観察された。",
+      "why_matters_ja": "社会人口統計学的要因による治療効果の異質性が認められなかったことは、エンパグリフロジンの心血管保護効果が幅広い患者群に及ぶことを示唆する。また、ベースラインCVDを有する患者で絶対的ベネフィットが大きいことは、CVD高リスク患者におけるエンパグリフロジンの臨床的意義を支持する。",
+      "study_type_ja": "実世界解析（観察研究）、Medicare請求データを用いたプロパensityスコアマッチング比較",
+      "endpoints_ja": "MACE（複合的心筋梗塞、脳卒中、全死因死亡）、心不全による入院（HHF）、全死因死亡（ACM）",
+      "endpoint_results_ja": "vs DPP4is: MACE HR 0.77 (99.9% CI [0.69, 0.85]), IRD = -10.3 [-14.1, -6.4]; HHF HR 0.72 [0.67, 0.79], IRD = -18.3 [-22.9, -13.6]; ACM HR 0.66 [0.57, 0.76], IRD = -8.6 [-11.4, -5.8]。vs GLP-1RAs: HHF HR 0.88 [0.81, 0.95], IRD = -6.9 [-10.8, -3.1]。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:04:23Z"
+    },
+    {
+      "pmid": "42765971",
+      "title": "Semaglutide Effects on Insulin Sensitivity and β-Cell Function in Patients With Schizophrenia, Prediabetes, and Obesity Treated With Second-Generation Antipsychotics: Findings From the HISTORI Trial, a 30-Week Randomized, Placebo-Controlled Trial With Semaglutide 1.0 mg Weekly. Diabetes Care 2026;49:XXXX-XXXX.",
+      "abstract": "",
+      "journal": "Diabetes care",
+      "authors": "Chen Lu, Wang Junhui",
+      "pub_date": "2026-09-21",
+      "doi": "10.2337/dc26-0540",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765971/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "72fbab5506fc82733210c7f36278d40f40b19cf08e5d997f9e27424a30fdcd0d",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-22T00:03:03Z"
+    },
+    {
+      "pmid": "42765812",
+      "title": "Sodium-glucose cotransporter-2 inhibitor administration recovers peri-implant bone formation in type 2 diabetes: An experimental study using a type 2 diabetes rat model.",
+      "abstract": "BackgroundDiabetes mellitus is risk factors in implant treatment and maintenance, and it is necessary to consider the effects of diabetes medications.ObjectiveThis study investigates whether oral administration of sodium-glucose cotransporter 2 (SGLT2) inhibitor, affects bone formation after implant placement.MethodsA total of 44 Goto-Kakizaki rats were used as a type 2 diabetes model, divided into two groups: the drug administration group (MD) and the non-administration group (GK). A total of 22 Wistar rats were used as the control group (CO). Titanium implants were implanted into the rat tibiae.ResultsHistological and SEM images showed that the GK group had significantly less bone formation than the CO group at both 2 and 4 weeks. No significant differences were observed between groups in serum biochemistry and body weight. Mechanical strength was significantly lower in the GK group than in the CO group at 2 weeks and 4 weeks. Blood glucose levels in the MD group were significantly lower than the baseline values at both 2 weeks and 4 weeks.ConclusionIn a diabetic rat model, the SGLT2 inhibitor restored implant bone formation without side effects. Further detailed research in clinical settings is needed on the effects of diabetes medications.",
+      "journal": "Bio-medical materials and engineering",
+      "authors": "Masuzaki Tomohiro, Suehiro Fumio, Komabashiri Naohiro, Shimizu Takaharu, Nishimura Masahiro",
+      "pub_date": "2026-09-21",
+      "doi": "10.1177/09592989261481043",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765812/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "91251157e35110507ce313dfa74f967ae778f3d98017f14142ddd5970e8f1da3",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "2型糖尿病ラットモデル（Goto-Kakizakiラット）を用いた実験研究であり、SGLT2阻害薬の経口投与がインプラント埋入後の骨形成に及ぼす影響を調査した。44頭のGoto-Kakizakiラットを投与群（MD）と非投与群（GK）に分割し、22頭のWistarラットを対照群（CO）とした。ラット脛骨にチタンインプラントを埋入し、組織学的・SEM観察、機械的強度、血清生化学、体重、血糖値を評価した。GK群はCO群に比べ2週・4週ともに骨形成が有意に少なく、機械的強度も有意に低かった。MD群の血糖値は2週・4週ともにベースラインより有意に低下した。血清生化学と体重には群間差は認められなかった。",
+      "key_takeaway_ja": "2型糖尿病ラットモデルにおいて、SGLT2阻害薬の投与によりインプラント周囲の骨形成が副作用なく回復した。",
+      "why_matters_ja": "糖尿病はインプラント治療および維持のリスク因子であり、糖尿病治療薬がインプラント周囲骨形成に及ぼす影響を明らかにすることは、糖尿病患者のインプラント治療における薬物選択の根拠となる可能性がある。",
+      "study_type_ja": "動物実験研究（2型糖尿病ラットモデルを用いた実験研究）",
+      "endpoints_ja": "インプラント周囲の骨形成（組織学的・SEM観察）、機械的強度、血糖値、血清生化学、体重",
+      "endpoint_results_ja": "GK群はCO群に比べ2週・4週ともに骨形成が有意に少なかった。機械的強度はGK群がCO群より2週・4週ともに有意に低かった。MD群の血糖値は2週・4週ともにベースライン値より有意に低かった。血清生化学と体重には群間に有意差は認められなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:04:53Z"
+    },
+    {
+      "pmid": "42764204",
+      "title": "Quantitative Insights into Tirzepatide and Semaglutide Using Longitudinal Systems Modeling.",
+      "abstract": "CONTEXT: In a 28-week clinical trial of patients with type 2 diabetes (T2D), tirzepatide 15 mg (a dual GIP/GLP-1 receptor agonist) and semaglutide 1 mg (a GLP-1 receptor agonist) both improved fasting glucose, with tirzepatide showing superior efficacy. The longitudinal metabolic mechanisms underlying this difference remain incompletely defined.\nOBJECTIVE: To compare the longitudinal metabolic effects of tirzepatide and semaglutide using model-based analysis of fasting measures, elucidate underlying mechanisms, and explore strategies to enhance outcomes in low responders.\nMETHODS: A mechanistic longitudinal model was developed based on the trial data from patients treated with tirzepatide or semaglutide. The model integrates fasting glucose, fasting insulin, insulin sensitivity, and beta-cell function over time, enabling quantification of hepatic glucose production (HGP) and isolation of insulin-independent drug effects on HGP.\nRESULTS: Beta-cell function, as assessed by HOMA-B, initially increased and then declined as insulin sensitivity improved, a reversal of the canonical T2D progression pathway. Tirzepatide's superior fasting glucose control versus semaglutide was driven primarily by greater insulin-independent suppression of HGP. Low responders exhibited deficient HGP suppression, and simulations suggested that enhancing HGP suppression improves fasting glucose without inducing β-cell stress associated with sustained hypersecretion. Simulated enhancement of weight loss accelerated early glycemic improvement but did not further reduce long-term fasting glucose levels.\nCONCLUSION: Greater suppression of hepatic glucose production was associated with greater efficacy of tirzepatide 15 mg versus semaglutide 1 mg in improving fasting glucose. Therapeutic strategies targeting suppression of hepatic glucose production may provide metabolic benefit beyond direct enhancement of beta-cell function or additional weight loss.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "authors": "Yang Boya, Cabrera Over, Mather Kieren J, Sherman Arthur S",
+      "pub_date": "2026-09-21",
+      "doi": "10.1210/clinem/dgag383",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764204/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "09be314561c905ec59ab95ef2e33f3da17f5cc3306cf96a11b2fdbd0b60d4086",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "2型糖尿病（T2D）患者を対象とした28週間の臨床試験データを用い、tirzepatide 15 mg（GIP/GLP-1受容体二重作動薬）とsemaglutide 1 mg（GLP-1受容体作動薬）の経時的な代謝効果をメカニスティックなシステムモデルで比較解析した。空腹時血糖、空腹時インスリン、インスリン感受性、β細胞機能を統合したモデルにより、肝糖産生（HGP）の定量化とインスリン非依存性の薬物効果を分離した。",
+      "key_takeaway_ja": "Tirzepatide 15 mgがsemaglutide 1 mgを上回る空腹時血糖コントロールは、主にインスリン非依存性の肝糖産生（HGP）抑制の差に起因していた。",
+      "why_matters_ja": "Tirzepatideとsemaglutideの空腹時血糖コントロール差のメカニズムを定量的に解明し、HGP抑制を標的とする治療戦略がβ細胞機能の直接増強や追加の減量を超えた代謝的恩恵をもたらす可能性を示唆した。",
+      "study_type_ja": "既存臨床試験データを用いたメカニスティックなシステムモデリング（モデルベース解析）",
+      "endpoints_ja": "空腹時血糖、空腹時インスリン、インスリン感受性、β細胞機能（HOMA-B）、肝糖産生（HGP）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:05:17Z"
+    },
+    {
+      "pmid": "42764443",
+      "title": "Economic evaluations of antiobesity medications: A systematic literature review.",
+      "abstract": "The global prevalence of obesity is rising rapidly. With several antiobesity medications approved and many more in development, understanding their economic value is increasingly important. This study reviews full economic evaluations of approved antiobesity medications to assess cost-effectiveness and inform reimbursement and access decisions. We systematically reviewed full economic evaluations of approved antiobesity medications in adults with overweight or obesity, including tirzepatide, semaglutide, liraglutide, naltrexone/bupropion, orlistat, phentermine and phentermine/topiramate. Ovid MEDLINE, Embase and government websites were searched for studies comparing these medications with standard care or with each other. Methodological quality was assessed using the BMJ checklist and reporting quality using CHEERS 2022. A narrative synthesis was performed, focusing on quality-adjusted life years and incremental cost-effectiveness ratios. The review followed PRISMA guidelines and was registered on PROSPERO (CRD420251139475). Twenty-six studies met inclusion criteria. All were conducted in high or upper-middle-income countries, predominantly from payer perspectives. Results were heterogeneous and sensitive to model assumptions; however, consistent trends emerged. Semaglutide demonstrated variable cost-effectiveness but consistently outperformed liraglutide, which was generally not cost-effective. Tirzepatide produced greater health gains and frequently favourable ICERs, though it often exceeded willingness-to-pay (WTP) thresholds in lower-threshold settings. Among older agents, phentermine/topiramate appeared economically competitive, largely due to lower acquisition costs. The cost-effectiveness of antiobesity medications is highly context-dependent. Semaglutide is generally more cost-effective than liraglutide, while tirzepatide offers greater clinical benefit but may exceed WTP thresholds. Direct comparative economic evidence between newer agents remains limited. Long-term real-world data and clearer distinctions between cost-effectiveness and affordability are needed to inform policy decisions.",
+      "journal": "British journal of clinical pharmacology",
+      "authors": "Jurković Martina, Fajkić Almir, Faour Andrea Katrin, Momčilović Mirna, Turčić Petra, Belančić Andrej",
+      "pub_date": "2026-09-20",
+      "doi": "10.1002/bcp.70825",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764443/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "b40a09beed7d3ccdb0e82475d4b814d0da9f493a0ee06a65390e183e72afda87",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "承認済み抗肥満薬（tirzepatide、semaglutide、liraglutide、naltrexone/bupropion、orlistat、phentermine、phentermine/topiramate）の成人肥満・過体重患者を対象とした完全な経済評価研究を体系的にレビューし、費用対効果を評価した。26件の研究が包含基準を満たし、主に高所得国または上級中等所得国で支払者視点から実施されていた。QALYとICERに焦点を当てた叙述的統合が行われた。",
+      "key_takeaway_ja": "抗肥満薬の費用対効果は文脈に大きく依存する。Semaglutideはliraglutideよりも一般的に費用対効果が高く、tirzepatideはより大きな臨床的利益をもたらすがWTP閾値を超える可能性がある。新薬間の直接的比較経済証拠は依然として限られている。",
+      "why_matters_ja": "肥満の世界的な有病率の急増と、承認済みおよび開発中の抗肥満薬の増加に伴い、その経済的価値を理解することは、償還およびアクセス決定を情報提供するためにますます重要である。",
+      "study_type_ja": "体系的文献レビュー（経済評価研究の系統的レビュー）",
+      "endpoints_ja": "QALY（質調整生命年）、ICER（増分費用対効果比）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:06:09Z"
+    },
+    {
+      "pmid": "42764399",
+      "title": "Effect of Semaglutide on Thigh Skeletal Muscle Volume, Fat Infiltration and Physical Function in People With Obesity: Secondary Analysis of STEP UP.",
+      "abstract": "AIMS: To assess the effect of semaglutide on body composition and physical function.\nMATERIALS AND METHODS: The phase 3b STEP UP trial randomised adults with body mass index ≥ 30 kg/m2 to once-weekly subcutaneous semaglutide 7.2 mg, semaglutide 2.4 mg or placebo for 72 weeks. This prespecified secondary analysis assessed changes in MRI body composition and physical function.\nRESULTS: Of 1407 participants, 55 with a valid baseline scan were included (semaglutide 7.2 mg, n = 43, 2.4 mg, n = 6 [pooled semaglutide group, n = 49]; placebo, n = 6). Estimated treatment differences (95% confidence intervals; p-values) for absolute changes in adipose/muscle compartment volumes for the pooled semaglutide versus placebo group, respectively, were: -11.1 L (-16.5 to -5.7; p < 0.0001) for adipose body tissue, -1.5 L (-2.9 to -0.1; p = 0.04) for visceral adipose tissue, -1.7 L (-4.0 to 0.7; p = 0.16) for lean body tissue, -1.1 L (-2.3 to 0.1; p = 0.07) for thigh skeletal muscle volume and -0.92%-points (-1.41 to -0.42; p = 0.001) for thigh muscle fat infiltration. Similar results were seen for relative changes in adipose/muscle compartment volumes. A sensitivity analysis for the semaglutide 7.2 mg group versus placebo showed similar results. A mean of 13 sit-to-stand repetitions in 30 s at baseline, and 15 repetitions at Week 72, was observed in the pooled semaglutide and placebo groups.\nCONCLUSIONS: Semaglutide plus lifestyle intervention was associated with reductions in adipose tissue volume, skeletal muscle volume and skeletal muscle fat infiltration, with a preserved number of sit-to-stand repetitions. Further research to assess the impact of weight loss on skeletal muscle composition and function should be explored in the future.\nTRIAL REGISTRATION: ClinicalTrials.gov identifier NCT05646706.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Hjelmesæth Jøran, Bhat Suhas, Garvey W Timothy, Kolnes Kristoffer Jensen, Linge Jennifer, Lingvay Ildiko, Rasmussen Niklas Kahr, Rosenstock Julio",
+      "pub_date": "2026-09-20",
+      "doi": "10.1111/dom.71323",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764399/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "801181c02e26aff9e859e6e5c1b69e67bf615d3ab3cc3bdf7c6df5b70fdd6cd1",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "肥満（BMI≥30 kg/m²）の成人を対象とした第3b相STEP UP試験の事前指定された二次解析であり、週1回皮下投与セマグルチド7.2 mg、2.4 mg、またはプラセボを72週間投与した際のMRIによる体組成および身体機能への影響を評価した。",
+      "key_takeaway_ja": "セマグルチドは脂肪組織量および大腿筋脂肪浸潤の有意な減少と関連したが、大腿骨格筋量も減少傾向を示した（有意差なし）。身体機能（30秒間のsit-to-stand反復回数）はセマグルチド群とプラセボ群で同様に維持された。",
+      "why_matters_ja": "GLP-1受容体作動薬による減量に伴う骨格筋量・組成への影響は、サルコペニアリスクのある患者や高齢者における臨床開発上重要な課題であり、本解析は減量薬の筋肉量への影響を定量的に評価した貴重なデータを提供する。",
+      "study_type_ja": "第3b相無作為化比較試験（STEP UP）の事前指定された二次解析",
+      "endpoints_ja": "MRIによる体組成変化（脂肪組織量、内臓脂肪組織量、除脂肪組織量、大腿骨格筋量、大腿筋脂肪浸潤）、身体機能（30秒間のsit-to-stand反復回数）",
+      "endpoint_results_ja": "脂肪組織量: -11.1 L (-16.5 to -5.7; p < 0.0001)、内臓脂肪組織量: -1.5 L (-2.9 to -0.1; p = 0.04)、除脂肪組織量: -1.7 L (-4.0 to 0.7; p = 0.16)、大腿骨格筋量: -1.1 L (-2.3 to 0.1; p = 0.07)、大腿筋脂肪浸潤: -0.92%-points (-1.41 to -0.42; p = 0.001)、sit-to-stand: 基線時平均13回、72週時平均15回（セマグルチド併合群およびプラセボ群で同様の結果）",
+      "sample_size_ja": "親試験の1407名中、有効な基線スキャンを有する55名（セマグルチド7.2 mg群 n=43、2.4 mg群 n=6、セマグルチド併合群 n=49、プラセボ群 n=6）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:07:10Z"
+    },
+    {
+      "pmid": "42764083",
+      "title": "Cargo-aware design of dissolving microneedles: an FEA-guided rational framework reveals distinct delivery mechanisms for small and large molecules.",
+      "abstract": "Transdermal delivery of glucagon-like peptide-1 receptor agonists (GLP-1RAs) such as semaglutide (SEMA, 4113 Da) could replace weekly subcutaneous injections with patient-administered patches, thereby transforming diabetes and obesity management. Oral SEMA offers a non-injectable alternative but achieves only 0.4-1% bioavailability due to gastric degradation and limited absorption efficiency in the stomach. Dissolving microneedles (DMNs) represent an ideal transdermal platform for GLP-1RAs, however, no DMN design reported to date has achieved subcutaneous-equivalent bioavailability for a 4  kDa peptide cargo. Here, we screened a seven-mold MN library (varying needle shape, needle length and inter-needle spacing) using finite element analysis (FEA) of mechanical and skin-penetration performance. The optimal MN-T-1000-800, with the highest insertion force and most complex trapezoidal-stack needle, achieved 90.58% relative bioavailability of SEMA - the highest reported for DMN-mediated GLP-1RA delivery. To validate the generality of FEA framework, a 10-fold smaller cargo, rizatriptan benzoate (RIZ, 391 Da), was selected as model drug. The results showed that, unlike the macromolecule, the optimal geometry for the small molecule was MN-C-800-800, which exhibited a relative bioavailability of 465.40% compared with the commercial oral formulation. The two optimal geometries differed fundamentally in tip sharpness, base volume, and multi-stage profile, mechanistically rationalized by geometry-cargo matching and mechanics-dissolution coupling. We propose a cargo-aware DMN design framework that couples FEA screening with cargo-specific bioavailability validation, providing both an immediate clinical candidate for the transdermal delivery of large and small molecules and a generalizable strategy for translational DMNs development.",
+      "journal": "International journal of pharmaceutics",
+      "authors": "Beibei Yang, Yang Dan, Yifeng Shen, Wenjing Tang, Wanshan Hu, Wenhao Wang, Tingting Peng, Chuanbin Wu",
+      "pub_date": "2026-09-20",
+      "doi": "10.1016/j.ijpharm.2026.127394",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764083/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2bec76b891228d83fbbf39a6db6a3a5272b55fca98033b785e816f78f63e2ff9",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "溶融型マイクロニードル（DMN）の貨物認識型設計フレームワークを提案した研究。有限要素解析（FEA）を用いて7種類のニードル形状（針形状、針長、針間隔を変えた）をスクリーニングし、GLP-1受容体作動薬セマグルチド（SEMA, 4113 Da）の経皮送達に最適なMN-T-1000-800（台形スタック型）を同定した。さらに、10倍小さい分子リザトリプタンベノエート（RIZ, 391 Da）を用いてFEAフレームワークの汎用性を検証し、小分子にはMN-C-800-800が最適であることを示した。両者の最適幾何形状は先端の鋭さ、基部体積、多段プロファイルにおいて根本的に異なり、幾何学-貨物マッチングと力学-溶解結合により機能的に説明された。",
+      "key_takeaway_ja": "DMNの最適幾何形状は送達対象の分子サイズ（大分子 vs 小分子）によって根本的に異なり、FEAスクリーニングと貨物特異的な生体利用率検証を結合した貨物認識型設計フレームワークが、大分子・小分子双方の経皮送達に適用可能な一般化戦略を提供する。",
+      "why_matters_ja": "週1回の皮下注射を患者自己管理のパッチに置き換えることで、糖尿病・肥満治療の管理を根本的に変革する可能性がある。特にSEMAに対する90.58%の相対生体利用率は、DMNによるGLP-1RA送達として報告された最高値であり、皮下注射同等の生体利用率に接近している。",
+      "study_type_ja": "計算機シミュレーション（FEA）スクリーニングとin vivo生体利用率検証を結合した転換研究（薬学的開発研究）",
+      "endpoints_ja": "セマグルチド（SEMA）の相対生体利用率（皮下注射対照）、リザトリプタンベノエート（RIZ）の相対生体利用率（市販経口製剤対照）",
+      "endpoint_results_ja": "SEMA: MN-T-1000-800で相対生体利用率90.58%（DMNによるGLP-1RA送達として報告最高値）。RIZ: MN-C-800-800で市販経口製剤に対する相対生体利用率465.40%。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:07:46Z"
+    },
+    {
+      "pmid": "42764072",
+      "title": "Association of tirzepatide versus Glucagon-Like Peptide-1 receptor agonists with oral and periodontal outcomes in patients with type 2 Diabetes: A Global propensity Score-Matched cohort study.",
+      "abstract": "AIMS: To evaluate the association between tirzepatide and recorded oral and periodontal outcomes compared with glucagon-like peptide-1 receptor agonists (GLP-1RAs) in patients with type 2 diabetes mellitus (T2DM).\nMETHODS: We conducted a retrospective cohort study using the TriNetX Global Collaborative Network. Adults with T2DM receiving tirzepatide or GLP-1RAs between May 2022 and May 2025 underwent 1:1 propensity score matching using baseline characteristics assessed during the preceding year. Cox models estimated hazard ratios (HRs) and 95% confidence intervals (CIs) for mortality and oral and periodontal outcomes during 1-year follow-up. Additional analyses included subgroup, extended follow-up, active-comparator, composite-outcome, and E-value analyses.\nRESULTS: After matching, each cohort included 97,993 patients. Tirzepatide was associated with lower risks of mortality (HR 0.69, 95% CI 0.59-0.80), periodontitis (0.70, 0.57-0.86), tooth extraction (0.89, 0.84-0.94), peri-implant complications (0.61, 0.52-0.70), periodontal procedures (0.89, 0.85-0.94), and oral or maxillofacial infections (0.70, 0.62-0.79). The composite oral/periodontal outcome was also lower with tirzepatide (HR 0.87, 95% CI 0.84-0.91), with directionally consistent findings across additional analyses.\nCONCLUSIONS: Tirzepatide was associated with lower risks of recorded oral and periodontal outcomes than GLP-1RAs. Given the low recorded event rates and limitations of retrospective EHR data, these associations require confirmation in prospective studies with systematic dental assessments.",
+      "journal": "Diabetes research and clinical practice",
+      "authors": "Tu Cheng-Yun, Chen Hui-Ling, Wu Yu-Hsien, Wu Ming-Ju",
+      "pub_date": "2026-09-20",
+      "doi": "10.1016/j.diabres.2026.113573",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764072/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "99cfbc0e4509b853486c1bfcee64c64ac89b17dd528438d8fdc9289a9ab44c07",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "TriNetX Global Collaborative Networkを用いた後方視コホート研究であり、2型糖尿病（T2DM）患者においてtirzepatideとGLP-1受容体作動薬（GLP-1RA）の口腔・歯周アウトカムとの関連を評価した。2022年5月から2025年5月にtirzepatideまたはGLP-1RAを投与された成人T2DM患者を対象に、前年度の特徴量を用いて1:1プロパシティスコアマッチングを実施し、1年間のフォローアップ期間における死亡および口腔・歯周アウトカムのハザード比（HR）と95%信頼区間（CI）をCoxモデルで推定した。マッチング後、各コホートは97,993例であった。",
+      "key_takeaway_ja": "T2DM患者において、tirzepatideはGLP-1RAと比較して死亡、歯周炎、抜歯、インプラント周囲合併症、歯周処置、口腔・顎顔面感染、および複合口腔・歯周アウトカムのリスクが有意に低かった。",
+      "why_matters_ja": "T2DM患者の口腔・歯周健康は血糖管理と密接に関連しており、tirzepatideがGLP-1RAと比較して口腔・歯周アウトカムに優位性を示すことは、血糖管理以外の追加的利点を示唆する。ただし、後方視EHRデータの低イベント率と限界から、系統的歯科評価を伴う前向き研究での確認が必要とされている。",
+      "study_type_ja": "後方視コホート研究（プロパシティスコアマッチング）",
+      "endpoints_ja": "死亡、歯周炎、抜歯、インプラント周囲合併症、歯周処置、口腔・顎顔面感染、複合口腔・歯周アウトカム",
+      "endpoint_results_ja": "死亡: HR 0.69, 95% CI 0.59-0.80 / 歯周炎: HR 0.70, 95% CI 0.57-0.86 / 抜歯: HR 0.89, 95% CI 0.84-0.94 / インプラント周囲合併症: HR 0.61, 95% CI 0.52-0.70 / 歯周処置: HR 0.89, 95% CI 0.85-0.94 / 口腔・顎顔面感染: HR 0.70, 95% CI 0.62-0.79 / 複合口腔・歯周アウトカム: HR 0.87, 95% CI 0.84-0.91",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:08:17Z"
     },
     {
       "pmid": "42626264",
@@ -4968,258 +5241,6 @@
       "sample_size_ja": "1例（37歳女性）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-11T23:17:07Z"
-    },
-    {
-      "pmid": "42679960",
-      "title": "From evidence to delivery: Optimising SGLT2 inhibitor therapy in heart failure.",
-      "abstract": "",
-      "journal": "International journal of cardiology",
-      "authors": "Jimba Takahiro",
-      "pub_date": "2026-09-01",
-      "doi": "10.1016/j.ijcard.2026.134758",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42679960/",
-      "publication_types": [
-        "Editorial"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "27e96c2053c7ee8be8e318ce6559f39ab89ab07c02fe00cfaf41c0af8be5fc80",
-      "fetched_at_utc": "2026-09-02T23:17:23Z",
-      "updated_at_utc": "2026-09-02T23:17:23Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-02T23:17:23Z"
-    },
-    {
-      "pmid": "42679839",
-      "title": "Ketoacidosis with SGLT2 inhibitors in routine clinical practice of type 2 diabetes: Scandinavian cohort and nested case-control study.",
-      "abstract": "BACKGROUND: SGLT2 inhibitors increase the risk of ketoacidosis, but data from routine clinical practice are scarce. We used nationwide registers with the aim of assessing the incidence, risk factors, and prognosis of ketoacidosis during SGLT2 inhibitor treatment in patients with type 2 diabetes.\nMETHODS: In this cohort and nested case-control study we used data from three Scandinavian countries. In a cohort of SGLT2 inhibitor-treatment episodes among patients with type 2 diabetes aged at least 18 years in Sweden, Denmark, and Norway, we estimated ketoacidosis incidence. Using a nested case-control design (matched on age, sex, region of birth, calendar time, and time since treatment initiation), we assessed risk factors and precipitating or co-occurring events. Changes in diabetes medications were evaluated.\nFINDINGS: The study period was Jan 1, 2013, to Dec 31, 2021, in Denmark and Sweden, and Jan 1, 2013, to Dec 31, 2022, in Norway. We included 322 597 treatment episodes among 282 282 patients with type 2 diabetes (mean age 63 years, 116 521 [36·1%] of 322 597 women). During a median (IQR) follow-up of 1·3 (0·7-2·8) years, 1452 ketoacidosis events occurred (incidence 2·43 per 1000 person-years). Although highest shortly after initiation, risk persisted throughout follow-up. Strong risk factors included high HbA1c (≥83 vs ≤52 mmol/mol: odds ratio [OR] 15·37 [95% CI 11·50-20·53]), malnutrition (OR 10·54 [7·32-15·18]), previous ketoacidosis (OR 10·40 [7·09-15·24]), low BMI (<20 kg/m2vs 20 to <25 kg/m2: OR 9·98 [5·68-17·53]), and recent hypoglycaemia (OR 5·22 [2·60-10·49]). Infection was the most common precipitating or co-occurring event (454 [31·8%] of 1428 vs 862 [6·1%] of 14 233 for ketoacidosis cases vs controls; OR 7·60 [6·62-8·71]). The strongest associations were observed for alcohol intoxication, acute renal events, acute abdomen, stroke, and major surgery, although associations for some transient exposures, particularly milder conditions, might have been overestimated because of under-registration among controls. Exploratory analyses suggested that the observed associations were largely general to patients with type 2 diabetes rather than specific to SGLT2 inhibitor use. At 1 year after ketoacidosis, 211 (25·1%) of 842 remained on SGLT2 inhibitors and insulin use increased from 269 (31·9%) of 842 to 615 (73·0%) of 842.\nINTERPRETATION: Ketoacidosis risk with SGLT2 inhibitors varies greatly by patient characteristics and is not confined to early in treatment. Risk should be assessed throughout treatment, and patients should be instructed to pause treatment during acute illness and stress.\nFUNDING: Region Stockholm, Swedish Society of Medicine, Karolinska Institutet.",
-      "journal": "The lancet. Diabetes & endocrinology",
-      "authors": "Kadesjö Erik, Söderling Jonas, Hviid Anders, Wintzell Viktor, Svanström Henrik, Eliasson Björn, Gudbjörnsdóttir Soffia, Melbye Mads",
-      "pub_date": "2026-09-01",
-      "doi": "10.1016/S2213-8587(26)00162-2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42679839/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "501726aed1aedac146fbee8257ee6be6ff581a536e3f799ef78660dddfa5a715",
-      "fetched_at_utc": "2026-09-02T23:17:23Z",
-      "updated_at_utc": "2026-09-02T23:17:23Z",
-      "summary_ja": "スウェーデン、デンマーク、ノルウェーの3カ国の全国登録データを用いたコホート研究およびネスト型ケースコントロール研究により、2型糖尿病患者のSGLT2阻害薬治療中のケトアシドーシスの発生率、リスク因子、予後を評価した。2013年1月から2021年12月（デンマーク・スウェーデン）または2022年12月（ノルウェー）までの期間で、282,282人の2型糖尿病患者（平均年齢63歳）の322,597件の治療エピソードを対象とした。中央値1.3年（IQR 0.7-2.8）の追跡期間中に1,452件のケトアシドーシス事象が発生し、発生率は1,000人年あたり2.43であった。治療開始直後に最も高かったが、追跡期間を通じてリスクは持続した。",
-      "key_takeaway_ja": "SGLT2阻害薬によるケトアシドーシスのリスクは患者特性によって大きく異なり、治療初期に限定されない。高HbA1c（≥83 mmol/mol vs ≤52 mmol/mol: OR 15.37）、栄養失調（OR 10.54）、既往のケトアシドーシス（OR 10.40）、低BMI（OR 9.98）、最近の低血糖（OR 5.22）が強いリスク因子であり、感染が最も一般的な誘発・併発事象であった（OR 7.60）。ケトアシドーシス後1年時点でSGLT2阻害薬を継続したのは25.1%、インスリン使用率は31.9%から73.0%に増加した。",
-      "why_matters_ja": "SGLT2阻害薬は2型糖尿病の標準治療として広く使用されているが、通常臨床実践におけるケトアシドーシスのデータは乏しかった。本研究は全国登録データを用いた大規模コホートにより、リスク因子を特定し、治療期間を通じてリスク評価が必要であることを示し、急性疾患やストレス時に治療を一時中止するよう患者に指導すべきことを支持する。",
-      "study_type_ja": "コホート研究およびネスト型ケースコントロール研究（3カ国の全国登録データを用いた観察研究）",
-      "endpoints_ja": "SGLT2阻害薬治療中のケトアシドーシスの発生率、リスク因子（HbA1c、栄養状態、既往歴、BMI、低血糖）、誘発・併発事象（感染、アルコール中毒、急性腎事象、急性腹症、脳卒中、大手術）、ケトアシドーシス後の糖尿病薬物変更（SGLT2阻害薬継続率、インスリン使用率）",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-12T23:03:03Z"
-    },
-    {
-      "pmid": "42679357",
-      "title": "New Evidence in Heart Failure: 2026 Update.",
-      "abstract": "Heart failure (HF) remains a major cause of morbidity, mortality, impaired quality of life and healthcare expenditure worldwide. The global burden of HF continues to increase due to population aging, improved survival, and the growing prevalence of cardiovascular, renal, and metabolic comorbidities. Simultaneously, the pace of scientific progress in HF has accelerated considerably. Recent advances have refined our understanding of HF epidemiology, prognosis, and disease trajectories, including emerging concepts of HF improvement, remission, and recovery. The Second Universal Definition of HF has also updated the classification framework, moving beyond the traditional ejection fraction-based categories. HF is now broadly classified into two major phenotypes: heart failure with reduced ejection fraction (HFrEF) and heart failure with preserved ejection fraction (HFpEF). Novel mechanistic insights highlight the role of inflammation, immune activation, metabolic dysfunction, mitochondrial biology, and multisystem interactions in HF progression. There has also been significant progress in the characterization and management of major comorbidities, including chronic kidney disease (CKD), diabetes, obesity, atrial fibrillation (AF), pulmonary hypertension, frailty, malnutrition, and cancer. Diagnostic innovations include novel biomarkers, multi-omics technologies, artificial intelligence-based approaches, advanced imaging techniques, congestion assessment tools, and emerging digital health solutions. Important advances have occurred in specific HF aetiologies, including cardiomyopathies, cardiac amyloidosis (CA), myocarditis, arrhythmia-induced cardiomyopathy (AiCM), and Chagas cardiomyopathy. Therapeutic developments continue to reshape HF management across the spectrum of left ventricular ejection fraction. Recent evidence has focused on optimization of guideline-directed medical therapy in HFrEF, expansion of evidence-based therapies in HFpEF, and growing roles for sodium-glucose cotransporter-2 inhibitors, finerenone, incretin-based therapies, and transcatheter valve interventions. Collectively, these advances support the transition from a predominantly phenotype-based approach towards a more personalized and biologically informed model of HF care, with the potential to further improve outcomes across the entire HF spectrum.",
-      "journal": "ESC heart failure",
-      "authors": "Liguori Valentino, Rizzello Angelica, Adamo Marianna, Aimo Alberto, Böhm Michael, Papp Zoltán, Ponikowski Piotr, von Haehling Stephan",
-      "pub_date": "2026-09-01",
-      "doi": "10.1093/eschf/xvag216",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42679357/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "finerenone"
-      ],
-      "matched_companies": [
-        "Bayer"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "8ffecfb510d13a72068070b98f3af18beac2129c85aec3dbbda884f1ed586582",
-      "fetched_at_utc": "2026-09-02T23:17:23Z",
-      "updated_at_utc": "2026-09-02T23:17:23Z",
-      "summary_ja": "心不全（HF）に関する2026年時点の最新エビデンスを包括的にレビューした総説。HFの疫学・予後・疾患軌跡の理解の深化、第二版Universal Definition of HFによる分類枠組みの更新（HFrEFとHFpEFの2大フェノタイプへの再編）、炎症・免疫活性化・代謝異常・ミトコンドリア生物学などの新規機序、主要随伴疾患（CKD、糖尿病、肥満、心房細動、肺高血圧症、フレイル、栄養失調、がん）の管理、新規バイオマーカー・マルチオミクス・AI・画像診断・デジタルヘルスなどの診断革新、特定病因（心筋症、心筋アミロイドーシス、心筋炎、不整脈誘発性心筋症、チャガス心筋症）の進展、および治療面でのGDMT最適化・HFpEFにおけるエビデンス拡大・SGLT2阻害薬・フィネロノン・インクレチン系薬・経カテーテル弁インターベンションの役割拡大を網羅的に概観している。",
-      "key_takeaway_ja": "心不全の管理は、従来のフェノタイプ中心のアプローチから、より個別化かつ生物学的根拠に基づくモデルへの移行を支持する十分な進展が得られている。",
-      "why_matters_ja": "心不全は依然として世界的な有病率・死亡率・QOL低下・医療費の主要因であり、高齢化・生存率向上・心血管・腎・代謝随伴疾患の増加によりその負担は拡大し続けている。本レビューがまとめる診断・分類・治療の進展は、心不全スペクトラム全体でのアウトカム改善に寄与する可能性がある。",
-      "study_type_ja": "総説（ナラティブレビュー）",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-12T23:03:23Z"
-    },
-    {
-      "pmid": "42679352",
-      "title": "Dapagliflozin effects on right ventricular function, pulmonary pressure and coupling: a propensity score analysis from the RIVED-HF.",
-      "abstract": "BACKGROUND: Right ventricular (RV) dysfunction (RVD) represents a power independent prognostic factor in patients with chronic heart failure (CHF); poor evidence exists about the effect of current guideline directed medical therapy on RVD.We investigated whether dapagliflozin improves right ventricular function, right ventricular-pulmonary arterial coupling and pulmonary artery systolic pressure compared with standard therapy in CHF.\nMETHODS: This is a prospective observational registry with propensity score analysis investigating RV function and right heart failure(RIVED), focused on the effects of Dapagliflozin.Efficacy measures were intra and inter-groups changes from baseline to 6 months in RV end diastolic diameter(RVEDD), tricuspid annular peak systolic excursion(TAPSE), RV global longitudinal strain(RVGLS), fractional area changes(FAC), RV systolic tissue doppler wave(S'), PASP values,TAPSE/PASP,and tricuspid regurgitation(TR).Secondary endpoints were N-terminal pro B-type natriuretic peptide(NTproBNP) levels changes and combined adverse events rate of mortality and hospitalization at 180 days.\nRESULTS: The final population analysed was of 142 patients,in a balanced dataset consisting of 71 treated with standard HF therapy plus dapagliflozin(Dapa group) and 71 treated with standard therapy without dapagliflozin(control group).Median age was 78 [75-84] years old and 62% of patients were men. Patients in dapa group were younger(76[66-82] vs 82[74-88] years old;p<0.001) and more frequently affected by diabetes mellitus(44% vs 22%; p=0.002) compared to control group. No significant differences were observed between the two groups in terms of gender, renal function, NTproBNP and NYHA class.Over the 6 months follow-up,the Dapa group showed a significant improvement of RV function compared with controls(TAPSE +1.03 mm,p < 0.001 and S' +0.48 cm/s,p = 0.006); whereas no significant differences between-groups were observed for FAC(p = 0.16).RV GLS at follow-up was significantly improved in the Dapagliflozin group compared with controls(adjusted mean difference -1.54%, p < 0.001). as well as of the pulmonary-arterial coupling (TAPSE/PASP adjusted differences ranging from +0.07 to +0.17,p = 0.025).In patients with PH, a significant decrease in PASP(30[25-34] vs 37[31-45] mmHg,p<0.001) associated with a RVGLS significant improvement (-20 [-22 - -19] vs -19 [-20 - -17] p<0.001) in the Dapagliflozin group were observed.TAPSE/PASP ratio was significantly improved in Dapagliflozin group with respect to the control group(0.67[052-0.78] vs 0.51[0.42-0.61], p<0.001).Secondary endpoints analysis revealed that NT-proBNP levels were significantly improved from baseline to follow-up only in dapaglifozin group(from 938 to 726 pg/ml p = 0.013).The rate of 180-days adverse events was significantly higher in control group with respect to Dapaglifozin group(21% vs 8%, p<0.01).\nCONCLUSIONS: In a real-world HF cohort,dapagliflozin was associated with improved RV morphology and function, lower PASP,and better RV-PA coupling,suggesting a direct haemodynamic and RV-targeted benefit beyond LV remodelling.Trial Registration: (ClinicalTrials.gov Identifier: NCT06002321).",
-      "journal": "ESC heart failure",
-      "authors": "Palazzuoli Alberto, Ruocco Gaetano, Franceschi Sara, Schirò Giuseppe, Petrini Alessia, Manetti Niccolò, Salzano Andrea, Severino Paolo",
-      "pub_date": "2026-09-01",
-      "doi": "10.1093/eschf/xvag230",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42679352/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "dapagliflozin"
-      ],
-      "matched_companies": [
-        "AstraZeneca"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "16b962ec3b337a397164c3c48aca95fb2209e62f3a4e1121d0d529e299460763",
-      "fetched_at_utc": "2026-09-02T23:17:23Z",
-      "updated_at_utc": "2026-09-02T23:17:23Z",
-      "summary_ja": "RIVED-HFレジストリからのプロパシティスコア解析により、慢性心不全（CHF）患者においてダパグリフロジンが標準治療と比較して右室機能、右室-肺動脈カップリング、肺動脈収縮期血圧（PASP）を改善するかを調査した前向き観察研究。最終解析対象は142例（ダパグリフロジン群71例、対照群71例）で、6ヶ月間の追跡期間において、ダパグリフロジン群はTAPSE、S'、RVGLS、TAPSE/PASP比の有意な改善が認められた。肺高血圧を伴う患者ではPASPの有意な低下とRVGLSの改善が観察された。二次エンドポイントではNT-proBNPの有意な低下（938→726 pg/ml）と180日間の有害事象発生率の有意な低下（8% vs 21%）がダパグリフロジン群で認められた。",
-      "key_takeaway_ja": "実臨床の心不全コホートにおいて、ダパグリフロジンは右室形態・機能の改善、PASPの低下、RV-PAカップリングの改善と関連し、左室リモデリングを超えた直接的な血流力学的・右室標的効果を示唆した。",
-      "why_matters_ja": "右室機能不全（RVD）は慢性心不全における強力な独立した予後因子であるが、現在のガイドライン推奨治療がRVDに与える効果に関するエビデンスは乏しい。本研究は、SGLT2阻害薬であるダパグリフロジンが右室機能に直接的な有益な効果を持つ可能性を示し、右室機能不全を伴う心不全患者の治療戦略に新たな視点を提供する。",
-      "study_type_ja": "前向き観察レジストリ（プロパシティスコア解析）",
-      "endpoints_ja": "主要エンドポイント：ベースラインから6ヶ月までのRVEDD、TAPSE、RVGLS、FAC、S'、PASP、TAPSE/PASP、三尖弁逆流（TR）の変化。二次エンドポイント：NT-proBNPレベルの変化、180日間の死亡および入院の複合有害事象発生率。",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "142例（ダパグリフロジン群71例、対照群71例）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-12T23:04:08Z"
-    },
-    {
-      "pmid": "42678545",
-      "title": "Exploring the therapeutic response to sodium-glucose cotransporter-2 inhibition in INSR-related insulin resistance monogenic diabetes: case-based analysis and narrative review.",
-      "abstract": "BACKGROUND: INSR-related insulin resistance is a form of monogenic diabetes caused by pathogenic variants in the INSR gene, resulting in impaired insulin receptor signalling and a spectrum of insulin resistance. Conventional diabetes management strategies relying on insulin sensitisation or augmentation are often less effective and evidence to guide treatment in those with heterozygous INSR mutations remains limited.\nINDEX CASE ANALYSIS: A 63-year-old male diagnosed with type 2 diabetes aged 40 presented with a relatively stable fasting glucose and disproportionate postprandial hyperglycaemia despite prandial insulin. He had bilateral asymmetric mixed hearing loss (conductive/sensorineural) and early cardiovascular disease. C-peptide was preserved at 1.3 nmol/L with serum glucose at 7.1 mmol/L. Monogenic diabetes genetic testing identified a heterozygous likely pathogenic variant (i.e. mutation) in INSR (c.3473G > A, (p.Arg1158Gln)). Treatment with a sodium-glucose cotransporter-2 inhibitor (SGLT2 inhibitor) achieved 78% time-in-range (TIR). Subsequent SGLT2 inhibitor withdrawal for four months due to pyelonephritis led to TIR deterioration to 2% despite intensified basal insulin. Berberine initiation produced modest improvement (TIR 24%). Following re-introduction of the SGLT2 inhibitor, TIR rapidly improved to 85%, with restoration of a stable overnight profile.\nLITERATURE REVIEW: A narrative review identified eight cases with INSR-related insulin resistance (Donohue/Rabson-Mendenhall/type A insulin resistance) treated with a SGLT2 inhibitor. All reports documented clinically meaningful HbA1c reductions (1.4-3.6%) and, where available, improved CGM metrics.\nCONCLUSIONS: SGLT2 inhibitors provide insulin-independent glycaemic benefit in INSR-related insulin resistance. AMPK-activating strategies, including metformin, berberine, and exercise, may provide adjunctive benefit via cellular glucose uptake, although evidence remains limited. We propose a two-factor therapeutic framework targeting (1) insulin-independent glucosuria and (2) AMPK-mediated glucose uptake as a rational management approach for this rare form of diabetes.",
-      "journal": "Acta diabetologica",
-      "authors": "Franklin David, Mahony Jan, Patel Chirag, Triay Jessica",
-      "pub_date": "2026-09-01",
-      "doi": "10.1007/s00592-026-02795-1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42678545/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "170c8b303730f9967430b5956c88cef5f1eb95e6fa62185e3942dfe8c14dc5c2",
-      "fetched_at_utc": "2026-09-01T23:16:30Z",
-      "updated_at_utc": "2026-09-01T23:16:30Z",
-      "summary_ja": "INSR関連インスリン抵抗性単一遺伝子糖尿病におけるSGLT2阻害薬の治療反応を探索した症例ベース解析と叙述的レビュー。63歳男性のヘテロ接合INSR変異（c.3473G>A, p.Arg1158Gln）を有する症例で、SGLT2阻害薬によりTIR 78%を達成し、離脱後はTIR 2%に悪化、再開後はTIR 85%に改善した。文献レビューではINSR関連インスリン抵抗性8例のSGLT2阻害薬使用例を同定し、HbA1c 1.4〜3.6%の低下が報告されていた。",
-      "key_takeaway_ja": "SGLT2阻害薬はINSR関連インスリン抵抗性においてインスリン非依存性の血糖管理効果を提供する。",
-      "why_matters_ja": "INSR関連インスリン抵抗性ではインスリン感受性向上やインスリン増強に依存する従来の糖尿病管理戦略はしばしば効果が不十分であり、ヘテロ接合INSR変異を有する患者の治療を導くエビデンスは限られている。",
-      "study_type_ja": "症例ベース解析と叙述的レビュー",
-      "endpoints_ja": "Time-in-range (TIR)、HbA1c、CGM指標",
-      "endpoint_results_ja": "インデックス症例：SGLT2阻害薬でTIR 78%、離脱後TIR 2%、ベルベリン開始でTIR 24%、SGLT2阻害薬再開でTIR 85%。文献レビュー：HbA1c低下1.4〜3.6%。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-12T23:04:25Z"
-    },
-    {
-      "pmid": "42678052",
-      "title": "GLP-1 Receptor Agonist Use and A1 Pulley Release After Corticosteroid Injection for Trigger Finger in Type 2 Diabetes.",
-      "abstract": "BACKGROUND: Patients with type 2 diabetes mellitus (T2DM) have a higher incidence of trigger finger and are more likely to require operative A1 pulley release. The impact of glucagon-like peptide-1 receptor agonist (GLP-1RA) therapy on treatment progression remains unclear. This study evaluated the association between GLP-1RA use and progression to operative A1 pulley release following corticosteroid injection for trigger finger in patients with T2DM.\nMETHODS: A retrospective analysis was conducted using the TriNetX Research Network to identify adults with T2DM and trigger finger who underwent an initial corticosteroid injection. Patients were grouped by GLP-1RA exposure and propensity-matched (1:1) for demographics, comorbidities, and other diabetic medications. The primary outcome was A1 pulley release at 6, 12, and 24 months after injection. Relative risks (RRs) and 95% confidence intervals (CIs) were calculated, and balance was assessed using standardized mean differences <0.10.\nRESULTS: A total of 69 222 patients met inclusion criteria (5871 with GLP-1RA exposure and 63 351 without). After matching, 5863 patients remained in each cohort. Glucagon-like peptide-1 receptor agonist use was not associated with a significant difference in 6-month release rates (6.1% in GLP-1RA users vs 6.8% in nonusers). However, GLP-1RA users had lower release rates at 12 (10.6% vs 11.9%; RR, 0.89; 95% CI, 0.81-0.99; P = .027) and 24 months (14.2% vs 15.7%; RR, 0.90; 95% CI, 0.83-0.98; P = .016). These differences corresponded to absolute risk reductions of 1.4% and 1.7%, or numbers needed to treat of 71 and 59, at 12 and 24 months, respectively.\nCONCLUSION: Glucagon-like peptide-1 receptor agonist therapy was associated with a small but statistically significant reduction in progression to A1 pulley release at 12 and 24 months after corticosteroid injection for trigger finger in patients with T2DM.Level of evidence: Level III.",
-      "journal": "Hand (New York, N.Y.)",
-      "authors": "Khan Asim A, Jan Kyleen, Kim Jason H, Gaccione-Barreto Lia, Simcock Xavier C",
-      "pub_date": "2026-09-01",
-      "doi": "10.1177/15589447261480181",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42678052/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "bfb838d00aaaa8d6595c2373c8355c35e14955bc34ab89e67ee80cd760881532",
-      "fetched_at_utc": "2026-09-01T23:16:30Z",
-      "updated_at_utc": "2026-09-01T23:16:30Z",
-      "summary_ja": "TriNetX Research Networkを用いた後ろ向きコホート研究。2型糖尿病（T2DM）かつトリガー指で初回ステロイド注射を受けた成人を対象に、GLP-1受容体作動薬（GLP-1RA）曝露群と非曝露群を1:1プロパティスコアマッチングし、注射後6・12・24ヶ月のA1プーリー解放（手術）への進行を比較した。69,222例が基準を満たし（GLP-1RA曝露5,871例、非曝露63,351例）、マッチング後各コホート5,863例となった。6ヶ月では有意差なし（6.1% vs 6.8%）であったが、12ヶ月（10.6% vs 11.9%；RR 0.89；95% CI 0.81-0.99；P=.027）および24ヶ月（14.2% vs 15.7%；RR 0.90；95% CI 0.83-0.98；P=.016）ではGLP-1RA使用者で有意に低い解放率を示した。絶対リスク減少は12ヶ月で1.4%、24ヶ月で1.7%、NNTはそれぞれ71と59であった。",
-      "key_takeaway_ja": "T2DM患者のトリガー指に対するステロイド注射後、GLP-1RA使用は12ヶ月および24ヶ月でのA1プーリー解放への進行を統計的に有意に、ただし小幅に減少させることが示された。",
-      "why_matters_ja": "T2DM患者はトリガー指の発生率が高く、手術的A1プーリー解放を要する可能性が高い。GLP-1RAが治療進行に与える影響は不明であったが、本結果はGLP-1RAがトリガー指の手術進行を抑制する可能性を示し、T2DM患者の保存的治療戦略に示唆を与える。",
-      "study_type_ja": "後ろ向きコホート研究（プロパティスコアマッチング、TriNetX Research Networkを用いた観察研究）",
-      "endpoints_ja": "ステロイド注射後6ヶ月、12ヶ月、24ヶ月におけるA1プーリー解放（手術）の発生率",
-      "endpoint_results_ja": "6ヶ月：GLP-1RA使用者6.1% vs 非使用者6.8%（有意差なし）。12ヶ月：10.6% vs 11.9%；RR 0.89；95% CI 0.81-0.99；P=.027。24ヶ月：14.2% vs 15.7%；RR 0.90；95% CI 0.83-0.98；P=.016。絶対リスク減少：12ヶ月1.4%、24ヶ月1.7%。NNT：12ヶ月71、24ヶ月59。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-14T23:54:16Z"
-    },
-    {
-      "pmid": "42675203",
-      "title": "Effects of dapagliflozin on proteinuria, glycemic control, and treatment burden in diabetic kidney transplant recipients: a matched cohort study.",
-      "abstract": "AIMS: Diabetes mellitus and persistent proteinuria are major determinants of cardiovascular morbidity, graft dysfunction, and mortality after kidney transplantation. Although sodium-glucose cotransporter-2 (SGLT2) inhibitors have demonstrated substantial cardiorenal benefits in chronic kidney disease, data regarding their use in kidney transplant recipients remain limited. This study aimed to evaluate the clinical effects of dapagliflozin on proteinuria, graft function, glycemic measures, treatment burden, and observed safety events in diabetic kidney transplant recipients.\nMETHODS: We conducted an exploratory retrospective 1:1 clinically matched cohort study of diabetic kidney transplant recipients followed between 2010 and 2022. Among 282 transplant recipients, 68 had diabetes mellitus. Eighteen patients initiated dapagliflozin 10 mg/day and were included in the all-treated tolerability cohort; three discontinued treatment before completing 3 months because of patient preference unrelated to documented adverse events, leaving 15 recipients who received dapagliflozin for at least 12 months in the efficacy cohort. Fifteen diabetic kidney transplant recipients not receiving SGLT2 inhibitor therapy were selected as 1:1 clinically matched comparable controls according to prespecified matching criteria. Primary outcomes were changes in proteinuria and eGFR. Secondary outcomes included HbA1c, fasting plasma glucose, insulin requirements, antihypertensive medication burden, and observed safety events.\nRESULTS: Thirty diabetic kidney transplant recipients were included in the 12-month efficacy analysis (15 dapagliflozin-treated recipients and 15 1:1 clinically matched comparable controls). Baseline demographic, transplant-related, renal, and glycemic characteristics were broadly comparable between groups. Proteinuria decreased more in the dapagliflozin group than in controls (median change, - 157 [- 310 to - 52] vs. -12 [- 48 to + 25] mg/day; Hodges-Lehmann location-shift estimate, - 171 mg/day; 95% CI, - 310 to - 32; p = 0.009), while eGFR remained stable (between-group difference in ΔeGFR, + 1.6 mL/min/1.73 m²; 95% CI, - 1.8 to + 5.0; p = 0.31). HbA1c decreased from 8.10% (65 mmol/mol) to 7.10% (54 mmol/mol) in the dapagliflozin group, whereas it decreased from 8.18% (66 mmol/mol) to 7.80% (62 mmol/mol) in controls. Greater reductions were also observed in fasting plasma glucose and daily insulin dose. Two urinary tract infections requiring oral antibiotics occurred in the dapagliflozin group and one in controls. No genital infections, diabetic ketoacidosis, acute rejection, graft loss, cardiovascular events, severe infections requiring hospitalization, or deaths were observed.\nCONCLUSIONS: In this exploratory 1:1 clinically matched cohort of selected diabetic kidney transplant recipients, dapagliflozin use was associated with reduced proteinuria, improved glycemic measures, and lower treatment burden over 12 months, without observed major graft-related or serious infectious events. However, the retrospective design, small sample size, selected cohort, and treatment-completer efficacy analysis preclude causal inference and definitive safety conclusions. Larger prospective multicenter studies are required before routine implementation in transplant practice can be recommended.",
-      "journal": "Acta diabetologica",
-      "authors": "Ural Zeynep, Derici Ulver",
-      "pub_date": "2026-09-01",
-      "doi": "10.1007/s00592-026-02792-4",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42675203/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "dapagliflozin"
-      ],
-      "matched_companies": [
-        "AstraZeneca"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "ac00da9dfd16d2930b027835dc43165ffb98cd3c68d34dcfcb365f7673ce9f47",
-      "fetched_at_utc": "2026-09-01T23:16:30Z",
-      "updated_at_utc": "2026-09-01T23:16:30Z",
-      "summary_ja": "糖尿病性腎移植受容者におけるダパグリフロジンの蛋白尿、移植腎機能、血糖指標、治療負担、安全性への影響を評価した探索的後ろ向き1:1臨床マッチドコホート研究。2010〜2022年にフォローアップされた282名の腎移植受容者中、糖尿病を合併した68名から、ダパグリフロジン10 mg/日を投与開始した18名を全投与耐性コホートに、12ヶ月以上投与を継続した15名を有効性コホートに分類し、SGLT2阻害薬未使用の15名を事前定義されたマッチング基準に基づき1:1で対照群として選択した。12ヶ月の有効性解析には計30名（ダパグリフロジン群15名、対照群15名）が組み込まれた。",
-      "key_takeaway_ja": "糖尿病性腎移植受容者において、ダパグリフロジンの使用は12ヶ月間で蛋白尿の減少、血糖指標の改善、治療負担の低下と関連したが、主要な移植腎関連事象や重大な感染症事象は観察されなかった。ただし、後ろ向きデザイン、小規模サンプル、選択コホート、治療継続者による有効性解析のため、因果推論や安全性の確定的結論は得られない。",
-      "why_matters_ja": "SGLT2阻害薬は慢性腎臓病において心腎保護効果を示しているが、腎移植受容者におけるデータは限られている。糖尿病と持続性蛋白尿は腎移植後の心血管疾患、移植腎機能不全、死亡率の主要な決定因子であり、本研究はこの特定集団におけるSGLT2阻害薬使用の予備的証拠を提供する。",
-      "study_type_ja": "探索的後ろ向き1:1臨床マッチドコホート研究",
-      "endpoints_ja": "主要エンドポイント：蛋白尿の変化、eGFRの変化。二次エンドポイント：HbA1c、空腹時血糖、インスリン必要量、降圧薬の投与負担、観察された安全性事象。",
-      "endpoint_results_ja": "蛋白尿：ダパグリフロジン群の中央値変化 -157 [-310 to -52] mg/day vs 対照群 -12 [-48 to +25] mg/day；Hodges-Lehmann location-shift estimate -171 mg/day；95% CI -310 to -32；p=0.009。eGFR：群間ΔeGFR差 +1.6 mL/min/1.73 m²；95% CI -1.8 to +5.0；p=0.31。HbA1c：ダパグリフロジン群 8.10%（65 mmol/mol）→ 7.10%（54 mmol/mol）；対照群 8.18%（66 mmol/mol）→ 7.80%（62 mmol/mol）。空腹時血糖および日量インスリン：両群で減少、ダパグリフロジン群でより大きな減少（具体的な数値は抄録に記載なし）。安全性：ダパグリフロジン群で経口抗生物質を要した尿路感染症2例、対照群で1例。生殖器感染症、糖尿病性ケトアシドーシス、急性拒絶反応、移植腎喪失、心血管事象、入院を要した重症感染症、死亡は観察されなかった。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-14T23:54:47Z"
-    },
-    {
-      "pmid": "42673608",
-      "title": "Association of GLP-1 Agonists With Postoperative Complications Following Knee Extensor Mechanism Repair:An Analysis of 1,092 Patients.",
-      "abstract": "BACKGROUND: Diabetes and obesity are recognized as risk factors for postoperative complications including increased surgical site infection (SSI) and reoperation in patients undergoing knee extensor mechanism repair. However, limited literature evaluates how preoperative glucagon-like peptide-1 (GLP-1) receptor agonist therapy may influence these outcomes. This study evaluated GLP-1 receptor agonist use as an independent risk factor for postoperative outcomes following knee extensor mechanism repair.\nMATERIALS AND METHODS: Patients who underwent quadriceps or patellar tendon repair from 2012 to 2025 were identified in the TriNetX database and stratified by GLP-1 agonist use within 1 year of surgery. One-to-one propensity score matching yielded 2 well-balanced cohorts (n = 546). Postoperative complications were assessed at 90 days, 1 year, and 2 years, and Kaplan-Meier survival analysis was performed.\nRESULTS: No significant 90-day postoperative differences were observed. At 1 year, patients using GLP-1 agonists demonstrated significantly lower rates of SSI (2.38% vs 5.31%; odds ratio [OR] = 0.435; P = .0118) and wound complications (2.02% vs 5.31%; OR = 0.367; P = .0037). Differences persisted at 2 years, with lower rates of SSI (2.75% vs 6.04%; OR = 0.439; P = .0079), wound complications (2.38% vs 6.04%; OR = 0.379; P = .0026), and acute kidney injury (9.71% vs 13.55%; OR = 0.686; P = .0474). No significant differences in revision surgery were found. Kaplan-Meier analysis demonstrated significant separation for SSI and wound complications beginning at 1 year.\nCONCLUSION: Preoperative GLP-1 receptor agonist therapy was associated with reduced postoperative SSI and wound complications following knee extensor mechanism repair. These findings suggest potential for perioperative risk modulation as GLP-1 use becomes increasingly prevalent in patients undergoing knee extensor mechanism repair.",
-      "journal": "Orthopedics",
-      "authors": "Forst Elliot, Tully Lindsey, Moran Thomas E, Althoff Alyssa D",
-      "pub_date": "2026-09-01",
-      "doi": "10.3928/01477447-20260811-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42673608/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "8263db50c5a48c1174aa65fa526297e67aa57d872dab9853b54c073a70e033d8",
-      "fetched_at_utc": "2026-09-01T04:38:31Z",
-      "updated_at_utc": "2026-09-01T04:38:31Z",
-      "summary_ja": "2012年から2025年に大腿四頭筋腱または膝蓋腱修復術を受けた患者をTriNetXデータベースから特定し、術前1年以内のGLP-1受容体作動薬使用の有無で層別化し、1対1の傾向スコアマッチングにより2つのコホート（n=546）を構築した。術後90日、1年、2年時点の合併症を評価し、Kaplan-Meier生存解析を行った。",
-      "key_takeaway_ja": "術前GLP-1受容体作動薬の使用は、膝伸展機構修復術後の術後1年および2年時点でのSSI（手術部位感染）および創合併症の有意な低減と関連していた。再手術率には有意差は認められなかった。",
-      "why_matters_ja": "糖尿病と肥満は膝伸展機構修復術後のSSIや再手術のリスク因子として知られているが、術前GLP-1受容体作動薬療法がこれらの転帰に与える影響を評価した文献は限られていた。GLP-1使用が増加する中で、術周期のリスク調整の可能性を示唆する。",
-      "study_type_ja": "後ろ向きデータベース解析（TriNetX）、1対1傾向スコアマッチング",
-      "endpoints_ja": "術後90日・1年・2年時点のSSI、創合併症、急性腎障害、再手術",
-      "endpoint_results_ja": "90日：有意差なし。1年：SSI 2.38% vs 5.31%（OR=0.435, P=.0118）、創合併症 2.02% vs 5.31%（OR=0.367, P=.0037）。2年：SSI 2.75% vs 6.04%（OR=0.439, P=.0079）、創合併症 2.38% vs 6.04%（OR=0.379, P=.0026）、急性腎障害 9.71% vs 13.55%（OR=0.686, P=.0474）。再手術：有意差なし。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-14T23:55:41Z"
     }
   ]
 }

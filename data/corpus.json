@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-20T23:12:36Z",
+  "generated_at_utc": "2026-09-22T00:03:03Z",
   "documents": [
     {
       "pmid": "42666995",
@@ -35,6 +35,279 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42765974",
+      "title": "Effects of Empagliflozin on Cardiovascular Outcomes Are Consistent Across Sociodemographic Subgroups: A Real-World Analysis From the EMPRISE Study.",
+      "abstract": "OBJECTIVE: We aimed to explore the heterogeneity of empagliflozin treatment effects on major adverse cardiovascular events (MACE), hospitalization for heart failure (HHF), and all-cause mortality (ACM) across sociodemographic and cardiovascular disease (CVD) subgroups of adults with type 2 diabetes (T2D).\nRESEARCH DESIGN AND METHODS: Using 2014-2020 Medicare claims data, we examined rates of MACE (e.g., composite myocardial infarction, stroke, all-cause mortality [ACM]), HHF, and ACM among propensity score-matched individuals aged ≥65 years with T2D initiating empagliflozin compared with those prescribed dipeptidyl peptidase-4 inhibitors (DPP4is) and those prescribed GLP-1 receptor agonists (GLP-1RAs). We calculated hazard ratios (HRs) and incidence rate differences (IRDs) overall and by age, sex, race or ethnicity, socioeconomic factors, and baseline CVD.\nRESULTS: Empagliflozin was associated with decreased risk of MACE (HR 0.77, 99.9% CI [0.69, 0.85]; IRD = -10.3 [-14.1, -6.4]); HHF (HR 0.72 [0.67, 0.79]; IRD = -18.3 [-22.9, -13.6]); and ACM (HR 0.66 [0.57, 0.76]; IRD = -8.6 [-11.4, -5.8]) compared with DPP4is. Effect heterogeneity by baseline CVD was present across all outcomes on the IRD scale but only for HHF on the HR scale. Empagliflozin was also associated with decreased risk of HHF (HR 0.88 [0.81, 0.95]; IRD = -6.9 [-10.8, -3.1]) versus GLP-1RAs, with effect heterogeneity by baseline CVD on the IRD scale. No effect heterogeneity was observed by sociodemographic factors, although a numeric trend suggested greater absolute benefit in patients aged ≥75 years compared with those aged 65-74 years.\nCONCLUSIONS: Empagliflozin reduced cardiovascular events across sociodemographic and CVD subgroups compared with both DPP4is and GLP-1RAs, with higher absolute benefits observed in those with prevalent CVD.",
+      "journal": "Diabetes care",
+      "authors": "Cromer Sara J, Tesfaye Helen, Cho Hanseul, Wexler Deborah J, Ortega-Montiel Janinne, Schmedt Niklas, Shay Christina M, Paik Julie M",
+      "pub_date": "2026-09-21",
+      "doi": "10.2337/dca26-0039",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765974/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": true,
+      "content_sha256": "f275394b3a498dda97c2c9645ade8375fbd9367a0458339bdcbea925d68b9ff7",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "EMPRISE研究の2014-2020年Medicare請求データを用いた実世界解析であり、2型糖尿病を有する65歳以上の成人において、エンパグリフロジンの主要心血管イベント（MACE）、心不全による入院（HHF）、全死因死亡（ACM）への治療効果の異質性を、社会人口統計学的および心血管疾患（CVD）サブグループ間で検討した。プロパensityスコアマッチングにより、エンパグリフロジン開始群をDPP-4阻害薬群およびGLP-1受容体作動薬群と比較し、ハザード比（HR）と発生率差（IRD）を年齢、性別、人種・民族、社会経済的要因、ベースラインCVD別に算出した。",
+      "key_takeaway_ja": "エンパグリフロジンはDPP-4阻害薬およびGLP-1受容体作動薬と比較して、社会人口統計学的およびCVDサブグループ全体で心血管イベントを減少させた。社会人口統計学的要因による効果の異質性は観察されなかったが、ベースラインCVDを有する患者で絶対的ベネフィットがより大きく観察された。",
+      "why_matters_ja": "社会人口統計学的要因による治療効果の異質性が認められなかったことは、エンパグリフロジンの心血管保護効果が幅広い患者群に及ぶことを示唆する。また、ベースラインCVDを有する患者で絶対的ベネフィットが大きいことは、CVD高リスク患者におけるエンパグリフロジンの臨床的意義を支持する。",
+      "study_type_ja": "実世界解析（観察研究）、Medicare請求データを用いたプロパensityスコアマッチング比較",
+      "endpoints_ja": "MACE（複合的心筋梗塞、脳卒中、全死因死亡）、心不全による入院（HHF）、全死因死亡（ACM）",
+      "endpoint_results_ja": "vs DPP4is: MACE HR 0.77 (99.9% CI [0.69, 0.85]), IRD = -10.3 [-14.1, -6.4]; HHF HR 0.72 [0.67, 0.79], IRD = -18.3 [-22.9, -13.6]; ACM HR 0.66 [0.57, 0.76], IRD = -8.6 [-11.4, -5.8]。vs GLP-1RAs: HHF HR 0.88 [0.81, 0.95], IRD = -6.9 [-10.8, -3.1]。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:04:23Z"
+    },
+    {
+      "pmid": "42765971",
+      "title": "Semaglutide Effects on Insulin Sensitivity and β-Cell Function in Patients With Schizophrenia, Prediabetes, and Obesity Treated With Second-Generation Antipsychotics: Findings From the HISTORI Trial, a 30-Week Randomized, Placebo-Controlled Trial With Semaglutide 1.0 mg Weekly. Diabetes Care 2026;49:XXXX-XXXX.",
+      "abstract": "",
+      "journal": "Diabetes care",
+      "authors": "Chen Lu, Wang Junhui",
+      "pub_date": "2026-09-21",
+      "doi": "10.2337/dc26-0540",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765971/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "72fbab5506fc82733210c7f36278d40f40b19cf08e5d997f9e27424a30fdcd0d",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-22T00:03:03Z"
+    },
+    {
+      "pmid": "42765812",
+      "title": "Sodium-glucose cotransporter-2 inhibitor administration recovers peri-implant bone formation in type 2 diabetes: An experimental study using a type 2 diabetes rat model.",
+      "abstract": "BackgroundDiabetes mellitus is risk factors in implant treatment and maintenance, and it is necessary to consider the effects of diabetes medications.ObjectiveThis study investigates whether oral administration of sodium-glucose cotransporter 2 (SGLT2) inhibitor, affects bone formation after implant placement.MethodsA total of 44 Goto-Kakizaki rats were used as a type 2 diabetes model, divided into two groups: the drug administration group (MD) and the non-administration group (GK). A total of 22 Wistar rats were used as the control group (CO). Titanium implants were implanted into the rat tibiae.ResultsHistological and SEM images showed that the GK group had significantly less bone formation than the CO group at both 2 and 4 weeks. No significant differences were observed between groups in serum biochemistry and body weight. Mechanical strength was significantly lower in the GK group than in the CO group at 2 weeks and 4 weeks. Blood glucose levels in the MD group were significantly lower than the baseline values at both 2 weeks and 4 weeks.ConclusionIn a diabetic rat model, the SGLT2 inhibitor restored implant bone formation without side effects. Further detailed research in clinical settings is needed on the effects of diabetes medications.",
+      "journal": "Bio-medical materials and engineering",
+      "authors": "Masuzaki Tomohiro, Suehiro Fumio, Komabashiri Naohiro, Shimizu Takaharu, Nishimura Masahiro",
+      "pub_date": "2026-09-21",
+      "doi": "10.1177/09592989261481043",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765812/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "91251157e35110507ce313dfa74f967ae778f3d98017f14142ddd5970e8f1da3",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "2型糖尿病ラットモデル（Goto-Kakizakiラット）を用いた実験研究であり、SGLT2阻害薬の経口投与がインプラント埋入後の骨形成に及ぼす影響を調査した。44頭のGoto-Kakizakiラットを投与群（MD）と非投与群（GK）に分割し、22頭のWistarラットを対照群（CO）とした。ラット脛骨にチタンインプラントを埋入し、組織学的・SEM観察、機械的強度、血清生化学、体重、血糖値を評価した。GK群はCO群に比べ2週・4週ともに骨形成が有意に少なく、機械的強度も有意に低かった。MD群の血糖値は2週・4週ともにベースラインより有意に低下した。血清生化学と体重には群間差は認められなかった。",
+      "key_takeaway_ja": "2型糖尿病ラットモデルにおいて、SGLT2阻害薬の投与によりインプラント周囲の骨形成が副作用なく回復した。",
+      "why_matters_ja": "糖尿病はインプラント治療および維持のリスク因子であり、糖尿病治療薬がインプラント周囲骨形成に及ぼす影響を明らかにすることは、糖尿病患者のインプラント治療における薬物選択の根拠となる可能性がある。",
+      "study_type_ja": "動物実験研究（2型糖尿病ラットモデルを用いた実験研究）",
+      "endpoints_ja": "インプラント周囲の骨形成（組織学的・SEM観察）、機械的強度、血糖値、血清生化学、体重",
+      "endpoint_results_ja": "GK群はCO群に比べ2週・4週ともに骨形成が有意に少なかった。機械的強度はGK群がCO群より2週・4週ともに有意に低かった。MD群の血糖値は2週・4週ともにベースライン値より有意に低かった。血清生化学と体重には群間に有意差は認められなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:04:53Z"
+    },
+    {
+      "pmid": "42764204",
+      "title": "Quantitative Insights into Tirzepatide and Semaglutide Using Longitudinal Systems Modeling.",
+      "abstract": "CONTEXT: In a 28-week clinical trial of patients with type 2 diabetes (T2D), tirzepatide 15 mg (a dual GIP/GLP-1 receptor agonist) and semaglutide 1 mg (a GLP-1 receptor agonist) both improved fasting glucose, with tirzepatide showing superior efficacy. The longitudinal metabolic mechanisms underlying this difference remain incompletely defined.\nOBJECTIVE: To compare the longitudinal metabolic effects of tirzepatide and semaglutide using model-based analysis of fasting measures, elucidate underlying mechanisms, and explore strategies to enhance outcomes in low responders.\nMETHODS: A mechanistic longitudinal model was developed based on the trial data from patients treated with tirzepatide or semaglutide. The model integrates fasting glucose, fasting insulin, insulin sensitivity, and beta-cell function over time, enabling quantification of hepatic glucose production (HGP) and isolation of insulin-independent drug effects on HGP.\nRESULTS: Beta-cell function, as assessed by HOMA-B, initially increased and then declined as insulin sensitivity improved, a reversal of the canonical T2D progression pathway. Tirzepatide's superior fasting glucose control versus semaglutide was driven primarily by greater insulin-independent suppression of HGP. Low responders exhibited deficient HGP suppression, and simulations suggested that enhancing HGP suppression improves fasting glucose without inducing β-cell stress associated with sustained hypersecretion. Simulated enhancement of weight loss accelerated early glycemic improvement but did not further reduce long-term fasting glucose levels.\nCONCLUSION: Greater suppression of hepatic glucose production was associated with greater efficacy of tirzepatide 15 mg versus semaglutide 1 mg in improving fasting glucose. Therapeutic strategies targeting suppression of hepatic glucose production may provide metabolic benefit beyond direct enhancement of beta-cell function or additional weight loss.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "authors": "Yang Boya, Cabrera Over, Mather Kieren J, Sherman Arthur S",
+      "pub_date": "2026-09-21",
+      "doi": "10.1210/clinem/dgag383",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764204/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "09be314561c905ec59ab95ef2e33f3da17f5cc3306cf96a11b2fdbd0b60d4086",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "2型糖尿病（T2D）患者を対象とした28週間の臨床試験データを用い、tirzepatide 15 mg（GIP/GLP-1受容体二重作動薬）とsemaglutide 1 mg（GLP-1受容体作動薬）の経時的な代謝効果をメカニスティックなシステムモデルで比較解析した。空腹時血糖、空腹時インスリン、インスリン感受性、β細胞機能を統合したモデルにより、肝糖産生（HGP）の定量化とインスリン非依存性の薬物効果を分離した。",
+      "key_takeaway_ja": "Tirzepatide 15 mgがsemaglutide 1 mgを上回る空腹時血糖コントロールは、主にインスリン非依存性の肝糖産生（HGP）抑制の差に起因していた。",
+      "why_matters_ja": "Tirzepatideとsemaglutideの空腹時血糖コントロール差のメカニズムを定量的に解明し、HGP抑制を標的とする治療戦略がβ細胞機能の直接増強や追加の減量を超えた代謝的恩恵をもたらす可能性を示唆した。",
+      "study_type_ja": "既存臨床試験データを用いたメカニスティックなシステムモデリング（モデルベース解析）",
+      "endpoints_ja": "空腹時血糖、空腹時インスリン、インスリン感受性、β細胞機能（HOMA-B）、肝糖産生（HGP）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:05:17Z"
+    },
+    {
+      "pmid": "42764443",
+      "title": "Economic evaluations of antiobesity medications: A systematic literature review.",
+      "abstract": "The global prevalence of obesity is rising rapidly. With several antiobesity medications approved and many more in development, understanding their economic value is increasingly important. This study reviews full economic evaluations of approved antiobesity medications to assess cost-effectiveness and inform reimbursement and access decisions. We systematically reviewed full economic evaluations of approved antiobesity medications in adults with overweight or obesity, including tirzepatide, semaglutide, liraglutide, naltrexone/bupropion, orlistat, phentermine and phentermine/topiramate. Ovid MEDLINE, Embase and government websites were searched for studies comparing these medications with standard care or with each other. Methodological quality was assessed using the BMJ checklist and reporting quality using CHEERS 2022. A narrative synthesis was performed, focusing on quality-adjusted life years and incremental cost-effectiveness ratios. The review followed PRISMA guidelines and was registered on PROSPERO (CRD420251139475). Twenty-six studies met inclusion criteria. All were conducted in high or upper-middle-income countries, predominantly from payer perspectives. Results were heterogeneous and sensitive to model assumptions; however, consistent trends emerged. Semaglutide demonstrated variable cost-effectiveness but consistently outperformed liraglutide, which was generally not cost-effective. Tirzepatide produced greater health gains and frequently favourable ICERs, though it often exceeded willingness-to-pay (WTP) thresholds in lower-threshold settings. Among older agents, phentermine/topiramate appeared economically competitive, largely due to lower acquisition costs. The cost-effectiveness of antiobesity medications is highly context-dependent. Semaglutide is generally more cost-effective than liraglutide, while tirzepatide offers greater clinical benefit but may exceed WTP thresholds. Direct comparative economic evidence between newer agents remains limited. Long-term real-world data and clearer distinctions between cost-effectiveness and affordability are needed to inform policy decisions.",
+      "journal": "British journal of clinical pharmacology",
+      "authors": "Jurković Martina, Fajkić Almir, Faour Andrea Katrin, Momčilović Mirna, Turčić Petra, Belančić Andrej",
+      "pub_date": "2026-09-20",
+      "doi": "10.1002/bcp.70825",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764443/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "b40a09beed7d3ccdb0e82475d4b814d0da9f493a0ee06a65390e183e72afda87",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "承認済み抗肥満薬（tirzepatide、semaglutide、liraglutide、naltrexone/bupropion、orlistat、phentermine、phentermine/topiramate）の成人肥満・過体重患者を対象とした完全な経済評価研究を体系的にレビューし、費用対効果を評価した。26件の研究が包含基準を満たし、主に高所得国または上級中等所得国で支払者視点から実施されていた。QALYとICERに焦点を当てた叙述的統合が行われた。",
+      "key_takeaway_ja": "抗肥満薬の費用対効果は文脈に大きく依存する。Semaglutideはliraglutideよりも一般的に費用対効果が高く、tirzepatideはより大きな臨床的利益をもたらすがWTP閾値を超える可能性がある。新薬間の直接的比較経済証拠は依然として限られている。",
+      "why_matters_ja": "肥満の世界的な有病率の急増と、承認済みおよび開発中の抗肥満薬の増加に伴い、その経済的価値を理解することは、償還およびアクセス決定を情報提供するためにますます重要である。",
+      "study_type_ja": "体系的文献レビュー（経済評価研究の系統的レビュー）",
+      "endpoints_ja": "QALY（質調整生命年）、ICER（増分費用対効果比）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:06:09Z"
+    },
+    {
+      "pmid": "42764399",
+      "title": "Effect of Semaglutide on Thigh Skeletal Muscle Volume, Fat Infiltration and Physical Function in People With Obesity: Secondary Analysis of STEP UP.",
+      "abstract": "AIMS: To assess the effect of semaglutide on body composition and physical function.\nMATERIALS AND METHODS: The phase 3b STEP UP trial randomised adults with body mass index ≥ 30 kg/m2 to once-weekly subcutaneous semaglutide 7.2 mg, semaglutide 2.4 mg or placebo for 72 weeks. This prespecified secondary analysis assessed changes in MRI body composition and physical function.\nRESULTS: Of 1407 participants, 55 with a valid baseline scan were included (semaglutide 7.2 mg, n = 43, 2.4 mg, n = 6 [pooled semaglutide group, n = 49]; placebo, n = 6). Estimated treatment differences (95% confidence intervals; p-values) for absolute changes in adipose/muscle compartment volumes for the pooled semaglutide versus placebo group, respectively, were: -11.1 L (-16.5 to -5.7; p < 0.0001) for adipose body tissue, -1.5 L (-2.9 to -0.1; p = 0.04) for visceral adipose tissue, -1.7 L (-4.0 to 0.7; p = 0.16) for lean body tissue, -1.1 L (-2.3 to 0.1; p = 0.07) for thigh skeletal muscle volume and -0.92%-points (-1.41 to -0.42; p = 0.001) for thigh muscle fat infiltration. Similar results were seen for relative changes in adipose/muscle compartment volumes. A sensitivity analysis for the semaglutide 7.2 mg group versus placebo showed similar results. A mean of 13 sit-to-stand repetitions in 30 s at baseline, and 15 repetitions at Week 72, was observed in the pooled semaglutide and placebo groups.\nCONCLUSIONS: Semaglutide plus lifestyle intervention was associated with reductions in adipose tissue volume, skeletal muscle volume and skeletal muscle fat infiltration, with a preserved number of sit-to-stand repetitions. Further research to assess the impact of weight loss on skeletal muscle composition and function should be explored in the future.\nTRIAL REGISTRATION: ClinicalTrials.gov identifier NCT05646706.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Hjelmesæth Jøran, Bhat Suhas, Garvey W Timothy, Kolnes Kristoffer Jensen, Linge Jennifer, Lingvay Ildiko, Rasmussen Niklas Kahr, Rosenstock Julio",
+      "pub_date": "2026-09-20",
+      "doi": "10.1111/dom.71323",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764399/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "801181c02e26aff9e859e6e5c1b69e67bf615d3ab3cc3bdf7c6df5b70fdd6cd1",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "肥満（BMI≥30 kg/m²）の成人を対象とした第3b相STEP UP試験の事前指定された二次解析であり、週1回皮下投与セマグルチド7.2 mg、2.4 mg、またはプラセボを72週間投与した際のMRIによる体組成および身体機能への影響を評価した。",
+      "key_takeaway_ja": "セマグルチドは脂肪組織量および大腿筋脂肪浸潤の有意な減少と関連したが、大腿骨格筋量も減少傾向を示した（有意差なし）。身体機能（30秒間のsit-to-stand反復回数）はセマグルチド群とプラセボ群で同様に維持された。",
+      "why_matters_ja": "GLP-1受容体作動薬による減量に伴う骨格筋量・組成への影響は、サルコペニアリスクのある患者や高齢者における臨床開発上重要な課題であり、本解析は減量薬の筋肉量への影響を定量的に評価した貴重なデータを提供する。",
+      "study_type_ja": "第3b相無作為化比較試験（STEP UP）の事前指定された二次解析",
+      "endpoints_ja": "MRIによる体組成変化（脂肪組織量、内臓脂肪組織量、除脂肪組織量、大腿骨格筋量、大腿筋脂肪浸潤）、身体機能（30秒間のsit-to-stand反復回数）",
+      "endpoint_results_ja": "脂肪組織量: -11.1 L (-16.5 to -5.7; p < 0.0001)、内臓脂肪組織量: -1.5 L (-2.9 to -0.1; p = 0.04)、除脂肪組織量: -1.7 L (-4.0 to 0.7; p = 0.16)、大腿骨格筋量: -1.1 L (-2.3 to 0.1; p = 0.07)、大腿筋脂肪浸潤: -0.92%-points (-1.41 to -0.42; p = 0.001)、sit-to-stand: 基線時平均13回、72週時平均15回（セマグルチド併合群およびプラセボ群で同様の結果）",
+      "sample_size_ja": "親試験の1407名中、有効な基線スキャンを有する55名（セマグルチド7.2 mg群 n=43、2.4 mg群 n=6、セマグルチド併合群 n=49、プラセボ群 n=6）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:07:10Z"
+    },
+    {
+      "pmid": "42764083",
+      "title": "Cargo-aware design of dissolving microneedles: an FEA-guided rational framework reveals distinct delivery mechanisms for small and large molecules.",
+      "abstract": "Transdermal delivery of glucagon-like peptide-1 receptor agonists (GLP-1RAs) such as semaglutide (SEMA, 4113 Da) could replace weekly subcutaneous injections with patient-administered patches, thereby transforming diabetes and obesity management. Oral SEMA offers a non-injectable alternative but achieves only 0.4-1% bioavailability due to gastric degradation and limited absorption efficiency in the stomach. Dissolving microneedles (DMNs) represent an ideal transdermal platform for GLP-1RAs, however, no DMN design reported to date has achieved subcutaneous-equivalent bioavailability for a 4  kDa peptide cargo. Here, we screened a seven-mold MN library (varying needle shape, needle length and inter-needle spacing) using finite element analysis (FEA) of mechanical and skin-penetration performance. The optimal MN-T-1000-800, with the highest insertion force and most complex trapezoidal-stack needle, achieved 90.58% relative bioavailability of SEMA - the highest reported for DMN-mediated GLP-1RA delivery. To validate the generality of FEA framework, a 10-fold smaller cargo, rizatriptan benzoate (RIZ, 391 Da), was selected as model drug. The results showed that, unlike the macromolecule, the optimal geometry for the small molecule was MN-C-800-800, which exhibited a relative bioavailability of 465.40% compared with the commercial oral formulation. The two optimal geometries differed fundamentally in tip sharpness, base volume, and multi-stage profile, mechanistically rationalized by geometry-cargo matching and mechanics-dissolution coupling. We propose a cargo-aware DMN design framework that couples FEA screening with cargo-specific bioavailability validation, providing both an immediate clinical candidate for the transdermal delivery of large and small molecules and a generalizable strategy for translational DMNs development.",
+      "journal": "International journal of pharmaceutics",
+      "authors": "Beibei Yang, Yang Dan, Yifeng Shen, Wenjing Tang, Wanshan Hu, Wenhao Wang, Tingting Peng, Chuanbin Wu",
+      "pub_date": "2026-09-20",
+      "doi": "10.1016/j.ijpharm.2026.127394",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764083/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2bec76b891228d83fbbf39a6db6a3a5272b55fca98033b785e816f78f63e2ff9",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "溶融型マイクロニードル（DMN）の貨物認識型設計フレームワークを提案した研究。有限要素解析（FEA）を用いて7種類のニードル形状（針形状、針長、針間隔を変えた）をスクリーニングし、GLP-1受容体作動薬セマグルチド（SEMA, 4113 Da）の経皮送達に最適なMN-T-1000-800（台形スタック型）を同定した。さらに、10倍小さい分子リザトリプタンベノエート（RIZ, 391 Da）を用いてFEAフレームワークの汎用性を検証し、小分子にはMN-C-800-800が最適であることを示した。両者の最適幾何形状は先端の鋭さ、基部体積、多段プロファイルにおいて根本的に異なり、幾何学-貨物マッチングと力学-溶解結合により機能的に説明された。",
+      "key_takeaway_ja": "DMNの最適幾何形状は送達対象の分子サイズ（大分子 vs 小分子）によって根本的に異なり、FEAスクリーニングと貨物特異的な生体利用率検証を結合した貨物認識型設計フレームワークが、大分子・小分子双方の経皮送達に適用可能な一般化戦略を提供する。",
+      "why_matters_ja": "週1回の皮下注射を患者自己管理のパッチに置き換えることで、糖尿病・肥満治療の管理を根本的に変革する可能性がある。特にSEMAに対する90.58%の相対生体利用率は、DMNによるGLP-1RA送達として報告された最高値であり、皮下注射同等の生体利用率に接近している。",
+      "study_type_ja": "計算機シミュレーション（FEA）スクリーニングとin vivo生体利用率検証を結合した転換研究（薬学的開発研究）",
+      "endpoints_ja": "セマグルチド（SEMA）の相対生体利用率（皮下注射対照）、リザトリプタンベノエート（RIZ）の相対生体利用率（市販経口製剤対照）",
+      "endpoint_results_ja": "SEMA: MN-T-1000-800で相対生体利用率90.58%（DMNによるGLP-1RA送達として報告最高値）。RIZ: MN-C-800-800で市販経口製剤に対する相対生体利用率465.40%。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:07:46Z"
+    },
+    {
+      "pmid": "42764072",
+      "title": "Association of tirzepatide versus Glucagon-Like Peptide-1 receptor agonists with oral and periodontal outcomes in patients with type 2 Diabetes: A Global propensity Score-Matched cohort study.",
+      "abstract": "AIMS: To evaluate the association between tirzepatide and recorded oral and periodontal outcomes compared with glucagon-like peptide-1 receptor agonists (GLP-1RAs) in patients with type 2 diabetes mellitus (T2DM).\nMETHODS: We conducted a retrospective cohort study using the TriNetX Global Collaborative Network. Adults with T2DM receiving tirzepatide or GLP-1RAs between May 2022 and May 2025 underwent 1:1 propensity score matching using baseline characteristics assessed during the preceding year. Cox models estimated hazard ratios (HRs) and 95% confidence intervals (CIs) for mortality and oral and periodontal outcomes during 1-year follow-up. Additional analyses included subgroup, extended follow-up, active-comparator, composite-outcome, and E-value analyses.\nRESULTS: After matching, each cohort included 97,993 patients. Tirzepatide was associated with lower risks of mortality (HR 0.69, 95% CI 0.59-0.80), periodontitis (0.70, 0.57-0.86), tooth extraction (0.89, 0.84-0.94), peri-implant complications (0.61, 0.52-0.70), periodontal procedures (0.89, 0.85-0.94), and oral or maxillofacial infections (0.70, 0.62-0.79). The composite oral/periodontal outcome was also lower with tirzepatide (HR 0.87, 95% CI 0.84-0.91), with directionally consistent findings across additional analyses.\nCONCLUSIONS: Tirzepatide was associated with lower risks of recorded oral and periodontal outcomes than GLP-1RAs. Given the low recorded event rates and limitations of retrospective EHR data, these associations require confirmation in prospective studies with systematic dental assessments.",
+      "journal": "Diabetes research and clinical practice",
+      "authors": "Tu Cheng-Yun, Chen Hui-Ling, Wu Yu-Hsien, Wu Ming-Ju",
+      "pub_date": "2026-09-20",
+      "doi": "10.1016/j.diabres.2026.113573",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764072/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "99cfbc0e4509b853486c1bfcee64c64ac89b17dd528438d8fdc9289a9ab44c07",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z",
+      "summary_ja": "TriNetX Global Collaborative Networkを用いた後方視コホート研究であり、2型糖尿病（T2DM）患者においてtirzepatideとGLP-1受容体作動薬（GLP-1RA）の口腔・歯周アウトカムとの関連を評価した。2022年5月から2025年5月にtirzepatideまたはGLP-1RAを投与された成人T2DM患者を対象に、前年度の特徴量を用いて1:1プロパシティスコアマッチングを実施し、1年間のフォローアップ期間における死亡および口腔・歯周アウトカムのハザード比（HR）と95%信頼区間（CI）をCoxモデルで推定した。マッチング後、各コホートは97,993例であった。",
+      "key_takeaway_ja": "T2DM患者において、tirzepatideはGLP-1RAと比較して死亡、歯周炎、抜歯、インプラント周囲合併症、歯周処置、口腔・顎顔面感染、および複合口腔・歯周アウトカムのリスクが有意に低かった。",
+      "why_matters_ja": "T2DM患者の口腔・歯周健康は血糖管理と密接に関連しており、tirzepatideがGLP-1RAと比較して口腔・歯周アウトカムに優位性を示すことは、血糖管理以外の追加的利点を示唆する。ただし、後方視EHRデータの低イベント率と限界から、系統的歯科評価を伴う前向き研究での確認が必要とされている。",
+      "study_type_ja": "後方視コホート研究（プロパシティスコアマッチング）",
+      "endpoints_ja": "死亡、歯周炎、抜歯、インプラント周囲合併症、歯周処置、口腔・顎顔面感染、複合口腔・歯周アウトカム",
+      "endpoint_results_ja": "死亡: HR 0.69, 95% CI 0.59-0.80 / 歯周炎: HR 0.70, 95% CI 0.57-0.86 / 抜歯: HR 0.89, 95% CI 0.84-0.94 / インプラント周囲合併症: HR 0.61, 95% CI 0.52-0.70 / 歯周処置: HR 0.89, 95% CI 0.85-0.94 / 口腔・顎顔面感染: HR 0.70, 95% CI 0.62-0.79 / 複合口腔・歯周アウトカム: HR 0.87, 95% CI 0.84-0.91",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-22T00:08:17Z"
     },
     {
       "pmid": "42626264",
@@ -8196,6 +8469,27 @@
       "sample_size_ja": ""
     },
     {
+      "pmid": "42765077",
+      "title": "Beyond Weight Loss: Glucagon-Like Peptide-1 Receptor Agonists and Antipsychotic Adherence in Schizophrenia.",
+      "abstract": "People with schizophrenia experience markedly reduced life expectancy, driven largely by cardiometabolic disease, and several of the most effective antipsychotics are also among those most likely to promote weight gain. Weight gain is among the adverse effects patients find least acceptable and one they frequently cite when they abandon treatment, which links metabolic harm directly to the non-adherence that precipitates relapse. Glucagon-like peptide-1 receptor agonists, now supported by randomized trials in schizophrenia-spectrum populations, reduce weight and metabolic burden without destabilizing psychiatric symptoms. In this editorial, we argue that their most consequential effect in serious mental illness may not be the weight they remove but the treatment they help patients keep taking: by neutralizing the adverse effect patients most resent, these agents may protect antipsychotic adherence itself. We call for trials that adopt adherence and discontinuation as endpoints and for psychiatry to reclaim ownership of cardiometabolic prescribing.",
+      "journal": "Cureus",
+      "authors": "López-Ibor Iván, Humphery Hugh, Tafet Gustavo",
+      "pub_date": "2026-08-21",
+      "doi": "10.7759/cureus.114933",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765077/",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8674c7418d975fdd2222ed8734ad4072b5a1b62cecf355e3cb900cc794a8a34f",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z"
+    },
+    {
       "pmid": "42698756",
       "title": "Pharmacist-led medication therapy management improving medication adherence in a patient with type 2 diabetes: case report.",
       "abstract": "BACKGROUND: Poor medication adherence is a major challenge in healthcare for patients with type 2 diabetes mellitus (T2DM), particularly those with long disease duration, multiple comorbidities, and complex therapeutic regimens. This case report describes the application of pharmacist-led MTM (medication therapy management) in a patient with T2DM presenting complex therapeutic regimens and poor adherence.\nPATIENTS AND METHODS: A 76-year-old female with a 30-year history of T2DM complicated by diabetic peripheral neuropathy, hypertension, hyperlipidemia, hepatic steatosis, coronary atherosclerosis, and severe osteoporosis. The patient presented with poor glycemic control and severe medication nonadherence, which was characterized by frequent missed doses, irregular glucose monitoring, and forgotten weekly semaglutide injections. A clinical pharmacist conducted comprehensive MTM, including a full medication review, patient education, systematic medication and blood glucose monitoring, development of an optimized treatment plan in collaboration with the medical team, and ongoing follow-up.\nRESULTS: After 3 months, glycemic control improved significantly, with fasting blood glucose at 7.6 mmol/L, postprandial glucose at 10.2 mmol/L, and glycated hemoglobin (HbA1c) at 7.3%. The Medication Adherence Report Scale-5 (MARS-5) score increased from 8 to 21, and no severe hypoglycemic events or other adverse drug reactions occurred during hospitalization or follow-up.\nCONCLUSION: Improvements in medication adherence and clinical outcomes were achieved following comprehensive pharmacist-led medication therapy management integrated with individualized clinical management in this case.",
@@ -13138,6 +13432,153 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42766517",
+      "title": "Real-World Impact of Weekly Dulaglutide and Semaglutide on Hba1c and Weight in a Predominantly Underrepresented Demographic.",
+      "abstract": "BACKGROUND: African Americans are underrepresented in real-world studies of GLP-1 receptor agonists (RA) for type 2 diabetes.\nOBJECTIVES: This study evaluates the effects of weekly dulaglutide and semaglutide on glycated hemoglobin (HbA1c) and weight in a predominantly African American population.\nMETHODS: A retrospective chart review was conducted at an adult medicine clinic. Patients 19 years of age or older with at least 26 weeks of dulaglutide or semaglutide treatment and recorded baseline and follow-up HbA1c and weight were included.\nRESULTS: Among 91 patients-85.7% African American, 67.0% female, mean age 56.4 years-the mean GLP-1 RA treatment duration was 14.9 months. Glycated hemoglobin decreased by 2.39% (p&lt;.001), and weight dropped by 4.76 kg (p&lt;.001). High-dose dulaglutide significantly lowered HbA1c compared with low-dose (p=.023).\nCONCLUSION: Weekly dulaglutide and semaglutide significantly reduced HbA1c and weight. Further research is needed to explore factors influencing differential responses.",
+      "journal": "Journal of health care for the poor and underserved",
+      "authors": "Deas Crystal, Uhomba Laurel, Snow Kayla",
+      "pub_date": "2026-01-01",
+      "doi": "10.1353/hpu.2026.a982969",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766517/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptides",
+        "Semaglutide",
+        "Female",
+        "Recombinant Fusion Proteins",
+        "Immunoglobulin Fc Fragments",
+        "Middle Aged",
+        "Glycated Hemoglobin",
+        "Retrospective Studies",
+        "Diabetes Mellitus, Type 2",
+        "Male",
+        "Hypoglycemic Agents",
+        "Black or African American",
+        "Aged",
+        "Adult",
+        "Body Weight"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "0a873faf03efeda418cc00df1ad5fdf241ff8edf93343a3ef5edc643f9d38d3a",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z"
+    },
+    {
+      "pmid": "42766383",
+      "title": "Euglycaemic ketoacidosis associated with dual-acting GLP-1/GIP receptor agonist treatment following bariatric surgery.",
+      "abstract": "SUMMARY: Euglycaemic ketoacidosis is characterised by high anion gap metabolic acidosis with elevated serum ketone bodies in the absence of significant hyperglycaemia. Although traditionally associated with sodium-glucose cotransporter 2 (SGLT-2) inhibitors, incretin-based therapies have recently been implicated. Tirzepatide is a dual-acting glucagon-like peptide 1 (GLP-1)/glucose-dependent insulinotropic polypeptide (GIP) receptor agonist. It is an approved treatment for obesity in patients without diabetes mellitus. We present the case of a 51-year-old woman without diabetes, 2 years after sleeve gastrectomy, who presented with nausea, vomiting and abdominal pain after rapid dose escalation of tirzepatide. Laboratory evaluation revealed severe metabolic acidosis (pH 7.01, venous bicarbonate 9.2 mmol/L), elevated serum ketones (6 mmol/L) and normal blood glucose (5 mmol/L), consistent with euglycaemic ketoacidosis. Plasma lactate was normal (1.4 mmol/L). She was managed with intravenous fluids, insulin infusion and anti-emetics until the symptoms and acidosis resolved. Tirzepatide was discontinued. This case highlights the potential for dual-acting GLP-1/GIP receptor agonists to increase susceptibility to euglycaemic ketoacidosis in patients without diabetes, particularly in the context of prior bariatric surgery. Clinicians should consider euglycaemic ketoacidosis in patients receiving dual-acting GLP-1/GIP therapy who present unwell with metabolic acidosis.",
+      "journal": "Endocrinology, diabetes & metabolism case reports",
+      "authors": "Green Deirdre, Glynn Nigel",
+      "pub_date": "2026-01-01",
+      "doi": "10.1530/EDM-26-0059",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766383/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "fdd7b2097ba328faba287d02288b4dffa16090e9de37364b566cf8eee943dd81",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z"
+    },
+    {
+      "pmid": "42765724",
+      "title": "GLP-1-based treatments and long-term clinical outcomes in MASLD amongst older adults: a retrospective cohort study.",
+      "abstract": "BACKGROUND: Metabolic dysfunction-associated steatotic liver disease (MASLD) is the leading cause of chronic liver disease in older adults, driving hepatic decompensation and cardiovascular mortality. Randomised trial data on glucagon-like peptide-1 (GLP-1) receptor agonist (GLP-1 RA) therapy remain limited.\nMETHODS: We conducted a retrospective cohort study using TriNetX US Collaborative Network. Adults 65 years or older with MASLD were identified by codes for fatty liver disease or steatohepatitis plus one cardiometabolic risk factor. We excluded liver transplant and other liver disease causes. Using a new-user, intention-to-treat design with 1:1 propensity-score matching, we compared GLP-1 RA initiators with unexposed patients. Outcomes were hepatic decompensation, hospitalisation, mortality and major adverse cardiovascular events (MACE), assessed 90 days to 10 years after index. Sensitivity analyses restricted follow-up to 1-10 years, excluded tirzepatide or began follow-up on day 1.\nFINDINGS: We identified 44 196 GLP-1 RA initiators and 384 672 unexposed patients. After matching, 43 930 remained per cohort (mean age 71.8 years; 62.0% female), with standardised mean differences below 0.1. GLP-1 RA use was linked to lower hazards of hepatic decompensation (hazard ratios [HR] 0.72, 95% confidence intervals [CI] 0.66-0.79), mortality (HR 0.55, 0.52-0.58) and hospitalisation (HR 0.95, 0.93-0.97). MACE showed no reduction (HR 0.98, 0.92-1.04). Osteoporosis without fracture and retinopathy were more frequent; pancreatitis, sarcopenia and fracture did not differ. GI events occurred more often as first events. Sensitivity analyses confirmed results for decompensation, hospitalisation and mortality.\nINTERPRETATION: In older adults with MASLD, GLP-1 RA initiation was linked to lower risks of hepatic decompensation, hospitalisation and mortality, with higher rates of selected adverse events.",
+      "journal": "Age and ageing",
+      "authors": "Koutouratsas Tilemachos, Kalligeros Markos, Michael Mark, Das Siddharth, Mylonakis Sophia C, Mylonakis Eleftherios",
+      "pub_date": "2026-01-01",
+      "doi": "10.1093/ageing/afag281",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765724/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Retrospective Studies",
+        "Female",
+        "Aged",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Male",
+        "Treatment Outcome",
+        "Fatty Liver",
+        "Time Factors",
+        "Risk Factors",
+        "Incretins",
+        "Glucagon-Like Peptide-1 Receptor",
+        "Hospitalization",
+        "Aged, 80 and over"
+      ],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "20b8068afbbdab8efa59f4554aed8bc8c5676af476a592c6b9501d8c3edbb4f3",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z"
+    },
+    {
+      "pmid": "42764643",
+      "title": "Applicability of Non-Invasive Eligibility Criteria for MASH Pharmacotherapy: A Multicentre Cohort Study.",
+      "abstract": "BACKGROUND AND AIMS: Non-invasive tests (NITs) are increasingly used to guide patient selection for pharmacological treatment of metabolic dysfunction-associated steatohepatitis (MASH). We aimed to quantify and compare real-world treatment eligibility according to the AASLD and expert panel-derived criteria and to evaluate classification of patients with available liver histology.\nMETHODS: We retrospectively included 897 adults with MASLD from four Italian referral centres. Eligibility was assessed using AASLD criteria, defined by liver stiffness measurement (LSM) 8-15 kPa without cirrhosis, and expert panel-derived criteria, defined by LSM 10-19.9 kPa, platelet count ≥ 140 × 109/L, and no cirrhosis. A subgroup of 175 patients underwent liver biopsy within ±3 months of first referral.\nRESULTS: Median age was 62 years, 57.1% were men, 48.4% had obesity, and 36.0% had Type 2 diabetes. Overall, 202 patients (22.5%) met AASLD criteria and 114 (12.7%) met expert panel-derived criteria. Eighty-six patients were eligible according to both criteria, whereas 144 were classified differently. Type 2 diabetes and obesity were independently associated with eligibility under both criteria. In the biopsy subgroup, 73 patients had histological F2-F3 fibrosis; 35 (47.9%) did not meet AASLD criteria and 49 (67.1%) did not meet expert panel-derived criteria.\nCONCLUSIONS: The AASLD and expert panel-derived criteria identified different real-world populations potentially suitable for MASH pharmacotherapy. In the biopsy subgroup, NIT-based eligibility classification only partly aligned with histological F2-F3 fibrosis.",
+      "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+      "authors": "Pugliese Nicola, Polverini Davide, Bertazzoni Arianna, Cerini Federica, Pennisi Grazia, Lombardi Rosa, Gullace Valerio, De Nicola Stella",
+      "pub_date": "2026-01-01",
+      "doi": "10.1111/liv.70882",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764643/",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Middle Aged",
+        "Retrospective Studies",
+        "Male",
+        "Aged",
+        "Italy",
+        "Liver",
+        "Patient Selection",
+        "Biopsy",
+        "Elasticity Imaging Techniques",
+        "Obesity",
+        "Diabetes Mellitus, Type 2",
+        "Fatty Liver",
+        "Non-alcoholic Fatty Liver Disease",
+        "Platelet Count",
+        "Liver Cirrhosis"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "65ffbd223187ae6474cc506a6a450dd59d1c6a043874861206d9a43beb86aa51",
+      "fetched_at_utc": "2026-09-22T00:03:03Z",
+      "updated_at_utc": "2026-09-22T00:03:03Z"
     },
     {
       "pmid": "42762462",
