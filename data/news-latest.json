@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-23T23:45:43Z",
+  "generated_at_utc": "2026-09-24T23:56:10Z",
   "items": [
     {
       "pmid": "42666995",
@@ -35,6 +35,231 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42779274",
+      "title": "Molecular insights into GLP-1 receptor agonists and emerging metabolic-inflammatory targets in Hidradenitis suppurativa.",
+      "abstract": "INTRODUCTION: Hidradenitis suppurativa (HS) is increasingly recognized as a systemic immunometabolic disease associated with obesity, insulin resistance, and metabolic syndrome (MetS). A metabolically unhealthy lean phenotype indicates that metabolic dysfunction and chronic low-grade inflammation may occur independently of increased body mass index (BMI) in patients with HS. Reduced effectiveness of biologic therapies in patients with obesity further supports targeting the upstream metabolic drivers of inflammation.\nAREAS COVERED: This review outlines metabolic-inflammatory pathways proposed to contribute to HS, including insulin/insulin-like growth factor 1 (IGF-1) signaling, mechanistic target of rapamycin complex 1 (mTORC1) overactivation, adipokine dysregulation, and gut-skin interactions. Building on this framework, this review evaluates evidence on glucagon-like peptide-1 receptor agonists (GLP-1RAs), dual incretin agonists, and other metabolic interventions, including metformin is evaluated.\nEXPERT OPINION: GLP-1RAs may serve as adjunctive metabolic therapies for selected patients with HS and obesity or MetS. By promoting weight loss and metabolic improvement, they may reduce systemic inflammation, perioperative risk, and improve responses to weight-based biologics. However, current evidence remains mainly observational and is confounded by concomitant therapies. Randomized controlled trials using well-defined dermatological and metabolic endpoints are needed before routine implementation.",
+      "journal": "Expert opinion on therapeutic targets",
+      "authors": "Brogaard Emma, Nielsen Valdemar Wendelboe, Pedersen Nadja Højgaard, Thomsen Simon Francis",
+      "pub_date": "2026-09-24",
+      "doi": "10.1080/14728222.2026.2738341",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42779274/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "09983f1effaab718cac9038dcdd897a32ea964888dea2101fc79524afb973e5e",
+      "fetched_at_utc": "2026-09-24T23:52:00Z",
+      "updated_at_utc": "2026-09-24T23:52:00Z",
+      "summary_ja": "尋常性化膿性肉芽腫（HS）は肥満・インスリン抵抗性・代謝症候群に関連する全身性免疫代謝疾患として認識されつつある。本総説では、HSに寄与するとされる代謝・炎症経路（インスリン/IGF-1シグナル、mTORC1過剰活性化、アディポカイン異常、腸-皮膚相互作用）を整理し、GLP-1受容体作動薬（GLP-1RA）、デュアルインクレチン作動薬、メトホルミンなどの代謝介入のエビデンスを評価した。",
+      "key_takeaway_ja": "GLP-1RAは肥満または代謝症候群を伴うHS患者に対する補助的代謝療法として有用である可能性があるが、現在のエビデンスは主に観察研究であり、併用療法の交絡がある。ルーチン導入には、明確な皮膚科的・代謝的エンドポイントを用いたランダム化比較試験（RCT）が必要である。",
+      "why_matters_ja": "HSは全身性免疫代謝疾患として再認識されており、肥満患者では生物学的製剤の効果が低下する。炎症の上流にある代謝的駆動因子を標的とすることで、全身性炎症の軽減、術前リスクの低減、体重依存性生物学的製剤への反応改善が期待される。",
+      "study_type_ja": "総説（Review）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-24T23:52:17Z"
+    },
+    {
+      "pmid": "42778649",
+      "title": "Clinical Evidence of Kidney Protection Exerted by SGLT2 Inhibitors.",
+      "abstract": "Sodium-glucose cotransporter-2 inhibitors (SGLT2i) have become foundational therapies for nephroprotection, transforming the management of chronic kidney disease (CKD) beyond the traditional risk factors. This chapter synthesizes evidence from randomized controlled trials and real-world studies demonstrating that SGLT2i consistently reduce albuminuria, slow estimated glomerular filtration rate (eGFR) decline, and lower the risk of hard renal endpoints, including progression to end-stage kidney disease. Early cardiovascular outcome trials first signalled renal benefit as secondary outcomes, which was subsequently confirmed in dedicated renal trials such as CREDENCE, DAPA-CKD, and EMPA-KIDNEY, establishing kidney protection in patients with and without type 2 diabetes and across a broad spectrum of eGFR and albuminuria. Heart failure trials further support renal preservation in high cardiorenal-risk populations. Complementary real-world evidence across multiple health systems corroborates trial findings, extending effectiveness to heterogeneous populations, including older adults and nondiabetic CKD. The chapter also reviews emerging data on combination strategies with GLP-1 receptor agonists or finerenone, long-term treatment considerations, and projections suggesting substantial delays in kidney failure with earlier initiation. Collectively, these data support broad implementation of SGLT2i as core disease-modifying therapy in CKD, while highlighting priority areas for future research in underrepresented populations and optimized combination regimens.",
+      "journal": "Handbook of experimental pharmacology",
+      "authors": "Solini Anna, Tricò Domenico",
+      "pub_date": "2026-09-24",
+      "doi": "10.1007/164_2026_847",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778649/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8ea5ce549401fa45c8c2f1d69a299b644f93b90756d67dc2c805426d886944ac",
+      "fetched_at_utc": "2026-09-24T23:52:00Z",
+      "updated_at_utc": "2026-09-24T23:52:00Z",
+      "summary_ja": "SGLT2阻害薬（SGLT2i）は慢性腎臓病（CKD）の腎保護において基幹的治療薬となり、従来のリスク因子を超えてCKDの管理を変革している。本チャプターは、無作為化比較試験（RCT）および実世界研究の証拠を統合し、SGLT2iがアルブミン尿を減少させ、eGFRの低下を遅延させ、末期腎不全への進行を含む硬い腎エンドポイントのリスクを低減することを示している。CREDENCE、DAPA-CKD、EMPA-KIDNEYなどの腎臓専用試験により、2型糖尿病の有無を問わず、幅広いeGFRおよびアルブミン尿の範囲で腎保護が確立された。心不全試験も高心腎リスク集団での腎保護を支持し、実世界証拠も試験結果を補強している。さらに、GLP-1受容体作動薬やフィネレノンとの併用戦略、長期治療の考慮事項、早期開始による腎不全の大幅な遅延の予測についてもレビューしている。",
+      "key_takeaway_ja": "SGLT2iはCKDにおいて疾患修飾治療として広く実施すべきであり、2型糖尿病の有無を問わず、幅広いeGFRおよびアルブミン尿の範囲で腎保護効果が確立されている。",
+      "why_matters_ja": "SGLT2iがCKDの基幹的疾患修飾治療として位置づけられることで、従来のリスク因子管理を超えたCKD治療のパラダイムシフトが示唆される。早期開始による腎不全の大幅な遅延が予測されることから、臨床実践への広範な導入が期待される。",
+      "study_type_ja": "レビュー（Handbook of experimental pharmacologyのチャプター。RCTおよび実世界研究の証拠を統合した叙述的レビュー）",
+      "endpoints_ja": "アルブミン尿の減少、eGFR低下の遅延、硬い腎エンドポイント（末期腎不全への進行を含む）のリスク低減",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-24T23:53:07Z"
+    },
+    {
+      "pmid": "42777788",
+      "title": "GLP-1 receptor agonists and podocyte senescence in diabetic kidney disease: structural pharmacology, mechanistic evidence, and multi-receptor agonism.",
+      "abstract": "Diabetic kidney disease (DKD) is a major cause of chronic kidney disease and kidney failure worldwide. Podocyte senescence is increasingly recognized as a contributor to diabetic glomerular injury, but its importance in human DKD and its modulation by glucagon-like peptide-1 receptor agonists (GLP-1RAs) remain incompletely defined. GLP-1RAs provide clinically meaningful kidney protection beyond glucose lowering, yet the responsible cellular mechanisms remain unresolved. This review integrates inactive- and agonist-bound GLP-1R structures with pharmacological, podocyte, renal, and clinical evidence to distinguish established findings from mechanistic hypotheses. Structural studies define principles of ligand recognition, receptor activation, G-protein coupling, signaling bias, and trafficking but do not establish podocyte-specific signaling. Experimental studies suggest that GLP-1RA exposure may modulate inflammatory, oxidative, mitochondrial, autophagic, and cell-death pathways that intersect with senescence-associated processes; however, evidence ranges from direct podocyte observations to extrapolation from whole-kidney, other renal-cell, or non-renal systems, and GLP-1R dependence within podocytes remains unresolved. Multi-receptor agonists targeting GLP-1R, the glucose-dependent insulinotropic polypeptide receptor (GIPR), and the glucagon receptor (GCGR) show favorable kidney signals, but renal receptor-level synergy and direct anti-senescence effects remain unproven. FLOW established kidney protection with semaglutide in type 2 diabetes and chronic kidney disease, reducing the primary composite of major kidney disease events or cardiovascular death by 24%. Candidate urinary and circulating biomarkers remain exploratory rather than validated measures of podocyte senescence or GLP-1R target engagement. We propose testable genetic and translational strategies to determine whether podocyte-intrinsic GLP-1R signaling contributes to GLP-1RA-associated kidney protection.",
+      "journal": "Biochemical pharmacology",
+      "authors": "Yue Hongyu, Wang Yu, Guo Xingyu, Sun Yaozong, Cheng Yao, Yan Pan, Tan Zhicheng, Han Chongyang",
+      "pub_date": "2026-09-23",
+      "doi": "10.1016/j.bcp.2026.118495",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42777788/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "7ae8da7034104a2f4a63cf9425db673cdc1e0b8dc539e06b7605216f77a1ad1c",
+      "fetched_at_utc": "2026-09-24T23:52:00Z",
+      "updated_at_utc": "2026-09-24T23:52:00Z",
+      "summary_ja": "本レビューは、糖尿病性腎症（DKD）におけるポドサイト老化とGLP-1受容体作動薬（GLP-1RA）の関係を、構造薬理学・薬理学・ポドサイト・腎・臨床のエビデンスを統合して整理したものである。GLP-1RAは血糖降下を超えた腎保護効果を示すが、その細胞内機構は未解明であり、ポドサイト特異的なシグナリングは確立されていない。多受容体作動薬（GLP-1R、GIPR、GCGR）は腎保護シグナルを示すが、腎受容体レベルの相乗効果や直接的な抗老化効果は未証明である。FLOW試験ではセマグルチドが2型糖尿病・慢性腎症において主要複合エンドポイント（主要腎疾患イベントまたは心血管死亡）を24%減少させた。",
+      "key_takeaway_ja": "GLP-1RAの腎保護効果はFLOW試験で実証されているが、ポドサイト老化を介した機構は未解明であり、ポドサイト内在性GLP-1Rシグナリングの寄与を証明するための検証可能な遺伝的・トランスレーショナル戦略が提案されている。",
+      "why_matters_ja": "DKDは世界的に慢性腎疾患・腎不全の主要な原因であり、GLP-1RAの血糖降下を超えた腎保護メカニズムの解明は、腎保護療法の最適化と新規バイオマーカー開発に寄与する可能性がある。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "主要複合エンドポイント（主要腎疾患イベントまたは心血管死亡）",
+      "endpoint_results_ja": "セマグルチド群で主要複合エンドポイント（主要腎疾患イベントまたは心血管死亡）が24%減少（FLOW試験）",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-24T23:53:28Z"
+    },
+    {
+      "pmid": "42777699",
+      "title": "[New Therapeutic Approaches for MASH: Mechanisms and Clinical Promise].",
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a progressive liver disorder characterized by inflammation, fibrosis, and metabolic dysfunction. In recent years, therapeutic options have expanded significantly. The thyroid hormone receptor-β agonist resmetirom became the first drug approved in Germany in 2025 for non-cirrhotic MASH with moderate to advanced fibrosis. Furthermore, incretin mimetics, originally developed for diabetes and obesity, are being investigated. In a phase 3 study, semaglutide demonstrated significant improvements in hepatic inflammation and fibrosis. Beyond GLP-1 analogs, which act indirectly through metabolic pathways, several liver fibrosis-specific therapies are emerging, including FGF-21 analogs and dual incretin receptor agonists (e.g. survodutide) that directly affect hepatocytes via glucagon receptor signaling. Combination therapies are increasingly being explored to harness synergistic effects and enable individualized treatment. Ongoing phase 3 studies assess long-term efficacy and safety. In parallel, biomarkers are being refined for patient selection and treatment monitoring. The German SLD Registry will collect patient data and clinical outcomes following the implementation of new therapies. This review summarizes recent advances and future perspectives in the pharmacological treatment of MASH. The combination of metabolic and liver-targeted therapies offers substantial promise for personalized medicine.",
+      "journal": "Zeitschrift fur Gastroenterologie",
+      "authors": "Barton Alexander, Schattenberg Jörn M",
+      "pub_date": "2026-09-23",
+      "doi": "10.1055/a-2894-7716",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42777699/",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Evidence-Based Medicine",
+        "Treatment Outcome",
+        "Molecular Targeted Therapy",
+        "Incretins",
+        "Fatty Liver",
+        "Semaglutide"
+      ],
+      "matched_assets": [
+        "semaglutide",
+        "survodutide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim",
+        "Novo Nordisk"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "a2af0ff548b0d21479861b8bb31f3ae420af452ca88f82d16f5d901d5ebcf606",
+      "fetched_at_utc": "2026-09-24T23:52:00Z",
+      "updated_at_utc": "2026-09-24T23:52:00Z",
+      "summary_ja": "MASLD（代謝機能異常関連脂肪性肝疾患）は炎症・線維化・代謝機能異常を特徴とする進行性肝疾患であり、近年治療選択肢が大幅に拡大している。本レビューでは、2025年にドイツで非肝硬変性MASH（中等度〜高度線維化）に対して承認された甲状腺ホルモン受容体βアゴニストresmetirom、フェーズ3試験で肝炎症・線維化の有意な改善を示したsemaglutide、FGF-21アナログ、デュアルインクレチン受容体アゴニスト（survodutideなど）、併用療法、バイオマーカーの改良、およびドイツSLDレジストリについて概説している。",
+      "key_takeaway_ja": "代謝系標的薬と肝臓標的薬の組み合わせが、MASHの個別化医療において大きな可能性を有している。",
+      "why_matters_ja": "MASHは進行性肝疾患であり、2025年にドイツで初の承認薬（resmetirom）が登場したことで治療の転換点を迎えている。複数の新規治療法がフェーズ3段階で評価されており、併用療法やバイオマーカーによる患者選定・治療モニタリングの枠組みが整備されつつある。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "肝炎症、線維化（semaglutideのフェーズ3試験）、長期有効性及び安全性（進行中のフェーズ3試験）",
+      "endpoint_results_ja": "semaglutideはフェーズ3試験で肝炎症および線維化の有意な改善を示した（具体的な数値は抄録に記載なし）",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-24T23:53:51Z"
+    },
+    {
+      "pmid": "42777696",
+      "title": "MASLD: Established Knowledge and Emerging Directions - Guideline Updates.",
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) has become a major global health challenge, largely driven by the increasing prevalence of obesity and type 2 diabetes mellitus. The disease spectrum ranges from isolated steatosis to metabolic dysfunction-associated steatohepatitis (MASH) with progressive fibrosis. Advanced fibrosis substantially increases the risk of cirrhosis, hepatocellular carcinoma, and cardiovascular complications, thereby contributing significantly to morbidity and mortality.Although lifestyle modification remains the cornerstone of therapy, pharmacological treatment is gaining importance in patients with progressive disease or high-risk profiles. Advances in the understanding of MASLD pathophysiology have enabled the development of targeted therapies addressing hepatic lipid accumulation, insulin resistance, inflammation, and fibrogenesis. Promising clinical data have been reported for resmetirom, semaglutide, tirzepatide, survodutide, lanifibranor, and fibroblast growth factor-21 analogues including efruxifermin, pegozafermin, and efimosfermin.This review summarises current and emerging diagnostic and therapeutic strategies and provides practical guidance for clinical management. In addition, a structured treatment algorithm for non-cirrhotic MASLD (F0-F3), restricted to therapies currently available in Europe and stratified according to diabetes status and fibrosis stage, is proposed as an evidence-based tool for routine clinical practice.",
+      "journal": "Zeitschrift fur Gastroenterologie",
+      "authors": "Roeb Elke, Geier Andreas",
+      "pub_date": "2026-09-23",
+      "doi": "10.1055/a-2894-7628",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42777696/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Practice Guidelines as Topic",
+        "Evidence-Based Medicine",
+        "Fatty Liver",
+        "Semaglutide"
+      ],
+      "matched_assets": [
+        "semaglutide",
+        "survodutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim",
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "3503e9299df7b7c3bbbbcf1b30318ef8688c7029d088b78a07dbd7a7d27e13b3",
+      "fetched_at_utc": "2026-09-24T23:52:00Z",
+      "updated_at_utc": "2026-09-24T23:52:00Z",
+      "summary_ja": "MASLD（代謝機能異常関連脂肪性肝疾患）の診断・治療戦略の現状と今後の方向性を総説したレビュー記事。欧州で現在利用可能な治療薬に限定し、糖尿病の有無と線維化ステージ（F0-F3）で層別化された非肝硬変性MASLDの構造化治療アルゴリズムを提案している。",
+      "key_takeaway_ja": "非肝硬変性MASLD（F0-F3）に対し、欧州で利用可能な治療薬に限定し、糖尿病状態と線維化ステージで層別化された構造化治療アルゴリズムを、日常臨床実践のためのエビデンスベースツールとして提案した。",
+      "why_matters_ja": "MASLDは肥満と2型糖尿病の増加に伴い世界的な健康課題となっており、高度線維化は肝硬変・肝細胞癌・心血管合併症のリスクを大幅に増加させる。生活習慣改善が治療の柱である一方、進行性疾患や高リスクプロファイルの患者では薬物治療の重要性が高まっており、resmetirom、semaglutide、tirzepatide、survodutide、lanifibranor、FGF-21アナログ（efruxifermin、pegozafermin、efimosfermin）など有望な臨床データが報告されている。",
+      "study_type_ja": "レビュー（総説）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-24T23:54:08Z"
+    },
+    {
+      "pmid": "42777687",
+      "title": "Semaglutide and cardiovascular risk reduction: a mediation analysis of the SELECT trial.",
+      "abstract": "BACKGROUND AND AIMS: In SELECT, subcutaneous semaglutide (target dose 2.4 mg) weekly in adults with pre-existing cardiovascular disease and body mass index ≥27 kg/m2 without diabetes significantly reduced major adverse cardiovascular events (MACE) by 20% vs placebo. This analysis explored potential mediators of this cardiovascular benefit.\nMETHODS: Changes from randomization to 24 months in body weight, waist circumference, plasma high-sensitivity C-reactive protein (hsCRP), glycated haemoglobin (HbA1c), lipids, blood pressure, estimated glomerular filtration rate, and urinary albumin-to-creatinine ratio were examined individually, and in combination, as potential mediators of MACE risk reduction, using the Vansteelandt repeated regression method (a counterfactual approach).\nRESULTS: Semaglutide significantly (P < .05) improved all potential mediators investigated. Point estimates for % mediation were largest for waist circumference (64.0% [95% confidence interval (CI) 27.5, 179.6]), hsCRP (42.1% [17.9, 110.5]), HbA1c (29.0% [-20.7, 120.5]), and body weight (19.5% [-33.0, 110.7]), examined separately, but all had wide CIs. Supplementary analyses suggested unreliability of estimates for body weight and waist circumference, potentially due to differing relationship of body weight and waist change to MACE between treatment arms. Multivariable analysis estimated joint mediation for all potential mediators combined to be 31.4% (95% CI -30.1, 143.6). When variables other than body weight and waist circumference were considered, % mediation was 46.0% (95% CI -6.0, 161.0).\nCONCLUSIONS: Mediation analyses could not fully ascribe the effects of semaglutide on MACE to known risk factors in SELECT with any certainty. Further investigation of potential additional biomarkers and mediators of semaglutide's cardiovascular protective effect are of interest.",
+      "journal": "European heart journal",
+      "authors": "Colhoun Helen M, Lincoff A Michael, Ryan Donna, Lingvay Ildiko, Kahn Steven E, Hovingh G Kees, Hardt-Lindberg Søren, Oral Tugce Kalayci",
+      "pub_date": "2026-09-23",
+      "doi": "10.1093/eurheartj/ehag524",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42777687/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2edfa6bbc95135e8f5d8425b53ba9702a9744b532ca3e3b43804fe7011c7f09d",
+      "fetched_at_utc": "2026-09-24T23:52:00Z",
+      "updated_at_utc": "2026-09-24T23:52:00Z",
+      "summary_ja": "SELECT試験（既存の心血管疾患を有しBMI≥27 kg/m²で糖尿病を有しない成人において、皮下投与セマグルチド2.4 mg週1回がプラセボ対照で主要心血管不良事象（MACE）を20%有意に減少させた）の二次解析として、MACEリスク減少の潜在的中介因子（体重、腹囲、hsCRP、HbA1c、脂質、血圧、eGFR、尿アルブミン/クレアチニン比）を、Vansteelandt反復回帰法（反事実アプローチ）を用いて個別および複合的に評価した。",
+      "key_takeaway_ja": "SELECT試験におけるセマグルチドのMACEに対する効果は、既知のリスク因子の変化では確実に説明できず、複合的な介入分析では全潜在的中介因子の合計媒介効果が31.4%（95% CI -30.1, 143.6）と推定されたが、信頼区間が広く不確実性が高い。",
+      "why_matters_ja": "セマグルチドの心血管保護効果の機序を解明することは、既知のリスク因子の改善以外の経路（例：抗炎症作用など）が存在する可能性を示唆し、今後のバイオマーカー探索や治療戦略の設計に重要な示唆を与える。",
+      "study_type_ja": "SELECT試験の二次解析（媒介分析、Vansteelandt反復回帰法による反事実アプローチ）",
+      "endpoints_ja": "主要心血管不良事象（MACE）のリスク減少に対する潜在的中介因子（体重、腹囲、hsCRP、HbA1c、脂質、血圧、eGFR、尿アルブミン/クレアチニン比）の媒介効果（% mediation）",
+      "endpoint_results_ja": "MACEはプラセボ対照で20%有意に減少。個別媒介効果の点推定値：腹囲64.0%（95% CI 27.5, 179.6）、hsCRP 42.1%（17.9, 110.5）、HbA1c 29.0%（-20.7, 120.5）、体重19.5%（-33.0, 110.7）。全潜在的中介因子の複合媒介効果：31.4%（95% CI -30.1, 143.6）。体重・腹囲を除いた場合の媒介効果：46.0%（95% CI -6.0, 161.0）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-24T23:54:35Z"
     },
     {
       "pmid": "42776557",
@@ -382,6 +607,76 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
       "summary_generated_at_utc": "2026-09-22T23:35:14Z"
+    },
+    {
+      "pmid": "42768905",
+      "title": "Trends in GLP-1 Receptor Agonist Prescribing Without an Apparent FDA-Approved Indication.",
+      "abstract": "OBJECTIVE: This study evaluated temporal trends and patient characteristics associated with glucagon-like peptide-1 (GLP-1) receptor agonist prescribing among US adults without an apparent FDA-approved indication.\nMETHODS: This retrospective cohort study used Cosmos electronic health records (01/2021-12/2025). Adults prescribed liraglutide, semaglutide, or tirzepatide without a documented indication (type 2 diabetes or obesity with qualifying comorbidities) were included. Patients without a recorded weight ≥ 6 months prior to first prescription were excluded. Demographic and clinical characteristics were compared using t-tests and χ2 tests.\nRESULTS: Among 92,415,648 adults without an apparent FDA-approved indication, 1,133,953 (1.2%) were prescribed GLP-1 receptor agonists. Prescribing increased from 0.1% in 2021 to 1.5% in 2025 (15-fold). Recipients had higher median BMI (25.9 vs. 24.5 kg/m2) and were more often female (85.5%) and White (60.0%). Hypertension and dyslipidemia were more common, while coronary artery disease and heart failure were less prevalent. Notably, 35.1% had normal BMI; eating disorders were more frequent (1.8% vs. 0.3%). GLP-1 receptor agonist use was associated with lower social vulnerability and private insurance.\nCONCLUSIONS: GLP-1 receptor agonist prescribing without an apparent FDA-approved indication has increased rapidly and disproportionately involves socioeconomically advantaged populations, including individuals without obesity. The risk-benefit profile in these populations remains uncertain.",
+      "journal": "Obesity (Silver Spring, Md.)",
+      "authors": "Orandi Babak J, Yan Leila, Levan Macey L, Lofton Holly F, Chhabra Karan R, Ren-Fielding Christine J, Husain S Ali, McAdams-DeMarco Mara A",
+      "pub_date": "2026-09-22",
+      "doi": "10.1002/oby.70301",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768905/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a59a9aff02fd50b9d95319c00f1aed88de8c415b86a76e3f61ea0fd8dacdda61",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z",
+      "summary_ja": "本研究は、FDA承認適応（2型糖尿病または該当する合併症を伴う肥満）が明記されていない米国成人におけるGLP-1受容体作動薬（リラグルチド、セマグルチド、tirzepatide）の処方に関する時間的トレンドと患者特性を評価した。Cosmos電子カルテ（2021年1月〜2025年12月）を用いた後方視コホート研究であり、初回処方の6か月前に体重記録がない患者は除外した。",
+      "key_takeaway_ja": "FDA承認適応が明記されていない成人におけるGLP-1受容体作動薬の処方は2021年の0.1%から2025年の1.5%へ15倍に急増し、肥満のない個人を含む社会的・経済的に有利な集団に不均衡に集中している。",
+      "why_matters_ja": "これらの集団におけるリスクベネフィットプロファイルは依然として不確実であり、承認外処方の急増は安全性と公平性の両面で臨床的・公衛上的な懸念を提起する。",
+      "study_type_ja": "後方視コホート研究",
+      "endpoints_ja": "['FDA承認適応なしの成人におけるGLP-1受容体作動薬処方率の時間的トレンド', '処方を受けた患者の人口統計学的・臨床的特徴（BMI、性別、人種、合併症、社会脆弱性、保険種別）']",
+      "endpoint_results_ja": "処方率は2021年の0.1%から2025年の1.5%に増加（15倍）。処方群の中央値BMIは25.9 kg/m2（非処方群24.5 kg/m2）、女性85.5%、白人60.0%。正常BMIの患者が35.1%を占め、摂食障害の頻度は1.8%（非処方群0.3%）と高かった。",
+      "sample_size_ja": "FDA承認適応なしの成人92,415,648人中、1,133,953人（1.2%）がGLP-1受容体作動薬を処方された。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-24T23:55:35Z"
+    },
+    {
+      "pmid": "42768195",
+      "title": "Future GLP-1 receptor co-agonists and their cardiac effects.",
+      "abstract": "Agonists at glucagon-like-peptide-1 receptors (GLP-1R) are becoming approved drugs to treat not only type 2 diabetes and obesity but also cardiac diseases such as coronary heart disease, myocardial infarction and heart failure. Agonism at the GLP-1R can be combined with agonism at additional receptors (co-agonists) to obtain drugs which are more potent to induce weight loss. Therefore, new co-agonists were developed that not solely stimulate GLP-1R. We discuss here the known (for tirzepatide and retatrutide) or predicted contractile effects of such co-agonists on isolated cardiac preparations of experimental animals, mainly in mice and compare these results with data in isolated human cardiac preparations. We point out where preclinical studies in mice may be misleading in order to study cardiac effects of the drugs of interest in the human heart and as potential drugs for heart diseases. We address in some detail which additional receptors are or might be involved, the receptor expression of such additional receptors in the heart of various experimental animals. We will discuss not only receptor agonists but also a receptor antagonist (AMG133). We identify research needs and controversies in the literature. We make suggestions for further preclinical research and what improvements in drug design for treatment may lie ahead.",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "authors": "Neumann Joachim, Kirchefer Uwe, Hofmann Britt, Gergs Ulrich",
+      "pub_date": "2026-09-22",
+      "doi": "10.1007/s00210-026-05908-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768195/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "77f7d5ce194be48c4f1ab878c4673b33b65f127222fc6c6b3520d2fd48dce8fa",
+      "fetched_at_utc": "2026-09-22T23:35:14Z",
+      "updated_at_utc": "2026-09-22T23:35:14Z",
+      "summary_ja": "GLP-1受容体共作動薬（tirzepatide、retatrutide）の離体心臓標本における収縮効果について、実験動物（主にマウス）での既知または予測される効果とヒト離体心臓標本でのデータを比較検討したレビュー。追加受容体の関与、各種実験動物心臓における受容体発現、および受容体拮抗薬（AMG133）についても言及し、前臨床研究の課題と論争を整理している。",
+      "key_takeaway_ja": "マウスを用いた前臨床研究は、ヒト心臓におけるGLP-1R共作動薬の心臓効果を評価する際に誤解を招く可能性がある。ヒト心臓への適用を考慮したさらなる前臨床研究と薬物設計の改善が必要である。",
+      "why_matters_ja": "GLP-1R作動薬は2型糖尿病・肥満だけでなく、冠動脈疾患・心筋梗塞・心不全などの心疾患の治療薬として承認が進んでおり、より強力な減量効果を持つ共作動薬の開発が進んでいる。これらの薬剤の心臓への影響を正確に理解することは、心疾患治療への応用において重要である。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "離体心臓標本における収縮効果（contractile effects）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-24T23:56:07Z"
     },
     {
       "pmid": "42765974",
@@ -4966,299 +5261,6 @@
       "sample_size_ja": "42,243例（平均年齢60.9±16.9歳、女性49.7%、平均BMI 33.9±3.9 kg/m²）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-06T22:56:42Z"
-    },
-    {
-      "pmid": "42686906",
-      "title": "Late-life semaglutide treatment slows ageing and extends lifespan in female mice.",
-      "abstract": "Pharmacological glucagon-like peptide-1 receptor (GLP-1R) activation reduces food intake and is an effective therapy for type 2 diabetes and obesity1. The use of GLP-1 medicines has revealed pleiotropic beneficial effects beyond glucose and weight control2-5, but little is known about the underlying basis of the pleiotropic effects. Here, treatment of 20-month-old female C57BL/6 mice with the GLP-1R agonist semaglutide for 3 months improved physiological function, attenuated hallmarks of ageing and modulated nutrient sensors and conserved genetic regulators of ageing. Continued treatment extended mouse lifespan. These effects parallel key features of calorie restriction, a dietary intervention that slows ageing, extends lifespan and alleviates a wide spectrum of ageing-associated diseases6. In a longitudinal study in direct comparison to matched calorie restriction, semaglutide treatment preserved baseline function and recapitulated many functional benefits of calorie restriction by attenuating age-associated decline, while also producing improvements above baseline and more favourable trajectories than calorie restriction in exploratory drive, spatial memory and glucose control. Together, these findings demonstrate that GLP-1R activation initiated late in life slows ageing and extends lifespan in female mice, supporting its function as a calorie restriction mimetic and providing a mechanistic framework that may help to explain its broad beneficial effects while revealing effects beyond those attributable to reduced calorie intake.",
-      "journal": "Nature",
-      "authors": "Feng Yufan, Barthez Marine, Wang Yifei, Chen Yibing, Qiu Huixian, Wang Chih-Ling, Heydari Kartoosh, Delcroix Melaine",
-      "pub_date": "2026-09-02",
-      "doi": "10.1038/s41586-026-10940-7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42686906/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "b2982620c529b9c31875a16200c4d1170f4a38667a91fbaf2e8cb3869e26d256",
-      "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z",
-      "summary_ja": "20ヶ月齢の雌性C57BL/6マウスにGLP-1Rアゴニストであるセマグルチドを3ヶ月間投与したところ、生理機能の改善、老化の指標の軽減、栄養センサーおよび保存された老化遺伝子調節因子の調節が認められた。継続投与によりマウスの寿命が延長された。直接比較した縦断研究において、セマグルチド投与は基準機能を保ち、カロリー制限の多くの機能的利益を再現するとともに、探索的駆動、空間記憶、グルコース制御において基準値以上の改善とカロリー制限よりも好ましい推移を示した。",
-      "key_takeaway_ja": "生涯の后期に開始したGLP-1R活性化は、雌性マウスにおいて老化を遅らせ寿命を延長し、カロリー制限ミメティックとしての機能を支持する。",
-      "why_matters_ja": "GLP-1R活性化の広範な有益効果の説明に役立つ機能的枠組みを提供するとともに、カロリー摂取量の減少に帰因される以上の効果を明らかにする。",
-      "study_type_ja": "前臨床動物実験（雌性マウス、縦断研究、カロリー制限との直接比較）",
-      "endpoints_ja": "生理機能、老化の指標、栄養センサーおよび保存された老化遺伝子調節因子、寿命、探索的駆動、空間記憶、グルコース制御",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-06T22:56:59Z"
-    },
-    {
-      "pmid": "42686660",
-      "title": "Sodium-Glucose Cotransporter 2 Inhibition in Diabetic Macular Oedema: Emerging Evidence for Stage-Dependent Systemic-Retinal Responsiveness.",
-      "abstract": "AIMS: Sodium-glucose cotransporter 2 (SGLT2) inhibitors exert systemic cardiometabolic, renal and vascular effects that may influence retinal health, yet whether their effects on diabetic macular oedema (DMO) are stage-dependent remains unclear. We synthesized real-world, interventional and mechanistic evidence on responsiveness across disease stages and retinal phenotypes.\nMATERIALS AND METHODS: In this scoping review (PRISMA-ScR; prospectively registered, UMIN000061304), we searched PubMed, the Cochrane Library, ClinicalTrials.gov, WHO-ICTRP and Google Scholar for studies published from January 2014 to April 2026. Two reviewers independently screened and charted records. Heterogeneity precluded meta-analysis, so a qualitative meta-summary with exploratory E-value analyses was performed.\nRESULTS: Forty studies were included. Large administrative databases consistently associated SGLT2 inhibitor use with a 16%-35% lower DMO incidence (hazard ratio 0.65-0.84) and hazard ratios of 0.53-0.94 for diabetic retinopathy progression. In established DMO, observational studies reported hazard ratios of 0.39-0.81 for anti-vascular endothelial growth factor (VEGF) injections, corticosteroid therapy and repeat vitrectomy, with the first-vitrectomy estimate non-significant, and attenuation in severe non-proliferative or proliferative retinopathy. The only randomized trial (COMET) did not meet its primary endpoint; its fellow-eye and phenotype-specific subgroup analyses were exploratory and hypothesis-generating. Proposed mechanisms include suppression of microglial activation, oxidative stress and angiopoietin-2/VEGF signalling, although translational evidence remains preclinical.\nCONCLUSIONS: This predominantly observational evidence suggests that SGLT2 inhibitors may be associated with slower DMO disease kinetics across retinopathy stages, with reduced treatment burden most evident before severe retinopathy. Systemic SGLT2 inhibition may complement, rather than replace, anti-VEGF therapy, which remains the cornerstone of DMO management. These findings support prospective stage- and phenotype-stratified investigation.",
-      "journal": "Diabetes, obesity & metabolism",
-      "authors": "Ishibashi Ryoichi, Hirayama Kiichi, Sakai Toshiki, Tatsumi Tomoaki, Takatsuna Yoko, Baba Takayuki, Koshizaka Masaya, Yokote Koutaro",
-      "pub_date": "2026-09-02",
-      "doi": "10.1111/dom.71295",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42686660/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "e2f1b17ef7a7e6cf9e898d672461f22521b023e1ff67cae356c9d92da6fc4972",
-      "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z",
-      "summary_ja": "SGLT2阻害薬が糖尿病性黄斑浮腫（DMO）に及ぼす影響について、疾患段階および網膜表現型に応じた反応性を評価するため、実世界データ、介入研究、機序研究の証拠を統合したスコーピングレビュー（PRISMA-ScR、UMIN000061304）。2014年1月から2026年4月までに発表された研究をPubMed、Cochrane Library、ClinicalTrials.gov、WHO-ICTRP、Google Scholarから検索し、40研究を含む。異質性の高さからメタ分析は実施できず、定性的メタサマリーと探索的E-value解析を行った。",
-      "key_takeaway_ja": "SGLT2阻害薬の使用は、網膜症段階を問わずDMOの疾患動態の遅延と関連し、治療負荷の軽減は重度網膜症以前に最も顕著である。SGLT2阻害薬は抗VEGF療法を代替するのではなく、補完的に機能する可能性がある。",
-      "why_matters_ja": "DMOは糖尿病における視力喪失の主要な原因であり、SGLT2阻害薬はすでに心代謝・腎臓適応で広く使用されている。これらの薬剤がDMOの発症率や治療負荷を低減する可能性が示唆されれば、既存の糖尿病治療における網膜保護効果の追加的利点として臨床的に重要である。",
-      "study_type_ja": "スコーピングレビュー（PRISMA-ScR）、定性的メタサマリーおよび探索的E-value解析",
-      "endpoints_ja": "DMO発症、糖尿病性網膜症の進行、抗VEGF注射、コルチコステロイド療法、再硝子体切除術、初回硝子体切除術",
-      "endpoint_results_ja": "DMO発症：16%-35%低減（ハザード比0.65-0.84）。糖尿病性網膜症の進行：ハザード比0.53-0.94。確立したDMOにおける抗VEGF注射・コルチコステロイド療法・再硝子体切除術：ハザード比0.39-0.81。初回硝子体切除術：有意差なし。唯一のランダム化試験（COMET）：主要エンドポイントを達成しなかった。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-06T22:57:28Z"
-    },
-    {
-      "pmid": "42685919",
-      "title": "Where the Future Lies: GLP-1 Receptor Agonists as Therapeutics for Dermatologic Comorbidities.",
-      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have transformed the management of obesity, type 2 diabetes mellitus, and cardiometabolic disease through effects on weight reduction, glycemic control, and systemic inflammation. Their varied immunometabolic actions have generated increasing interest in dermatology, where chronic inflammatory skin diseases frequently coexist with obesity, insulin resistance, metabolic syndrome, and cardiovascular disease. Emerging evidence from clinical trials, observational studies, and real-world analyses suggests that GLP-1RAs may improve outcomes in psoriasis and hidradenitis suppurativa while simultaneously reducing the burden of associated metabolic and cardiovascular comorbidities. In psoriasis, combination therapy with tirzepatide has demonstrated enhanced skin clearance, substantial weight loss, and reduced risk of psoriatic arthritis. In hidradenitis suppurativa, GLP-1RAs have been associated with improvements in cardiometabolic outcomes and reductions in systemic complications. Collectively, these findings support an evolving paradigm in which the greatest therapeutic utility of GLP-1RAs in dermatology may lie not in direct modulation of cutaneous inflammation but in addressing the metabolic dysfunction and chronic systemic inflammation that drive disease severity and multimorbidity. We review the current clinical evidence and propose a conceptual framework positioning GLP-1RAs as immune-metabolic therapies that target the systemic comorbidities of inflammatory skin disease, which may provide future opportunities for cutaneous disease modification and integrated dermatologic care.",
-      "journal": "Clinics in dermatology",
-      "authors": "DeCoster Mikaela, Narla Shanthi",
-      "pub_date": "2026-09-02",
-      "doi": "10.1016/j.clindermatol.2026.08.013",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42685919/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "d1650fe9aed871bc386ee14fa8ec052b527f7fa8b87d6405d3533127f254801b",
-      "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z",
-      "summary_ja": "GLP-1受容体作動薬（GLP-1RA）が肥満、2型糖尿病、心代謝性疾患の管理を変革してきた背景のもと、慢性炎症性皮膚疾患（乾癬、化膿性汗腺炎）におけるGLP-1RAの応用可能性をレビューした総説である。臨床試験、観察研究、実世界解析からの証拠を統合し、GLP-1RAを免疫代謝療法として位置づける概念的枠組みを提案している。",
-      "key_takeaway_ja": "GLP-1RAの皮膚科における最大の治療的有用性は、皮膚炎症の直接的な調節ではなく、疾患重症度と多疾患併存を駆動する代謝機能不全および慢性全身性炎症に対処することにある可能性が示唆された。",
-      "why_matters_ja": "乾癬や化膿性汗腺炎では、肥満・インスリン抵抗性・代謝症候群・心血管疾患が頻繁に併存しており、GLP-1RAが皮膚疾患の転帰改善と関連する代謝・心血管合併症の負担軽減を同時に実現できる可能性がある。これにより、皮膚疾患修飾と統合的皮膚科ケアの将来の機会が提供される。",
-      "study_type_ja": "総説（Review）",
-      "endpoints_ja": "乾癬：皮膚クリアランス、体重減少、乾癬性関節炎リスク。化膿性汗腺炎：心代謝性アウトカム、全身性合併症。",
-      "endpoint_results_ja": "抄録に具体的な数値は記載なし。乾癬ではtirzepatide併用療法で「enhanced skin clearance, substantial weight loss, and reduced risk of psoriatic arthritis」が示されたと記載。化膿性汗腺炎では「improvements in cardiometabolic outcomes and reductions in systemic complications」と記載。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-07T23:30:41Z"
-    },
-    {
-      "pmid": "42685819",
-      "title": "Brca1 heterozygosity leads to hepatic steatosis in male and female mice despite sexually dimorphic effects on systemic metabolism.",
-      "abstract": "BACKGROUND: Carrying a germline BRCA1 mutation increases the risk of several cancers, including breast and ovarian cancer. While BRCA1 is best known for its role in DNA damage repair, emerging evidence suggests broader functions in metabolic regulation.\nMETHODS: To determine whether heterozygous loss of Brca1, as occurs in individuals carrying a germline mutation, modifies susceptibility to diet-induced metabolic dysfunction in a sex-dependent manner, wild-type (WT) and Brca1+/- mice of both sexes were fed a low-fat diet (LFD) or high-fat diet (HFD) and underwent longitudinal metabolic phenotyping.\nRESULTS: Female HFD-fed Brca1+/- mice exhibited exacerbated obesity, increased adiposity, hyperinsulinemia, and impaired glucose tolerance compared with WT controls. In contrast, male Brca1+/- mice showed modest resistance to HFD-induced weight gain and improved glucose tolerance. Human genetic analyses supported an association between BRCA1 and metabolic traits, including body mass index (BMI), type 2 diabetes and liver fat accumulation. Despite divergent systemic metabolic phenotypes, Brca1 heterozygosity increased susceptibility to HFD-induced hepatic steatosis in both sexes. In HFD-fed female Brca1+/- mice, steatosis was associated with transcriptional remodeling linked to lipid accumulation and oxidative stress responses, together with reduced mitochondrial respiratory complex IV activity, altered mitochondrial morphology, lower hepatic ATP levels. Treatment with the dual GLP‑1/GIP receptor agonist tirzepatide improved systemic metabolic dysfunction and hepatic steatosis in HFD-fed female Brca1+/- mice.\nCONCLUSIONS: These findings identify Brca1 heterozygosity as a modifier of metabolic disease susceptibility and expand the biological role of BRCA1 beyond tumor suppression to include the regulation of metabolic health.",
-      "journal": "Metabolism: clinical and experimental",
-      "authors": "Palikhe Sailesh, Qiao Linlan, Kutz Caleb, Liang Xiaobo, Dhorajiya Poojaben, Koestler Devin C, Bhardwaj Priya, McCoin Colin S",
-      "pub_date": "2026-09-02",
-      "doi": "10.1016/j.metabol.2026.156758",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42685819/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "a8273533de8c8df392d2e76b8e37953d98720c287471e7b9960561351566c012",
-      "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-11T23:13:10Z",
-      "summary_ja": "BRCA1のヘテロ接合欠損（Brca1+/-）が、食餌誘発性代謝異常への感受性に性差を示すかを検討するため、野生型（WT）およびBrca1+/-マウス（両性）を低脂肪食（LFD）または高脂肪食（HFD）で飼育し、縦断的代謝フェノタイピングを行った。雌HFD給餌Brca1+/-マウスではWT対照と比較して肥満、脂肪量増加、高インスリン血症、糖耐量障害が顕著であった一方、雄Brca1+/-マウスではHFD誘発性体重増加に対する軽度の抵抗性と糖耐量改善が認められた。ヒト遺伝解析ではBRCA1とBMI、2型糖尿病、肝脂肪蓄積との関連が支持された。全身代謝表現型が異なるにもかかわらず、Brca1ヘテロ接合は両性においてHFD誘発性肝脂肪症への感受性を増加させた。雌HFD給餌Brca1+/-マウスでは、脂肪蓄積および酸化ストレス応答に関連する転写のリモデリング、ミトコンドリア呼吸複合体IV活性の低下、ミトコンドリア形態の変化、肝ATPレベルの低下が認められた。GLP-1/GIP受容体二重アゴニストtirzepatideの投与により、雌HFD給餌Brca1+/-マウスの全身代謝異常および肝脂肪症が改善された。",
-      "key_takeaway_ja": "Brca1ヘテロ接合は全身代謝表現型に性差を示すものの、両性において高脂肪食誘発性肝脂肪症への感受性を増加させる。BRCA1の役割は腫瘍抑制を超えて代謝健康の調節にも及ぶ。",
-      "why_matters_ja": "BRCA1遺伝子変異保因者において代謝疾患の感受性が変化する可能性を示し、BRCA1の生物学的役割を腫瘍抑制から代謝健康の調節へと拡張する。また、tirzepatideによる改善は、BRCA1変異保因者における代謝合併症管理の新たな治療的示唆を与える。",
-      "study_type_ja": "前臨床（in vivo）動物実験（マウスモデル）およびヒト遺伝解析",
-      "endpoints_ja": "体重増加、脂肪量、インスリン血症、糖耐量、肝脂肪症、肝臓の転写プロファイル（脂肪蓄積・酸化ストレス関連）、ミトコンドリア呼吸複合体IV活性、ミトコンドリア形態、肝ATPレベル、BMI、2型糖尿病、肝脂肪蓄積（ヒト遺伝解析）",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-11T23:16:19Z"
-    },
-    {
-      "pmid": "42684836",
-      "title": "Effects and Safety of Henagliflozin on Cardiac Structure in Dialysis Patients with Heart Failure with Preserved Ejection Fraction.",
-      "abstract": "BACKGROUND: Few effective drug treatments exist for dialysis patients with heart failure with preserved ejection fraction (HFpEF). This study aimed to evaluate the effects of henagliflozin, a sodium-glucose cotransporter 2 (SGLT2) inhibitor, on cardiac structure, and its safety in such population.\nMETHODS: In this multicenter, randomized, double-blind, placebo-controlled trial, dialysis patients with HFpEF were randomly assigned (1:1) to receive henagliflozin or placebo for 24 weeks. All enrolled participants received conventional therapy. The primary outcome was the change in left ventricular mass index (LVMI) from baseline to week 24. The secondary outcomes were the changes in left atrial volume index (LAVI), E/e', e', and N-terminal pro-brain natriuretic peptide (NT-proBNP) and safety. Efficacy was assessed in the intention-to-treat population. Safety was assessed in the as-treated population. Analysis of covariance was used to assess treatment effects.\nRESULTS: A total of 112 participants were randomly assigned to the henagliflozin group (n=56) and the placebo group (n=56). Of these, 60 participants were on hemodialysis and 52 were on peritoneal dialysis. From baseline to week 24, henagliflozin resulted in a greater reduction inleast-squares mean (±SE) change in LVMI than placebo (-3.27±1.71 g/m2 versus 2.01±1.69 g/m2), with a between-group difference of -5.27 g/m2 (95% confidence interval [CI], -10.02 to -0.53 g/m2; P=0.03). In the prespecified subgroup by dialysis modality, the between-group difference in LVMI change from baseline to week 24 was -6.86 g/m2 (95% CI, -14.02 to 0.29 g/m2) among participants on peritoneal dialysis and -3.91 g/m2 (95% CI, -10.45 to 2.63 g/m2) among participants on hemodialysis. No between-group differences in secondary outcomes were observed. The incidence of adverse events was similar between the henagliflozin and placebo groups (36% vs. 34%).\nCONCLUSIONS: Henagliflozin was associated with a greater reduction in LVMI at week 24 compared with placebo and was tolerable in dialysis patients with HFpEF. Larger studies are needed to confirm the LVMI-lowering effect of henagliflozin.",
-      "journal": "Clinical journal of the American Society of Nephrology : CJASN",
-      "authors": "Yan Hao, Wang Wei, Wu Wangshu, Li Ying, Qi Yinghui, Zhou Yijun, Zhang Weiming, Liu Shang",
-      "pub_date": "2026-09-02",
-      "doi": "10.2215/CJN.0000001201",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42684836/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "66e620c887423166cc1808a5dead31d4287a7f09f6cc55605a2dd9af4a8086c7",
-      "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z",
-      "summary_ja": "透析患者におけるHFpEF（保存型心拍出量心不全）に対するSGLT2阻害薬ヘナグリフロジンの心臓構造への効果と安全性を評価した多施設・無作為化・二重盲検・プラセボ対照試験。透析中のHFpEF患者112名を1:1でヘナグリフロジン群（n=56）とプラセボ群（n=56）に無作為割付し、24週間投与した。主要評価項目はベースラインから24週目までの左室質量指数（LVMI）の変化量であった。ヘナグリフロジン群はプラセボ群と比較してLVMIの減少が有意に大きく（群間差 -5.27 g/m²、95%CI -10.02〜-0.53、P=0.03）、二次評価項目には群間差は認められなかった。有害事象の発生率は両群で同程度（36% vs 34%）であった。",
-      "key_takeaway_ja": "ヘナグリフロジンは透析中のHFpEF患者においてプラセボと比較して24週目でLVMIを有意に減少させ、安全性・忍容性も良好であった。",
-      "why_matters_ja": "透析中のHFpEF患者に対する有効な薬物治療は限られており、SGLT2阻害薬がこの未充足の医療ニーズに対して心臓構造の改善をもたらす可能性を示した点で意義がある。",
-      "study_type_ja": "多施設・無作為化・二重盲検・プラセボ対照試験",
-      "endpoints_ja": "主要評価項目：ベースラインから24週目までの左室質量指数（LVMI）の変化量。二次評価項目：左房容積指数（LAVI）、E/e'、e'、NT-proBNPの変化量および安全性。",
-      "endpoint_results_ja": "LVMIの変化量（最小二乗平均±SE）：ヘナグリフロジン群 -3.27±1.71 g/m² vs プラセボ群 2.01±1.69 g/m²、群間差 -5.27 g/m²（95%CI -10.02〜-0.53 g/m²、P=0.03）。腹膜透析サブグループ：群間差 -6.86 g/m²（95%CI -14.02〜0.29 g/m²）。血液透析サブグループ：群間差 -3.91 g/m²（95%CI -10.45〜2.63 g/m²）。二次評価項目（LAVI、E/e'、e'、NT-proBNP）には群間差は認められなかった。有害事象の発生率：ヘナグリフロジン群 36% vs プラセボ群 34%。",
-      "sample_size_ja": "112名（ヘナグリフロジン群 n=56、プラセボ群 n=56）。内訳：血液透析 60名、腹膜透析 52名。",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-07T23:32:05Z"
-    },
-    {
-      "pmid": "42683980",
-      "title": "Pharmacological management of obesity: Current landscape and emerging therapies.",
-      "abstract": "Obesity is now recognized as a chronic, multifactorial, and progressive disease as opposed to mere excess of body weight. It significantly increases the risk of type 2 diabetes, cardiovascular disease, metabolic-associated fatty liver disease, and mental health disorders. 2022 data reveal that nearly 3 billion individuals worldwide were living with either obesity or overweight. Pharmacological therapy has evolved remarkably. Earlier medications targeted primarily the brain's monoaminergic pathways but they were withdrawn due to safety concerns. Currently, six medications (Orlistat, Phentermine/Topiramate, Naltrexone/Bupropion, Liraglutide, Semaglutide, and Tirzepatide) are approved by the U.S. Food and Drug Administration for long-term obesity management and among these, glucagon-like peptide receptor agonists have revolutionized the therapy. The emerging pipeline is even more promising. It has new dual and triple combinations such as CagriSema, Survodutide, and Retatrutide for better efficacy and metabolic outcomes, as well as long-acting and oral formulations, which will improve adherence and accessibility. India released its new obesity guideline in January 2025, emphasizing on early pharmacotherapy initiation and the adoption of stage-based obesity classification. Together, these developments signify a transformative era in obesity care where pharmacotherapy is a powerful and evidence-based tool that, in many cases, approaches the efficacy and metabolic benefits traditionally associated with bariatric surgeries.",
-      "journal": "Indian journal of pharmacology",
-      "authors": "Atal Shubham, Agrawal Chirag, Gupta Rahul, Sadasivam Balakrishnan",
-      "pub_date": "2026-09-02",
-      "doi": "10.4103/ijp.ijp_37_26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42683980/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Obesity",
-        "Anti-Obesity Agents",
-        "Animals",
-        "Semaglutide"
-      ],
-      "matched_assets": [
-        "semaglutide",
-        "survodutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Boehringer Ingelheim",
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": true,
-      "japan_relevant": false,
-      "content_sha256": "fa04f03d94871436e27009c05436e0822ff422463c4326c2bd363824c1be1a3a",
-      "fetched_at_utc": "2026-09-02T23:17:23Z",
-      "updated_at_utc": "2026-09-02T23:17:23Z",
-      "summary_ja": "肥満は慢性・多因子性・進行性疾患として認識されており、2型糖尿病、心血管疾患、代謝関連脂肪肝疾患、精神疾患のリスクを大きく増加させる。2022年のデータでは、世界中で約30億人が肥満または過体重である。薬物療法は大きく進化し、現在米国FDAで長期肥満管理に承認されている6剤（オルリスタット、フェンテルミン/トピラマート、ナルトレキソン/ブプロピオン、リラグルチド、セマグルチド、tirzepatide）があり、中でもGLP-1受容体作動薬が治療を革新した。今後のパイプラインにはCagriSema、Survodutide、Retatrutideなどの新規デュアル・トリプル併用療法や、長作用・経口製剤が含まれる。インドは2025年1月に新たな肥満ガイドラインを発表し、早期薬物療法開始と段階別肥満分類の採用を強調している。",
-      "key_takeaway_ja": "肥満の薬物療法はGLP-1受容体作動薬の登場により大きく革新され、多くの症例で従来は腹腔内手術にのみ期待されていた有効性や代謝的恩恵に近づいている。",
-      "why_matters_ja": "世界中で約30億人が肥満または過体重であり、肥満は重大な合併症リスクを伴う。薬物療法が腹腔内手術に匹敵する有効性を示すようになったことは、肥満治療のアクセスとアウトカムに大きな転換点をもたらす。",
-      "study_type_ja": "レビュー",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-02T23:18:45Z"
-    },
-    {
-      "pmid": "42683763",
-      "title": "Integrating the liver into the cardiovascular-kidney-metabolic syndrome: pathophysiology and therapeutic implications.",
-      "abstract": "PURPOSE OF REVIEW: This review examines the mechanistic, epidemiological and therapeutic evidence underpinning liver integration into the cardiovascular-kidney-metabolic (CKM) construct. For the purposes of this review, we use the term cardiovascular-renal-hepatic-metabolic (CRHM) syndrome to denote this expanded framework, acknowledging that consensus nomenclature is yet to be established.\nRECENT FINDINGS: Large cohort data confirm that coexistent metabolic dysfunction-associated steatotic liver disease (MASLD) and CKD confer additive, stage-dependent mortality risk exceeding that of either condition alone, with hepatic fibrosis severity, rather than steatosis, the dominant prognostic driver. The past 12-18 months have seen significant therapeutic developments spanning the full CRHM spectrum. Resmetirom, a hepato-selective thyroid hormone receptor-β (THR-β) agonist, received FDA-accelerated approval (March 2024) and European Commission conditional marketing authorization (August 2025) as the first licensed metabolic dysfunction-associated steatohepatitis (MASH)-specific therapy; UK approval is pending. Incretin-based therapies demonstrated efficacy across the full CRHM spectrum: semaglutide in diabetic and non-diabetic kidney disease across FLOW, SELECT, and SMART trials; tirzepatide in obesity-related heart failure with preserved ejection fraction (HFpEF) in SUMMIT. Semaglutide additionally received accelerated FDA approval and EU marketing authorization for MASH following the ESSENCE trial; UK approval for this indication is pending.\nSUMMARY: The integration of the liver into CKM staging now has implications for how clinicians stratify risk and select therapy. Early identification of MASLD in CKD cohorts using validated noninvasive fibrosis tools should be considered standard practice in high-risk populations.",
-      "journal": "Current opinion in nephrology and hypertension",
-      "authors": "Marshall William R, Sinha Smeeta, Green Darren, Kalra Philip A",
-      "pub_date": "2026-09-02",
-      "doi": "10.1097/MNH.0000000000001225",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42683763/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "f337051ef4f0bbb2afb5764d21719197e049063a8a4ac789582e34ee5312f758",
-      "fetched_at_utc": "2026-09-02T23:17:23Z",
-      "updated_at_utc": "2026-09-02T23:17:23Z",
-      "summary_ja": "心血管-腎-代謝（CKM）症候群に肝臓を統合した心血管-腎-肝-代謝（CRHM）症候群の枠組みについて、病態生理学的・疫学的・治療的証拠をレビューした。MASLDとCKDの併存は単独疾患より高い段階依存性死亡リスクを付加的に付与し、肝線維化の重症度が脂肪沈着よりも主要な予後因子であることが大規模コホートデータで確認された。治療面では、resmetirom（THR-β作動薬）がMASH特異的治療としてFDA加速承認（2024年3月）およびEU条件付き承認（2025年8月）を取得し、incretin系療法（semaglutide、tirzepatide）がCRHMスペクトラム全体で有効性を示した。",
-      "key_takeaway_ja": "MASLDとCKDの併存は単独疾患を超えた付加的な段階依存性死亡リスクを付与し、肝線維化の重症度が予後の主要な駆動因子である。肝臓のCKMステージングへの統合は、臨床医のリスク層別化と治療選択に直接的な影響を与える。",
-      "why_matters_ja": "CKM症候群に肝臓を統合することで、高リスク集団におけるMASLDの早期同定（検証済み非侵襲的線維化ツールを用いたCKDコホートでのスクリーニング）が標準的な実践となるべきであり、リスク層別化と治療選択の戦略が変化する可能性がある。",
-      "study_type_ja": "レビュー（総説）",
-      "endpoints_ja": "死亡リスク（MASLDとCKD併存時の段階依存性死亡リスク）、肝線維化の重症度（予後因子としての評価）",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-07T23:32:29Z"
-    },
-    {
-      "pmid": "42683551",
-      "title": "Repurposing SGLT2 inhibitors in pulmonary arterial hypertension: A multi-center longitudinal pilot study demonstrating favorable effects on risk profile and ventricular coupling.",
-      "abstract": "BackgroundSodium-glucose cotransporter-2 inhibitors (SGLT2 inhibitors) confer broad cardiovascular benefits, but their role in pulmonary arterial hypertension (PAH) remains unclear.ObjectiveTo investigate the potential therapeutic role of SGLT2 inhibitors in PAH by evaluating their longitudinal association, including improvement in risk profile, functional status, and ventricular coupling.DesignMulticenter retrospective longitudinal pilot study.MethodsAdults with Group 1 PAH confirmed by right heart catheterization were followed and categorized by exposure to SGLT2 inhibitors. Time-to-clinical improvement was assessed using Cox proportional hazard models adjusted for age, gender, PAH etiology, pulmonary vascular resistance, and baseline risk profile. Two predefined endpoints were evaluated: (1) improvement by ≥ 1 category in a four-level risk stratification, and (2) achievement of a low-risk profile. Longitudinal changes in functional, biomarkers, and echocardiographic measures were analyzed using linear mixed-effects models adjusting for relevant covariates.ResultsAmong 83 patients with PAH, 43 received SGLT2 inhibitors. SGLT2 inhibitor use was independently associated with a higher rate of improvement by ≥ 1 risk category (hazard ratio [HR] 2.21, 95%CI 1.06-4.63; p = 0.034) and a higher likelihood of achieving a low risk profile (HR 2.62, 95% CI 1.02-6.76; p = 0.045). Longitudinal improvement was observed across the cohort in six-minute walk distance, Borg dyspnea score, B-type natriuretic peptide (BNP) levels, and composite risk score (all p <0.001), with SGLT2 inhibitor use associated with greater improvement in persistently lower log-BNP levels during follow-up (p = 0.007). Echocardiographic demonstrated reductions in pulmonary artery systolic pressure and improvement in RV-pulmonary artery coupling over time.ConclusionIn this real-world cohort, SGLT2 inhibitor use was associated with a higher likelihood of clinical improvement and achieving a low-risk profile in PAH, alongside favorable longitudinal changes in biomarkers and hemodynamics. Prospective randomized trials are warranted.",
-      "journal": "Therapeutic advances in respiratory disease",
-      "authors": "Zou Yifan, Ahmad Ashfaq, Zhang Songlin, Wang Yousen, Ren Qian, Wang Heng, Li Lingling, Wang Xiaoyu",
-      "pub_date": "2026-09-02",
-      "doi": "10.1177/17534666261479969",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42683551/",
-      "publication_types": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Pilot Projects",
-        "Longitudinal Studies",
-        "Sodium-Glucose Transporter 2 Inhibitors",
-        "Female",
-        "Retrospective Studies",
-        "Male",
-        "Middle Aged",
-        "Risk Factors",
-        "Pulmonary Arterial Hypertension",
-        "Treatment Outcome",
-        "Time Factors",
-        "Risk Assessment",
-        "Aged",
-        "Ventricular Function, Right",
-        "Arterial Pressure",
-        "Pulmonary Artery"
-      ],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "1d58a0d6d20edcd7bc4cffc103a22de79f1b7d09f1ddf74e2205c4ae5ed79d57",
-      "fetched_at_utc": "2026-09-02T23:17:23Z",
-      "updated_at_utc": "2026-09-02T23:17:23Z",
-      "summary_ja": "SGLT2阻害薬の肺動脈性肺高血圧（PAH）における治療的役割を評価するため、右心カテータリゼーションでGroup 1 PAHと確認された成人患者を対象に、SGLT2阻害薬曝露の有無で分類し、リスクプロファイルの改善、機能状態、心室結合の縦断的関連を調査した多施設後ろ向き縦断的パイロット研究。83例中43例がSGLT2阻害薬を使用。Cox比例ハザードモデル（年齢、性別、PAH病因、肺血管抵抗、ベースラインリスクプロファイルで調整）および線形混合効果モデルを用いて解析。",
-      "key_takeaway_ja": "SGLT2阻害薬の使用は、PAH患者においてリスクカテゴリー1段階以上の改善（HR 2.21, 95%CI 1.06-4.63; p=0.034）および低リスクプロファイルの達成（HR 2.62, 95%CI 1.02-6.76; p=0.045）と独立に関連し、フォローアップ中のlog-BNPの持続的低下（p=0.007）およびRV-肺動脈結合の改善も認められた。",
-      "why_matters_ja": "SGLT2阻害薬は広範な心血管系への有益な効果を示すが、PAHにおける役割は不明であった。本パイロット研究は、PAHにおけるSGLT2阻害薬の潜在的な治療的役割を示唆し、前向きランダム化試験の必要性を支持する。",
-      "study_type_ja": "多施設後ろ向き縦断的パイロット研究（実世界コホート）",
-      "endpoints_ja": "事前定義エンドポイント：(1) 4段階リスク分類における1段階以上の改善、(2) 低リスクプロファイルの達成。二次的評価：機能状態（6分歩行距離、Borg呼吸困難スコア）、バイオマーカー（BNP、複合リスクスコア）、心エコー所見（肺動脈収縮期血圧、RV-肺動脈結合）の縦断的変化。",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "PAH患者83例（うちSGLT2阻害薬使用43例）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-02T23:22:36Z"
     }
   ]
 }
