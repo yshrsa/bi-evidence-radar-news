@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-26T00:03:26Z",
+  "generated_at_utc": "2026-09-26T23:35:38Z",
   "items": [
     {
       "pmid": "42666995",
@@ -35,6 +35,75 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42791433",
+      "title": "GLP-1 Receptor Agonists in Heart Failure: A Systematic Review and Meta-analysis with Phenotype-Specific Effects and Dual Analytical Frameworks.",
+      "abstract": "BACKGROUND: Although glucagon-like peptide-1 receptor agonists (GLP-1 RAs) reduce cardiovascular risk in patients with type 2 diabetes mellitus (T2D), evidence in heart failure (HF) has expanded across diverse trial populations and HF phenotypes but remains fragmented. We therefore performed an integrated systematic review and meta-analysis to evaluate the effects of GLP-1 RAs across the spectrum of HF using complementary trial-level and phenotype-based analyses.\nMETHODS: PubMed, Embase, and Web of Science were systematically searched for studies published from inception to August 10, 2025. To provide an integrated assessment across heterogeneous HF populations, treatment effects were evaluated using dual analytical frameworks: trial-level analyses according to study design (dedicated HF with preserved ejection fraction [HFpEF] trials, HF with reduced ejection fraction [HFrEF] trials, and HF subgroups from cardiovascular outcome trials [CVOTs]) and phenotype-based analyses according to left ventricular ejection fraction (HFpEF vs HFrEF using a pragmatic threshold of 40%). A prespecified targeted analysis was conducted to specifically assess the efficacy of semaglutide. The primary outcomes were major adverse cardiovascular events (MACE), and the secondary outcomes included hospitalization for HF (HHF), the composite of cardiovascular death or any worsening HF events, cardiovascular death alone, and all-cause mortality. Pooled hazard ratios (HRs) with 95% confidence intervals (CIs) were calculated using random‑effects models.\nRESULTS: This meta-analysis included 14 trials, with a pooled total of 15,882 patients with HF. In phenotype‑based analyses for HFpEF, GLP‑1 RAs significantly reduced MACE (HR 0.79; 95% CI 0.66-0.94; p = 0.010), HHF (HR 0.48; 95% CI 0.27-0.85; p = 0.012), the composite of cardiovascular death or worsening HF (HR 0.57; 95% CI 0.37-0.89; p = 0.013), and all‑cause mortality (HR 0.75; 95% CI 0.62-0.89; p = 0.001). In contrast, in HFrEF, no significant reductions were observed for HHF, the composite of cardiovascular death or worsening HF, all-cause mortality, or MACE, although a reduction in cardiovascular death was noted (HR 0.71; 95% CI 0.54-0.95; p = 0.019). Trial-level analyses showed that cardiovascular benefits were primarily observed in HF subgroups from CVOTs, including reductions in MACE (HR 0.82; 95% CI 0.73-0.92; p = 0.001), cardiovascular death (HR 0.88; 95% CI 0.77-1.00; p = 0.05) and myocardial infarction (MI)/non-fatal MI (HR 0.84; 95% CI 0.70-1.00; p = 0.046). Semaglutide showed benefits in HHF and the composite of cardiovascular death or worsening HF events predominantly among overweight or obese patients with HFpEF. GLP-1 RAs also improved functional capacity and quality of life in HFpEF.\nCONCLUSION: GLP-1 RAs were associated with favorable cardiovascular and HF-related outcomes in HFpEF, predominantly among overweight or obese individuals, whereas evidence of benefit in HFrEF remains limited. In trial-level analyses, benefits were primarily observed for atherosclerotic endpoints in HF subgroups from CVOTs. By integrating evidence, this study provides a unified overview of the effects of GLP-1 RAs across the spectrum of HF and supports further phenotype-specific randomized trials, particularly dedicated studies in HFrEF.\nTRIAL REGISTRATION: Protocol registration PROSPERO (CRD420251079970).",
+      "journal": "Drugs",
+      "authors": "Yuan Yahui, Chen Chun, Li Xiuming, Guo Jingyi, Liu Qiaoyun, Lin YuPing, Sun Lu, Fan Guanjie",
+      "pub_date": "2026-09-26",
+      "doi": "10.1007/s40265-026-02380-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791433/",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "cdb22ec87551d2bb1cd043e7fc9ee52dfb9d82351908f48ac7331994abb95f1d",
+      "fetched_at_utc": "2026-09-26T23:34:30Z",
+      "updated_at_utc": "2026-09-26T23:34:30Z",
+      "summary_ja": "GLP-1受容体作動薬（GLP-1 RA）が心不全（HF）スペクトラム全体に及ぼす効果を評価するため、試験レベル解析（HFpEF専用試験、HFrEF専用試験、CVOTのHFサブグループ）と表現型ベース解析（LVEF 40%を閾値としたHFpEF vs HFrEF）という二重分析フレームワークを用いた統合的システマティックレビューおよびメタ解析を行った。14試験、計15,882例のHF患者を対象とし、主要エンドポイントはMACE、副次エンドポイントはHF入院（HHF）、心血管死またはHF悪化の複合、心血管死単独、全死因死亡率とした。",
+      "key_takeaway_ja": "GLP-1 RAはHFpEF（特に過体重・肥満患者）においてMACE、HHF、心血管死またはHF悪化の複合、全死因死亡率を有意に減少させたが、HFrEFにおける効果は限定的であり、心血管死の減少のみが認められた。",
+      "why_matters_ja": "GLP-1 RAのHFスペクトラム全体における効果を統合的に整理し、表現型別の効果差を明確にしたことで、特にHFrEFにおける専用ランダム化試験の必要性を支持する根拠を提供する。",
+      "study_type_ja": "システマティックレビューおよびメタ解析",
+      "endpoints_ja": "主要エンドポイント：MACE。副次エンドポイント：HF入院（HHF）、心血管死またはHF悪化の複合、心血管死単独、全死因死亡率。",
+      "endpoint_results_ja": "【HFpEF（表現型ベース解析）】MACE：HR 0.79（95% CI 0.66-0.94; p=0.010）、HHF：HR 0.48（95% CI 0.27-0.85; p=0.012）、心血管死またはHF悪化の複合：HR 0.57（95% CI 0.37-0.89; p=0.013）、全死因死亡率：HR 0.75（95% CI 0.62-0.89; p=0.001）。【HFrEF（表現型ベース解析）】HHF：有意な減少なし、心血管死またはHF悪化の複合：有意な減少なし、全死因死亡率：有意な減少なし、MACE：有意な減少なし、心血管死：HR 0.71（95% CI 0.54-0.95; p=0.019）。【CVOTのHFサブグループ（試験レベル解析）】MACE：HR 0.82（95% CI 0.73-0.92; p=0.001）、心血管死：HR 0.88（95% CI 0.77-1.00; p=0.05）、MI/非致死性MI：HR 0.84（95% CI 0.70-1.00; p=0.046）。【セマグルチド】過体重・肥満のHFpEF患者においてHHFおよび心血管死またはHF悪化の複合に有益（具体的な数値は抄録に記載なし）。",
+      "sample_size_ja": "14試験、計15,882例のHF患者",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-26T23:35:03Z"
+    },
+    {
+      "pmid": "42791222",
+      "title": "Renal AA amyloidosis associated with severe obesity: improvement in kidney function and proteinuria following semaglutide-associated weight loss.",
+      "abstract": "AA amyloidosis is driven by persistently elevated serum amyloid A (SAA) in chronic inflammation. Severe obesity has emerged as a potential inflammatory driver of renal AA amyloidosis. We report a 47-year-old man with prior sleeve gastrectomy who developed progressive kidney dysfunction and proteinuria after substantial weight regain. At presentation, he weighed 126 kg (body mass index, 45.2 kg/m2); serum creatinine was 4.3 mg/dL (estimated glomerular filtration rate, 15 mL/min/1.73 m2) and urine albumin-to-creatinine ratio (UACR) was 3.4 g/g. Kidney biopsy confirmed AA amyloidosis, while extensive evaluation for autoimmune, infectious, hereditary, malignant, and monoclonal causes was unrevealing. SAA was 80 mg/L with persistently elevated inflammatory markers. Semaglutide was initiated as part of a weight-management strategy. Following a 47-kg weight loss, creatinine decreased to 2.34 mg/dL, estimated glomerular filtration rate increased to 32 mL/min/1.73 m2, UACR declined to 1.0 g/g, and SAA fell to <10 mg/L, with improvement in C-reactive protein, erythrocyte sedimentation rate, and HbA1c. In the absence of another identifiable cause, the parallel improvement in SAA, systemic inflammation, proteinuria, and kidney function supports severe obesity as a potential inflammatory contributor to renal AA amyloidosis, although causality cannot be inferred from a single case.",
+      "journal": "Journal of nephrology",
+      "authors": "Atay Ilker, Eroz Erhan, Bayramoğlu Zeynep, Çömlekçi Abdurrahman, Korucu Berfu",
+      "pub_date": "2026-09-26",
+      "doi": "10.1093/joneph/aajag252",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791222/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "0ae12b1a478276e4331ba0808be1b2e11b428a22ed0fd842585aae0e4024631a",
+      "fetched_at_utc": "2026-09-26T23:34:30Z",
+      "updated_at_utc": "2026-09-26T23:34:30Z",
+      "summary_ja": "重度肥満（BMI 45.2 kg/m²）を伴う47歳男性において、腎生検でAAアミロイドーシスと診断された。セマグルチドによる減量（47 kg減）後、血清クレアチニン、eGFR、UACR、SAA、CRP、ESR、HbA1cが並行的に改善した。単一症例であり因果関係は推定できないが、重度肥満が腎AAアミロイドーシスの炎症性因子となり得ることを示唆する。",
+      "key_takeaway_ja": "重度肥満に伴う炎症が腎AAアミロイドーシスの潜在的要因となり得る。セマグルチドによる減量後、SAA・全身炎症・蛋白尿・腎機能が並行的に改善したが、単一症例であり因果関係は結論できない。",
+      "why_matters_ja": "重度肥満が腎AAアミロイドーシスの炎症性駆動因子となり得る可能性を示し、減量介入が腎機能改善に寄与し得ることを示唆する。AAアミロイドーシスの病因解明と治療戦略の拡大に寄与し得る。",
+      "study_type_ja": "症例報告（単一症例）",
+      "endpoints_ja": "血清クレアチニン、推定糸球体濾過量（eGFR）、尿アルブミン/クレアチニン比（UACR）、血清アミロイドA（SAA）、C反応性蛋白（CRP）、赤沈（ESR）、HbA1c",
+      "endpoint_results_ja": "血清クレアチニン：4.3 mg/dL → 2.34 mg/dL；eGFR：15 mL/min/1.73 m² → 32 mL/min/1.73 m²；UACR：3.4 g/g → 1.0 g/g；SAA：80 mg/L → <10 mg/L；CRP・ESR・HbA1c：改善（具体的数値は記載なし）；体重減少：47 kg",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-26T23:35:28Z"
     },
     {
       "pmid": "42789307",
@@ -1466,40 +1535,6 @@
       "sample_size_ja": "225名（プラセボ n=75、tirzepatide 10 mg n=73、tirzepatide 15 mg n=77）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-20T23:13:54Z"
-    },
-    {
-      "pmid": "42762910",
-      "title": "Finerenone attenuates myocardial fibrosis in myocardial infarction complicated by chronic kidney disease: an integrated study combining network pharmacology, molecular simulations, and in vivo experiments.",
-      "abstract": "BACKGROUND: Myocardial infarction (MI) complicated by chronic kidney disease (CKD) is associated with adverse outcomes and exacerbated myocardial fibrotic remodeling. Finerenone is a non-steroidal mineralocorticoid receptor antagonist, but its effects and myocardial signaling changes in non-diabetic CKD-MI remain insufficiently characterized.\nMETHODS: Network pharmacology identified candidate genes associated with finerenone and CKD-MI, and protein-protein interaction network topology prioritized candidate hub nodes. Molecular docking predicted finerenone-protein binding poses, while 100-ns molecular dynamics simulations characterized the conformational behavior of the modeled complexes under the applied simulation conditions. In a murine non-diabetic CKD-MI model, we assessed survival, left ventricular function, myocardial fibrotic remodeling, and myocardial EGFR, PI3K p85, and Akt phosphorylation.\nRESULTS: Among 188 overlapping candidate genes, eight candidate hub nodes were prioritized. The PI3K-Akt pathway was significantly enriched, with EGFR, PIK3CA, and PIK3R1 among the prioritized nodes. Predicted docking scores ranged from -8.6 to -7.3 kcal/mol, and modeled complexes exhibited stable conformational behavior under the applied simulation conditions. In vivo, finerenone improved 28-day survival (88.9% vs. 60.0% in vehicle-treated CKD-MI mice), preserved left ventricular systolic function, reduced myocardial collagen deposition and fibrotic marker protein levels, and lowered the phosphorylation-to-total protein ratios of EGFR, PI3K p85, and Akt.\nCONCLUSION: Finerenone exhibited cardioprotective and antifibrotic effects in a murine non-diabetic CKD-MI model. Integrated in silico and in vivo data suggest that the EGFR-PI3K-Akt axis is a candidate signaling pathway associated with these protective effects, although its causal contribution remains to be established.",
-      "journal": "European journal of pharmacology",
-      "authors": "Xiang Yulong, Chen Jinming, Ruan Xianlin, Gao Xin, Jing Ling, Zhang Weipeng, Xu Junyan, Liu Yong",
-      "pub_date": "2026-09-19",
-      "doi": "10.1016/j.ejphar.2026.179350",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762910/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "finerenone"
-      ],
-      "matched_companies": [
-        "Bayer"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "3921e71cabd2f2920739050dd2a13459bd7369b76a3f7fbb10f7813e1101cd51",
-      "fetched_at_utc": "2026-09-20T23:12:36Z",
-      "updated_at_utc": "2026-09-20T23:12:36Z",
-      "summary_ja": "非糖尿病性CKD合併心筋梗塞（CKD-MI）におけるフィネレノンの心筋線維化への影響を、ネットワーク薬理学、分子シミュレーション（ドッキングおよび100 ns分子動力学シミュレーション）、およびマウスin vivo実験を統合して検討した。ネットワーク薬理学により188個の重複候補遺伝子から8個のハブノードを特定し、PI3K-Akt経路が有意にエンリッチされた。ドッキングスコアは-8.6〜-7.3 kcal/molの範囲であった。in vivoでは、フィネレノンは28日生存率を改善し（88.9% vs. 60.0%）、左室収縮機能を保持し、心筋コラーゲン沈着および線維化マーカー蛋白レベルを減少させ、EGFR、PI3K p85、Aktのリン酸化/全蛋白比を低下させた。",
-      "key_takeaway_ja": "フィネレノンは非糖尿病性CKD-MIマウスモデルにおいて心保護・抗線維化効果を示し、EGFR-PI3K-Akt軸がこれらの保護効果に関連する候補シグナル経路として示唆されたが、因果的寄与は未確定である。",
-      "why_matters_ja": "CKD合併心筋梗塞は不良予後および増悪した心筋線維性リモデリングと関連するが、非糖尿病性CKD-MIにおけるフィネレノンの効果と心筋シグナル変化は十分に特徴づけられていなかった。本研究はフィネレノンの心保護作用の機序に関するin silicoおよびin vivoの統合的知見を提供する。",
-      "study_type_ja": "ネットワーク薬理学、分子シミュレーション（ドッキング・分子動力学）、およびin vivo動物実験（マウス非糖尿病性CKD-MIモデル）を統合した前臨床研究",
-      "endpoints_ja": "28日生存率、左室収縮機能、心筋コラーゲン沈着、線維化マーカー蛋白レベル、EGFR・PI3K p85・Aktのリン酸化/全蛋白比",
-      "endpoint_results_ja": "28日生存率：88.9%（フィネレノン群）vs. 60.0%（vehicle投与CKD-MI群）。ドッキングスコア：-8.6〜-7.3 kcal/mol。左室収縮機能、心筋コラーゲン沈着、線維化マーカー蛋白レベル、EGFR・PI3K p85・Aktのリン酸化/全蛋白比については定量的数値の記載なし（定性的に改善・減少と記載）。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-20T23:14:37Z"
     },
     {
       "pmid": "42762372",
@@ -5229,41 +5264,6 @@
       "sample_size_ja": "5100名",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-03T23:15:56Z"
-    },
-    {
-      "pmid": "42690722",
-      "title": "From insulin resistance to incretin receptor agonism in the prevention of type 2 diabetes mellitus in obese individuals.",
-      "abstract": "Type 2 diabetes mellitus (T2DM) represents one of the most significant metabolic challenges of the modern era, with more than 828 million people worldwide living with diabetes. Obesity and insulin resistance are major modifiable contributors to T2DM risk and progression, although the disease is heterogeneous and arises from complex interactions among β-cell dysfunction, hepatic glucose dysregulation, adipose-tissue dysfunction, altered incretin biology, chronic low-grade inflammation, and genetic susceptibility. In individuals with obesity and insulin resistance, progression through prediabetes to overt hyperglycaemia represents an important, although not universal, disease trajectory and provides a clinically relevant window for preventive intervention. This review examines pharmacological strategies relevant to T2DM prevention in individuals without established diabetes who have prediabetes and/or obesity associated with a high risk of progression to T2DM, with particular emphasis on incretin-based obesity pharmacotherapy. Metformin remains the glucose-lowering agent with the most established long-term evidence for diabetes prevention in selected high-risk individuals with prediabetes, acting through multiple hepatic and intestinal mechanisms involving both AMPK-dependent and AMPK-independent pathways. Other established antihyperglycaemic drug classes are discussed primarily to distinguish therapies with evidence for delaying progression to diabetes from agents whose principal role remains the treatment of established T2DM. SGLT2 inhibitors provide substantial cardiovascular and renal protection, although current evidence is insufficient to support their routine use solely for T2DM prevention. GLP-1 receptor agonists and the dual GIP/GLP-1 receptor agonist tirzepatide have substantially advanced obesity pharmacotherapy, producing clinically meaningful weight loss and broader cardiometabolic benefits that may reduce progression to T2DM in high-risk individuals.Next-generation incretin-based therapies, including triple receptor agonists, may further expand therapeutic options but remain an evolving area of investigation. Lifestyle intervention and sustained weight management remain the foundation of T2DM prevention, with pharmacological strategies selected according to individual metabolic risk, obesity-related treatment indications, comorbidities, and the strength of evidence supporting diabetes prevention.",
-      "journal": "Current medical research and opinion",
-      "authors": "Teofilović Branislava, Trkulja Jelena, Grujić-Letić Nevena, Gligorić Emilia, Baletic Djordje, Tomić Ljiljana, Mesarović Aleksandra, Rašković Aleksandar",
-      "pub_date": "2026-09-03",
-      "doi": "10.1080/03007995.2026.2727202",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42690722/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "cc6b59b19f52947e2cfbb4d1140bb497cb72b8540d1d59595ec43d7a60507a92",
-      "fetched_at_utc": "2026-09-03T23:14:59Z",
-      "updated_at_utc": "2026-09-03T23:14:59Z",
-      "summary_ja": "肥満およびインスリン抵抗性を有する2型糖尿病（T2DM）未罹患者におけるT2DM予防の薬物戦略をレビューした。メトホルミンは前糖尿病を有する高リスク個体における糖尿病予防に最も確立された長期エビデンスを持つ血糖降下薬であり、AMPK依存性及び非依存性の肝・腸管機構を介して作用する。SGLT2阻害薬は心血管・腎保護効果は大きいものの、T2DM予防単独の適応としての現在のエビデンスは不十分である。GLP-1受容体作動薬およびGIP/GLP-1二重受容体作動薬tirzepatideは肥満薬物療法を大きく前進させ、臨床的に有意な減量と広範な心代謝保護効果により、高リスク個体におけるT2DMへの進行抑制に寄与し得る。次世代インクレチン系療法（三重受容体作動薬等）は治療選択肢をさらに拡大し得るが、依然として研究段階である。生活習慣介入と持続的な体重管理がT2DM予防の基盤であり、薬物戦略は個々の代謝リスク、肥満関連治療適応、合併症、および糖尿病予防を支持するエビデンスの強さに応じて選択される。",
-      "key_takeaway_ja": "肥満・インスリン抵抗性を有する前糖尿病個体におけるT2DM予防において、メトホルミンが最も確立されたエビデンスを持つ一方、GLP-1受容体作動薬やtirzepatideといったインクレチン系薬物療法が肥満治療の進展を通じて糖尿病予防に新たな選択肢を提供しつつある。",
-      "why_matters_ja": "世界中で8億2,800万人以上が糖尿病を有し、肥満とインスリン抵抗性はT2DMリスクの主要な修正可能因子である。前糖尿病から顕性高血糖への進行は予防介入の臨床的に重要な窓を提供するため、肥満個体におけるT2DM予防の薬物戦略の整理は公衆衛生上重要である。",
-      "study_type_ja": "レビュー",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-03T23:16:13Z"
     }
   ]
 }
