@@ -1,7 +1,42 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-29T00:57:38Z",
+  "generated_at_utc": "2026-09-30T00:22:44Z",
   "documents": [
+    {
+      "pmid": "42805503",
+      "title": "EASL-EASD-EASO Guidance for the Use of Resmetirom and Semaglutide as MASH-Targeted Therapy.",
+      "abstract": "Adults with metabolic dysfunction-associated steatotic liver disease (MASLD) and steatohepatitis (MASH) are at risk for cardiometabolic complications and major adverse liver-related outcomes (MALO), including cirrhosis, cancer, and liver transplantation. Non-invasive tests (NIT) for hepatic fibrosis, including vibration-controlled transient elastography (VCTE), magnetic resonance elastography (MRE), or enhanced liver fibrosis (ELF) score, can replace liver biopsy to identify high risk for MALO (e.g. VCTE 10-20 kPa, MRE 3.1-5.0 kPa, or ELF 9.8-11.3), in which pharmacotherapy may be considered. Following approval by regulatory agencies, this joint EASL-EASD-EASO guidance provides updated recommendations for the use of resmetirom (80mg/100mg po) and semaglutide (2.4 mg sc weekly) in MASH, covering treatment candidate selection, treatment initiation, monitoring, and discontinuation. Pharmacotherapy is recommended for adults with non-cirrhotic MASH and fibrosis stages 2-3 (based on NITs or biopsy), alongside structured lifestyle intervention and optimized comorbidity management. Therapy selection should be individualized according to preferences, potential risks, and cardio-renal-metabolic profile, including presence of obesity, type 2 diabetes (T2D), cardiovascular, and chronic kidney disease. Semaglutide, a glucagon-like peptide-1 receptor agonist (GLP-1RA), may be preferred in adults with obesity or T2D as well as with established cardiovascular (CV) disease or high CV risk because of its cardiometabolic benefits, whereas resmetirom may be prioritized in individuals without obesity or those already receiving or intolerant to GLP-1RAs. Additional recommendations include structured safety and efficacy monitoring such as nutritional and sarcopenia assessment during semaglutide or use of fibrosis NITs for longitudinal response criteria. Ongoing studies are evaluating long-term effectiveness of both agents to reduce MALO. In adults with MASH cirrhosis, resmetirom or semaglutide appear safe but should not be used as MASH-targeted treatment, until further data establish liver-related benefits.",
+      "journal": "Journal of hepatology",
+      "authors": "",
+      "pub_date": "2026-12-01",
+      "doi": "10.1016/j.jhep.2026.08.028",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805503/",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9309b67d00a767b74cdf7a026326a95dd07bc4d344388109e3b77e404598cf0f",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z",
+      "summary_ja": "EASL-EASD-EASOが共同で発表した、MASH（メタボリック機能異常関連脂肪性肝炎）を対象としたresmetirom（80mg/100mg 経口）とsemaglutide（2.4mg 週1回皮下注射）の使用に関するガイダンス。治療対象者の選定、治療開始、モニタリング、中止基準をカバーし、非肝硬変性MASHかつ線維化ステージ2-3の成人に対して、構造化された生活習慣介入および合併症管理と併せて薬物療法を推奨する。治療選択は肥満、2型糖尿病、心血管疾患、慢性腎臓病の有無など個々の心・腎・代謝プロファイルに基づき個別化すべきとされている。",
+      "key_takeaway_ja": "非肝硬変性MASHかつ線維化ステージ2-3の成人では、resmetiromまたはsemaglutideによる薬物療法が推奨される。semaglutideは肥満・2型糖尿病・心血管疾患を有する患者に、resmetiromは肥満を有しない患者やGLP-1RA不耐容・使用中の患者に優先的に考慮される。MASH肝硬変では安全性は示唆されるが、肝関連の利益が確立されるまでMASH標的治療としては使用すべきでない。",
+      "why_matters_ja": "MASLD/MASHを有する成人は心血管代謝合併症や重大な肝関連アウトカム（MALO：肝硬変、肝がん、肝移植）のリスクが高く、規制当局の承認後に初めてこれら2剤の使用に関する統合的な臨床ガイダンスが提示されたことで、実臨床における治療意思決定の根拠となる。",
+      "study_type_ja": "プラクティスガイドライン（EASL-EASD-EASO共同ガイダンス）",
+      "endpoints_ja": "抄録に明示的な臨床試験のエンドポイント定義は記載されていない。MALO（肝硬変、肝がん、肝移植）が主要な肝関連アウトカムとして言及され、線維化NIT（VCTE、MRE、ELF）による縦断的応答評価が推奨事項として述べられている。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-30T00:23:29Z"
+    },
     {
       "pmid": "42666995",
       "title": "Efficacy of Subcutaneous Semaglutide Dose Escalation in Reducing Insulin in Patients With Type 2 Diabetes.",
@@ -35,6 +70,235 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42806711",
+      "title": "Potential bone marrow-driven reduction of circulating inflammatory monocytes by semaglutide in Type 2 diabetes.",
+      "abstract": "BACKGROUND AND AIMS: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) reduce cardiovascular disease (CVD) in type 2 diabetes (T2D) and have anti-inflammatory effects in experimental studies, but their mechanism of action in humans remains unclear. This study characterized the cardiovascular-haematopoietic axis in individuals with T2D receiving semaglutide, as a potential mediator of GLP-1RA cardioprotective properties.\nMETHODS: In 16 individuals with T2D [63.2 ± 6.1 years, 37.5% female, weight 82.3 ± 15.3 kg, body mass index (BMI) 28.33 ± 3.5 kg/m2, LDL cholesterol 2.2 ± 0.9 mmol/L, glycated haemoglobin (HbA1c) 78.1 ± 13.1 mmol/mol, high-sensitivity C-reactive protein (hsCRP) 1.9 (1.2, 5.8) mg/L], blood and sternal bone marrow aspirates (subset, n = 14) were collected at baseline and after 6 months of semaglutide ≤2.0 mg weekly. Circulating monocytes and haematopoietic precursors were quantified by flow cytometry, plasma cytokines using an nELISA™ assay (Nomic Bio) and inflammatory macrophages in coronary arteries, bone marrow, and spleen by gallium-68-labelled DOTA-(Tyr3)-octreotate (68Ga-DOTATATE) positron emission tomography-computed tomography scans.\nRESULTS: After 6 months of semaglutide, significant reductions in HbA1c (-21.1 mmol/mol, P < .0001), weight (-6.7 kg, P < .001), BMI (-2.5 kg/m2, P < .001), and hsCRP (-1.0 mg/L, P = .005) were observed. Circulating CD16+ monocytes were markedly lower (-18.8%, P = .034), with increased bone marrow retention correlating with weight loss, alongside reductions in interleukin-1 receptor antagonist, leptin, E-selectin, intercellular adhesion molecule-1 (ICAM-1), C-C motif chemokine ligand 2, C-C motif chemokine ligand 11, and C-X-C motif chemokine ligand 13. Gallium-68-labelled DOTA-(Tyr3)-octreotate PET-CT showed lower bone marrow uptake (-17.5%, P = .037), but not in spleen or coronary arteries.\nCONCLUSIONS: Semaglutide in T2D potentially reduces circulating inflammatory monocytes, increases bone marrow retention, and lowers markers of endothelial inflammation, with no reduction in coronary artery inflammatory macrophages. Semaglutide is associated with lower bone marrow 68Ga-DOTATATE uptake, which may relate to anti-inflammatory effects relevant to CVD risk.",
+      "journal": "European heart journal",
+      "authors": "Teunis Charlotte J, Collins Thomas J C, Oostveen Reindert F, Neele Annette E, de Winther Menno, Nurmohamed Nick S, Heijmans Jarom, Winkelmeijer Maaike",
+      "pub_date": "2026-09-29",
+      "doi": "10.1093/eurheartj/ehag627",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806711/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "49bd83ff0452fe71bb80e60e2bd2ccc10ada548cfac0daa62d472a5b9ec9af19",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z",
+      "summary_ja": "2型糖尿病（T2D）患者16名を対象に、セマグルチド（週1回2.0 mg以下）投与6ヶ月前後で血液および胸骨骨髄穿刺液（サブセット n=14）を採取し、フローサイトメトリーによる循環単球・造血前駆細胞、nELISAによる血漿サイトカイン、68Ga-DOTATATE PET-CTによる冠動脈・骨髄・脾臓の炎症性マクロファージを評価した前向き単一アーム観察研究。",
+      "key_takeaway_ja": "T2D患者におけるセマグルチド投与により、循環CD16+単球が有意に減少（-18.8%）、骨髄内留留が増加し、骨髄の68Ga-DOTATATE取り込みが有意に低下（-17.5%）したが、冠動脈の炎症性マクロファージには減少が認められなかった。",
+      "why_matters_ja": "GLP-1受容体作動薬（GLP-1RA）はT2Dで心血管疾患（CVD）を減少させるが、ヒトにおける作用機序は不明であった。本研究は心血管-造血軸をGLP-1RAの心保護作用の潜在的な媒介因子として特徴づけ、CVDリスクに関連する抗炎症効果の機序解明に寄与する。",
+      "study_type_ja": "前向き単一アーム観察研究（before-after design）",
+      "endpoints_ja": "HbA1c、体重、BMI、hsCRP、循環CD16+単球、骨髄内留留、血漿サイトカイン（IL-1RA、レプチン、E-selectin、ICAM-1、CCL2、CCL11、CXCL13）、骨髄68Ga-DOTATATE取り込み、脾臓68Ga-DOTATATE取り込み、冠動脈68Ga-DOTATATE取り込み",
+      "endpoint_results_ja": "HbA1c: -21.1 mmol/mol (P < .0001)、体重: -6.7 kg (P < .001)、BMI: -2.5 kg/m2 (P < .001)、hsCRP: -1.0 mg/L (P = .005)、循環CD16+単球: -18.8% (P = .034)、骨髄68Ga-DOTATATE取り込み: -17.5% (P = .037)、脾臓および冠動脈の68Ga-DOTATATE取り込み: 有意な減少なし",
+      "sample_size_ja": "T2D患者16名（骨髄穿刺液採取サブセット n=14）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-30T00:24:07Z"
+    },
+    {
+      "pmid": "42806732",
+      "title": "Beyond weight loss: a narrative review of tirzepatide's impact on muscle and lean mass in people with overweight and obesity.",
+      "abstract": "Tirzepatide, a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist, has demonstrated substantial efficacy for weight loss in individuals with overweight and obesity. However, the extent to which this weight reduction affects lean mass remains unclear. This review evaluates current evidence on the impact of tirzepatide on body composition, with a particular focus on changes in lean mass and its proxy measures. A structured literature search identified ten studies, including randomized controlled trials, observational studies and modelling analyses, encompassing diverse populations with and without type 2 diabetes mellitus. Across studies, tirzepatide consistently produced large, dose-dependent reductions in body weight. These reductions were predominantly attributable to fat mass, although decreases in lean mass, fat-free mass or skeletal muscle mass were observed in all studies. The proportion of total weight loss attributable to lean mass generally ranged from 10% to 30%, broadly aligning with expected physiological responses to weight loss. However, substantial heterogeneity in study design, population characteristics, and body composition assessment methods limits the ability to draw definitive conclusions. Most studies relied on indirect measures such as bioelectrical impedance analysis, with limited use of dual-energy X-ray absorptiometry. Importantly, functional outcomes were not assessed, and the clinical significance of observed lean mass reductions remains uncertain. Overall, tirzepatide appears to promote preferential fat loss, though some loss of lean mass occurs. Strategies such as resistance training and adequate protein intake may help mitigate potential adverse effects on muscle mass during treatment.",
+      "journal": "Current medical research and opinion",
+      "authors": "Wilkinson Thomas, Ramzan Rishada",
+      "pub_date": "2026-09-28",
+      "doi": "10.1080/03007995.2026.2734645",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806732/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "95b30c7960aec0d288ec68e40610eae64fb28f917086960b9825c681beab52f7",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z",
+      "summary_ja": "肥満・過体重患者におけるtirzepatide（GLP-1/GIP受容体二重作動薬）の体組成、特にlean mass（除脂肪量）およびその代理指標への影響を評価したナラティブレビュー。構造化文献検索により、ランダム化比較試験、観察研究、モデリング解析を含む10件の研究を特定し、T2DM有無を問わず多様な集団を対象に検討した。",
+      "key_takeaway_ja": "Tirzepatideは体重減少を大きくもたらすが、その減少は主に脂肪量に起因する。全体重減少に占めるlean mass減少の割合は概ね10〜30%の範囲であり、脂肪優位の減少パターンを示すが、lean massの減少も全研究で観察された。",
+      "why_matters_ja": "Tirzepatideは体重減少に高い有効性を示すが、lean mass減少の臨床的意義は不確実であり、機能アウトカムが評価されていない。筋量減少が患者の機能や予後に与える影響を考慮した上で、レジスタンストレーニングや十分なタンパク質摂取などの対策が治療中に重要である。",
+      "study_type_ja": "ナラティブレビュー（構造化文献検索による10件の研究の統合：RCT、観察研究、モデリング解析を含む）",
+      "endpoints_ja": "体重、lean mass（除脂肪量）、fat-free mass（非脂肪量）、骨格筋量、体組成変化",
+      "endpoint_results_ja": "全体重減少に占めるlean mass減少の割合は概ね10%〜30%の範囲。全研究でlean mass、fat-free mass、骨格筋量の減少が観察された。体重減少は用量依存性で大きく、主に脂肪量に起因。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-30T00:24:39Z"
+    },
+    {
+      "pmid": "42806285",
+      "title": "Semaglutide for Treating Paediatric Craniopharyngioma-Related Obesity: A Multicentre Case Series.",
+      "abstract": "AIMS: Obesity is a complication of childhood craniopharyngioma that remains difficult to treat. We investigated whether semaglutide was associated with a decrease in BMI among adolescents with craniopharyngioma-related obesity.\nMATERIAL AND METHODS: This multicentre retrospective study included 20 patients < 18 years old with craniopharyngioma and obesity (BMI > 2 WHO Z-score) from 2019 to 2024 (source population: 139 children with craniopharyngioma, including 36 children with obesity). They received off-label semaglutide with dose titration (0.25-2 mg/week), tailored to tolerance and clinical response. The primary outcome was the within-patient comparison of BMI change from -12 months to treatment initiation and from initiation to +12 months.\nRESULTS: At semaglutide initiation, patients were 14.0 ± 3.9 years old, the interval since craniopharyngioma diagnosis was 6.3 ± 4.7 years, and BMI was 33.4 ± 3.9 kg/m2 (3.2 ± 0.7 Z-score). Tumour treatment was surgery alone (8/20), surgery and proton therapy (11/20), or proton therapy alone (1/20). All patients had growth hormone and TSH deficiency; 19/20 had ACTH and AVP deficiency. In the year before treatment, patients gained 3.5 ± 4.4 kg/m2 in BMI and 0.6 ± 1.6 in BMI Z-score; after 1 year of semaglutide therapy, they lost 2.5 ± 3.9 kg/m2 in BMI and 0.5 ± 0.5 in BMI Z-score (paired comparisons, p < 0.001 and p = 0.004, respectively). During treatment, BMI decreased by 10% or more in 40% of patients (95% CI: 19%-64%). Gastrointestinal side effects occurred in 30% of patients but were mild. No cases of treatment discontinuation, pituitary insufficiency decompensation or tumour recurrence were observed.\nCONCLUSIONS: Semaglutide was associated with reversal of weight gain among adolescents with craniopharyngioma-related obesity.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Dornberger Joanne, Barat Pascal, Aouchiche Karine, Perge Kevin, Villanueva Carine, Castets Sarah, Bouhours-Nouet Natacha, Donzeau Aurelie",
+      "pub_date": "2026-09-28",
+      "doi": "10.1111/dom.71403",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806285/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8fad5b8648ad7d43f1e214ff586bb4d9c16a8bc3e60996f3bbb908db50cd41b0",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z",
+      "summary_ja": "小児頭蓋咽頭腫関連肥満は治療が困難な合併症である。本多施設後ろ向き研究では、2019年から2024年にかけて、頭蓋咽頭腫を合併し肥満（BMI > 2 WHO Z-score）を有する18歳未満の20例を対象に、オフラベルのセマグルチド（0.25〜2 mg/週、用量漸増）のBMIへの影響を評価した。主要アウトカムは、治療開始前12ヶ月から開始時、および開始時から+12ヶ月までのBMI変化の患者内比較であった。治療開始時、患者の平均年齢は14.0±3.9歳、BMIは33.4±3.9 kg/m²（3.2±0.7 Z-score）であった。治療前1年間でBMIは3.5±4.4 kg/m²増加したが、セマグルチド投与1年後にはBMIが2.5±3.9 kg/m²、BMI Z-scoreが0.5±0.5減少した（対比較、p<0.001、p=0.004）。40%の患者でBMIが10%以上減少した（95% CI: 19%〜64%）。消化管副作用は30%で軽度であり、治療中断、下垂体機能不全の失代償、腫瘍再発は観察されなかった。",
+      "key_takeaway_ja": "セマグルチドは、頭蓋咽頭腫関連肥満を有する思春期患者において体重増加の反転と関連した。",
+      "why_matters_ja": "小児頭蓋咽頭腫に伴う肥満は治療が困難な合併症であり、本ケースシリーズはセマグルチドのオフラベル使用における有効性と安全性の初期証拠を提供する。",
+      "study_type_ja": "多施設後ろ向きケースシリーズ",
+      "endpoints_ja": "主要アウトカム：治療開始前12ヶ月から開始時、および開始時から+12ヶ月までのBMI変化の患者内比較",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "20例（18歳未満、頭蓋咽頭腫合併肥満、BMI > 2 WHO Z-score）。ソース集団：頭蓋咽頭腫を有する小児139例（うち肥満36例）。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-30T00:25:09Z"
+    },
+    {
+      "pmid": "42806056",
+      "title": "Indirect comparative efficacy and safety of tirzepatide vs semaglutide for the treatment of obesity or overweight in patients without type 2 diabetes.",
+      "abstract": "BACKGROUND/OBJECTIVES: Tirzepatide is a once-weekly, glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 (GLP-1) receptor agonist (RA) for obesity treatment. This indirect treatment comparison (ITC) assessed the relative efficacy and safety of tirzepatide versus the GLP-1 RA semaglutide.\nSUBJECTS/METHODS: Adjusted (for sex, and sex and ethnicity) and unadjusted ITCs compared tirzepatide 5, 10, and 15 mg/week and semaglutide 2.4 mg/week via placebo, all adjunct to reduced-calorie diet and increased physical activity, at primary trial endpoints (Week 68, STEP 1; Week 72, SURMOUNT-1) for adults with obesity (BMI ≥ 30 kg/m2), or overweight (BMI ≥ 27 kg/m2) with ≥1 obesity-related complication (ORC), without type 2 diabetes (T2D).\nRESULTS: For efficacy estimand unadjusted ITCs, tirzepatide 10 and 15 mg demonstrated statistically significant improvements versus semaglutide in weight reduction (-5.10 kg [-6.63, - 3.57], -6.50 kg [-8.03,-4.97]), participants achieving ≥10/15/20% weight reduction, BMI (-1.87 kg/m2 [-2.43,-1.31], -2.37 kg/m2 [-2.93,-1.81]), waist circumference (-5.25 cm [-6.69,-3.81], -5.75 cm [-7.19,-4.31]), HbA1c(-0.08% [-0.13,-0.03], -0.10% [-0.15, -0.05]) and fasting plasma glucose (-1.69 mg/dL [-3.36,-0.02], -2.52 mg/dL [-4.19,-0.85]). Tirzepatide 5 mg showed non-significant trends of greater improvements in these outcomes versus semaglutide. All tirzepatide doses showed statistically significantly greater decreases in diastolic blood pressure (-1.90 mmHg [-3.19,-0.61], -2.40 mmHg [-3.69,-1.11], -1.30 mmHg [-2.59,-0.01]) and increases in HDL (3.80% [1.23,6.37], 5.40% [2.83,7.97], 5.00% [2.43,7.57]). In participants reporting on body composition, tirzepatide 15 mg demonstrated statistically significant improvements in body composition versus semaglutide, with a reduction of percentage body fat mass (-3.50% [-6.66, -0.34]) and an increase of percentage body lean mass (3.40% [0.40, 6.40]). Results were broadly consistent across adjusted and unadjusted comparisons. Safety profiles of tirzepatide and semaglutide were generally similar.\nCONCLUSIONS: In this ITC for obesity treatment in adults without T2D, with obesity, or overweight with ≥1 ORC, compared with semaglutide, tirzepatide 10 or 15 mg was associated with improvements in weight reduction, body composition and several cardiometabolic risk factors and generally similar safety profiles.",
+      "journal": "International journal of obesity (2005)",
+      "authors": "Ciudin Andreea, Johansson Erin, Zimner-Rapuch Sarah, Dimitriadis Georgios K, Bertrand Marine, Curteis Tristan, Clark Laura J, Fan Ludi",
+      "pub_date": "2026-09-28",
+      "doi": "10.1038/s41366-026-02229-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806056/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "9f95ad3f17a7304e47bf63c4257d781137dbdd81eac88c6368b08c7c6d4048d4",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z"
+    },
+    {
+      "pmid": "42806023",
+      "title": "Targeting the aldosterone-mineralocorticoid receptor pathway in cardiovascular-kidney-metabolic syndrome.",
+      "abstract": "The concept of cardiovascular-kidney-metabolic (CKM) syndrome integrates cardiovascular, kidney and metabolic disorders into a single pathophysiological continuum characterized by chronic inflammation, oxidative stress, fibrosis and progressive organ dysfunction. A central driver of CKM syndrome progression is inappropriate activation of the aldosterone-mineralocorticoid receptor (MR) pathway, which promotes adverse remodelling of the heart, kidney, vasculature, adipose tissue, liver and pancreas. Steroidal MR antagonists (MRAs) and non-steroidal MRAs mitigate maladaptive MR signalling and improve cardiorenal outcomes. Compared with steroidal MRAs, non-steroidal MRAs such as finerenone provide enhanced tissue selectivity and favourable safety profiles. Finerenone has been shown to reduce cardiovascular and renal events in patients with chronic kidney disease (CKD) and in patients with heart failure. Aldosterone synthase inhibitors represent a complementary approach that suppresses aldosterone production upstream of MR activation and has shown promising results in resistant hypertension and CKD. Preclinical and clinical data indicate that combined strategies targeting the aldosterone-MR axis can attenuate cardiorenal remodelling, insulin resistance and organ injury, offering a comprehensive therapeutic approach. Ongoing trials will clarify the efficacy of these combined therapies in non-diabetic CKD, resistant hypertension and broader CKM syndrome populations. Overall, targeting the aldosterone-MR pathway represents a central strategy to reduce organ dysfunction, improve metabolic homeostasis and limit progression of CKM syndrome.",
+      "journal": "Nature reviews. Nephrology",
+      "authors": "Sánchez-Bayuela Tania, Barrera-Chimal Jonatan, Jaisser Frederic",
+      "pub_date": "2026-09-28",
+      "doi": "10.1038/s41581-026-01125-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806023/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "6ba2c09eccbcd92a8e7eaa7394165fa42fcb73c1dc536890a3dfa3e89e853069",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z",
+      "summary_ja": "心血管・腎・代謝（CKM）症候群は、慢性炎症・酸化ストレス・線維化・進行性臓器障害を特徴とする単一の病生理学的連続体として心血管・腎・代謝疾患を統合する概念である。CKM症候群の進行の中心的な駆動因子は、アルドステロン-ミネラルコルチコイド受容体（MR）経路の不適切な活性化であり、心臓・腎臓・血管・脂肪組織・肝臓・膵臓の有害なリモデリングを促進する。ステロイド系MR拮抗薬（MRA）および非ステロイド系MRAは不適切なMRシグナルを軽減し、心腎アウトカムを改善する。非ステロイド系MRA（フィネレノン）はステロイド系MRAと比較して組織選択性が高く、安全性プロファイルが良好である。フィネレノンは慢性腎臓病（CKD）患者および心不全患者において心血管イベントおよび腎イベントを減少させることが示されている。アルドステロンシンターゼ阻害薬はMR活性化の上流でアルドステロン産生を抑制する補完的アプローチであり、抵抗性高血圧およびCKDで有望な結果を示している。前臨床および臨床データは、アルドステロン-MR軸を標的とする複合戦略が心腎リモデリング、インスリン抵抗性、臓器障害を軽減しうることを示唆している。進行中の試験が、非糖尿病CKD、抵抗性高血圧、より広いCKM症候群集団におけるこれらの複合療法の有効性を明確にする。",
+      "key_takeaway_ja": "アルドステロン-MR経路を標的とすることは、臓器障害の軽減、代謝恒常性の改善、CKM症候群の進行抑制のための中心的戦略である。",
+      "why_matters_ja": "CKM症候群は心血管・腎・代謝疾患を単一の病生理学的連続体として統合し、アルドステロン-MR経路の不適切な活性化がその進行の中心的な駆動因子である。この経路を標的とする治療戦略（MRA、アルドステロンシンターゼ阻害薬、複合戦略）は、多臓器障害の軽減と代謝恒常性の改善に寄与しうる。",
+      "study_type_ja": "Review",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-30T00:26:10Z"
+    },
+    {
+      "pmid": "42805553",
+      "title": "Safety profile of Finerenone: Pooled analysis of different types of arrhythmic events.",
+      "abstract": "BACKGROUND: Finerenone reduces kidney and cardiovascular events in patients with chronic kidney disease and type 2 diabetes mellitus, but its safety profile in terms of arrhythmic outcomes remains uncertain.\nMETHODS: We systematically searched PubMed, Cochrane Library, and ClinicalTrials.gov (inception-March 2026) for randomized trials reporting arrhythmias or conduction disorders with finerenone versus control. Risk ratios (RRs) were pooled using fixed-effects models; heterogeneity was assessed with I2.\nRESULTS: Six trials (21,015 patients; mean age 67.2 years; 33.9% women) were included. Finerenone was not associated with increased atrial or ventricular arrhythmias, high-grade atrioventricular block, or cardiac arrest (all RRs non-significant; low heterogeneity).\nCONCLUSIONS: Finerenone shows no clear increase in clinically reported arrhythmic events in the pooled analysis; however, the included studies were not designed to assess the rate of arrhythmic outcomes and might have underestimated the true rates.",
+      "journal": "Journal of cardiology",
+      "authors": "Bazoukis George, Clarke Esther Victoria, Tse Gary",
+      "pub_date": "2026-09-28",
+      "doi": "10.1016/j.jjcc.2026.09.008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805553/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "701d206925c8269c98609570516a231717a0b943ca0984cce7475d272c991813",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z",
+      "summary_ja": "慢性腎臓病および2型糖尿病を有する患者におけるフィネレノンの不整脈関連安全性を評価するため、PubMed、Cochrane Library、ClinicalTrials.gov（創刊〜2026年3月）から不整脈または伝導障害を報告したランダム化試験を体系的に検索し、フィネレノン群と対照群のリスク比（RR）を固定効果モデルでプール解析した。6試験（21,015例；平均年齢67.2歳；女性33.9%）が対象となり、フィネレノンは心房性・心室性不整脈、高度房室ブロック、心停止のいずれとも有意な関連は認められなかった（全RR有意差なし；低異質性）。",
+      "key_takeaway_ja": "プール解析において、フィネレノンは臨床的に報告された不整脈事象の増加を示さなかったが、対象試験は不整脈事象の発生率を評価する目的で設計されておらず、真の発生率を過小評価している可能性がある。",
+      "why_matters_ja": "フィネレノンは慢性腎臓病・2型糖尿病患者で腎・心血管イベントを減少させることが知られているが、不整脈に関する安全性プロファイルは不確実であった。本解析は、不整脈事象の増加を示す明確な証拠がないことを示す一方、対象試験の設計上の限界（不整脈評価が主要目的でない）を指摘し、解釈における注意を喚起している。",
+      "study_type_ja": "ランダム化試験のプール解析（メタ解析）",
+      "endpoints_ja": "心房性不整脈、心室性不整脈、高度房室ブロック、心停止",
+      "endpoint_results_ja": "全RR有意差なし；低異質性（具体的なRR値・信頼区間は抄録に記載なし）",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-30T00:26:26Z"
+    },
+    {
+      "pmid": "42805391",
+      "title": "Response to: From Glycaemic Response to Clinical Trajectories: Extending Phenotyping in GLP-1RA-SGLT2 Inhibitor Combination Therapy.",
+      "abstract": "",
+      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+      "authors": "Milluzzo Agostino, Frittitta Lucia",
+      "pub_date": "2026-09-28",
+      "doi": "10.1016/j.eprac.2026.09.012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805391/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "13fc8c2422fb29b3b4bf9d4289b099530f2ebb72f03aff0288bf66bb5efa7bd9",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-09-30T00:22:44Z"
     },
     {
       "pmid": "42804756",
@@ -458,7 +722,16 @@
       "japan_relevant": false,
       "content_sha256": "3e2fe0353f0ac186be91f0a38d3ec0cb014f0e34a9aa695dd9af522f1a68eb3d",
       "fetched_at_utc": "2026-09-29T00:57:38Z",
-      "updated_at_utc": "2026-09-29T00:57:38Z"
+      "updated_at_utc": "2026-09-29T00:57:38Z",
+      "summary_ja": "2型糖尿病を合併した失代償期肝硬変・難治性腹水患者において、エンパグリフロジン10 mg 1日1回を10日間投与した際の短期間のナトリウム排泄能への影響を評価したランダム化、オープンラベル、概念実証試験。エンパグリフロジン群と標準治療単独群を1:1で割り付け、主要エンドポイントはベースラインからベースライン後（Day 1, 3, 7, 10）の平均までのナトリウム排泄分画（FENa, %）の平均変化の群間差とした。",
+      "key_takeaway_ja": "エンパグリフロジンは、糖尿病を合併した失代償期肝硬変・難治性腹水患者において、10日間でFENa（+0.44ポイント）、24時間尿ナトリウム排泄量（+92.1 mmol/24 h）、24時間尿量（+822 mL/24 h）を対照群と比較して有意に増加させ、平均1日腹水穿刺量を減少させた（-0.70 L/day）。重大な有害事象は認められなかった。",
+      "why_matters_ja": "難治性肝性腹水に対するナトリウム排泄を直接標的とする介入研究は少なく、SGLT2阻害薬誘発のグルコース尿が腎ナトリウム処理の変化と関連するかどうかを前向きに評価した研究は本例が初例である。SGLT2阻害薬が肝性腹水管理に新たな治療選択肢となり得る可能性を示唆する。",
+      "study_type_ja": "ランダム化、オープンラベル、概念実証試験（proof-of-concept study）",
+      "endpoints_ja": "主要エンドポイント：ベースライン（Day 0）からベースライン後（Day 1, 3, 7, 10）の平均までのナトリウム排泄分画（FENa, %）の平均変化の群間差（線形混合効果モデルで推定）。主要二次エンドポイント：24時間尿ナトリウム排泄量、24時間尿量、平均1日腹水穿刺量。",
+      "endpoint_results_ja": "FENaの群間差：+0.44ポイント（95%CI: 0.05-0.83; p=0.029）。24時間尿ナトリウム排泄量：+92.1 mmol/24 h（95%CI: 47.1-137.2）。24時間尿量：+822 mL/24 h（95%CI: 403-1240）。平均1日腹水穿刺量：エンパグリフロジン群 0.6 ± 0.4 L/day、対照群 1.3 ± 0.6 L/day（平均差 -0.70 L/day, 95%CI: -1.17 to -0.23）。重大な有害事象：なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-30T00:27:07Z"
     },
     {
       "pmid": "42802751",
@@ -653,6 +926,31 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-26T23:35:28Z"
+    },
+    {
+      "pmid": "42805130",
+      "title": "Real-world effectiveness of 6-month tirzepatide therapy on body weight and composition in adults with overweight and obesity.",
+      "abstract": "AIMS/HYPOTHESIS: Obesity drives cardiometabolic dysfunction and increases cardiovascular risk, with excess fat mass and impaired body composition playing a key role in metabolic outcomes. This clinical study aimed to evaluate the real-world effectiveness (RWE) of tirzepatide on body weight, body composition, and metabolic parameters in adults with obesity or overweight and at least one obesity-associated comorbidity.\nMETHODS: A 24-week retrospective observational analysis included 122 adults (80% women; mean age 44 ± 15 years) with overweight or obesity, and without diabetes. Participants received tirzepatide in combination with a standardized low-carbohydrate diet and tailored physical activity. Tirzepatide was initiated at a dose of 2.5 mg once weekly and increased to 5 mg after 4 weeks. Subsequent dose adjustments were individualized. Anthropometric measurements, bioelectrical impedance analysis and metabolic parameters were assessed at baseline and after 24 weeks.\nRESULTS: The mean dose of tirzepatide at the end of the study was 5.32 mg. In comparison to baseline, we found after 24 weeks an improvement in body weight (from 95 ± 20 to 80 ± 22 kg), BMI (from 35 ± 6 to 29 ± 7 kg/m2) waist circumference (from 109 ± 16 to 92 ± 12 cm) and waist-to-height ratio (from 0.66 ± 0.1 to 0.56 ± 0.1), all p < 0.001. Fat mass (FM) largely reduced by 35%, fat-free mass slightly decreased by 5% (p < 0.001 for both), while skeletal muscle mass was preserved (p = ns). Metabolic parameters were also improved, including HbA1c (from 5.5 ± 0.4% to 5.2 ± 0.1%, p = 0.007), fasting plasma glucose (from 93 ± 12 to 84 ± 9 mg/dL, p < 0.001), fasting insulin (from 17 ± 15 to 12 ± 9 μIU/mL, p = 0.002) and HOMA-IR (from 4.2 ± 4.7 to 2.5 ± 2.1, p = 0.001). Correlation analysis revealed that the reduction in FM was significantly associated with the reduction in both insulin (r = 0.498, p < 0.05) and HOMA-IR (r = 0.513, p < 0.05). Interestingly, the weight loss found in our real-world cohort after 24 weeks of tirzepatide therapy (-16%) was identical to that found in the SURMOUNT-1 trial but after 72 weeks.\nCONCLUSIONS: In this RWE study, 24 weeks of tirzepatide treatment led to significant improvement on body weight, BMI and fat mass, together with preservation of lean skeletal muscle mass, as well as improved glycemic control and insulin sensitivity. Our findings suggest that a comprehensive clinical approach to obesity in real-world settings may be more beneficial than what observed in clinical trials.",
+      "journal": "Journal of diabetes and its complications",
+      "authors": "Brancato Davide, Maggio Viviana, Vaccaro Francesca, Muratore Elena, Pirrello David, Cittadini Ettore, Patti Angelo Maria, Di Falco Felicia",
+      "pub_date": "2026-09-25",
+      "doi": "10.1016/j.jdiacomp.2026.109419",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805130/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8c53eba3c3b214157969448eed52c12f23829e8d07ca7191f2b6ec7867800309",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z"
     },
     {
       "pmid": "42799419",
@@ -10052,6 +10350,32 @@
       "updated_at_utc": "2026-08-31T15:48:02Z"
     },
     {
+      "pmid": "42807130",
+      "title": "Opioid Toxicity Associated With Tirzepatide in a Patient on Chronic Oral Morphine.",
+      "abstract": "Tirzepatide, a dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 (GLP-1) receptor agonist, delays gastric emptying and can alter the pharmacokinetics of coadministered oral medications, particularly those with narrow therapeutic indices. We report the first case of life-threatening opioid toxicity precipitated by tirzepatide initiation in a patient on chronic oral sustained-action opioid therapy. A 53-year-old man with primary progressive multiple sclerosis complicated by quadriplegia, maintained on oral sustained-action morphine sulfate 180 mg/day for 13 years without incident, presented with opioid-induced respiratory failure six weeks after starting tirzepatide 2.5 mg weekly (escalated to 5 mg at week 4). He required 12 mg of intranasal naloxone for reversal. Concurrent findings included acute kidney injury (creatinine 1.04 mg/dL from a baseline of 0.5-0.6 mg/dL), hemoconcentration, metabolic acidosis, and ketonuria consistent with tirzepatide-associated dehydration. His caregiver had prospectively noted recurrent somnolence after each weekly injection. Two complementary mechanisms likely converged: tirzepatide-mediated delayed gastric emptying disrupting the release profile of sustained-action morphine and dehydration-induced kidney injury impairing renal clearance of morphine-6-glucuronide, the active opioid metabolite. Concurrent use of other renally cleared CNS depressants likely amplified toxicity. A prior hospitalization for sepsis with similar renal impairment, before tirzepatide initiation, did not produce opioid toxicity, offering a useful, though imperfect, point of comparison. Morphine was reduced to 60 mg/day; at follow-up, the patient reported equivalent pain control on one-third of his prior dose. This case highlights a previously unrecognized, clinically significant drug interaction with urgent implications as GLP-1-based therapies are increasingly co-prescribed with chronic opioid therapy, underscoring the need for clinician vigilance and formal pharmacokinetic study.",
+      "journal": "Cureus",
+      "authors": "Mataraarachchi Nirosh E, Dellinger Oscar D, Babakhanians Ala",
+      "pub_date": "2026-08-28",
+      "doi": "10.7759/cureus.115380",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807130/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f3b15eecb6478a44d7544ce7f59de659a90515fd6eebcfb1d8771afb600ef37d",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z"
+    },
+    {
       "pmid": "42797407",
       "title": "Precision Pharmacotherapy for Obstructive Sleep Apnea: Matching Targeted Drugs to Patient Endophenotypes.",
       "abstract": "Background: Obstructive sleep apnea (OSA) remains under-treated because continuous positive airway pressure, though efficacious, is frequently limited by poor tolerance and adherence. Long considered a purely anatomical disease refractory to drugs, OSA is now understood as the shared endpoint of four measurable endotypes-a collapsible upper airway, poor pharyngeal dilator-muscle responsiveness, high loop gain, and a low arousal threshold-each a distinct pharmacological target. This review synthesizes the mechanistic rationale and clinical evidence for targeting them. Methods: In this narrative review, we searched PubMed/MEDLINE, Embase, and the Cochrane Central Register of Controlled Trials (January 2000 to February 2026) for randomized trials, meta-analyses, and mechanistic endotyping studies, appraising the evidence narratively. Results: Tirzepatide became the first drug approved for OSA, acting through weight loss to reduce obesity-related mechanical loading, and the noradrenergic-antimuscarinic combination AD109 met its primary endpoint in a pivotal phase 3 trial by targeting dilator-muscle activity independently of weight. Both, however, used AHI-based endpoints in clinically defined rather than endotype-selected populations; AD109's placebo-corrected effect was modest (-4.0 events/h), and 21.2% versus 3.1% of participants discontinued for adverse events. They are therefore best described as mechanism-informed rather than endotype-validated. Carbonic anhydrase inhibition with acetazolamide or sultiame and selected sedating agents address ventilatory instability and a low arousal threshold, while solriamfetol and pitolisant relieve residual sleepiness. Conclusions: Mechanism-informed pharmacotherapy for OSA is now clinically credible, but scalable bedside endotyping, attention to tolerability, and trait-stratified trials are needed before treatment can be called endotype-guided.",
@@ -17172,6 +17496,122 @@
       "updated_at_utc": "2026-09-23T23:38:51Z"
     },
     {
+      "pmid": "42809414",
+      "title": "SGLT2 Inhibitor Adherence and Diabetes Hospitalization Risk in Type 2 Diabetes.",
+      "abstract": "OBJECTIVES: Emerging evidence shows that sodium-glucose cotransporter 2 (SGLT2) inhibitors improve glycemic control and reduce the risk of cardiovascular-related mortality. This is contingent on adherence, yet evidence of SGLT2 inhibitor adherence and associated diabetes-related clinical outcomes in real-world settings is lacking. Therefore, we examined SGLT2 inhibitor longitudinal adherence trajectories and their association with the risk of diabetes-related hospitalizations.\nSTUDY DESIGN: SGLT2 inhibitor new-user retrospective cohort study using a 25% random sample of IQVIA PharMetrics Plus for Academics US health plan claims, 2014 to 2022.\nMETHODS: We included new users of SGLT2 inhibitors who had type 2 diabetes with prior cardiovascular disease or risk factors. Group-based trajectory modeling identified SGLT2 inhibitor adherence subgroups using monthly proportions of days covered over the 12 months post SGLT2 inhibitor initiation. Cox proportional hazards models, adjusted for baseline covariates, estimated the HRs for diabetes-related hospitalizations/emergency department (ED) visits in the year following 12-month treatment with SGLT2 inhibitors.\nRESULTS: We classified 5051 new SGLT2 inhibitor users into 5 SGLT2 inhibitor adherence trajectory groups: nonadherent (14.7%), early decline (13.5%), late decline (10.5%), dynamic adherence (13.0%), and adherent (48.3%). A diabetes-related hospitalization/ED visit occurred in 2.3% of the overall cohort, with a median (IQR) time to event of 151.5 (76-263) days. In the adjusted Cox proportional hazards model, the late decline group (HR, 2.52; 95% CI, 1.38-4.60) and the dynamic adherence group (HR, 2.42; 95% CI, 1.52-3.86) had a statistically significantly greater risk of diabetes-related hospitalizations/ED visits than the adherent group.\nCONCLUSIONS: These findings suggest that variable adherence to SGLT2 inhibitors can negatively impact diabetes-related outcomes.\nOBJECTIVES: Emerging evidence shows that sodium-glucose cotransporter 2 (SGLT2) inhibitors improve glycemic control and reduce the risk of cardiovascular-related mortality. This is contingent on adherence, yet evidence of SGLT2 inhibitor adherence and associated diabetes-related clinical outcomes in real-world settings is lacking. Therefore, we examined SGLT2 inhibitor longitudinal adherence trajectories and their association with the risk of diabetes-related hospitalizations.",
+      "journal": "The American journal of managed care",
+      "authors": "Damachi Udim, Okoye Godwin, Camelo Castillo Wendy, dosReis Susan",
+      "pub_date": "2026-01-01",
+      "doi": "10.37765/ajmc.2026.89950",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809414/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Hospitalization",
+        "Retrospective Studies",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Aged",
+        "Drug Monitoring"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a3e5c388c7403ec83a33efb69b6b99abb0f7c05189d90f07492fdd75fa46e0f7",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z"
+    },
+    {
+      "pmid": "42808923",
+      "title": "Gastrointestinal adverse effects of GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists: A narrative expert review of approved therapies, oral formulations, and pipeline agents.",
+      "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists have transformed the management of type 2 diabetes and obesity. Gastrointestinal (GI) adverse events are the most common limitation of these therapies and a leading cause of discontinuation.\nMETHODS: This narrative expert review synthesizes evidence from randomized controlled trials, observational studies, meta-analyses, and pharmacovigilance data to characterize the incidence, mechanisms, and clinical implications of GI adverse effects across approved agents and late-stage pipeline therapies.\nRESULTS: Nausea, vomiting, diarrhea, and constipation are established class effects, occurring in approximately 30%-50% of patients, typically during initiation and dose escalation. These events are generally mild to moderate and manageable with dose titration and dietary modification. Mechanisms include delayed gastric emptying, central activation of emetic pathways, altered intestinal motility, and physiologic effects of rapid weight loss itself. Randomized trial data are reassuring for acute pancreatitis, with no class-level excess risk demonstrated; pharmacovigilance signals are most plausibly explained by diagnostic misclassification rather than true causal risk. Cholelithiasis shows a probable class-level association, substantially mediated by weight loss rather than direct receptor signaling. Peri-procedural data show increased residual gastric volume without confirmed aspiration events. Preliminary data on late-stage pipeline agents (retatrutide, survodutide, and cagrilintide-semaglutide) suggest a similar GI adverse event profile to approved agents, though evidence remains largely limited.\nCONCLUSION: GI adverse events with GLP-1-based therapies are predictable and manageable. A proactive, patient-centered approach is essential to optimize adherence, safety, and clinical outcomes as newer agents expand the therapeutic landscape.",
+      "journal": "Nutrition in clinical practice : official publication of the American Society for Parenteral and Enteral Nutrition",
+      "authors": "Singhani Vikash, Ehsan Muhammad, Valencia Sara, Nadeem Ahmed, Moazzam Eisha, Butsch Winfield Scott, Garg Samita",
+      "pub_date": "2026-01-01",
+      "doi": "10.1002/ncp.70180",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42808923/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Diabetes Mellitus, Type 2",
+        "Gastrointestinal Diseases",
+        "Hypoglycemic Agents",
+        "Gastric Inhibitory Polypeptide",
+        "Obesity",
+        "Receptors, Gastrointestinal Hormone",
+        "Randomized Controlled Trials as Topic",
+        "Tirzepatide"
+      ],
+      "matched_assets": [
+        "semaglutide",
+        "survodutide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim",
+        "Novo Nordisk"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "d94a82c697bd753f6208c017c52936d180c2753d387b1fb61f9512da9b442043",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z"
+    },
+    {
+      "pmid": "42808550",
+      "title": "Real-world treatment patterns and cost per patient achieving treatment targets among tirzepatide and semaglutide initiators in US patients with type 2 diabetes.",
+      "abstract": "BACKGROUND: Tirzepatide, a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 (GLP-1) receptor agonist (RA), and semaglutide, a GLP-1 RA, are approved for type 2 diabetes (T2D) management. Clinical trials demonstrated that tirzepatide provided greater hemoglobin A1c and weight reduction vs comparators. Studies using trial-based effect estimates indicate it may also offer a lower cost per patient achieving treatment targets. However, real-world comparative data on treatment patterns, effectiveness, and economic value are limited.\nOBJECTIVE: To compare real-world treatment patterns, A1c and weight outcomes, and type 2 diabetes-related pharmacy (T2D-Rx) costs per patient achieving treatment targets in patients initiating tirzepatide for T2D, stratified by prior GLP-1 RA use.\nMETHODS: This retrospective cohort study used claims and laboratory data from the Healthcare Integrated Research Database. Adults with T2D initiating tirzepatide (Mounjaro only) or semaglutide (Ozempic only) from May 2022 to May 2023 were propensity score matched and classified as naive or non-naive based on GLP-1 RA exposure in the 6 months before initiation. Outcomes over 12 months of follow-up included adherence (proportion of days covered ≥0.80), persistence (no ≥45-day gap), and T2D-Rx cost per responder (mean T2D-related pharmacy cost ÷ proportion achieving treatment target) to achieve A1c (<8%, <7%, ≤6.5%, <5.7%) and weight loss (≥5%, ≥10%, ≥15%) thresholds. Outcomes were compared using chi-square and t-tests.\nRESULTS: After matching, 10,702 naive and 5,577 non-naive patient pairs were included in each treatment group. Tirzepatide initiators demonstrated higher adherence (naive: 60% vs 45%; non-naive: 66% vs 48%) and persistence (naive: 62% vs 47%; non-naive: 68% vs 49%) than semaglutide initiators. A greater proportion of tirzepatide users achieved all A1c and weight outcomes, including the most stringent targets of A1c less than 5.7% (naive: 30% vs 18%; non-naive: 17% vs 6%) and weight loss greater than or equal to 15% (naive: 23% vs 10%; non-naive: 17% vs 5%). Tirzepatide also had lower T2D-Rx cost per responder for these most stringent endpoints: A1c less than 5.7% (naive: $45,300 vs $65,300; non-naive: $107,700 vs $270,300) and weight loss greater than or equal to 15% (naive: $62,900 vs $124,400; non-naive: $110,200 vs $326,800), as well as for most other weight loss thresholds. For less stringent A1c goals, T2D-Rx cost per responder was similar across tirzepatide and semaglutide.\nCONCLUSIONS: In this real-world analysis, tirzepatide demonstrated better adherence, persistence, and A1c and weight reductions and lower T2D-Rx cost per responder for the most stringent treatment targets than semaglutide in both GLP-1 RA-naive and non-naive patients with T2D. These findings support the clinical and economic value of tirzepatide for achieving meaningful treatment outcomes in real-world patient populations.",
+      "journal": "Journal of managed care & specialty pharmacy",
+      "authors": "Hoog Meredith M, Vallarino Carlos, Maldonado Juan M, Grabner Michael, Teng Chia-Chen, Terrell Kendra, Richard Emma L",
+      "pub_date": "2026-01-01",
+      "doi": "10.18553/jmcp.2026.32.10.1173",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42808550/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tirzepatide",
+        "Semaglutide",
+        "Diabetes Mellitus, Type 2",
+        "Glucagon-Like Peptides",
+        "Female",
+        "Middle Aged",
+        "Retrospective Studies",
+        "Hypoglycemic Agents",
+        "Male",
+        "United States",
+        "Glycated Hemoglobin",
+        "Aged",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Treatment Outcome",
+        "Adult",
+        "Weight Loss"
+      ],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "543218b271638c84ea32e4f83b9446a97bf9788134d5072d70ea6bc013cf0ff4",
+      "fetched_at_utc": "2026-09-30T00:22:44Z",
+      "updated_at_utc": "2026-09-30T00:22:44Z"
+    },
+    {
       "pmid": "42802896",
       "title": "Effectiveness and Safety of Fixed-Dose Combination Metformin and Empagliflozin in Type 2 Diabetes: A Prospective, Multicenter, Real-World Study From China.",
       "abstract": "BACKGROUND: This study assessed the real-world effectiveness and safety of a fixed-dose combination (FDC) of metformin and empagliflozin in Chinese patients with type 2 diabetes mellitus (T2DM).\nMETHODS: This prospective, multicenter, real-world study enrolled consecutive patients with T2DM treated with the FDC of metformin and empagliflozin between August 2023 and August 2025 across 50 clinical centers in China. The primary endpoint was the 6-month glycemic clinical control rate (HbA1c < 7.0%). The safety outcome included adverse events (AEs), major adverse cardiovascular events (MACEs), and major adverse kidney events (MAKEs).\nRESULTS: A total of 2602 adults with T2DM were enrolled. The full-analysis sets included 1719 patients, respectively. Median age was 54 years, median body mass index (BMI) was 25.7 kg/m2, median HbA1c was 8.3%, and median diabetes duration was 3 years; 34% of patients were female. At 6 months, the proportion of patients achieving HbA1c < 7.0% increased from 20.2% to 58.9%, with median HbA1c falling by about 1.1%-1.2%. Treatment also lowered fasting plasma glucose, body weight, and waist and hip circumference, and modestly reduced blood pressure, improving blood pressure control and shifting the BMI distribution toward normal weight. Subgroup analyses showed higher HbA1c target attainment in younger patients, those with lower baseline HbA1c, and those with higher BMI. Most patients remained on metformin/empagliflozin. AEs, MACEs, MAKEs, ketoacidosis, and genitourinary infections were infrequent.\nCONCLUSION: In this large-scale, real-world study in a Chinese population, the empagliflozin and metformin FDC improved long-term HbA1c control and was well tolerated.",
@@ -17182,27 +17622,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42802896/",
       "publication_types": [
         "Journal Article",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Observational Study"
       ],
       "mesh_terms": [
-        "Humans",
-        "Metformin",
-        "Diabetes Mellitus, Type 2",
-        "Female",
-        "Benzhydryl Compounds",
-        "Middle Aged",
-        "Glucosides",
-        "Prospective Studies",
-        "Male",
-        "Hypoglycemic Agents",
-        "China",
-        "Blood Glucose",
-        "Glycated Hemoglobin",
-        "Aged",
-        "Treatment Outcome",
         "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Benzhydryl Compounds",
+        "Blood Glucose",
+        "China",
+        "Diabetes Mellitus, Type 2",
         "Drug Combinations",
-        "Drug Therapy, Combination"
+        "Drug Therapy, Combination",
+        "Glucosides",
+        "Glycated Hemoglobin",
+        "Hypoglycemic Agents",
+        "Metformin",
+        "Prospective Studies",
+        "Treatment Outcome"
       ],
       "matched_assets": [
         "empagliflozin"
@@ -17212,9 +17653,9 @@
       ],
       "bi_related": true,
       "japan_relevant": false,
-      "content_sha256": "93064385cddae632e59bc5229d950134e256ca61f4411dd4376bade1b907644f",
+      "content_sha256": "c52f41223c4b13225e69e1328552ec3e319a27d87c1c3cd0a1e51f42c3d1134d",
       "fetched_at_utc": "2026-09-29T00:57:38Z",
-      "updated_at_utc": "2026-09-29T00:57:38Z"
+      "updated_at_utc": "2026-09-30T00:22:44Z"
     },
     {
       "pmid": "42800003",
