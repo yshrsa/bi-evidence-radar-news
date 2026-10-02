@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-01T00:31:18Z",
+  "generated_at_utc": "2026-10-02T00:43:29Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,104 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42817877",
+      "title": "Empagliflozin Improves Angina and Endothelial Dysfunction Indices in Angina and No Obstructive Coronary Arteries (ANOCA).",
+      "abstract": "BACKGROUND: Treatments targeting endothelial dysfunction in patients with angina and no obstructive coronary arteries (ANOCA) and coronary microvascular and vasomotor dysfunction (CMVD) are lacking. We evaluated the effects of SGLT2i (sodium-glucose cotransporter-2 inhibition) on angina, inflammatory and oxidative stress biomarkers, and endothelial dysfunction indices using a serum-induced in vitro model in ANOCA patients with CMVD. We conducted an open-label pilot trial of 11 ANOCA participants with CMVD diagnosed by invasive coronary function testing receiving empagliflozin (10 mg daily) for 90 days.\nMETHODS: Angina (Seattle Angina Questionnaire), circulating inflammatory and oxidative stress biomarkers, and endothelial microvesicles (eEVs) were assessed from baseline to 45 and 90 days, and from 90 days to posttreatment discontinuation in a subset (N=5). A serum-induced in vitro model of human coronary artery endothelial cells was used to evaluate endothelial cell apoptosis, viability, eEV release, VCAM-1 (vascular cell adhesion molecule-1) expression, and mitochondrial reactive oxygen species. Stored serum from ANOCA patients without CMVD (controls, N=6) was compared with baseline samples.\nRESULTS: All trial participants had coronary endothelial dysfunction, with concomitant coronary microvascular dysfunction (55%), coronary spasm (54%), and microvascular spasm (18%). Empagliflozin significantly improved Seattle Angina Questionnaire summary scores by 14.0 (4.2-23.9) points at 90 days (P<0.001). Compared with baseline, empagliflozin significantly reduced inflammatory cytokines, oxidative stress biomarkers, and inflammatory eEVs while increasing anti-inflammatory cytokines, antioxidants, and repair eEVs at 45 and 90 days; these effects rebounded after treatment discontinuation. Similarly, serum collected during empagliflozin treatment significantly reduced endothelial cell apoptosis, eEV release, VCAM-1 expression, and mitochondrial reactive oxygen species in vitro, with reversal of these effects at posttreatment discontinuation.\nCONCLUSIONS: In ANOCA participants with invasive coronary function testing confirmed CMVD, SGLT2i therapy produced clinically meaningful anti-anginal effects and reversed multiple indices of endothelial dysfunction, with rebound after treatment discontinuation. These findings support further evaluation in larger clinical trials.",
+      "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+      "authors": "Tapp Danielle N, Kaur Sukhleen, Toleva Olga, Tipler Paxson, Ashokprabhu Namrita, Acharya Pooja, Schmidt Christian W, Korbee Leslie",
+      "pub_date": "2026-10-01",
+      "doi": "10.1161/ATVBAHA.126.324735",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817877/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "3e07ecc87ca01fa7907d3a1b97c0f9f86727557ef3a15ce0faecc4ddf6074aba",
+      "fetched_at_utc": "2026-10-02T00:43:29Z",
+      "updated_at_utc": "2026-10-02T00:43:29Z",
+      "summary_ja": "侵襲的冠動脈機能検査で冠微小血管機能障害（CMVD）が確認されたANOCA患者11名を対象に、エンパグリフロジン10 mg/日を90日間投与するオープンラベル・パイロット試験を行った。Seattle Angina Questionnaire（SAQ）、循環性炎症・酸化ストレスバイオマーカー、内皮マイクロベシクル（eEV）をベースラインから45日・90日、および治療中止後（サブセットN=5）まで評価した。また、ANOCA患者（CMVDなし、対照N=6）の血清を用いたin vitroモデルで、冠動脈内皮細胞のアポトーシス、生存率、eEV放出、VCAM-1発現、ミトコンドリア活性酸素種を評価した。結果として、SAQサマリースコアは90日時点で14.0（4.2–23.9）ポイント有意に改善（P<0.001）し、炎症性サイトカイン・酸化ストレスバイオマーカー・炎症性eEVは減少、抗炎症性サイトカイン・抗酸化物質・修復性eEVは増加した。in vitroでも内皮細胞アポトーシス、eEV放出、VCAM-1発現、ミトコンドリア活性酸素種が有意に減少した。これらの効果は治療中止後に反跳した。",
+      "key_takeaway_ja": "ANOCAでCMVDを有する患者において、SGLT2阻害薬（エンパグリフロジン）は臨床的に有意な抗狭心症効果を示し、複数の内皮機能障害指標を改善したが、治療中止後に反跳が認められた。",
+      "why_matters_ja": "ANOCAおよびCMVD患者における内皮機能障害を標的とする治療法は不足している。本試験はSGLT2阻害薬がANOCA/CMVD患者の狭心症および内皮機能障害に有効である可能性を示し、より大規模な臨床試験の必要性を支持する。",
+      "study_type_ja": "オープンラベル・パイロット試験",
+      "endpoints_ja": "Seattle Angina Questionnaire（SAQ）サマリースコア、循環性炎症性サイトカイン、酸化ストレスバイオマーカー、内皮マイクロベシクル（eEV）、in vitroでの冠動脈内皮細胞アポトーシス・生存率・eEV放出・VCAM-1発現・ミトコンドリア活性酸素種",
+      "endpoint_results_ja": "SAQサマリースコア：90日時点で14.0（4.2–23.9）ポイント改善（P<0.001）。その他のバイオマーカーおよびin vitro指標については、有意な変化が記述されているが、具体的な数値は抄録に記載なし。",
+      "sample_size_ja": "主要試験：ANOCAでCMVDを有する患者11名。治療中止後評価サブセット：N=5。対照（ANOCAでCMVDなし）：N=6",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-02T00:44:01Z"
+    },
+    {
+      "pmid": "42817202",
+      "title": "Weight gain, adipose tissue remodeling and cardiometabolic disease in people with HIV.",
+      "abstract": "PURPOSE OF REVIEW: Weight gain and associated adipose tissue remodeling have been partly linked to HIV infection and to some current antiretroviral therapy (ART) regimens in ART-naive and ART-controlled people with HIV (PWH). This review addresses recent findings on adipose tissue distribution and remodeling in PWH, receiving dolutegravir, bictegravir and/or tenofovir alafenamide (TAF), highlighting how visceral adiposity contributes to cardiometabolic comorbidities.\nRECENT FINDINGS: Preclinical models exposed to dolutegravir, bictegravir, tenofovir disoproxil fumarate (TDF) and/or TAF demonstrate alterations in adipose tissue, including mitochondrial dysfunction, fibrosis, inhibited beiging, and insulin resistance. Transcriptomic studies of abdominal subcutaneous fat from ART-controlled PWH further revealed elevated inflammation, fibrosis and insulin resistance. Increased visceral adiposity raises the risk of cardiometabolic disorders such as insulin resistance and diabetes, metabolic-dysfunction-associated steatotic liver disease and cardiovascular diseases. Reversing weight gain linked to ART, by switching regimens or adding antiobesity medications like the GLP-1 receptor agonist semaglutide, has shown potential in reducing adipose tissue remodeling, visceral adiposity and cardiometabolic risk factors.\nSUMMARY: Weight gain and increased visceral adiposity partly driven by some ARTs are associated with higher cardiometabolic risk. HIV and ART can either activate or suppress the fat beiging/browning phenotype. Reversing weight gain and visceral adiposity in at-risk PWH is a critical clinical goal.",
+      "journal": "Current opinion in HIV and AIDS",
+      "authors": "Gorwood Jennifer, Capeau Jacqueline, Béréziat Véronique, Lagathu Claire",
+      "pub_date": "2026-10-01",
+      "doi": "10.1097/COH.0000000000001069",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817202/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "HIV Infections",
+        "Adipose Tissue",
+        "Cardiovascular Diseases",
+        "Weight Gain",
+        "Anti-HIV Agents",
+        "Metabolic Diseases"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c761e034d10d5bbb7ea4a828848c7d0f54743a70a1810d2ddb7bceb9323798ef",
+      "fetched_at_utc": "2026-10-02T00:43:29Z",
+      "updated_at_utc": "2026-10-02T00:43:29Z",
+      "summary_ja": "HIV感染者（PWH）における体重増加と脂肪組織のリモデリングは、HIV感染自体および一部の現在の抗レトロウイルス療法（ART）レジメンと部分的に関連している。本レビューは、ドゥルテグラビル、ビクテグラビル、テノフォビルアラフェナミド（TAF）を投与されているPWHにおける脂肪組織の分布とリモデリングに関する最近の知見を整理し、内臓脂肪蓄積が心代謝合併症にどのように寄与するかを強調している。前臨床モデルでは、ドゥルテグラビル、ビクテグラビル、TDF、TAFに曝露された際にミトコンドリア機能障害、線維化、ベージング抑制、インスリン抵抗性が示された。ART管理下PWHの腹部皮下脂肪の転写体解析では、炎症、線維化、インスリン抵抗性の亢進が明らかになった。ART関連の体重増加をレジメン変更やGLP-1受容体作動薬（セマグルチド）の追加により逆転させることが、脂肪組織リモデリング、内臓脂肪蓄積、心代謝リスク因子の低減に有効である可能性が示されている。",
+      "key_takeaway_ja": "一部のARTに起因する体重増加と内臓脂肪蓄積の増加は、心代謝リスクの上昇と関連しており、リスクのあるPWHにおける体重増加と内臓脂肪蓄積の逆転は重要な臨床目標である。",
+      "why_matters_ja": "HIV感染者の寿命が延びる中で、心代謝疾患（インスリン抵抗性・糖尿病、代謝機能障害関連脂肪性肝疾患、心血管疾患）が主要な死因となりつつある。ARTレジメン選択や体重管理介入が心代謝リスク低減に寄与する可能性は、PWHの長期管理において臨床的に重要である。",
+      "study_type_ja": "レビュー（総説）",
+      "endpoints_ja": "脂肪組織リモデリング（ミトコンドリア機能障害、線維化、ベージング抑制、インスリン抵抗性）、内臓脂肪蓄積、心代謝リスク因子（インスリン抵抗性、糖尿病、代謝機能障害関連脂肪性肝疾患、心血管疾患）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-02T00:44:23Z"
+    },
+    {
+      "pmid": "42815506",
+      "title": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferiority, active comparator trial.",
+      "abstract": "BACKGROUND: Orforglipron is an oral, non-peptide GLP-1 receptor agonist. While some peptide GLP-1 receptor agonists have established cardiovascular benefit, the cardiovascular safety of non-peptide GLP-1 receptor agonists has not been studied. This study aimed to compare the effect of orforglipron with insulin glargine on the incidence of major adverse cardiovascular events in individuals with type 2 diabetes and obesity or overweight who are at increased risk for cardiovascular events.\nMETHODS: This event-driven, phase 3, multicentre, randomised, open-label, active comparator, parallel-group study was conducted in 317 sites across 16 countries and territories. Adults with type 2 diabetes at increased cardiovascular risk with glycated haemoglobin (HbA1c) concentrations between 7·0% and 10·5% (53-91 mmol/mol) and a BMI of 25 kg/m2 or more, treated with up to three glucose-lowering medications (metformin, a sulfonylurea, and/or an SGLT2 inhibitor), were randomly assigned (1:1) to oral orforglipron maximum tolerated dose (up to 36 mg capsule [equivalent to 17·2 mg tablet]) or injectable titrated insulin glargine, each administered once daily. All participants had established cardiovascular or chronic kidney disease. The primary outcome was time to occurrence of four-component major adverse cardiovascular events (MACE-4), including cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable angina. Non-inferiority of orforglipron to insulin glargine was declared if the upper limit of the two-sided 95% CI for the hazard ratio (HR; orforglipron vs insulin glargine) was less than 1·8. The primary endpoint and other safety endpoints were assessed in all participants who took at least one dose of assigned treatment using all datapoints from baseline until withdrawal or study completion, regardless of treatment adherence. This trial was registered on ClinicalTrials.gov (NCT05803421) and is completed.\nFINDINGS: Between May 1, 2023, and Sept 5, 2024, 2749 participants were randomly assigned (1371 to orforglipron and 1378 to insulin glargine). 1032 (38%) participants were female and 1717 (62·5%) male. 2362 (85·9%) participants had established cardiovascular disease and 1033 (37·6%) had chronic kidney disease. Mean baseline age, HbA1c, and BMI were 63·1 years (SD 9·9), 8·2% (1·0), and 33 kg/m2 (6·2), respectively. Over a median follow-up of 2 years, the primary outcome occurred in 57 (4·2%) of 1358 orforglipron participants and 67 (5·0%) of 1343 insulin glargine participants, showing non-inferiority to insulin glargine for MACE-4 (HR 0·84; 95% CI 0·59-1·20; p<0·0001 for non-inferiority). Gastrointestinal adverse events were reported in 851 (62·1%) of 1371 orforglipron participants and 193 (14·2%) of 1355 insulin glargine participants; clinically significant or severe hypoglycaemia (glucose <3 mmol/L [54 mg/dL]) occurred in 93 (6·8%) of 1371 orforglipron participants and 260 (19·2%) of 1355 insulin glargine participants. 62 deaths were reported during the study: 19 (1·4%) of 1371 participants receiving orforglipron and 43 (3·2%) of 1355 participants receiving insulin glargine; all deaths except one (in the insulin glargine group) were deemed unrelated to treatment.\nINTERPRETATION: In people with type 2 diabetes at increased cardiovascular risk, the cardiovascular safety of orforglipron was confirmed by demonstrating non-inferiority to insulin glargine for MACE-4. Gastrointestinal adverse events were the most frequent adverse event and most common reason for orforglipron treatment discontinuation with orforglipron, while clinically significant hypoglycaemia occurred less frequently with orforglipron than with insulin glargine. These findings support orforglipron as a potential once-daily, oral treatment option with established cardiovascular safety in people with type 2 diabetes and increased cardiovascular risk.\nFUNDING: Eli Lilly and Company.",
+      "journal": "Lancet (London, England)",
+      "authors": "Klein Klara R, Wysham Carol, Tuttle Katherine R, Davies Melanie J, Cox David, Chen Jiaxun, Wu Wen-Shuo, Denning Max",
+      "pub_date": "2026-09-30",
+      "doi": "10.1016/S0140-6736(26)01865-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42815506/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "65ea18da40a733da786d2eae659672c234b9bb0de9495faea26dcfdc65f11adf",
+      "fetched_at_utc": "2026-10-02T00:43:29Z",
+      "updated_at_utc": "2026-10-02T00:43:29Z"
     },
     {
       "pmid": "42814157",
@@ -208,6 +306,40 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-01T00:33:35Z"
+    },
+    {
+      "pmid": "42816319",
+      "title": "Real-world effectiveness and safety of low-dose tirzepatide in Japanese people with type 2 diabetes: a multicenter, retrospective, single-arm, observational study-East Shizuoka Tirzepatide (ESTATE) study.",
+      "abstract": "The glucose-dependent insulinotropic polypeptide (GIP)/glucagon-like peptide-1 (GLP-1) receptor agonist tirzepatide is available clinically. Although real-world studies of tirzepatide in Japanese people with type 2 diabetes (T2D) have been reported, data regarding low-dose tirzepatide and patient-reported outcomes in routine clinical practice remain limited. In this multicenter retrospective observational study, we evaluated changes in glycemic control, body mass index (BMI), metabolic parameters, patient-reported outcomes, and adverse events after initiation of low-dose tirzepatide in Japanese people with T2D. Eighty-eight subjects with T2D treated with an average dose of tirzepatide of 4.5 ± 1.0 mg/week for 24 weeks were retrospectively analyzed. The primary outcomes were changes in glycated hemoglobin (HbA1c) and BMI from baseline to 24 weeks. HbA1c levels and BMI decreased over 24 weeks after initiation of low-dose tirzepatide (HbA1c, -1.5%; BMI, -1.5 kg/m2; both p < 0.001). Additionally, serum albumin was increased, and alanine transaminase and low-density lipoprotein cholesterol were decreased significantly. In multivariable regression analysis, higher baseline HbA1c was associated with greater HbA1c reduction. In exploratory cross-sectional analyses, post-treatment Diabetes Treatment Satisfaction Questionnaire (DTSQ) scores were associated with higher baseline HbA1c, and Kanden Institute Stigma Scale (KISS) scores were associated with higher baseline BMI. Major adverse events linked with tirzepatide were gastrointestinal symptoms. In this multicenter retrospective single-arm observational study, HbA1c and BMI decreased over 24 weeks after low-dose tirzepatide initiation in Japanese people with T2D. These findings suggest that low-dose tirzepatide may be a useful treatment option in selected patients in routine clinical practice, although causal inference is limited by the observational design and lack of a control group.Trial Registration: National University Hospital Medical Information Network (UMIN Clinical Trial Registry, UMIN000053671; approval date: March 1, 2024).",
+      "journal": "Endocrine journal",
+      "authors": "Iwamoto Tatsuya, Yamasaki Nozomu, Nojiri Shuko, Urasaki Wataru, Aso Katsumi, Komatsu Katsutoshi, Enosawa Naoko, Kanzaki Marie",
+      "pub_date": "2026-09-29",
+      "doi": "10.1507/endocrj.EJ26-0274",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42816319/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "3171e241d38cbdb0ece02a6a0d0437964618f13554796f08f60b669984990e0a",
+      "fetched_at_utc": "2026-10-02T00:43:29Z",
+      "updated_at_utc": "2026-10-02T00:43:29Z",
+      "summary_ja": "本多施設後ろ向き単群観察研究（ESTATE研究）では、日本人2型糖尿病患者88名を対象に、低用量tirzepatide（平均4.5±1.0 mg/週、24週間）開始後の血糖コントロール、BMI、代謝パラメータ、患者報告アウトカム、有害事象の変化を評価した。主要アウトカムはベースラインから24週までのHbA1cおよびBMIの変化であり、両者ともに有意に低下した（HbA1c -1.5%、BMI -1.5 kg/m²、いずれもp<0.001）。また、血清アルブミンは増加し、ALTおよびLDL-Cは有意に低下した。多変量回帰分析では、ベースラインHbA1cが高いほどHbA1c低下幅が大きいことが示された。探索的横断分析では、治療後DTSQスコアはベースラインHbA1cと、KISSスコアはベースラインBMIと関連した。主な有害事象は消化管症状であった。",
+      "key_takeaway_ja": "日本人2型糖尿病患者において、低用量tirzepatide（平均4.5 mg/週）の24週間投与によりHbA1cおよびBMIが有意に低下し、通常の臨床実践において選択された患者に有用な治療選択肢となり得るが、観察研究デザインのため因果推論には限界がある。",
+      "why_matters_ja": "低用量tirzepatideおよび通常の臨床実践における患者報告アウトカムに関するデータは限られており、本研究は日本人2型糖尿病患者における低用量tirzepatideの実臨床での有効性と安全性に関する貴重なエビデンスを提供する。",
+      "study_type_ja": "多施設、後ろ向き、単群、観察研究",
+      "endpoints_ja": "主要アウトカム：ベースラインから24週までのHbA1cの変化、ベースラインから24週までのBMIの変化。副次/探索的評価：代謝パラメータ（血清アルブミン、ALT、LDL-C）、患者報告アウトカム（DTSQスコア、KISSスコア）、有害事象",
+      "endpoint_results_ja": "HbA1c：-1.5%（p<0.001）、BMI：-1.5 kg/m²（p<0.001）、血清アルブミン：増加（有意）、ALT：低下（有意）、LDL-C：低下（有意）、主な有害事象：消化管症状",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-02T00:45:54Z"
     },
     {
       "pmid": "42814855",
@@ -355,7 +487,16 @@
       "japan_relevant": true,
       "content_sha256": "d224050637ede4d1b787347d03c2cf72b5e5494079df3352ce5361a320efd067",
       "fetched_at_utc": "2026-10-01T00:31:18Z",
-      "updated_at_utc": "2026-10-01T00:31:18Z"
+      "updated_at_utc": "2026-10-01T00:31:18Z",
+      "summary_ja": "NIH All of Us Research Program（2018-2023年）のデータを用いた後方視的アクティブコンパレーター・ニューユーザーコホート研究。BMI≥27 kg/m²の18-80歳患者において、GLP-1受容体アゴニスト（GLP-1RA）開始群（n=2,932）とSGLT2阻害薬（SGLT2i）開始群（n=941）の12か月後の体重減少を比較し、糖尿病の有無・性別・人種/民族による効果修飾を評価した。17変数のプロピensityスコアモデルによる逆確率治療重み付け（IPTW）を実施し、28項目の診断バランスを達成（最大SMD 0.077）。主要エンドポイントは12か月時の体重変化率、副次エンドポイントは10%以上の体重減少、HbA1c、血圧変化。",
+      "key_takeaway_ja": "GLP-1RA開始群はSGLT2i開始群より12か月時の体重減少が有意に大きかったが、この差は女性および2型糖尿病を有さない患者に集中しており、2型糖尿病を有する患者では差は認められなかった（交互作用P=.006）。",
+      "why_matters_ja": "糖尿病の有無や性別によってGLP-1RAとSGLT2iの減量効果の差が異なることを示し、個別化治療選択の根拠を提供する。ただし交互作用の所見は仮説生成段階であり、前向き研究による確認が必要とされている。",
+      "study_type_ja": "後方視的アクティブコンパレーター・ニューユーザーコホート研究（リアルワールド研究）",
+      "endpoints_ja": "主要エンドポイント：12か月時の体重変化率（percent body weight change at 12 months）。副次エンドポイント：10%以上の体重減少、HbA1c変化、血圧変化。",
+      "endpoint_results_ja": "体重減少差：-1.20 pp [95% CI, -1.91 to -0.48]; P = .001。OR 1.75 [95% CI, 1.40-2.19]。RR 1.61 [95% CI, 1.19-2.03]。NNT 14。肥満のみ（糖尿病なし）：-1.96 pp; P <.001。2型糖尿病：+0.08 pp; 交互作用P = .006。女性：-1.71 pp、男性：+0.12 pp; P = .017。HbA1c：-0.261%; P = .032。血圧：有意差なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-02T00:46:35Z"
     },
     {
       "pmid": "42810614",
@@ -376,7 +517,16 @@
       "japan_relevant": false,
       "content_sha256": "286df26d7e25b413732e45f62aac1b70d37859a63f27ab7911ad9c51fa14f637",
       "fetched_at_utc": "2026-10-01T00:31:18Z",
-      "updated_at_utc": "2026-10-01T00:31:18Z"
+      "updated_at_utc": "2026-10-01T00:31:18Z",
+      "summary_ja": "肝移植受容者における糖尿病治療薬としてGLP-1受容体作動薬（GLP-1 RA）とSGLT2阻害薬（SGLT2i）の比較を目的としたエミュレート・ターゲット・トライアルである。TriNetX US Collaborative Networkを用い、2015年から2024年までに肝移植を受けた糖尿病患者33,161例を同定し、プロパensity score matchingにより564ペア（計1,128例）を解析した。Cox比例ハザードモデルを用いて、感染、移植片拒絶反応、肝硬変、心血管アウトカム、入院、死亡率のリスクを推定した。",
+      "key_takeaway_ja": "肝移植受容者における糖尿病患者において、SGLT2i使用と比較してGLP-1 RA使用は虚血性心疾患（HR 0.721）、心不全（HR 0.502）、全死因死亡率（HR 0.622）のリスク低下と関連した。肝硬変のリスク低下も観察されたが、統計的有意性は境界的であり、代替モデル間で一貫しなかった。",
+      "why_matters_ja": "肝移植受容者という特殊かつ脆弱な集団において、2つの主要な糖尿病治療薬クラスを直接比較した観察研究であり、この集団における薬剤選択の臨床的根拠を提供する可能性がある。ただし観察研究であり因果関係は確立されていない。",
+      "study_type_ja": "エミュレート・ターゲット・トライアル（観察研究、プロパensity score matching適用）",
+      "endpoints_ja": "感染、移植片拒絶反応、肝硬変、虚血性心疾患、心不全、肝不全、全死因入院、全死因死亡率",
+      "endpoint_results_ja": "肝硬変: HR 0.787 (95% CI 0.619-0.999)、虚血性心疾患: HR 0.721 (95% CI 0.582-0.892)、心不全: HR 0.502 (95% CI 0.388-0.650)、全死因死亡率: HR 0.622 (95% CI 0.433-0.894)、感染・移植片拒絶反応・肝不全・全死因入院: 有意差なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-02T00:47:15Z"
     },
     {
       "pmid": "42810438",
@@ -401,7 +551,16 @@
       "japan_relevant": false,
       "content_sha256": "26d30ce0bccbe38e0e3e8be138867e65e5fdc2a0ccf579472d9204f6df28e522",
       "fetched_at_utc": "2026-10-01T00:31:18Z",
-      "updated_at_utc": "2026-10-01T00:31:18Z"
+      "updated_at_utc": "2026-10-01T00:31:18Z",
+      "summary_ja": "カナダにおけるセマグルチドの多適応症（T2D、心血管疾患、MASH、CKD）に対する広範な社会的影響を評価するため、100万人の仮想的治療対象人口を対象とした5年間（2025-2029年）の人口レベルのモデル分析を行った経済評価研究。臨床試験由来の治療効果、医療資源使用の削減、環境影響のコスト換算、生産性向上を統合的に算出した。",
+      "key_takeaway_ja": "セマグルチド治療は、心血管代謝性合併症にわたる個人・医療・社会レベルの広範な利益をもたらす可能性があり、従来の狭い医療者視点では捉えられない社会的価値を定量化した。",
+      "why_matters_ja": "従来の費用効果分析は個人レベル・適応症特異的なコスト/ベネフィットに焦点を当てており、多適応症にわたる社会的影響を過小評価する可能性がある。本研究は、セマグルチドの広範な社会的価値を定量化し、政策決定や価値評価の枠組みに示唆を与える。",
+      "study_type_ja": "経済評価（人口レベルのモデル分析）",
+      "endpoints_ja": "肥満症例数、T2D症例数、心血管イベント数、心血管死亡数、MASH stage 3-4症例数、stage 4 CKD/末期腎不全症例数、肥満・T2D関連合併症数、消化管有害事象数、入院件数、CO2e排出量、医療資源使用コスト削減額、生産性向上額、セマグルチド治療コスト",
+      "endpoint_results_ja": "肥満症例 235,000件減少、T2D症例 650件予防、心血管イベント 8,400件予防、心血管死亡 1,100件予防、MASH stage 3-4症例 5,300件予防、stage 4 CKD/末期腎不全症例 2,200件予防、肥満・T2D関連合併症 48,800件予防、消化管有害事象 21,200件発生、入院 22,200件回避、CO2e 330kt削減、医療資源使用コスト削減 CAD 2.0billion、生産性向上 CAD 19.9billion、セマグルチド治療コスト CAD 20.4billion",
+      "sample_size_ja": "仮想的治療対象カナダ人 1,000,000名（T2D、心血管疾患、MASH、および/またはCKD）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-02T00:48:06Z"
     },
     {
       "pmid": "42810204",
@@ -6700,6 +6859,50 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "local/qwen3.8:27b",
       "summary_generated_at_utc": "2026-08-31T15:01:56Z"
+    },
+    {
+      "pmid": "42818435",
+      "title": "Obesity in the GLP-1 Era: Clinical Characteristics and Prescribing Patterns in a Large Integrated Health System.",
+      "abstract": "AIMS: To characterize adults with obesity in a large integrated health system.\nMETHODS: We created a cross-sectional cohort of adults with at least one body mass index (BMI) value >=30 kg/m2 in the prior 18 months, a recent in-person outpatient visit, and an assigned primary care provider. Electronic health record data were transformed into a patient-level analytic dataset and linked to neighborhood-level social determinants of health. Diagnoses, laboratory values, vital signs, and prescriptions were curated using reproducible phenotype definitions and internally reviewed vocabularies.\nRESULTS: The registry included 280,186 adults, of whom 48% had class I obesity. The cohort was 63% female, 27% Black, and 14% lived in areas with high or very high deprivation. Common comorbidities included hypertension, type 2 diabetes, depression, and anxiety. HbA1c and cholesterol measurements were absent in more than 40% of the cohort during the prior two years. Overall, 22% of patients received a prescription for at least one weight loss drug in the past 2 years, including 18% who received a weight-loss-approved GLP-1 receptor agonist.\nCONCLUSIONS: This care-engaged obesity cohort was characterized by high representation of women and socially vulnerable populations, substantial cardiometabolic screening gaps, and broad adoption of GLP-1 agonists.",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "authors": "Wells Brian J, Lenoir Kristin M, Webster-Clark Michael, Pajewski Nicholas M, Pons-Junkins Amanda T, Mielke Michelle M",
+      "pub_date": "2026-09-08",
+      "doi": "10.64898/2026.09.04.26361064",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818435/",
+      "publication_types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "39224b11b2389a9ab4b4c5fe7aad5b4b1b85892bef62c9b38fedad3e750f0109",
+      "fetched_at_utc": "2026-10-02T00:43:29Z",
+      "updated_at_utc": "2026-10-02T00:43:29Z"
+    },
+    {
+      "pmid": "42818421",
+      "title": "Education and Alzheimer Disease Genetic Risk in Associations of GLP-1 Receptor Agonists With Dementia Among Adults With Type 2 Diabetes.",
+      "abstract": "OBJECTIVE: To evaluate whether educational attainment and Alzheimer disease genetic risk were associated with GLP-1 receptor agonist initiation and dementia incidence and whether adjustment for these measured factors materially changed the estimated association between GLP-1 receptor agonist initiation and incident dementia among adults with type 2 diabetes.\nRESEARCH DESIGN AND METHODS: We conducted an observational cohort study using linked electronic health record, survey, and genetic data from 14,364 All of Us Research Program participants with type 2 diabetes. We estimated associations of educational attainment and Alzheimer disease genetic risk with treatment initiation and incident dementia and compared GLP-1 receptor agonist initiators with initiators of non-sodium-glucose cotransporter 2 inhibitor second-line therapies, with a separate sodium-glucose cotransporter 2 inhibitor comparison. Models were estimated before and after additional adjustment for educational attainment, APOE ε4, and non-APOE genetic risk.\nRESULTS: Among 14,364 participants (mean age, 60.2 years; 54.2% female), the mean follow-up duration was 4.3 years. The estimated hazard ratio for dementia comparing GLP-1 receptor agonist initiation with non-SGLT2 inhibitor second-line therapy was 0.85 (95% CI 0.64-1.12) before adjustment for education or Alzheimer disease genetic risk and 0.84 (95% CI 0.64-1.12) after adjustment for educational attainment, APOE ε4, and non-APOE genetic risk.\nCONCLUSIONS: Among adults with type 2 diabetes, adjustment for measured educational attainment and Alzheimer disease genetic susceptibility produced little change in the estimated association between GLP-1 receptor agonist initiation and incident dementia. These findings do not exclude confounding by these factors in other populations or residual confounding from socioeconomic, clinical, behavioral, and health-care-related factors.\nHIGHLIGHTS: Observational studies have reported associations between GLP-1 receptor agonist use and lower dementia risk, but important social and genetic factors are often unavailable in electronic health record data.We examined whether educational attainment and Alzheimer disease genetic susceptibility were associated with treatment initiation and dementia and whether adjustment for these factors changed GLP-1 receptor agonist-dementia estimates.Adding measured education and genetic susceptibility produced little change in the estimated conditional hazard ratios.These results do not exclude residual confounding and should not be interpreted as evidence that GLP-1 receptor agonists prevent dementia.",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "authors": "Wang Jingxuan, Pederson Anna M, Flanders Michael D, Choi Minhyuk, Buto Peter, Sims Kendra D, Chen Ruijia, Couch Elyse",
+      "pub_date": "2026-09-08",
+      "doi": "10.64898/2026.09.04.26362304",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818421/",
+      "publication_types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "36b7295931fca67c2e7ef41e5dd3a6fb275a84911de08ece0ac082a171fc3c3c",
+      "fetched_at_utc": "2026-10-02T00:43:29Z",
+      "updated_at_utc": "2026-10-02T00:43:29Z"
     },
     {
       "pmid": "42810778",
@@ -17988,6 +18191,49 @@
       "content_sha256": "b6dba5843a8c835e69de355a5a761c8c0811f036d49cd7026b1ba11dc2053d5a",
       "fetched_at_utc": "2026-09-23T23:38:51Z",
       "updated_at_utc": "2026-09-23T23:38:51Z"
+    },
+    {
+      "pmid": "42817074",
+      "title": "Effects of SGLT-2 Inhibitors on Plasma Concentrations and Renal Clearance of the Risk Marker Trimethylamine-N-Oxide in Patients With Type-2 Diabetes.",
+      "abstract": "BACKGROUND: Sodium-glucose cotransporter-2 (SGLT-2) inhibitors have become a key drug class in the treatment of Type 2 diabetes (T2D) due to their effectiveness in blood sugar control, but also for many other clinical indications because of beneficial effects on cardiovascular diseases and mortality. Therefore, the findings of a secondary analysis of the recent EMMY trial, in which acute myocardial infarction patients treated with empagliflozin had higher trimethylamine-N-oxide (TMAO) serum levels compared to placebo, were unexpected, as high TMAO concentrations in blood have previously been linked to adverse cardiovascular and mortality outcomes. In light of this, the aim of our study was to explore the effects of the SGLT-2 inhibitors empagliflozin and dapagliflozin on plasma concentrations and renal clearance (ClR) in a T2D patient setting.\nMETHODS: Plasma and 24-h urine samples from two prospective, randomised, placebo-controlled, double-blind, cross-over trials with T2D patients (empagliflozin N = 69, NCT02471963; dapagliflozin N = 54, NCT02383238), taken at baseline and after each treatment with either SGLT-2 inhibitor or placebo, were measured for TMAO via LC-MS/MS.\nRESULTS: After treatment with an SGLT-2 inhibitor, in the total of 123 patients, TMAO plasma levels were 11.5% higher compared to placebo (p = 0.006) and ClR of TMAO was reduced by 10.3% (p = 0.048) without any relevant change in its urinary excretion (p = 0.521). In the dapagliflozin trial, TMAO plasma concentration was 23.4% higher (p = 0.021), and ClR of TMAO was 22.6% lower (p = 0.025) after treatment with dapagliflozin compared to placebo. For empagliflozin, a similar trend was observed, but did not reach statistical significance.\nCONCLUSION: Treatment with an SGLT-2 inhibitor was associated with a modest increase in plasma concentration of TMAO. Together with data from a previous trial, the present findings suggest a possible class effect of SGLT-2 inhibitors. Whether this effect impacts the overall clinical benefits of SGLT-2 inhibitors needs to be subject to further investigations.\nTRIAL REGISTRATION: http://www.\nCLINICALTRIALS: gov: NCT02471963 (registered 15th June 2015, retrospectively registered) and NCT02383238.",
+      "journal": "Endocrinology, diabetes & metabolism",
+      "authors": "Zimmer Katja B, Gessner Arne, Kannenkeril Dennis, Bosch Agnes, Ströbel Armin, Schmieder Roland E, Maas Renke",
+      "pub_date": "2026-01-01",
+      "doi": "10.1002/edm2.70318",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817074/",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Methylamines",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Glucosides",
+        "Benzhydryl Compounds",
+        "Female",
+        "Middle Aged",
+        "Male",
+        "Double-Blind Method",
+        "Biomarkers",
+        "Cross-Over Studies",
+        "Aged",
+        "Prospective Studies"
+      ],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "0035daf06c719106e72f06c2b87691ec424efd6affcbbf9223d62a8366ef0128",
+      "fetched_at_utc": "2026-10-02T00:43:29Z",
+      "updated_at_utc": "2026-10-02T00:43:29Z"
     },
     {
       "pmid": "42809414",
