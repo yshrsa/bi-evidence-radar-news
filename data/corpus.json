@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-03T00:26:22Z",
+  "generated_at_utc": "2026-10-03T23:45:54Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,46 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42827168",
+      "title": "Comorbid Cardiovascular-Liver Disease Disparities: Current Understanding and Future Directions.",
+      "abstract": "PURPOSE OF REVIEW: Metabolic dysfunction-associated steatotic liver disease (MASLD) is a prevalent chronic liver disease and a multisystem cardiometabolic disorder. Cardiovascular disease (CVD) is a major cause of morbidity and mortality in this population. This review examines disparities in the recognition and management of coexisting cardiovascular and metabolic liver disease.\nRECENT FINDINGS: Shared metabolic and inflammatory pathways link liver disease with obesity, type 2 diabetes, hypertension, and CVD. Differences in measured disease prevalence across racial and ethnic groups must be interpreted separately from genetic susceptibility and in the context of structural inequities, diagnostic practices, and access to care. Socioeconomic disadvantage and sex- and gender-related barriers may further affect diagnosis and treatment. Resmetirom and semaglutide have expanded treatment options for selected adults with metabolic dysfunction-associated steatohepatitis (MASH), but unequal access to fibrosis assessment, insurance coverage, and longitudinal care may limit their benefits. An equity-centered cardio-hepatology framework should integrate early risk identification, stepwise noninvasive fibrosis assessment, individualized cardiovascular prevention, and access to indicated liver-directed therapies. Treatment and quality measures should reflect clinical eligibility rather than medication use alone. Inclusive research and coordinated long-term care are needed to evaluate whether these strategies narrow disparities.",
+      "journal": "Current cardiology reports",
+      "authors": "Hafez Abdelrahman, Nour Mohamed, Ibrahim Ramzi, Othman Jenna, Mohamed Mohamed Reyad, Awad Kamal, Zanco Julia, De Sousa Barzon Serra Vinicius",
+      "pub_date": "2026-10-03",
+      "doi": "10.1007/s11886-026-02426-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42827168/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cardiovascular Diseases",
+        "Comorbidity",
+        "Healthcare Disparities",
+        "Prevalence",
+        "Diabetes Mellitus, Type 2",
+        "Obesity",
+        "Fatty Liver",
+        "Semaglutide",
+        "Liver Diseases",
+        "Risk Factors",
+        "Non-alcoholic Fatty Liver Disease",
+        "Socioeconomic Disparities in Health"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "e502f4bb9cf939b5d0b113e0d64fab6cdacb3218b9977e0ff0cbc275d3685fbc",
+      "fetched_at_utc": "2026-10-03T23:45:54Z",
+      "updated_at_utc": "2026-10-03T23:45:54Z"
     },
     {
       "pmid": "42826222",
@@ -874,7 +914,7 @@
     {
       "pmid": "42810614",
       "title": "Comparative outcomes of GLP-1 receptor agonist and SGLT2 inhibitor users after liver transplantation: An emulated target trial.",
-      "abstract": "OBJECTIVE: We emulated a target trial to compare glucagon-like peptide-1 receptor agonists (GLP-1 RAs) with sodium-glucose cotransporter-2 inhibitors (SGLT2is) regarding hepatic, cardiovascular, and mortality outcomes among liver transplant recipients with diabetes.\nMETHODS: Using the TriNetX US Collaborative Network, we identified 33,161 liver transplant recipients with diabetes between 2015 and 2024. After propensity score matching, 564 pairs of new GLP-1 RA and SGLT2i users were analyzed. Risks of infection, graft rejection, cirrhosis, cardiovascular outcomes, hospitalization, and mortality were estimated using Cox proportional hazards models.\nRESULTS: The mean age was 65.8 years (SD, 10.8), and 65.1% were male. Compared with SGLT2i use, GLP-1 RA use was associated with lower risks of cirrhosis (HR, 0.787; 95% CI, 0.619-0.999), ischemic heart disease (HR, 0.721; 95% CI, 0.582-0.892), heart failure (HR, 0.502; 95% CI, 0.388-0.650), and all-cause mortality (HR, 0.622; 95% CI, 0.433-0.894). No significant differences were observed for infection, graft rejection, liver failure, or all-cause hospitalization. Sensitivity analyses generally supported the cardiovascular and mortality findings, whereas the association with cirrhosis was less consistent across propensity score models.\nCONCLUSIONS: Among liver transplant recipients with diabetes, GLP-1 RA use was associated with lower risks of ischemic heart disease, heart failure, and all-cause mortality compared with SGLT2i use. A lower risk of cirrhosis was also observed, although this association was of borderline statistical significance and was not consistently significant across alternative models. Given the observational design, these findings do not establish causality and warrant prospective confirmation.",
+      "abstract": "OBJECTIVE: We emulated a target trial to compare glucagon-like peptide-1 receptor agonists (GLP-1 RAs) with sodium-glucose cotransporter-2 inhibitors (SGLT2is) regarding hepatic, cardiovascular, and mortality outcomes among liver transplant recipients with diabetes.\nMETHODS: Using the TriNetX US Collaborative Network, we identified 33,161 liver transplant recipients with diabetes between 2015 and 2024. After propensity score matching, 564 pairs of new GLP-1 RA and SGLT2i users were analyzed. Risks of infection, graft rejection, cirrhosis, cardiovascular outcomes, hospitalization, and mortality were estimated using Cox proportional hazards models.\nRESULTS: The mean age was 65.8 years (SD, 10.8), and 65.1% were male. Compared with SGLT2i use, GLP-1 RA use was associated with lower risks of cirrhosis (HR, 0.787; 95% CI, 0.619-0.999), ischemic heart disease (HR, 0.721; 95% CI, 0.582-0.892), heart failure (HR, 0.502; 95% CI, 0.388-0.650), and all-cause mortality (HR, 0.622; 95% CI, 0.433-0.894). No significant differences were observed for infection, graft rejection, liver failure, or all-cause hospitalization. Sensitivity analyses generally supported the cardiovascular and mortality findings, whereas the association with cirrhosis was less consistent across propensity score models.\nCONCLUSIONS: Among liver transplant recipients with diabetes, GLP-1 RA use was associated with lower risks of ischemic heart disease, heart failure, and all-cause mortality compared with SGLT2i use. A lower risk of cirrhosis was also observed, although this association was of borderline statistical significance and was not consistently significant across alternative models. Given the observational design, these findings do not establish causality and warrant prospective confirmation.",
       "journal": "Metabolism: clinical and experimental",
       "authors": "Yen Fu-Shun, Liao Pei-Lun, Hung Yao-Min, Hsu Chih-Cheng, Liu Chin-Su, Hou Ming-Chih, Hwu Chii-Min, Wei James Cheng-Chung",
       "pub_date": "2026-09-29",
@@ -888,18 +928,9 @@
       "matched_companies": [],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "286df26d7e25b413732e45f62aac1b70d37859a63f27ab7911ad9c51fa14f637",
+      "content_sha256": "3ffb3cec9ef67039cfbcf4c3d3572cb66449cb491e86c13544090d95a4a9e2b2",
       "fetched_at_utc": "2026-10-01T00:31:18Z",
-      "updated_at_utc": "2026-10-01T00:31:18Z",
-      "summary_ja": "肝移植受容者における糖尿病治療薬としてGLP-1受容体作動薬（GLP-1 RA）とSGLT2阻害薬（SGLT2i）の比較を目的としたエミュレート・ターゲット・トライアルである。TriNetX US Collaborative Networkを用い、2015年から2024年までに肝移植を受けた糖尿病患者33,161例を同定し、プロパensity score matchingにより564ペア（計1,128例）を解析した。Cox比例ハザードモデルを用いて、感染、移植片拒絶反応、肝硬変、心血管アウトカム、入院、死亡率のリスクを推定した。",
-      "key_takeaway_ja": "肝移植受容者における糖尿病患者において、SGLT2i使用と比較してGLP-1 RA使用は虚血性心疾患（HR 0.721）、心不全（HR 0.502）、全死因死亡率（HR 0.622）のリスク低下と関連した。肝硬変のリスク低下も観察されたが、統計的有意性は境界的であり、代替モデル間で一貫しなかった。",
-      "why_matters_ja": "肝移植受容者という特殊かつ脆弱な集団において、2つの主要な糖尿病治療薬クラスを直接比較した観察研究であり、この集団における薬剤選択の臨床的根拠を提供する可能性がある。ただし観察研究であり因果関係は確立されていない。",
-      "study_type_ja": "エミュレート・ターゲット・トライアル（観察研究、プロパensity score matching適用）",
-      "endpoints_ja": "感染、移植片拒絶反応、肝硬変、虚血性心疾患、心不全、肝不全、全死因入院、全死因死亡率",
-      "endpoint_results_ja": "肝硬変: HR 0.787 (95% CI 0.619-0.999)、虚血性心疾患: HR 0.721 (95% CI 0.582-0.892)、心不全: HR 0.502 (95% CI 0.388-0.650)、全死因死亡率: HR 0.622 (95% CI 0.433-0.894)、感染・移植片拒絶反応・肝不全・全死因入院: 有意差なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-02T00:47:15Z"
+      "updated_at_utc": "2026-10-03T23:45:54Z"
     },
     {
       "pmid": "42810438",

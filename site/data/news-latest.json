@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-03T00:32:46Z",
+  "generated_at_utc": "2026-10-03T23:47:01Z",
   "items": [
     {
       "pmid": "42805503",
@@ -728,36 +728,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-02T00:46:35Z"
-    },
-    {
-      "pmid": "42810614",
-      "title": "Comparative outcomes of GLP-1 receptor agonist and SGLT2 inhibitor users after liver transplantation: An emulated target trial.",
-      "abstract": "OBJECTIVE: We emulated a target trial to compare glucagon-like peptide-1 receptor agonists (GLP-1 RAs) with sodium-glucose cotransporter-2 inhibitors (SGLT2is) regarding hepatic, cardiovascular, and mortality outcomes among liver transplant recipients with diabetes.\nMETHODS: Using the TriNetX US Collaborative Network, we identified 33,161 liver transplant recipients with diabetes between 2015 and 2024. After propensity score matching, 564 pairs of new GLP-1 RA and SGLT2i users were analyzed. Risks of infection, graft rejection, cirrhosis, cardiovascular outcomes, hospitalization, and mortality were estimated using Cox proportional hazards models.\nRESULTS: The mean age was 65.8 years (SD, 10.8), and 65.1% were male. Compared with SGLT2i use, GLP-1 RA use was associated with lower risks of cirrhosis (HR, 0.787; 95% CI, 0.619-0.999), ischemic heart disease (HR, 0.721; 95% CI, 0.582-0.892), heart failure (HR, 0.502; 95% CI, 0.388-0.650), and all-cause mortality (HR, 0.622; 95% CI, 0.433-0.894). No significant differences were observed for infection, graft rejection, liver failure, or all-cause hospitalization. Sensitivity analyses generally supported the cardiovascular and mortality findings, whereas the association with cirrhosis was less consistent across propensity score models.\nCONCLUSIONS: Among liver transplant recipients with diabetes, GLP-1 RA use was associated with lower risks of ischemic heart disease, heart failure, and all-cause mortality compared with SGLT2i use. A lower risk of cirrhosis was also observed, although this association was of borderline statistical significance and was not consistently significant across alternative models. Given the observational design, these findings do not establish causality and warrant prospective confirmation.",
-      "journal": "Metabolism: clinical and experimental",
-      "authors": "Yen Fu-Shun, Liao Pei-Lun, Hung Yao-Min, Hsu Chih-Cheng, Liu Chin-Su, Hou Ming-Chih, Hwu Chii-Min, Wei James Cheng-Chung",
-      "pub_date": "2026-09-29",
-      "doi": "10.1016/j.metabol.2026.156790",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42810614/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "286df26d7e25b413732e45f62aac1b70d37859a63f27ab7911ad9c51fa14f637",
-      "fetched_at_utc": "2026-10-01T00:31:18Z",
-      "updated_at_utc": "2026-10-01T00:31:18Z",
-      "summary_ja": "肝移植受容者における糖尿病治療薬としてGLP-1受容体作動薬（GLP-1 RA）とSGLT2阻害薬（SGLT2i）の比較を目的としたエミュレート・ターゲット・トライアルである。TriNetX US Collaborative Networkを用い、2015年から2024年までに肝移植を受けた糖尿病患者33,161例を同定し、プロパensity score matchingにより564ペア（計1,128例）を解析した。Cox比例ハザードモデルを用いて、感染、移植片拒絶反応、肝硬変、心血管アウトカム、入院、死亡率のリスクを推定した。",
-      "key_takeaway_ja": "肝移植受容者における糖尿病患者において、SGLT2i使用と比較してGLP-1 RA使用は虚血性心疾患（HR 0.721）、心不全（HR 0.502）、全死因死亡率（HR 0.622）のリスク低下と関連した。肝硬変のリスク低下も観察されたが、統計的有意性は境界的であり、代替モデル間で一貫しなかった。",
-      "why_matters_ja": "肝移植受容者という特殊かつ脆弱な集団において、2つの主要な糖尿病治療薬クラスを直接比較した観察研究であり、この集団における薬剤選択の臨床的根拠を提供する可能性がある。ただし観察研究であり因果関係は確立されていない。",
-      "study_type_ja": "エミュレート・ターゲット・トライアル（観察研究、プロパensity score matching適用）",
-      "endpoints_ja": "感染、移植片拒絶反応、肝硬変、虚血性心疾患、心不全、肝不全、全死因入院、全死因死亡率",
-      "endpoint_results_ja": "肝硬変: HR 0.787 (95% CI 0.619-0.999)、虚血性心疾患: HR 0.721 (95% CI 0.582-0.892)、心不全: HR 0.502 (95% CI 0.388-0.650)、全死因死亡率: HR 0.622 (95% CI 0.433-0.894)、感染・移植片拒絶反応・肝不全・全死因入院: 有意差なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-02T00:47:15Z"
     },
     {
       "pmid": "42810438",
@@ -5272,6 +5242,41 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-12T23:01:31Z"
+    },
+    {
+      "pmid": "42727920",
+      "title": "Structural Overview of GLP-1 Analogs.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) analogs exert potent metabolic effects through structural features that govern receptor engagement, signaling, and pharmacokinetics. Key structural determinants include N-terminal modifications that confer resistance to dipeptidyl peptidase-4 degradation, as well as C-terminal and backbone elements that stabilize peptide helicity and enhance GLP-1 receptor affinity. Lipidation and albumin-binding strategies prolong systemic exposure by increasing circulating half-life, forming the basis of long-acting agents such as liraglutide and semaglutide. Structural variation further modulates signaling bias between G protein pathways and β-arrestin recruitment, potentially influencing therapeutic efficacy. Emerging multi-receptor agonists extend these principles across incretin receptor families and are increasingly supported by computational approaches to peptide optimization. Collectively, these advances illustrate how rational design drives the development of next-generation incretin therapeutics. This review synthesizes current insights into structural determinants of GLP-1 analogs and highlights future directions in the field.",
+      "journal": "Biomedical journal",
+      "authors": "van der Velden Wijnand J C, Andresen Asta F, Rosenkilde Mette M",
+      "pub_date": "2026-09-11",
+      "doi": "10.1016/j.bj.2026.101037",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727920/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "35d837093881b371076248bf578cf9d2737f48ef132a1f20cdfc4a8dae8777eb",
+      "fetched_at_utc": "2026-09-13T23:06:26Z",
+      "updated_at_utc": "2026-09-13T23:06:26Z",
+      "summary_ja": "GLP-1アナログの構造的特徴が受容体結合・シグナル伝達・薬物動態をどのように支配するかを概観したレビュー論文。N末端修飾によるDPP-4分解耐性、C末端および骨格要素によるヘリックス安定化とGLP-1受容体親和性の向上、リポ化やアルブミン結合による半減期延長、Gタンパク質経路とβ-arrestin募集間のシグナルバイアスの調節、およびマルチレセプターアゴニストの発展について統合的に論じている。",
+      "key_takeaway_ja": "GLP-1アナログの構造設計（N末端修飾、リポ化、アルブミン結合、シグナルバイアス制御）が薬理学的特性を決定し、次世代インクレチン治療薬の合理的開発の基盤を形成している。",
+      "why_matters_ja": "GLP-1アナログの構造と機能の関係を体系的に整理することで、次世代インクレチン治療薬の合理的設計と最適化に直接的な知見を提供する。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-09-13T23:09:25Z"
     }
   ]
 }
