@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-02T00:43:29Z",
+  "generated_at_utc": "2026-10-03T00:26:22Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,353 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42826222",
+      "title": "Efficacy and mechanistic insights of dapagliflozin in hypertension management.",
+      "abstract": "Hypertension remains one of the leading modifiable risk factors for cardiovascular disease and premature mortality worldwide. Blood pressure (BP) management is particularly challenging in patients with coexisting type 2 diabetes (T2D), chronic kidney disease (CKD), or heart failure (HF). Sodium-glucose cotransporter 2 (SGLT2) inhibitors have become an integral component of contemporary cardiorenal therapy and have consistently demonstrated additional BP-lowering effects across diverse clinical settings. This narrative review synthesizes the current clinical evidence regarding the antihypertensive effects of dapagliflozin and summarizes the biological mechanisms that may contribute to these effects, including osmotic diuresis and natriuresis, weight reduction, modulation of the sympathetic nervous system, enhanced uric acid excretion, and attenuation of oxidative stress, inflammation, and vascular dysfunction. Across clinical studies, reductions in systolic BP (SBP) generally exceed those in diastolic BP (DBP), although the physiological basis underlying this differential response remains incompletely understood. Dapagliflozin has demonstrated good tolerability and antihypertensive effects in clinical applications, its long-term use may be limited by the risk of genital infections. Collectively, the available evidence supports dapagliflozin as a cardiorenal therapeutic agent that may provide additional BP-lowering benefits in patients with hypertension and concomitant T2D, CKD, or HF, rather than as a substitute for conventional antihypertensive therapy. Future hypertension-focused clinical studies are warranted to further define its role in hypertension management.",
+      "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+      "authors": "Chen Zhongbo, Chunbin Wang, Zhang Hanmei, Luo Ting, Yan Jinhua",
+      "pub_date": "2026-10-02",
+      "doi": "10.1080/10641963.2026.2731624",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826222/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Hypertension",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Blood Pressure",
+        "Antihypertensive Agents",
+        "Diabetes Mellitus, Type 2"
+      ],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "fa1d632161fd24a5a06bdc2563049fc9a7613069f63f98d163e3c400dd8067d0",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "本叙述的レビューは、ダパグリフロジンの降圧効果に関する現在の臨床エビデンスを統合し、浸透性利尿・ナトリウム排泄、体重減少、交感神経系の調節、尿酸排泄の促進、酸化ストレス・炎症・血管機能障害の軽減など、降圧効果に寄与する可能性のある生物学的メカニズムを要約している。SBPの低下はDBPの低下を一般的に上回ることが報告されているが、この差の生理学的基盤は未解明である。ダパグリフロジンは臨床応用において良好な忍容性と降圧効果を示すが、長期使用は生殖器感染症のリスクにより制限される可能性がある。",
+      "key_takeaway_ja": "ダパグリフロジンは、高血圧を合併するT2D・CKD・HF患者において追加的な降圧効果を提供し得る心腎治療薬であるが、従来の降圧療法の代替としては位置づけられない。",
+      "why_matters_ja": "高血圧は心血管疾患および早期死亡の主要な修正可能リスク因子であり、T2D・CKD・HFを合併する患者における血圧管理は特に困難である。SGLT2阻害薬は現代の心腎治療の重要な構成要素となりつつあり、多様な臨床設定で一貫して追加的な降圧効果を示している。",
+      "study_type_ja": "叙述的レビュー（Narrative Review）",
+      "endpoints_ja": "収縮期血圧（SBP）および拡張期血圧（DBP）の低下",
+      "endpoint_results_ja": "SBPの低下はDBPの低下を一般的に上回ることが報告されているが、具体的な数値は抄録に記載されていない。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:26:44Z"
+    },
+    {
+      "pmid": "42823625",
+      "title": "Interactions of Glucagon-Like Peptide-1 Receptor Agonists With GLP-1R-Gs Complex: Insights From Gaussian-Accelerated Molecular Dynamics.",
+      "abstract": "The glucagon-like peptide-1 receptor (GLP-1R) is a critical therapeutic target for metabolic diseases. GLP-1 receptor agonists (GLP-1RAs) have been developed to treat type 2 diabetes and promote weight loss. In this study, Gaussian accelerated molecular dynamics (GaMD) simulations, MM-PBSA calculations, and conformational dynamic analyses were systematically employed to elucidate the binding mechanisms and dynamic stability of three representative agonists-native GLP-1, semaglutide, and tirzepatide-bound to the GLP-1R-Gs membrane protein complex. Molecular docking and trajectory analyses revealed that ligand binding significantly stabilizes the overall receptor structure, triggering conformational shifts in the extracellular domain (ECD) and transmembrane domain (TMD), particularly inducing long-range allosteric cross-talk with the intracellular Gs protein to downstream signal transduction. Compared to GLP-1 and semaglutide, tirzepatide demonstrated distinct conformational shifts, superior structural compactness, and the higher binding affinity with a significantly more negative binding free energy. Furthermore, micro-interfacial localization demonstrated that lipid bilayer interaction with basic and aromatic residues at the Zp interface synergistically stabilizes the active transmembrane conformation. These atomic-level insights highlight the unique structural advantages of tirzepatide and provide a solid theoretical foundation for the novel rational design of next-generation multi-target peptide therapeutics.",
+      "journal": "Proteins",
+      "authors": "Zhou Xue, Liu Minghao, Shi Yunlai, Duan Xueyan, Gao Yin, Han Weiwei",
+      "pub_date": "2026-10-01",
+      "doi": "10.1002/prot.70186",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823625/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4d1cc507088e918cc1bf063dbd925d665b72f4baeabf218ecc90d6d191cc0696",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "本研究では、Gaussian加速分子動力学（GaMD）シミュレーション、MM-PBSA計算、および構造的動態解析を用いて、3つの代表的なアゴニスト（天然GLP-1、セマグルチド、チルゼパチド）がGLP-1R-Gs膜タンパク質複合体に結合した際の結合機構と動的安定性を体系的に解明した。分子ドッキングと軌道解析により、リガンド結合が受容体全体の構造を安定化させ、ECDおよびTMDの構造的変化を引き起こし、細胞内Gsタンパク質との長距離アロステリック相互作用を介して下流シグナル伝達を誘導することが示された。GLP-1およびセマグルチドと比較して、チルゼパチドは特有の構造的変化、優れた構造コンパクト性、および有意に負の結合自由エネルギーを示した。さらに、脂質二重膜との相互作用がZp界面の塩基性及び芳香族残基と協調的に活性TMD構造を安定化させることが示された。",
+      "key_takeaway_ja": "チルゼパチドはGLP-1およびセマグルチドと比較して、特有の構造的変化、優れた構造コンパクト性、および有意に負の結合自由エネルギー（より高い結合親和性）を示し、次世代マルチターゲットペプチド治療薬の合理的設計のための理論的基盤を提供する。",
+      "why_matters_ja": "チルゼパチドの独自の構造的特長を原子レベルで解明し、次世代マルチターゲットペプチド治療薬の合理的設計に固い理論的基盤を提供する。",
+      "study_type_ja": "計算化学研究（分子動力学シミュレーション）",
+      "endpoints_ja": "結合自由エネルギー（MM-PBSA）、構造的コンパクト性、ECD/TMDの構造的変化、Gsタンパク質とのアロステリック相互作用",
+      "endpoint_results_ja": "チルゼパチドはGLP-1およびセマグルチドと比較して「有意に負の結合自由エネルギー」を示したと記載されているが、具体的な数値は抄録に示されていない。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:27:10Z"
+    },
+    {
+      "pmid": "42823485",
+      "title": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial.",
+      "abstract": "The GLP-1 receptor agonist semaglutide preserves kidney function in people with type 2 diabetes and chronic kidney disease, but the underlying mechanisms are unclear. Here we report a 52-week randomized trial of subcutaneous semaglutide 1 mg once weekly versus placebo (n = 106 (n = 25 women, n = 81 men)) in participants with type 2 diabetes and chronic kidney disease. To identify kidney-specific mechanisms of action for semaglutide, we performed integrated multiparametric magnetic resonance imaging of the kidney and biopsy for histology (n = 33), alongside single-nucleus (n = 22) and spatial transcriptomics (n = 13) on paired samples with before- and after-treatment measurements. Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment. Secondary outcomes revealed that semaglutide treatment, as compared to placebo, was associated with a significantly reduced renal artery resistive index and stabilization of the apparent diffusion coefficient, indicating prevention of fibrosis progression. Moreover, secondary transcriptomic outcomes revealed pronounced effects of semaglutide on glomerular endothelial cells, consistent with the results of spatial analyses indicating reduced numbers of immune cells in the proximity of these endothelial cells. The results from this trial indicate that mechanisms of kidney protection by semaglutide may include reduced vascular resistance, prevention of fibrosis and improved underlying molecular programs promoting endothelial cell health. ClinicalTrials.gov identifier: NCT04865770 .",
+      "journal": "Nature medicine",
+      "authors": "Tuttle Katherine R, Bjornstad Petter, Smith Cathy, Pruijm Menno, McCown Phillip J, Hodgin Jeffrey B, Cherney David Z I, Belmar Nicolas",
+      "pub_date": "2026-10-01",
+      "doi": "10.1038/s41591-026-04674-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823485/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3cabdef388e71c52457363c9f9154c9e7dc8addc7306a247f263270509e59b8a",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "2型糖尿病かつ慢性腎臓病を有する参加者において、皮下投与セマグルチド1 mg 週1回とプラセボの52週ランダム化試験。腎臓の統合的マルチパラメトリックMRIおよび生検による組織病理学（n=33）、単一核トランスクリプトミクス（n=22）、空間トランスクリプトミクス（n=13）を治療前後のペアサンプルで実施した。共同一次エンドポイント（R2*による酸素化、T1マッピングによる全血流および組織炎症）はセマグルチド群で有意な変化は認められなかった。二次エンドポイントでは、セマグルチド群で腎動脈抵抗指数の有意な低下と見かけの拡散係数の安定化が認められ、線維化進行の予防を示唆した。トランスクリプトミクスでは糸球体内皮細胞への顕著な効果が示され、空間解析でもこれらの内皮細胞近傍の免疫細胞数の減少が確認された。",
+      "key_takeaway_ja": "セマグルチドの腎保護メカニズムには、血管抵抗の低下、線維化の予防、および内皮細胞の健康を促進する分子プログラムの改善が含まれる可能性がある。",
+      "why_matters_ja": "GLP-1受容体作動薬セマグルチドが2型糖尿病・慢性腎臓病患者の腎機能を保持することは知られているが、その基盤となるメカニズムは不明であった。本研究は腎臓特異的な作用機序を同定することを目的としている。",
+      "study_type_ja": "ランダム化プラセボ対照試験（52週）",
+      "endpoints_ja": "共同一次エンドポイント：MRIによる酸素化（R2*）、全血流および組織炎症（T1マッピング）。二次エンドポイント：腎動脈抵抗指数、見かけの拡散係数、トランスクリプトミクス（糸球体内皮細胞への影響、内皮細胞近傍の免疫細胞数）。",
+      "endpoint_results_ja": "共同一次MRIアウトカム（R2*による酸素化、T1マッピングによる全血流および組織炎症）：セマグルチド群でプラセボ群と比較して有意な変化は認められなかった。二次アウトカム：腎動脈抵抗指数の有意な低下、見かけの拡散係数の安定化（線維化進行の予防を示唆）。トランスクリプトミクス：糸球体内皮細胞への顕著な効果、空間解析で内皮細胞近傍の免疫細胞数の減少。",
+      "sample_size_ja": "n=106（女性n=25、男性n=81）。生検による組織病理学：n=33。単一核トランスクリプトミクス：n=22。空間トランスクリプトミクス：n=13。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:27:34Z"
+    },
+    {
+      "pmid": "42823110",
+      "title": "Tirzepatide safety in EudraVigilance: descriptive and disproportionality analysis of preferred terms related to suboptimal treatment outcomes and drug-use-related issues.",
+      "abstract": "OBJECTIVE: As obesity and diabetes are on the verge of an alarming growth, so is the use of tirzepatide, a novel dual glucose-dependent insulinotropic peptide/glucagon-like peptide-1 (GLP-1) receptor agonist (RA) and currently the most effective weight loss-drug. This research aimed to identify reporting patterns related to suboptimal therapeutic outcomes and tirzepatide-related drug-use issues, mining the EudraVigilance (EV).\nDESIGN: Retrospective pharmacovigilance study using descriptive and disproportionality analyses of reports retrieved from the EV database.\nSETTINGS: Analysis of individual case safety reports involving tirzepatide in comparison with other GLP-1 RAs in the overall dataset (healthcare professionals (HP) and non-HP reports combined) and in the HP group.\nOUTCOME MEASURES: Reporting ORs (RORs) with 95% CIs for selected Preferred Terms (PT) related to drug-use issues.\nRESULTS: Among all analysed PTs, the most frequently reported were 'Off-label use' (n=1521), 'Drug ineffective' (n=425) and 'Off-label use device' (n=99). PTs in HP reports showed lower reporting odds compared with non-HP reports. In the overall dataset, reports involving tirzepatide showed lower reporting odds of the PT 'Drug ineffective' than those involving liraglutide (ROR 0.61, 95% CI 0.54 to 0.70), dulaglutide (ROR 0.72, 95% CI 0.63 to 0.82), exenatide (ROR 0.78, 95% CI 0.67 to 0.92) and semaglutide (ROR 0.81, 95% CI 0.72 to 0.91). However, in HP reports, no difference in reporting odds was observed between tirzepatide and semaglutide. A different pattern was observed for 'off-label use' in the full dataset, with higher reporting odds for tirzepatide vs lixisenatide, dulaglutide and liraglutide, but lower reporting odds vs semaglutide (ROR 0.52, 95% CI 0.49 to 0.55). In contrast, a higher reporting odd for the PT 'off-label use of device' was observed for tirzepatide versus semaglutide (ROR 43.47, 95% CI 16.00 to 118.13) in the overall reports; however, this finding should be interpreted with caution given the wide CI.\nCONCLUSIONS: This study complements existing evidence from clinical trials and current clinical practice.",
+      "journal": "BMJ open",
+      "authors": "Popa Ilie Ioana Rada, Ghibu Steliana, Butuca Anca, Dobrea Carmen Maximiliana, Frum Adina, Stoicescu Laurentiu, Homorodean Cãlin, Gligor Felicia Gabriela",
+      "pub_date": "2026-10-01",
+      "doi": "10.1136/bmjopen-2026-120507",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823110/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tirzepatide",
+        "Retrospective Studies",
+        "Pharmacovigilance",
+        "Female",
+        "Semaglutide",
+        "Off-Label Use",
+        "Hypoglycemic Agents",
+        "Male",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Treatment Outcome",
+        "Obesity",
+        "Diabetes Mellitus, Type 2",
+        "Middle Aged",
+        "Glucagon-Like Peptides",
+        "Adult"
+      ],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d7461223fbece42a7545e003e47fa5c5ecddb18d029bd4c9ef496558038778d4",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z"
+    },
+    {
+      "pmid": "42823075",
+      "title": "Nephroprotective Effects of the Dual GCGR/GLP-1R Agonist Survodutide in Hypertension-Accelerated Diabetic Kidney Disease.",
+      "abstract": "AIMS: Survodutide is a novel long-acting dual glucagon (GCGR)/glucagon-like peptide-1 (GLP-1R) receptor agonist currently in phase-3 clinical development for the treatment of people living with obesity and metabolic dysfunction-associated steatohepatitis. Emerging evidence suggests impaired renal GCGR function in chronic kidney disease (CKD), including diabetic kidney disease (DKD). This study aimed to characterize the effects of survodutide in a translational mouse model of advanced DKD, induced by adeno-associated virus-mediated renin overexpression (ReninAAV) in uninephrectomized (UNx) diabetic db/db mice.\nMATERIALS AND METHODS: Female obese and diabetic db/db C57BKS mice received a single intravenous dose of ReninAAV 1 week prior to UNx. Three weeks post-UNx, db/db UNx-ReninAAV mice were administered (s.c., q.d.) vehicle or survodutide (7.5 nmol/kg) for 10 weeks. Endpoints included blood/urine biochemistry, histological markers of glomerulosclerosis, tubular injury and inflammation, as well as quantitative 3D whole-pancreas and whole-kidney imaging.\nRESULTS: Compared to vehicle controls, survodutide reduced body weight, hyperglycemia, and HbA1c levels concurrent with improved hyperinsulinemia and β-cell islet volume distribution. Notably, survodutide promoted substantial benefits on advanced albuminuria, severe glomerulosclerosis, kidney hypertrophy and inflammation. 3D whole-kidney imaging revealed that survodutide significantly reduced kidney and glomerular hypertrophy while increasing glomerular density and improving glomerular sphericity. Survodutide reduced liver weight and plasma amino acid levels, including alanine, confirming hepatic glucagon receptor activation.\nCONCLUSIONS: Survodutide markedly improved metabolic and renal outcomes in the db/db UNx-ReninAAV mouse model of advanced DKD, supporting further investigation into therapeutic options of survodutide in chronic kidney diseases.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Hamilton Alexander, Thisted Louise, Ougaard Maria, Hahn Max, Andersen Kasper, Perens Johanna, Augustin Robert, Bajrami Besnik",
+      "pub_date": "2026-10-01",
+      "doi": "10.1111/dom.71387",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823075/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "survodutide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "6ce586eb32250b4f639736725d60f5c0edc91b32999697efed938bbc2427ac1e",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "Survodutide（デュアルGCGR/GLP-1Rアゴニスト）を、アデノ随伴ウイルスによるレニン過剰発現（ReninAAV）と片側腎摘出（UNx）を併用したdb/dbマウスモデル（高度糖尿病性腎症モデル）に10週間投与した前臨床研究。体重、高血糖、HbA1c、アルブミン尿、糸球体硬化、腎肥大、炎症、3D腎画像（糸球体密度・球形度）など代謝・腎臓アウトカムを評価した。",
+      "key_takeaway_ja": "Survodutideは高度DKDマウスモデルにおいて代謝および腎臓アウトカムを著しく改善し、CKDにおけるtherapeutic optionとしてのさらなる調査を支持した。",
+      "why_matters_ja": "CKD（DKDを含む）において腎GCGR機能の障害が示唆されており、デュアルGCGR/GLP-1Rアゴニストが腎保護効果を有する可能性を前臨床レベルで示した点に意義がある。",
+      "study_type_ja": "前臨床（動物）研究（翻訳的マウスモデル）",
+      "endpoints_ja": "血漿/尿生化学、糸球体硬化・尿細管障害・炎症の組織学的マーカー、定量的3D全膵臓・全腎臓画像（腎・糸球体肥大、糸球体密度、糸球体球形度）、体重、血糖、HbA1c、インスリン、膵島β細胞体積分布、肝重量、血漿アミノ酸（アラニン等）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:29:43Z"
+    },
+    {
+      "pmid": "42822760",
+      "title": "Survodutide for the treatment of obesity: Mechanistic rationale, clinical evidence, and remaining uncertainties.",
+      "abstract": "Survodutide (BI 456906) is an investigational once-weekly dual glucagon and Glucagon-like Peptide (GLP-1) receptor agonist being developed for obesity. In a phase 2 trial involving adults with a body mass index ≥27 kg/m2 without diabetes, participants assigned to the 4.8-mg dose achieved a mean body-weight reduction of up to 18.7% at 46 weeks, compared with 2.3% with placebo. Its proposed mechanism combines reduced food intake through GLP-1 receptor agonism with glucagon receptor-mediated effects on energy expenditure and hepatic metabolism. Gastrointestinal adverse events, including nausea, vomiting, and diarrhea, were common and were influenced by dose escalation. Phase 3 SYNCHRONIZE trials are evaluating efficacy, safety, and tolerability in broader populations with and without type 2 diabetes. Survodutide is not approved for routine clinical use, and its comparative effectiveness, durability, long-term safety, treatment persistence, and effects after discontinuation remain to be established.",
+      "journal": "Contemporary clinical trials",
+      "authors": "Sergi Consolato M",
+      "pub_date": "2026-10-01",
+      "doi": "10.1016/j.cct.2026.108493",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822760/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "survodutide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "b1e6f29af30427a6013fed9738f47d9e7f1dabe3553d9621441c3ef2dccdb142",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "Survodutide（BI 456906）は、肥満治療を目的に開発中の週1回投与のグルカゴン受容体とGLP-1受容体の二重作動薬である。BMI≥27 kg/m²で糖尿病を有しない成人を対象とした第2相試験において、4.8 mg投与群は46週時点で平均体重減少が最大18.7%に達し、プラセボ群は2.3%であった。作用機序はGLP-1受容体作動による食事摂取量の減少と、グルカゴン受容体介在によるエネルギー消費および肝代謝への効果を組み合わせたものである。悪心・嘔吐・下痢などの消化管有害事象が頻発し、用量漸増の影響を受けた。第3相SYNCHRONIZE試験が2型糖尿病の有無を問わずより広い集団で有効性・安全性・忍容性を評価中である。Survodutideは現在承認されておらず、比較有効性、持続性、長期安全性、治療継続性、中止後の影響は未確立である。",
+      "key_takeaway_ja": "Survodutideは第2相試験で46週時点で最大18.7%の平均体重減少を示したが、長期安全性・持続性・比較有効性・中止後の影響は未確立であり、承認前段階である。",
+      "why_matters_ja": "GLP-1受容体作動による食欲抑制とグルカゴン受容体介在によるエネルギー消費増大を併せ持つ二重作動薬という新たな機序により、既存のGLP-1単独作動薬とは異なる体重減少メカニズムを提供する可能性がある。",
+      "study_type_ja": "レビュー（機序的根拠・臨床エビデンス・未解決課題の総説）",
+      "endpoints_ja": "平均体重減少率、消化管有害事象（悪心・嘔吐・下痢）",
+      "endpoint_results_ja": "4.8 mg投与群：46週時点で平均体重減少最大18.7%。プラセボ群：2.3%。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:31:07Z"
+    },
+    {
+      "pmid": "42822650",
+      "title": "GLP-1 receptor agonists in psoriasis management.",
+      "abstract": "Psoriasis is a systemic chronic inflammatory skin disease associated with musculoskeletal, cardiovascular, metabolic, psychiatric, and gastrointestinal comorbidities. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 RAs have emerged as potential therapeutic adjuncts in psoriasis because, beyond their metabolic effects, these agents exhibit anti-inflammatory properties and may reduce expression of cytokines and inflammatory biomarkers. This review summarizes the current evidence from randomized trials and nonrandomized studies evaluating GLP-1 RAs and dual GIP/GLP-1 RAs in patients with psoriasis and discusses their potential role in disease management. Observational studies of liraglutide, semaglutide, exenatide, dulaglutide, and tirzepatide generally demonstrated improvements in psoriasis severity, body weight, metabolic parameters, inflammatory biomarkers, and quality of life, although most were limited by small sample sizes and uncontrolled designs. Randomized trials similarly suggest dermatologic benefit, particularly among patients with obesity and/or type 2 diabetes mellitus. Most notably, the phase 3b TOGETHER trial demonstrated greater skin clearance and weight reduction with ixekizumab plus tirzepatide compared with ixekizumab alone in patients with moderate-to-severe psoriasis and overweight or obesity. Complementary findings from the TOGETHER-PsA trial showed improvement in psoriatic arthritis disease activity as early as week 4, before clinically meaningful weight loss, supporting potential weight-independent anti-inflammatory effects of these agents. Future studies should include patients without obesity or diabetes to clarify the relative contributions of weight loss and direct anti-inflammatory effects to clinical response and determine whether the dermatologic benefits of GLP-1-based therapies extend to patients without underlying metabolic dysfunction.",
+      "journal": "Clinics in dermatology",
+      "authors": "Cutrona Marley, Talia Jordan, Cices Ahuva",
+      "pub_date": "2026-10-01",
+      "doi": "10.1016/j.clindermatol.2026.09.037",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822650/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "48e132a4b9b2e46c99b99e9b3290c756743516ad6ad80eabdffe0b442de9c1a4",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "本レビューは、乾癬患者におけるGLP-1受容体作動薬（GLP-1 RA）およびデュアルGIP/GLP-1 RAの現在のエビデンスをまとめたものである。リラグルチド、セマグルチド、エクセナチド、デュラグルチド、チルゼパチドの観察研究では、乾癬重症度、体重、代謝パラメータ、炎症性バイオマーカー、生活の質の改善が示されたが、大半は小規模サンプルサイズおよび非対照デザインに限定されていた。ランダム化試験も皮膚科的利益を示唆し、特に肥満および/または2型糖尿病を伴う患者で顕著であった。第3b相TOGETHER試験では、中等症〜重症乾癬かつ過体重または肥満の患者において、イセキズマブ単独療法と比較してイセキズマブ＋チルゼパチド併用療法でより大きな皮膚クリアランスと体重減少が示された。TOGETHER-PsA試験では、臨床的に有意な体重減少の前に週4で乾癬性関節炎の疾患活動性の改善が示され、体重減少に依存しない抗炎症効果の可能性を支持した。",
+      "key_takeaway_ja": "GLP-1 RAおよびデュアルGIP/GLP-1 RAは乾癬の皮膚症状改善に寄与する可能性があり、特に肥満や2型糖尿病を伴う患者で効果が示唆されている。TOGETHER試験ではイセキズマブ＋チルゼパチド併用がイセキズマブ単独より優越し、TOGETHER-PsA試験では体重減少に先行する抗炎症効果が示された。",
+      "why_matters_ja": "乾癬は代謝性・心血管系・精神科的合併症を伴う全身性慢性炎症性皮膚疾患であり、GLP-1 RAは代謝効果に加え抗炎症特性を有するため、乾癬管理における潜在的な補助療法として臨床的に意義がある。肥満や糖尿病を伴わない患者への適用可能性を明確にする今後の研究が重要である。",
+      "study_type_ja": "レビュー（ランダム化試験および非ランダム化研究の総説）",
+      "endpoints_ja": "乾癬重症度、体重、代謝パラメータ、炎症性バイオマーカー、生活の質、皮膚クリアランス、乾癬性関節炎の疾患活動性",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:32:21Z"
+    },
+    {
+      "pmid": "42821500",
+      "title": "The effect of submaximal doses of semaglutide on the expression of micro-RNA in patients with obesity: a pilot study.",
+      "abstract": "INTRODUCTION: Glucagon-like peptide 1 receptor agonists (GLP-1RA) including semaglutide have emerged as some of the most potent drugs in the treatment of obesity. This effect can be mediated by changes in the regulation of micro ribonucleic acid (miRNA) expression. However, currently, there are no data regarding the effect of GLP-1RA on the expression of miRNA in patients with obesity.\nOBJECTIVE: The aim of this study was to investigate the effect of semaglutide therapy administered at submaximal doses on changes of miRNA in obese patients.\nMETHODS: A pilot, prospective, observational, post-marketing study enrolling 31 adult individuals with obesity treated with semaglutide at submaximal doses. Blood samples were taken prior to and after 6 months of semaglutide administration for plasma miRNA levels. All patients received submaximal doses of semaglutide ranging from 0.25 mg to 1.5 mg once weekly.\nRESULTS: We observed a nominally significant increase in the expression of hsa-miR-151b (homo sapiens microRNA), hsa-miR-223-3p, hsa-miR-27b-3p, hsa-miR-29c-3p, hsa-miR-4284 and a nominally significant decrease in the expression of hsa-miR-1273f, hsa-miR-4644, hsa-miR-6071 after 6 months of semaglutide treatment. However, none of the associations remained significant after FDR correction.\nCONCLUSION: Our study demonstrated a nominally significant change in the expression of 8 miRNAs after the 6-month treatment with submaximal doses of semaglutide in patients with obesity.",
+      "journal": "Obesity facts",
+      "authors": "Jurica Jakub, Miertova Zuzana, Pec Martin Jozef, Focko Boris, Miert Andrej, Tudik Peter, Nagy Norbert, Sagova Ivana",
+      "pub_date": "2026-10-01",
+      "doi": "10.1159/ofa/adzag002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821500/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4d4ca744d9392593ee1cd2a43bf88a14e3f45a8fd561a2049a85bb98ec0a1fac",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "肥満症成人31名を対象に、セマグルチドのサブマキシマル用量（0.25 mg〜1.5 mg 週1回）を6か月間投与し、投与前後で血漿miRNA発現レベルを比較したパイロット的前向き観察的事後調査研究。6か月後、hsa-miR-151b、hsa-miR-223-3p、hsa-miR-27b-3p、hsa-miR-29c-3p、hsa-miR-4284の発現上昇と、hsa-miR-1273f、hsa-miR-4644、hsa-miR-6071の発現低下が名目上有意（nominally significant）に認められたが、FDR補正後にはいずれも有意ではなかった。",
+      "key_takeaway_ja": "セマグルチドのサブマキシマル用量6か月投与により8つのmiRNAで名目上有意な発現変化が認められたが、多重比較補正（FDR）後には有意な関連は残らなかった。",
+      "why_matters_ja": "肥満症患者におけるGLP-1受容体作動薬のmiRNA発現への影響に関する初のデータであり、セマグルチドの作用機序の解明に寄与する可能性がある。",
+      "study_type_ja": "パイロット的前向き観察的事後調査研究（pilot, prospective, observational, post-marketing study）",
+      "endpoints_ja": "血漿miRNA発現レベル（投与前 vs 6か月後）",
+      "endpoint_results_ja": "6か月後、hsa-miR-151b、hsa-miR-223-3p、hsa-miR-27b-3p、hsa-miR-29c-3p、hsa-miR-4284で名目上有意な発現上昇、hsa-miR-1273f、hsa-miR-4644、hsa-miR-6071で名目上有意な発現低下を認めた。FDR補正後にはいずれも有意ではなかった。具体的なp値や発現量の変化倍率は抄録に記載なし。",
+      "sample_size_ja": "31名（肥満症成人）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:32:41Z"
+    },
+    {
+      "pmid": "42821207",
+      "title": "Beyond metabolic control: the potential role of antidiabetic therapies in modulating male reproductive function and spermatogenesis.",
+      "abstract": "In recent years, novel antidiabetic drugs, particularly sodium-glucose cotransporter-2 inhibitors (SGLT2i) and glucagon-like peptide-1 receptor agonists (GLP-1 RA), have attracted increasing interest for their effects beyond glycemic control, including potential actions on male reproductive function. This review critically summarizes current evidence regarding the impact of antidiabetic therapies on spermatogenesis, testicular metabolic homeostasis, and male gonadal function, focusing on the underlying molecular and pathophysiological mechanisms. Experimental evidence suggests that metabolic dysfunction, oxidative stress, inflammation, apoptosis, and impaired Sertoli cell metabolism play a central role in diabetes- and obesity-associated male reproductive dysfunction. In this context, SGLT2i and GLP-1 RA appear capable of modulating several of these pathways, improving sperm parameters, preserving testicular architecture, and attenuating oxidative and inflammatory damage in preclinical models. Emerging data also suggest possible direct gonadal effects mediated through intracellular signaling pathways involved in steroidogenesis, autophagy, and cellular energy regulation. However, clinical evidence remains limited and partly conflicting, and it is still unclear whether these findings translate into clinically meaningful reproductive benefits in humans. Preliminary evidence suggests that dual GIP/GLP-1 receptor agonists, such as tirzepatide, may exert beneficial effects on male reproductive health. However, direct evidence regarding their impact on spermatogenesis and fertility remains limited. Overall, well-designed prospective clinical studies incorporating reproductive and hormonal outcomes are warranted to better define the role of these therapies within an integrated andro-metabolic approach to the management of obesity- and diabetes-associated male reproductive dysfunction.",
+      "journal": "Reviews in endocrine & metabolic disorders",
+      "authors": "Paternò Valentina, Abdel Malek Roberto, Delli Paoli Enrico, Conflitti Anna Chiara, Maddaloni Ernesto, Gabriele Costanzo, Piticchio Tommaso, Le Moli Rosario",
+      "pub_date": "2026-10-01",
+      "doi": "10.1007/s11154-026-10090-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821207/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "b1e7c0094ffe2fd05ea96f133a32b1c32a983c20f43b569c9686fbfd9d1848a7",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z"
+    },
+    {
+      "pmid": "42820639",
+      "title": "Survodutide Once Weekly in Adults with Obesity and Type 2 Diabetes.",
+      "abstract": "BACKGROUND: For persons living with both type 2 diabetes and obesity, weight management may be the most effective therapy for type 2 diabetes. Glucagon-like peptide-1 (GLP-1) receptor agonists have potent weight-reducing effects, and other mechanisms may confer additional benefits. Survodutide is an investigational glucagon receptor-GLP-1 receptor dual agonist with potential weight-reducing and metabolic benefits.\nMETHODS: In this multinational, double-blind, phase 3 trial involving adults with type 2 diabetes and a body-mass index (BMI; the weight in kilograms divided by the square of the height in meters) of 27 or more, we randomly assigned participants in a 1:1:1 ratio to receive once-weekly subcutaneous survodutide (3.6 mg or 6.0 mg) or placebo. The two primary end points were the percent change in body weight and a reduction in body weight of at least 5% from baseline to week 76.\nRESULTS: Among 752 participants (250 in the 3.6-mg survodutide group, 251 in the 6.0-mg survodutide group, and 251 in the placebo group), the mean age at baseline was 55.7 years, and the mean BMI was 36.5; 49.3% were men. The mean weight change at week 76 according to the treatment-regimen estimand (which assessed effects regardless of whether the trial regimen was discontinued or interrupted or whether other antiobesity therapies were used) was -8.2% (95% confidence interval [CI], -9.2 to -7.2) in the 3.6-mg group, -9.8% (95% CI, -10.8 to -8.8) in the 6.0-mg group, and -3.9% (95% CI, -4.9 to -2.9) in the placebo group; weight reduction of at least 5% occurred in 57.6%, 64.5%, and 35.1% of the participants, respectively (P<0.001 for all comparisons with placebo). The mean change in the glycated hemoglobin level (from a baseline level of 7.4%) was -0.9 percentage points in the 3.6-mg group, -0.8 percentage points in the 6.0-mg group, and -0.2 percentage points in the placebo group. The most common adverse events were gastrointestinal (generally mild to moderate and transient), which occurred in 182 participants (72.8%) in the 3.6-mg group, 195 (77.7%) in the 6.0-mg group, and 97 (38.6%) in the placebo group.\nCONCLUSIONS: In adults with obesity and type 2 diabetes, survodutide at a weekly dose of 3.6 mg or 6.0 mg resulted in significantly greater weight reduction than placebo. (Funded by Boehringer Ingelheim; SYNCHRONIZE-2 ClinicalTrials.gov number, NCT06066528.).",
+      "journal": "The New England journal of medicine",
+      "authors": "Wharton Sean, le Roux Carel W, Startseva Elena, Kloer Isabel M, Alhussein Ahmad, Hussain Samina Ajaz, Unseld Anna, Bozkurt Biykem",
+      "pub_date": "2026-10-01",
+      "doi": "10.1056/NEJMoa2607219",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42820639/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "survodutide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "6e1eb8da3e2fc1408aba1f84da9ffddaa1536d4f15827e88d5b925ae16a6bec3",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z"
     },
     {
       "pmid": "42817877",
@@ -147,6 +494,32 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-02T00:44:23Z"
+    },
+    {
+      "pmid": "42820899",
+      "title": "Hemodynamic Compromise Due to Semaglutide-Associated Abdominal Distension.",
+      "abstract": "BACKGROUND: Glucagon-like peptide-1 (GLP-1) agonists are becoming widely used, but commonly cause gastrointestinal side effects that are often mild but can occasionally be significant.\nCASE SUMMARY: A 35-year-old male patient with obesity and otherwise minimal medical history presented to the emergency department after a syncopal episode that occurred several days after restarting high-dose GLP-1 agonist therapy. Imaging showed massive gastric distension with significant inferior vena cava compression. He developed low-output shock requiring very high-dose vasoactive medications, which resolved after gastric decompression via emesis, nasogastric tube placement, and intravenous fluid resuscitation.\nDISCUSSION: This case represents a heretofore unseen side effect of glucagon-like peptide-1 receptor agonist administration, with initiation of maximum-dose semaglutide leading to dramatic gastric distension causing inferior vena cava compression and low-output shock.\nTAKE-HOME MESSAGES: In patients with unexplained hypotension, shock, and/or syncope on glucagon-like peptide-1 agonist therapy, adverse medication effects should be considered as possible etiologies. This case emphasizes the importance of gradual dose escalation of glucagon-like peptide-1 agonists under provider guidance.",
+      "journal": "JACC. Case reports",
+      "authors": "Amdahl Matthew B, Bharadiya Vishwesh, Obritsch Brian, Obadi Obadi, Wong Matthew Y, Rode Matthew M, Colletti Jeahan, Cortes Puentes Gustavo A",
+      "pub_date": "2026-09-30",
+      "doi": "10.1016/j.jaccas.2026.110452",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42820899/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "97492c00dd1829725155cf09d7128c8c37028d22dc22fedf2e513c97b2e265c2",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z"
     },
     {
       "pmid": "42815506",
@@ -1451,6 +1824,40 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-26T23:35:28Z"
+    },
+    {
+      "pmid": "42825265",
+      "title": "Semaglutide for MASH cirrhosis: a new therapeutic frontier or a false dawn?",
+      "abstract": "",
+      "journal": "eGastroenterology",
+      "authors": "Zhou Xiao-Dong, Alkhouri Naim, Schattenberg Jörn M, Muthiah Mark D, Tacke Frank, Zheng Ming-Hua",
+      "pub_date": "2026-09-25",
+      "doi": "10.1136/egastro-2026-100619",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825265/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "b5a8bd927f88ff045dc76ba93bc5c40d5ab026ac1e96835bde436efc1b642bec",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-03T00:26:22Z"
     },
     {
       "pmid": "42805130",
@@ -3628,6 +4035,68 @@
       "summary_generated_at_utc": "2026-09-18T23:15:45Z"
     },
     {
+      "pmid": "42824923",
+      "title": "Predictors of treatment response to semaglutide for weight management.",
+      "abstract": "The emergence of weekly, injectable glucagon-like peptide-1 (GLP-1) receptor agonists has revolutionized the obesity management landscape. Numerous studies have shown high efficacy as well as great variability in weight loss, highlighting the need for this mini review, summarizing current evidence about predictors of semaglutide-related weight loss. The first well-known determinant of semaglutide-induced weight loss is the presence of type 2 DM which is associated with significantly lower body weight reduction. The second predictor is sex, with females exhibiting a greater weight loss than males by a mean 6%. In addition, higher maintenance dose of 7.2 mg is superior to standard 2.4 mg dose in weight reduction by a mean 3%. There is no clear association of age and baseline body mass index with the magnitude of semaglutide-driven weight loss, except for the possibility of adolescence enhancing and overweight reducing this treatment effect. The potential impact of genetic polymorphisms of individual treatment response to semaglutide remains incompletely understood, limited so far to a modest effect of specific variants in GLP1 receptor gene. Another potential predictor of response could be obesity phenotype, with preliminary data supporting greater effectiveness of semaglutide in individuals with ''hungry gut'' phenotype. Type of lifestyle modification does not seem to have a significant effect on the variability of semaglutide-driven weight loss. Further studies are needed to expand knowledge about predictors of response to semaglutide, paving the way for validated predictive models in order to guide clinical decision-making and provision of personalized obesity care.",
+      "journal": "Frontiers in endocrinology",
+      "authors": "Tzoulis Ploutarchos",
+      "pub_date": "2026-09-17",
+      "doi": "10.3389/fendo.2026.1893511",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42824923/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Semaglutide",
+        "Humans",
+        "Glucagon-Like Peptides",
+        "Obesity",
+        "Weight Loss",
+        "Anti-Obesity Agents",
+        "Diabetes Mellitus, Type 2",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Treatment Outcome",
+        "Glucagon-Like Peptide-1 Receptor"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a3dc175894b27107d7e56a5e38dd1d5a3887f91a77ae7f57efa36cb4ef98bd81",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z"
+    },
+    {
+      "pmid": "42824186",
+      "title": "Targeting DPP9 attenuates podocyte injury by regulating NRF2 antioxidant signaling.",
+      "abstract": "INTRODUCTION: Podocyte injury is a critical event in the progression of chronic kidney disease (CKD), with oxidative stress as a central pathogenic mechanism. Despite the efficacy of finerenone in mitigating CKD progression, its precise cytoprotective mechanisms within podocytes remain incompletely defined. This study aimed to elucidate the role of dipeptidyl peptidase 9 (DPP9) in podocyte injury and determine whether finerenone exerts its renoprotective effects via DPP9-mediated antioxidant effects.\nMETHODS: Integrated bioinformatic analyses of single-cell and bulk transcriptomic databases (KIT, NephroSeq) were performed, with validation in renal biopsies from patients with diabetic kidney disease (DKD) and in murine models of DKD and adriamycin-induced nephropathy. In vitro, immortalized human podocyte (HPC) cells were stimulated with high glucose or adriamycin, with DPP9 knockdown or overexpression. RNA sequencing and immunoprecipitation assays were utilized to explore the underlying molecular mechanisms and protein interactions.\nRESULTS: DPP9 was significantly downregulated in injured podocytes from both human and murine models. DPP9 overexpression activated NRF2-mediated antioxidant responses, protecting podocytes from injury, whereas DPP9 depletion exacerbated cellular damage. Finerenone upregulated DPP9 protein levels, which subsequently enhanced DPP9-KEAP1 binding and competitively disrupted the NRF2-KEAP1 interaction, leading to NRF2 stabilization and activation. Consequently, finerenone improved renal function and alleviated pathological damage in vivo.\nCONCLUSION: This study identifies DPP9 as a critical mediator of podocyte antioxidant defense and establishes that the therapeutic efficacy of finerenone is, at least in part, dependent on the upregulation of DPP9.",
+      "journal": "Frontiers in pharmacology",
+      "authors": "Cui Chenkai, Wei Shizhuo, Zhang Jianpeng, Xu Jing, Naimova Shokhida, Li Yan, Wang Haodong, Wang Yinhong",
+      "pub_date": "2026-09-17",
+      "doi": "10.3389/fphar.2026.1930044",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42824186/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4c46ae0fe21fbbf426626a343bdac8f3a9ca64cd0b59d0af298c543ebabda711",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z"
+    },
+    {
       "pmid": "42786528",
       "title": "Comparative analysis of serious adverse effects of antidiabetic drugs and complications associated with type II diabetes mellitus.",
       "abstract": "BACKGROUND: Type 2 diabetes mellitus (T2DM) is a major global health problem for which a wide range of antidiabetic medications are available. Adverse effects of antidiabetic medications may negatively affect patients' health and treatment adherence. In Egypt, limited data are available regarding the adverse-effect profiles of antidiabetic agents.\nAIM: This study aimed to compare safety profiles, treatment-related adverse effects, and diabetes-related complications associated with commonly prescribed antidiabetic medications.\nMATERIALS AND METHODS: A multicenter, cross-sectional observational study was conducted across diabetes outpatient clinics in Egypt from February 2024 to May 2024. Adult patients with type 2 diabetes on antidiabetic regimens were enrolled. Data was collected through medical records and patient interviews, including demographics, clinical history, laboratory results, diabetes complications, and treatment-related adverse events. Univariate logistic regression analyses were performed to assess the associations between antidiabetic medications and diabetes-related complications and adverse outcomes. Unadjusted odds ratios (ORs) with 95% confidence intervals were reported. Statistical significance was set at p-value ≤ 0.05.\nRESULTS: Several statistically significant associations were observed between the use of different antidiabetic medications and the prevalance of side effects and diabetes-related complications. Among 1,534 participants, insulin was associated with increased odds of cardiovascular, renal, and peripheral complications. Metformin, liraglutide, and empagliflozin were linked to gastrointestinal issues. Various mental disorders were notably associated with insulin. Empagliflozin and sitagliptin showed higher infection risks, while insulin and sulphonylureas were linked to some organ damage and retinopathy.\nCONCLUSION: Understanding the safety profiles of antidiabetic drugs is essential for optimizing treatment. The observed associations may help inform clinical decision-making and improve patient outcomes. However, they should be interpreted as associations rather than causal relationships and warrant further investigation in well-designed prospective studies.",
@@ -4086,6 +4555,34 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-17T23:36:26Z"
+    },
+    {
+      "pmid": "42819943",
+      "title": "Cardiovascular protection beyond glucose lowering: GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonism in contemporary cardiology.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) and the dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonist tirzepatide have expanded from glucose-lowering therapy into cardiovascular medicine. In type 2 diabetes, several long-acting GLP-1RAs reduce major adverse cardiovascular events (MACE). SELECT extended this benefit to adults with established cardiovascular disease and overweight or obesity without diabetes, while SOUL demonstrated MACE reduction with oral semaglutide. SURPASS-CVOT established cardiovascular noninferiority of tirzepatide to dulaglutide but did not demonstrate superiority. Obesity-related heart failure with preserved ejection fraction (HFpEF) has emerged as a particularly responsive phenotype: semaglutide improves symptoms and physical function, whereas tirzepatide also reduces worsening heart failure events. FLOW further supports kidney and cardiovascular protection with semaglutide in type 2 diabetes and chronic kidney disease. Randomised human studies support effects on adiposity, haemodynamic burden, inflammation and cardiorenal outcomes, whereas endothelial, coronary microvascular and direct myocardial mechanisms remain less clinically validated. This Review integrates the current evidence, distinguishes randomised outcomes from observational and mechanistic signals, and provides a practical phenotype-directed treatment algorithm incorporating atherosclerotic cardiovascular disease, obesity, type 2 diabetes, chronic kidney disease, HFpEF, sodium-glucose cotransporter 2 inhibitor use and patient-specific treatment constraints. Current practice should be guided by indication-specific outcome evidence rather than weight-loss magnitude or indirect cross-trial comparisons.",
+      "journal": "Frontiers in cardiovascular medicine",
+      "authors": "Li Mingzhe",
+      "pub_date": "2026-09-16",
+      "doi": "10.3389/fcvm.2026.1926629",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42819943/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8f0ea0f113e678a058cd6f49bd6c2f86132b4b028ded7cf6f98817c0dd195cfb",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z"
     },
     {
       "pmid": "42795973",
@@ -18193,6 +18690,46 @@
       "updated_at_utc": "2026-09-23T23:38:51Z"
     },
     {
+      "pmid": "42823860",
+      "title": "Combination of Empagliflozin and Resveratrol Mitigates Hepatic Steatosis via Attenuation of Inflammation and Promotion of Adipose Tissue Browning in High-Fat Diet-Fed C57BL/6J Mice.",
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a major hepatic complication of obesity with a complex pathogenesis. This study aims to investigate the combined effects of empagliflozin (EMPA) and resveratrol (RSV) treatment on obesity-associated MASLD in a high-fat diet (HFD)-fed mouse model. C57BL/6J mice were fed by HFD for 23 weeks, along with treatment with EMPA (0.01% w/w), RSV (0.4% w/w), and their combination. Metabolic parameters, glucose tolerance, hepatic steatosis, inflammation, and adipose tissue morphology and function were evaluated using biochemical assays, histology, immunofluorescence, qPCR, western blotting, and 18F-FDG PET scan. Combination therapy reduced body weight gain and improved glucose tolerance more effectively than monotherapies. It significantly alleviated hepatic steatosis, as shown by decreased liver weight, triglyceride content, MASLD activity score (MAS), and serum ALT/AST levels. Co-treatment also reduced hepatic inflammation by suppressing macrophage infiltration, shifting macrophages toward an M2 anti-inflammatory phenotype, inhibiting NF-κB activation, and enhancing AMPK phosphorylation. Furthermore, the combination more effectively activated brown adipose tissue thermogenesis and induced browning in subcutaneous white adipose tissue, evidenced by upregulation of UCP1, PGC-1α, TFAM, and TMEM26, increased mitochondrial biogenesis, and enhanced cold tolerance. The combination of EMPA and RSV exerts a multi-targeted therapeutic effect against HFD-induced MASLD. This combination represents a promising novel strategy for MASLD prevention.",
+      "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "authors": "Soleimani Ali Akbar, Aliabadi Masoume, Amri Jamal, Panahi Ghodratollah, Meshkani Reza",
+      "pub_date": "2026-01-01",
+      "doi": "10.1096/fj.202602880RRR",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823860/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Resveratrol",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Mice, Inbred C57BL",
+        "Diet, High-Fat",
+        "Mice",
+        "Male",
+        "Inflammation",
+        "Fatty Liver",
+        "Adipose Tissue, Brown",
+        "Non-alcoholic Fatty Liver Disease",
+        "Liver",
+        "Drug Therapy, Combination"
+      ],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "bad690f340fb2ac960a5662da87e486ef86c387679c7d1aeb1a31259ce824cc0",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z"
+    },
+    {
       "pmid": "42817074",
       "title": "Effects of SGLT-2 Inhibitors on Plasma Concentrations and Renal Clearance of the Risk Marker Trimethylamine-N-Oxide in Patients With Type-2 Diabetes.",
       "abstract": "BACKGROUND: Sodium-glucose cotransporter-2 (SGLT-2) inhibitors have become a key drug class in the treatment of Type 2 diabetes (T2D) due to their effectiveness in blood sugar control, but also for many other clinical indications because of beneficial effects on cardiovascular diseases and mortality. Therefore, the findings of a secondary analysis of the recent EMMY trial, in which acute myocardial infarction patients treated with empagliflozin had higher trimethylamine-N-oxide (TMAO) serum levels compared to placebo, were unexpected, as high TMAO concentrations in blood have previously been linked to adverse cardiovascular and mortality outcomes. In light of this, the aim of our study was to explore the effects of the SGLT-2 inhibitors empagliflozin and dapagliflozin on plasma concentrations and renal clearance (ClR) in a T2D patient setting.\nMETHODS: Plasma and 24-h urine samples from two prospective, randomised, placebo-controlled, double-blind, cross-over trials with T2D patients (empagliflozin N = 69, NCT02471963; dapagliflozin N = 54, NCT02383238), taken at baseline and after each treatment with either SGLT-2 inhibitor or placebo, were measured for TMAO via LC-MS/MS.\nRESULTS: After treatment with an SGLT-2 inhibitor, in the total of 123 patients, TMAO plasma levels were 11.5% higher compared to placebo (p = 0.006) and ClR of TMAO was reduced by 10.3% (p = 0.048) without any relevant change in its urinary excretion (p = 0.521). In the dapagliflozin trial, TMAO plasma concentration was 23.4% higher (p = 0.021), and ClR of TMAO was 22.6% lower (p = 0.025) after treatment with dapagliflozin compared to placebo. For empagliflozin, a similar trend was observed, but did not reach statistical significance.\nCONCLUSION: Treatment with an SGLT-2 inhibitor was associated with a modest increase in plasma concentration of TMAO. Together with data from a previous trial, the present findings suggest a possible class effect of SGLT-2 inhibitors. Whether this effect impacts the overall clinical benefits of SGLT-2 inhibitors needs to be subject to further investigations.\nTRIAL REGISTRATION: http://www.\nCLINICALTRIALS: gov: NCT02471963 (registered 15th June 2015, retrospectively registered) and NCT02383238.",
@@ -18202,24 +18739,25 @@
       "doi": "10.1002/edm2.70318",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42817074/",
       "publication_types": [
+        "Clinical Trial, Phase III",
         "Journal Article",
         "Randomized Controlled Trial"
       ],
       "mesh_terms": [
-        "Humans",
-        "Diabetes Mellitus, Type 2",
-        "Methylamines",
-        "Sodium-Glucose Transporter 2 Inhibitors",
-        "Glucosides",
-        "Benzhydryl Compounds",
+        "Aged",
         "Female",
-        "Middle Aged",
+        "Humans",
         "Male",
-        "Double-Blind Method",
+        "Middle Aged",
+        "Benzhydryl Compounds",
         "Biomarkers",
         "Cross-Over Studies",
-        "Aged",
-        "Prospective Studies"
+        "Diabetes Mellitus, Type 2",
+        "Double-Blind Method",
+        "Glucosides",
+        "Methylamines",
+        "Prospective Studies",
+        "Sodium-Glucose Transporter 2 Inhibitors"
       ],
       "matched_assets": [
         "dapagliflozin",
@@ -18231,9 +18769,9 @@
       ],
       "bi_related": true,
       "japan_relevant": false,
-      "content_sha256": "0035daf06c719106e72f06c2b87691ec424efd6affcbbf9223d62a8366ef0128",
+      "content_sha256": "7274752fb8f43de64e8485b49f0f96167db827b49b145493cdeec0da352300e8",
       "fetched_at_utc": "2026-10-02T00:43:29Z",
-      "updated_at_utc": "2026-10-02T00:43:29Z"
+      "updated_at_utc": "2026-10-03T00:26:22Z"
     },
     {
       "pmid": "42809414",

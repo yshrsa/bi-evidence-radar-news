@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-02T00:48:53Z",
+  "generated_at_utc": "2026-10-03T00:32:46Z",
   "items": [
     {
       "pmid": "42805503",
@@ -70,6 +70,258 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42826222",
+      "title": "Efficacy and mechanistic insights of dapagliflozin in hypertension management.",
+      "abstract": "Hypertension remains one of the leading modifiable risk factors for cardiovascular disease and premature mortality worldwide. Blood pressure (BP) management is particularly challenging in patients with coexisting type 2 diabetes (T2D), chronic kidney disease (CKD), or heart failure (HF). Sodium-glucose cotransporter 2 (SGLT2) inhibitors have become an integral component of contemporary cardiorenal therapy and have consistently demonstrated additional BP-lowering effects across diverse clinical settings. This narrative review synthesizes the current clinical evidence regarding the antihypertensive effects of dapagliflozin and summarizes the biological mechanisms that may contribute to these effects, including osmotic diuresis and natriuresis, weight reduction, modulation of the sympathetic nervous system, enhanced uric acid excretion, and attenuation of oxidative stress, inflammation, and vascular dysfunction. Across clinical studies, reductions in systolic BP (SBP) generally exceed those in diastolic BP (DBP), although the physiological basis underlying this differential response remains incompletely understood. Dapagliflozin has demonstrated good tolerability and antihypertensive effects in clinical applications, its long-term use may be limited by the risk of genital infections. Collectively, the available evidence supports dapagliflozin as a cardiorenal therapeutic agent that may provide additional BP-lowering benefits in patients with hypertension and concomitant T2D, CKD, or HF, rather than as a substitute for conventional antihypertensive therapy. Future hypertension-focused clinical studies are warranted to further define its role in hypertension management.",
+      "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+      "authors": "Chen Zhongbo, Chunbin Wang, Zhang Hanmei, Luo Ting, Yan Jinhua",
+      "pub_date": "2026-10-02",
+      "doi": "10.1080/10641963.2026.2731624",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826222/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Hypertension",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Blood Pressure",
+        "Antihypertensive Agents",
+        "Diabetes Mellitus, Type 2"
+      ],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "fa1d632161fd24a5a06bdc2563049fc9a7613069f63f98d163e3c400dd8067d0",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "本叙述的レビューは、ダパグリフロジンの降圧効果に関する現在の臨床エビデンスを統合し、浸透性利尿・ナトリウム排泄、体重減少、交感神経系の調節、尿酸排泄の促進、酸化ストレス・炎症・血管機能障害の軽減など、降圧効果に寄与する可能性のある生物学的メカニズムを要約している。SBPの低下はDBPの低下を一般的に上回ることが報告されているが、この差の生理学的基盤は未解明である。ダパグリフロジンは臨床応用において良好な忍容性と降圧効果を示すが、長期使用は生殖器感染症のリスクにより制限される可能性がある。",
+      "key_takeaway_ja": "ダパグリフロジンは、高血圧を合併するT2D・CKD・HF患者において追加的な降圧効果を提供し得る心腎治療薬であるが、従来の降圧療法の代替としては位置づけられない。",
+      "why_matters_ja": "高血圧は心血管疾患および早期死亡の主要な修正可能リスク因子であり、T2D・CKD・HFを合併する患者における血圧管理は特に困難である。SGLT2阻害薬は現代の心腎治療の重要な構成要素となりつつあり、多様な臨床設定で一貫して追加的な降圧効果を示している。",
+      "study_type_ja": "叙述的レビュー（Narrative Review）",
+      "endpoints_ja": "収縮期血圧（SBP）および拡張期血圧（DBP）の低下",
+      "endpoint_results_ja": "SBPの低下はDBPの低下を一般的に上回ることが報告されているが、具体的な数値は抄録に記載されていない。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:26:44Z"
+    },
+    {
+      "pmid": "42823625",
+      "title": "Interactions of Glucagon-Like Peptide-1 Receptor Agonists With GLP-1R-Gs Complex: Insights From Gaussian-Accelerated Molecular Dynamics.",
+      "abstract": "The glucagon-like peptide-1 receptor (GLP-1R) is a critical therapeutic target for metabolic diseases. GLP-1 receptor agonists (GLP-1RAs) have been developed to treat type 2 diabetes and promote weight loss. In this study, Gaussian accelerated molecular dynamics (GaMD) simulations, MM-PBSA calculations, and conformational dynamic analyses were systematically employed to elucidate the binding mechanisms and dynamic stability of three representative agonists-native GLP-1, semaglutide, and tirzepatide-bound to the GLP-1R-Gs membrane protein complex. Molecular docking and trajectory analyses revealed that ligand binding significantly stabilizes the overall receptor structure, triggering conformational shifts in the extracellular domain (ECD) and transmembrane domain (TMD), particularly inducing long-range allosteric cross-talk with the intracellular Gs protein to downstream signal transduction. Compared to GLP-1 and semaglutide, tirzepatide demonstrated distinct conformational shifts, superior structural compactness, and the higher binding affinity with a significantly more negative binding free energy. Furthermore, micro-interfacial localization demonstrated that lipid bilayer interaction with basic and aromatic residues at the Zp interface synergistically stabilizes the active transmembrane conformation. These atomic-level insights highlight the unique structural advantages of tirzepatide and provide a solid theoretical foundation for the novel rational design of next-generation multi-target peptide therapeutics.",
+      "journal": "Proteins",
+      "authors": "Zhou Xue, Liu Minghao, Shi Yunlai, Duan Xueyan, Gao Yin, Han Weiwei",
+      "pub_date": "2026-10-01",
+      "doi": "10.1002/prot.70186",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823625/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4d1cc507088e918cc1bf063dbd925d665b72f4baeabf218ecc90d6d191cc0696",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "本研究では、Gaussian加速分子動力学（GaMD）シミュレーション、MM-PBSA計算、および構造的動態解析を用いて、3つの代表的なアゴニスト（天然GLP-1、セマグルチド、チルゼパチド）がGLP-1R-Gs膜タンパク質複合体に結合した際の結合機構と動的安定性を体系的に解明した。分子ドッキングと軌道解析により、リガンド結合が受容体全体の構造を安定化させ、ECDおよびTMDの構造的変化を引き起こし、細胞内Gsタンパク質との長距離アロステリック相互作用を介して下流シグナル伝達を誘導することが示された。GLP-1およびセマグルチドと比較して、チルゼパチドは特有の構造的変化、優れた構造コンパクト性、および有意に負の結合自由エネルギーを示した。さらに、脂質二重膜との相互作用がZp界面の塩基性及び芳香族残基と協調的に活性TMD構造を安定化させることが示された。",
+      "key_takeaway_ja": "チルゼパチドはGLP-1およびセマグルチドと比較して、特有の構造的変化、優れた構造コンパクト性、および有意に負の結合自由エネルギー（より高い結合親和性）を示し、次世代マルチターゲットペプチド治療薬の合理的設計のための理論的基盤を提供する。",
+      "why_matters_ja": "チルゼパチドの独自の構造的特長を原子レベルで解明し、次世代マルチターゲットペプチド治療薬の合理的設計に固い理論的基盤を提供する。",
+      "study_type_ja": "計算化学研究（分子動力学シミュレーション）",
+      "endpoints_ja": "結合自由エネルギー（MM-PBSA）、構造的コンパクト性、ECD/TMDの構造的変化、Gsタンパク質とのアロステリック相互作用",
+      "endpoint_results_ja": "チルゼパチドはGLP-1およびセマグルチドと比較して「有意に負の結合自由エネルギー」を示したと記載されているが、具体的な数値は抄録に示されていない。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:27:10Z"
+    },
+    {
+      "pmid": "42823485",
+      "title": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial.",
+      "abstract": "The GLP-1 receptor agonist semaglutide preserves kidney function in people with type 2 diabetes and chronic kidney disease, but the underlying mechanisms are unclear. Here we report a 52-week randomized trial of subcutaneous semaglutide 1 mg once weekly versus placebo (n = 106 (n = 25 women, n = 81 men)) in participants with type 2 diabetes and chronic kidney disease. To identify kidney-specific mechanisms of action for semaglutide, we performed integrated multiparametric magnetic resonance imaging of the kidney and biopsy for histology (n = 33), alongside single-nucleus (n = 22) and spatial transcriptomics (n = 13) on paired samples with before- and after-treatment measurements. Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment. Secondary outcomes revealed that semaglutide treatment, as compared to placebo, was associated with a significantly reduced renal artery resistive index and stabilization of the apparent diffusion coefficient, indicating prevention of fibrosis progression. Moreover, secondary transcriptomic outcomes revealed pronounced effects of semaglutide on glomerular endothelial cells, consistent with the results of spatial analyses indicating reduced numbers of immune cells in the proximity of these endothelial cells. The results from this trial indicate that mechanisms of kidney protection by semaglutide may include reduced vascular resistance, prevention of fibrosis and improved underlying molecular programs promoting endothelial cell health. ClinicalTrials.gov identifier: NCT04865770 .",
+      "journal": "Nature medicine",
+      "authors": "Tuttle Katherine R, Bjornstad Petter, Smith Cathy, Pruijm Menno, McCown Phillip J, Hodgin Jeffrey B, Cherney David Z I, Belmar Nicolas",
+      "pub_date": "2026-10-01",
+      "doi": "10.1038/s41591-026-04674-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823485/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3cabdef388e71c52457363c9f9154c9e7dc8addc7306a247f263270509e59b8a",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "2型糖尿病かつ慢性腎臓病を有する参加者において、皮下投与セマグルチド1 mg 週1回とプラセボの52週ランダム化試験。腎臓の統合的マルチパラメトリックMRIおよび生検による組織病理学（n=33）、単一核トランスクリプトミクス（n=22）、空間トランスクリプトミクス（n=13）を治療前後のペアサンプルで実施した。共同一次エンドポイント（R2*による酸素化、T1マッピングによる全血流および組織炎症）はセマグルチド群で有意な変化は認められなかった。二次エンドポイントでは、セマグルチド群で腎動脈抵抗指数の有意な低下と見かけの拡散係数の安定化が認められ、線維化進行の予防を示唆した。トランスクリプトミクスでは糸球体内皮細胞への顕著な効果が示され、空間解析でもこれらの内皮細胞近傍の免疫細胞数の減少が確認された。",
+      "key_takeaway_ja": "セマグルチドの腎保護メカニズムには、血管抵抗の低下、線維化の予防、および内皮細胞の健康を促進する分子プログラムの改善が含まれる可能性がある。",
+      "why_matters_ja": "GLP-1受容体作動薬セマグルチドが2型糖尿病・慢性腎臓病患者の腎機能を保持することは知られているが、その基盤となるメカニズムは不明であった。本研究は腎臓特異的な作用機序を同定することを目的としている。",
+      "study_type_ja": "ランダム化プラセボ対照試験（52週）",
+      "endpoints_ja": "共同一次エンドポイント：MRIによる酸素化（R2*）、全血流および組織炎症（T1マッピング）。二次エンドポイント：腎動脈抵抗指数、見かけの拡散係数、トランスクリプトミクス（糸球体内皮細胞への影響、内皮細胞近傍の免疫細胞数）。",
+      "endpoint_results_ja": "共同一次MRIアウトカム（R2*による酸素化、T1マッピングによる全血流および組織炎症）：セマグルチド群でプラセボ群と比較して有意な変化は認められなかった。二次アウトカム：腎動脈抵抗指数の有意な低下、見かけの拡散係数の安定化（線維化進行の予防を示唆）。トランスクリプトミクス：糸球体内皮細胞への顕著な効果、空間解析で内皮細胞近傍の免疫細胞数の減少。",
+      "sample_size_ja": "n=106（女性n=25、男性n=81）。生検による組織病理学：n=33。単一核トランスクリプトミクス：n=22。空間トランスクリプトミクス：n=13。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:27:34Z"
+    },
+    {
+      "pmid": "42823075",
+      "title": "Nephroprotective Effects of the Dual GCGR/GLP-1R Agonist Survodutide in Hypertension-Accelerated Diabetic Kidney Disease.",
+      "abstract": "AIMS: Survodutide is a novel long-acting dual glucagon (GCGR)/glucagon-like peptide-1 (GLP-1R) receptor agonist currently in phase-3 clinical development for the treatment of people living with obesity and metabolic dysfunction-associated steatohepatitis. Emerging evidence suggests impaired renal GCGR function in chronic kidney disease (CKD), including diabetic kidney disease (DKD). This study aimed to characterize the effects of survodutide in a translational mouse model of advanced DKD, induced by adeno-associated virus-mediated renin overexpression (ReninAAV) in uninephrectomized (UNx) diabetic db/db mice.\nMATERIALS AND METHODS: Female obese and diabetic db/db C57BKS mice received a single intravenous dose of ReninAAV 1 week prior to UNx. Three weeks post-UNx, db/db UNx-ReninAAV mice were administered (s.c., q.d.) vehicle or survodutide (7.5 nmol/kg) for 10 weeks. Endpoints included blood/urine biochemistry, histological markers of glomerulosclerosis, tubular injury and inflammation, as well as quantitative 3D whole-pancreas and whole-kidney imaging.\nRESULTS: Compared to vehicle controls, survodutide reduced body weight, hyperglycemia, and HbA1c levels concurrent with improved hyperinsulinemia and β-cell islet volume distribution. Notably, survodutide promoted substantial benefits on advanced albuminuria, severe glomerulosclerosis, kidney hypertrophy and inflammation. 3D whole-kidney imaging revealed that survodutide significantly reduced kidney and glomerular hypertrophy while increasing glomerular density and improving glomerular sphericity. Survodutide reduced liver weight and plasma amino acid levels, including alanine, confirming hepatic glucagon receptor activation.\nCONCLUSIONS: Survodutide markedly improved metabolic and renal outcomes in the db/db UNx-ReninAAV mouse model of advanced DKD, supporting further investigation into therapeutic options of survodutide in chronic kidney diseases.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Hamilton Alexander, Thisted Louise, Ougaard Maria, Hahn Max, Andersen Kasper, Perens Johanna, Augustin Robert, Bajrami Besnik",
+      "pub_date": "2026-10-01",
+      "doi": "10.1111/dom.71387",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823075/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "survodutide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "6ce586eb32250b4f639736725d60f5c0edc91b32999697efed938bbc2427ac1e",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "Survodutide（デュアルGCGR/GLP-1Rアゴニスト）を、アデノ随伴ウイルスによるレニン過剰発現（ReninAAV）と片側腎摘出（UNx）を併用したdb/dbマウスモデル（高度糖尿病性腎症モデル）に10週間投与した前臨床研究。体重、高血糖、HbA1c、アルブミン尿、糸球体硬化、腎肥大、炎症、3D腎画像（糸球体密度・球形度）など代謝・腎臓アウトカムを評価した。",
+      "key_takeaway_ja": "Survodutideは高度DKDマウスモデルにおいて代謝および腎臓アウトカムを著しく改善し、CKDにおけるtherapeutic optionとしてのさらなる調査を支持した。",
+      "why_matters_ja": "CKD（DKDを含む）において腎GCGR機能の障害が示唆されており、デュアルGCGR/GLP-1Rアゴニストが腎保護効果を有する可能性を前臨床レベルで示した点に意義がある。",
+      "study_type_ja": "前臨床（動物）研究（翻訳的マウスモデル）",
+      "endpoints_ja": "血漿/尿生化学、糸球体硬化・尿細管障害・炎症の組織学的マーカー、定量的3D全膵臓・全腎臓画像（腎・糸球体肥大、糸球体密度、糸球体球形度）、体重、血糖、HbA1c、インスリン、膵島β細胞体積分布、肝重量、血漿アミノ酸（アラニン等）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:29:43Z"
+    },
+    {
+      "pmid": "42822760",
+      "title": "Survodutide for the treatment of obesity: Mechanistic rationale, clinical evidence, and remaining uncertainties.",
+      "abstract": "Survodutide (BI 456906) is an investigational once-weekly dual glucagon and Glucagon-like Peptide (GLP-1) receptor agonist being developed for obesity. In a phase 2 trial involving adults with a body mass index ≥27 kg/m2 without diabetes, participants assigned to the 4.8-mg dose achieved a mean body-weight reduction of up to 18.7% at 46 weeks, compared with 2.3% with placebo. Its proposed mechanism combines reduced food intake through GLP-1 receptor agonism with glucagon receptor-mediated effects on energy expenditure and hepatic metabolism. Gastrointestinal adverse events, including nausea, vomiting, and diarrhea, were common and were influenced by dose escalation. Phase 3 SYNCHRONIZE trials are evaluating efficacy, safety, and tolerability in broader populations with and without type 2 diabetes. Survodutide is not approved for routine clinical use, and its comparative effectiveness, durability, long-term safety, treatment persistence, and effects after discontinuation remain to be established.",
+      "journal": "Contemporary clinical trials",
+      "authors": "Sergi Consolato M",
+      "pub_date": "2026-10-01",
+      "doi": "10.1016/j.cct.2026.108493",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822760/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "survodutide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "b1e6f29af30427a6013fed9738f47d9e7f1dabe3553d9621441c3ef2dccdb142",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "Survodutide（BI 456906）は、肥満治療を目的に開発中の週1回投与のグルカゴン受容体とGLP-1受容体の二重作動薬である。BMI≥27 kg/m²で糖尿病を有しない成人を対象とした第2相試験において、4.8 mg投与群は46週時点で平均体重減少が最大18.7%に達し、プラセボ群は2.3%であった。作用機序はGLP-1受容体作動による食事摂取量の減少と、グルカゴン受容体介在によるエネルギー消費および肝代謝への効果を組み合わせたものである。悪心・嘔吐・下痢などの消化管有害事象が頻発し、用量漸増の影響を受けた。第3相SYNCHRONIZE試験が2型糖尿病の有無を問わずより広い集団で有効性・安全性・忍容性を評価中である。Survodutideは現在承認されておらず、比較有効性、持続性、長期安全性、治療継続性、中止後の影響は未確立である。",
+      "key_takeaway_ja": "Survodutideは第2相試験で46週時点で最大18.7%の平均体重減少を示したが、長期安全性・持続性・比較有効性・中止後の影響は未確立であり、承認前段階である。",
+      "why_matters_ja": "GLP-1受容体作動による食欲抑制とグルカゴン受容体介在によるエネルギー消費増大を併せ持つ二重作動薬という新たな機序により、既存のGLP-1単独作動薬とは異なる体重減少メカニズムを提供する可能性がある。",
+      "study_type_ja": "レビュー（機序的根拠・臨床エビデンス・未解決課題の総説）",
+      "endpoints_ja": "平均体重減少率、消化管有害事象（悪心・嘔吐・下痢）",
+      "endpoint_results_ja": "4.8 mg投与群：46週時点で平均体重減少最大18.7%。プラセボ群：2.3%。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:31:07Z"
+    },
+    {
+      "pmid": "42822650",
+      "title": "GLP-1 receptor agonists in psoriasis management.",
+      "abstract": "Psoriasis is a systemic chronic inflammatory skin disease associated with musculoskeletal, cardiovascular, metabolic, psychiatric, and gastrointestinal comorbidities. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 RAs have emerged as potential therapeutic adjuncts in psoriasis because, beyond their metabolic effects, these agents exhibit anti-inflammatory properties and may reduce expression of cytokines and inflammatory biomarkers. This review summarizes the current evidence from randomized trials and nonrandomized studies evaluating GLP-1 RAs and dual GIP/GLP-1 RAs in patients with psoriasis and discusses their potential role in disease management. Observational studies of liraglutide, semaglutide, exenatide, dulaglutide, and tirzepatide generally demonstrated improvements in psoriasis severity, body weight, metabolic parameters, inflammatory biomarkers, and quality of life, although most were limited by small sample sizes and uncontrolled designs. Randomized trials similarly suggest dermatologic benefit, particularly among patients with obesity and/or type 2 diabetes mellitus. Most notably, the phase 3b TOGETHER trial demonstrated greater skin clearance and weight reduction with ixekizumab plus tirzepatide compared with ixekizumab alone in patients with moderate-to-severe psoriasis and overweight or obesity. Complementary findings from the TOGETHER-PsA trial showed improvement in psoriatic arthritis disease activity as early as week 4, before clinically meaningful weight loss, supporting potential weight-independent anti-inflammatory effects of these agents. Future studies should include patients without obesity or diabetes to clarify the relative contributions of weight loss and direct anti-inflammatory effects to clinical response and determine whether the dermatologic benefits of GLP-1-based therapies extend to patients without underlying metabolic dysfunction.",
+      "journal": "Clinics in dermatology",
+      "authors": "Cutrona Marley, Talia Jordan, Cices Ahuva",
+      "pub_date": "2026-10-01",
+      "doi": "10.1016/j.clindermatol.2026.09.037",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822650/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "48e132a4b9b2e46c99b99e9b3290c756743516ad6ad80eabdffe0b442de9c1a4",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "本レビューは、乾癬患者におけるGLP-1受容体作動薬（GLP-1 RA）およびデュアルGIP/GLP-1 RAの現在のエビデンスをまとめたものである。リラグルチド、セマグルチド、エクセナチド、デュラグルチド、チルゼパチドの観察研究では、乾癬重症度、体重、代謝パラメータ、炎症性バイオマーカー、生活の質の改善が示されたが、大半は小規模サンプルサイズおよび非対照デザインに限定されていた。ランダム化試験も皮膚科的利益を示唆し、特に肥満および/または2型糖尿病を伴う患者で顕著であった。第3b相TOGETHER試験では、中等症〜重症乾癬かつ過体重または肥満の患者において、イセキズマブ単独療法と比較してイセキズマブ＋チルゼパチド併用療法でより大きな皮膚クリアランスと体重減少が示された。TOGETHER-PsA試験では、臨床的に有意な体重減少の前に週4で乾癬性関節炎の疾患活動性の改善が示され、体重減少に依存しない抗炎症効果の可能性を支持した。",
+      "key_takeaway_ja": "GLP-1 RAおよびデュアルGIP/GLP-1 RAは乾癬の皮膚症状改善に寄与する可能性があり、特に肥満や2型糖尿病を伴う患者で効果が示唆されている。TOGETHER試験ではイセキズマブ＋チルゼパチド併用がイセキズマブ単独より優越し、TOGETHER-PsA試験では体重減少に先行する抗炎症効果が示された。",
+      "why_matters_ja": "乾癬は代謝性・心血管系・精神科的合併症を伴う全身性慢性炎症性皮膚疾患であり、GLP-1 RAは代謝効果に加え抗炎症特性を有するため、乾癬管理における潜在的な補助療法として臨床的に意義がある。肥満や糖尿病を伴わない患者への適用可能性を明確にする今後の研究が重要である。",
+      "study_type_ja": "レビュー（ランダム化試験および非ランダム化研究の総説）",
+      "endpoints_ja": "乾癬重症度、体重、代謝パラメータ、炎症性バイオマーカー、生活の質、皮膚クリアランス、乾癬性関節炎の疾患活動性",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:32:21Z"
+    },
+    {
+      "pmid": "42821500",
+      "title": "The effect of submaximal doses of semaglutide on the expression of micro-RNA in patients with obesity: a pilot study.",
+      "abstract": "INTRODUCTION: Glucagon-like peptide 1 receptor agonists (GLP-1RA) including semaglutide have emerged as some of the most potent drugs in the treatment of obesity. This effect can be mediated by changes in the regulation of micro ribonucleic acid (miRNA) expression. However, currently, there are no data regarding the effect of GLP-1RA on the expression of miRNA in patients with obesity.\nOBJECTIVE: The aim of this study was to investigate the effect of semaglutide therapy administered at submaximal doses on changes of miRNA in obese patients.\nMETHODS: A pilot, prospective, observational, post-marketing study enrolling 31 adult individuals with obesity treated with semaglutide at submaximal doses. Blood samples were taken prior to and after 6 months of semaglutide administration for plasma miRNA levels. All patients received submaximal doses of semaglutide ranging from 0.25 mg to 1.5 mg once weekly.\nRESULTS: We observed a nominally significant increase in the expression of hsa-miR-151b (homo sapiens microRNA), hsa-miR-223-3p, hsa-miR-27b-3p, hsa-miR-29c-3p, hsa-miR-4284 and a nominally significant decrease in the expression of hsa-miR-1273f, hsa-miR-4644, hsa-miR-6071 after 6 months of semaglutide treatment. However, none of the associations remained significant after FDR correction.\nCONCLUSION: Our study demonstrated a nominally significant change in the expression of 8 miRNAs after the 6-month treatment with submaximal doses of semaglutide in patients with obesity.",
+      "journal": "Obesity facts",
+      "authors": "Jurica Jakub, Miertova Zuzana, Pec Martin Jozef, Focko Boris, Miert Andrej, Tudik Peter, Nagy Norbert, Sagova Ivana",
+      "pub_date": "2026-10-01",
+      "doi": "10.1159/ofa/adzag002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821500/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4d4ca744d9392593ee1cd2a43bf88a14e3f45a8fd561a2049a85bb98ec0a1fac",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "肥満症成人31名を対象に、セマグルチドのサブマキシマル用量（0.25 mg〜1.5 mg 週1回）を6か月間投与し、投与前後で血漿miRNA発現レベルを比較したパイロット的前向き観察的事後調査研究。6か月後、hsa-miR-151b、hsa-miR-223-3p、hsa-miR-27b-3p、hsa-miR-29c-3p、hsa-miR-4284の発現上昇と、hsa-miR-1273f、hsa-miR-4644、hsa-miR-6071の発現低下が名目上有意（nominally significant）に認められたが、FDR補正後にはいずれも有意ではなかった。",
+      "key_takeaway_ja": "セマグルチドのサブマキシマル用量6か月投与により8つのmiRNAで名目上有意な発現変化が認められたが、多重比較補正（FDR）後には有意な関連は残らなかった。",
+      "why_matters_ja": "肥満症患者におけるGLP-1受容体作動薬のmiRNA発現への影響に関する初のデータであり、セマグルチドの作用機序の解明に寄与する可能性がある。",
+      "study_type_ja": "パイロット的前向き観察的事後調査研究（pilot, prospective, observational, post-marketing study）",
+      "endpoints_ja": "血漿miRNA発現レベル（投与前 vs 6か月後）",
+      "endpoint_results_ja": "6か月後、hsa-miR-151b、hsa-miR-223-3p、hsa-miR-27b-3p、hsa-miR-29c-3p、hsa-miR-4284で名目上有意な発現上昇、hsa-miR-1273f、hsa-miR-4644、hsa-miR-6071で名目上有意な発現低下を認めた。FDR補正後にはいずれも有意ではなかった。具体的なp値や発現量の変化倍率は抄録に記載なし。",
+      "sample_size_ja": "31名（肥満症成人）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-03T00:32:41Z"
     },
     {
       "pmid": "42817877",
@@ -1378,6 +1630,40 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-26T23:35:28Z"
+    },
+    {
+      "pmid": "42825265",
+      "title": "Semaglutide for MASH cirrhosis: a new therapeutic frontier or a false dawn?",
+      "abstract": "",
+      "journal": "eGastroenterology",
+      "authors": "Zhou Xiao-Dong, Alkhouri Naim, Schattenberg Jörn M, Muthiah Mark D, Tacke Frank, Zheng Ming-Hua",
+      "pub_date": "2026-09-25",
+      "doi": "10.1136/egastro-2026-100619",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825265/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "b5a8bd927f88ff045dc76ba93bc5c40d5ab026ac1e96835bde436efc1b642bec",
+      "fetched_at_utc": "2026-10-03T00:26:22Z",
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-03T00:26:22Z"
     },
     {
       "pmid": "42799419",
@@ -4986,278 +5272,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-12T23:01:31Z"
-    },
-    {
-      "pmid": "42727920",
-      "title": "Structural Overview of GLP-1 Analogs.",
-      "abstract": "Glucagon-like peptide-1 (GLP-1) analogs exert potent metabolic effects through structural features that govern receptor engagement, signaling, and pharmacokinetics. Key structural determinants include N-terminal modifications that confer resistance to dipeptidyl peptidase-4 degradation, as well as C-terminal and backbone elements that stabilize peptide helicity and enhance GLP-1 receptor affinity. Lipidation and albumin-binding strategies prolong systemic exposure by increasing circulating half-life, forming the basis of long-acting agents such as liraglutide and semaglutide. Structural variation further modulates signaling bias between G protein pathways and β-arrestin recruitment, potentially influencing therapeutic efficacy. Emerging multi-receptor agonists extend these principles across incretin receptor families and are increasingly supported by computational approaches to peptide optimization. Collectively, these advances illustrate how rational design drives the development of next-generation incretin therapeutics. This review synthesizes current insights into structural determinants of GLP-1 analogs and highlights future directions in the field.",
-      "journal": "Biomedical journal",
-      "authors": "van der Velden Wijnand J C, Andresen Asta F, Rosenkilde Mette M",
-      "pub_date": "2026-09-11",
-      "doi": "10.1016/j.bj.2026.101037",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727920/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "35d837093881b371076248bf578cf9d2737f48ef132a1f20cdfc4a8dae8777eb",
-      "fetched_at_utc": "2026-09-13T23:06:26Z",
-      "updated_at_utc": "2026-09-13T23:06:26Z",
-      "summary_ja": "GLP-1アナログの構造的特徴が受容体結合・シグナル伝達・薬物動態をどのように支配するかを概観したレビュー論文。N末端修飾によるDPP-4分解耐性、C末端および骨格要素によるヘリックス安定化とGLP-1受容体親和性の向上、リポ化やアルブミン結合による半減期延長、Gタンパク質経路とβ-arrestin募集間のシグナルバイアスの調節、およびマルチレセプターアゴニストの発展について統合的に論じている。",
-      "key_takeaway_ja": "GLP-1アナログの構造設計（N末端修飾、リポ化、アルブミン結合、シグナルバイアス制御）が薬理学的特性を決定し、次世代インクレチン治療薬の合理的開発の基盤を形成している。",
-      "why_matters_ja": "GLP-1アナログの構造と機能の関係を体系的に整理することで、次世代インクレチン治療薬の合理的設計と最適化に直接的な知見を提供する。",
-      "study_type_ja": "レビュー",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-13T23:09:25Z"
-    },
-    {
-      "pmid": "42727867",
-      "title": "Where the Future Lies: GLP-1 Receptor Agonists as Therapeutics for Dermatologic Comorbidities.",
-      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have transformed the management of obesity, type 2 diabetes mellitus, and cardiometabolic disease through effects on weight reduction, glycemic control, and systemic inflammation. Their varied immunometabolic actions have generated increasing interest in dermatology, where chronic inflammatory skin diseases frequently coexist with obesity, insulin resistance, metabolic syndrome, and cardiovascular disease. Emerging evidence from clinical trials, observational studies, and real-world analyses suggests that GLP-1RAs may improve outcomes in psoriasis, hidradenitis suppurativa, and atopic dermatitis while simultaneously reducing the burden of associated metabolic and cardiovascular comorbidities. In psoriasis, combination therapy with tirzepatide has demonstrated enhanced skin clearance, substantial weight loss, and reduced risk of psoriatic arthritis. In hidradenitis suppurativa and atopic dermatitis, GLP-1RAs have been associated with improvements in cardiometabolic outcomes and reductions in systemic complications. Collectively, these findings support an evolving paradigm in which the greatest therapeutic utility of GLP-1RAs in dermatology may lie not only in direct modulation of cutaneous inflammation but also in addressing the metabolic dysfunction and chronic systemic inflammation that drive disease severity and multimorbidity. We review the current clinical evidence and propose a conceptual framework positioning GLP-1RAs as immune-metabolic therapies that target the systemic comorbidities of inflammatory skin disease, highlighting future opportunities for disease modification and integrated dermatologic care.",
-      "journal": "Clinics in dermatology",
-      "authors": "DeCoster Mikaela, Narla Shanthi",
-      "pub_date": "2026-09-11",
-      "doi": "10.1016/j.clindermatol.2026.09.003",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727867/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "7774c41bd4a0fa6780d03ccbfc6ab137960b35867af313d9e02969690e98f82f",
-      "fetched_at_utc": "2026-09-12T23:01:13Z",
-      "updated_at_utc": "2026-09-12T23:01:13Z",
-      "summary_ja": "GLP-1受容体アゴニスト（GLP-1RA）が肥満、2型糖尿病、心代謝性疾患の管理を変革してきた背景のもと、その免疫代謝作用が皮膚科領域、特に慢性炎症性皮膚疾患（乾癬、化膿性汗腺炎、アトピー性皮膚炎）における治療応用について検討したレビュー論文。GLP-1RAが皮膚疾患の改善と関連する代謝・心血管合併症の軽減を同時に達成しうる可能性を、臨床試験・観察研究・実世界データから概観し、免疫代謝療法としての概念フレームワークを提案している。",
-      "key_takeaway_ja": "GLP-1RAの皮膚科における最大の治療的有用性は、皮膚炎症の直接的な調節だけでなく、疾患重症度と多疾患併存を駆動する代謝機能不全と慢性全身性炎症に対処することにある可能性が示唆された。",
-      "why_matters_ja": "慢性炎症性皮膚疾患は肥満、インスリン抵抗性、代謝症候群、心血管疾患と頻繁に併存する。GLP-1RAは皮膚疾患そのものの改善と、関連する代謝・心血管合併症の軽減を同時に達成しうるため、統合的な皮膚科ケアの新たなパラダイムを提示する可能性がある。",
-      "study_type_ja": "レビュー（総説）",
-      "endpoints_ja": "乾癬：皮膚クリアランス、体重減少、乾癬性関節炎リスク。化膿性汗腺炎・アトピー性皮膚炎：心代謝性アウトカム、全身性合併症の軽減。",
-      "endpoint_results_ja": "抄録に記載なし（具体的な数値は記載されていない）",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-12T23:01:50Z"
-    },
-    {
-      "pmid": "42727623",
-      "title": "Metabolic Effects of a GLP-1 Analog Combined with Aerobic Training in Ovariectomized Rats.",
-      "abstract": "Menopause is associated with visceral obesity, low-grade chronic inflammation, and increased risk of dyslipidemia, insulin resistance, and type 2 diabetes. Although exercise (EXE) and GLP-1 receptor agonists, such as semaglutide (SEM), have demonstrated beneficial effects on metabolic regulation, their combined impact in menopause models has been less investigated. In this study, ovariectomized female Wistar rats were divided into four experimental groups: sedentary plus saline (SED + SAL), sedentary plus semaglutide (SED + SEM), exercise (EXE + SAL), and EXE + SEM. The aerobic exercise protocol consisted of treadmill running at moderate intensity for four weeks, during which the rats received either SEM or SAL weekly. At the end of the protocol, metabolic parameters were assessed in blood, liver, soleus and gastrocnemius muscles. Both SEM groups had lower body weight, weight gain, relative subcutaneous white adipose tissue (scWAT) mass, glucose, total proteins, and triglycerides in serum and liver, while LDL cholesterol, glycogen in liver and gastrocnemius, and AMPK and HSF1 expression in gastrocnemius increased. EXE decreased total and LDL cholesterol, liver triglycerides and HSF1 expression in both tissues, while glycogen in liver and gastrocnemius, liver HSF1 expression and relative mass were increased. The combination of SEM + EXE increased glycogen content in the gastrocnemius and AMPK expression in both gastrocnemius and liver. This combined treatment reduced HDL levels, hepatic triglycerides and scWAT relative weight. These results suggest that SEM and EXE exert complementary effects on glycemic and lipid metabolism, with partially distinct metabolic outcomes that may involve different underlying mechanisms.",
-      "journal": "Molecular and cellular endocrinology",
-      "authors": "Selau Bruna, Bastos Leonardo Marensi, Normann Rafaella Sanfelice, Cubas Gustavo Kasper, Herrmann Rodrigo de Oliveira Corrêa da Cunha, Barros Lucas Dos Anjos de Oliveira de, de Amaral Marjoriane, Trapp Márcia",
-      "pub_date": "2026-09-11",
-      "doi": "10.1016/j.mce.2026.112917",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727623/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "c878f28cd02659cafedb612b188c077c625eb8be943696773186a176675bb117",
-      "fetched_at_utc": "2026-09-12T23:01:13Z",
-      "updated_at_utc": "2026-09-12T23:01:13Z",
-      "summary_ja": "卵巣摘出ラット（閉経モデル）を用い、GLP-1受容体作動薬セマグルチド（SEM）と有酸素運動（EXE）の併用による代謝への影響を4群（SED+SAL、SED+SEM、EXE+SAL、EXE+SEM）で比較検討した。中等強度のトレッドミル走行を4週間実施し、週1回SEMまたはSALを投与した。プロトコル終了時に血液、肝臓、腓腹筋、ヒラメ筋の代謝パラメータを評価した。",
-      "key_takeaway_ja": "SEMとEXEは血糖・脂質代謝に対して相補的な効果を示し、部分的に異なる代謝的アウトカムが異なる基盤メカニズムを介して生じる可能性がある。",
-      "why_matters_ja": "閉経は内臓肥満、低度慢性炎症、脂質異常症・インスリン抵抗性・2型糖尿病のリスク上昇と関連するが、運動とGLP-1受容体作動薬の併用効果は閉経モデルにおいて十分に研究されていない。",
-      "study_type_ja": "動物実験（前臨床研究）：卵巣摘出ラットを用いた4群比較の介入試験",
-      "endpoints_ja": "体重、体重増加、皮下白色脂肪組織（scWAT）相対質量、血清および肝臓のグルコース・総タンパク質・トリグリセリド、LDLコレステロール、HDLコレステロール、肝臓および腓腹筋のグリコーゲン、腓腹筋および肝臓のAMPK発現、腓腹筋および肝臓のHSF1発現、肝臓相対質量",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-12T23:02:12Z"
-    },
-    {
-      "pmid": "42727208",
-      "title": "Postoperative outcomes after total knee arthroplasty in type 2 diabetes mellitus patients receiving semaglutide versus tirzepatide: a propensity score-matched national research network analysis.",
-      "abstract": "BACKGROUND: Semaglutide (GLP-1 receptor agonist) and tirzepatide (dual GIP/GLP-1 agonist) are increasingly prescribed to adults with type 2 diabetes mellitus (T2DM) undergoing total knee arthroplasty (TKA). Whether short-term postoperative outcomes differ between these agents was unknown.\nMETHODS: This was a retrospective cohort study using the TriNetX research network database. Adults with T2DM who underwent primary TKA between June 1, 2022, and December 31, 2024, and had an active prescription for semaglutide or tirzepatide within 90 days preoperatively were eligible. 1:1 propensity score matching was conducted on age, sex, race, body mass index, hemoglobin A1c, comorbidity burden, and concurrent diabetes medication use, yielding 415 matched pairs. Outcomes through 90 and 180 days included medical complications, surgical complications, and healthcare utilization. Odds ratios (ORs) with 95% confidence intervals (CIs) were estimated using logistic regression.\nRESULTS: After matching (n = 830), there were no differences in 90-day medical complications (OR 1.122, 95% CI 0.736-1.710; P = 0.591) or 180-day surgical complications (OR 1.632, 95% CI 0.845-3.152; P = 0.141) between semaglutide and tirzepatide cohorts. Individual events, including myocardial infarction, stroke, pneumonia, sepsis, pulmonary embolism, deep vein thrombosis, acute kidney injury (OR 0.867, 95% CI 0.417-1.801; P = 0.701), urinary tract infection (OR 1.562, 95% CI 0.863-2.827; P = 0.138), surgical site infection (OR 1.726, 95% CI 0.782-3.810; P = 0.172), periprosthetic joint infection, wound dehiscence, mortality, and revision-were statistically similar (all P > 0.05). Emergency department visits and/or readmissions were comparable at 90 days (OR 0.775, 95% CI 0.570-1.052; P = 0.102) and 180 days (OR 0.887, 95% CI 0.672-1.170; P = 0.397). Several outcomes had low event counts in both groups, limiting precision.\nCONCLUSION: In a large, propensity-matched national cohort of primary TKA, semaglutide and tirzepatide demonstrated similar short-term safety and utilization profiles. These findings support continued perioperative use of either agent in T2DM patients undergoing TKA.",
-      "journal": "The Knee",
-      "authors": "Wu Kevin A, Choudhury Ankit, Wu Joshua A, Shenoy Devika A, Song Junho, Mai Eric, Dhanjani Suraj, Shatkin Michael",
-      "pub_date": "2026-09-11",
-      "doi": "10.1016/j.knee.2026.104639",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727208/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "a1be56600ebc80a73ed530ecb007b3c49ffbd089479f972deca17b726a504e91",
-      "fetched_at_utc": "2026-09-13T23:06:26Z",
-      "updated_at_utc": "2026-09-13T23:06:26Z",
-      "summary_ja": "TriNetX研究ネットワークデータベースを用いた後方視コホート研究。2022年6月1日から2024年12月31日の間に初回人工膝関節置換術（TKA）を受けた2型糖尿病（T2DM）成人患者で、術前90日以内にセマグルチドまたはtirzepatideの処方が有効であった対象を抽出した。年齢、性別、人種、BMI、HbA1c、合併症負荷、併用糖尿病薬使用を基準に1:1プロパティスコアマッチングを行い、415対（n=830）を解析した。90日および180日の医学的合併症、外科的合併症、医療資源利用を比較し、ロジスティック回帰でオッズ比（OR）と95%信頼区間（CI）を推定した。",
-      "key_takeaway_ja": "初回TKAを受けたT2DM患者において、セマグルチドとtirzepatideの間で90日・180日の短期的安全性プロファイルおよび医療資源利用に有意な差は認められなかった。",
-      "why_matters_ja": "セマグルチド（GLP-1受容体作動薬）とtirzepatide（GIP/GLP-1二重作動薬）はTKAを受けるT2DM患者に増加して処方されているが、両薬剤間の術後短期アウトカムの差は不明であった。本結果は、TKAを受けるT2DM患者においてどちらの薬剤も術前・術後期に継続使用可能であることを支持する。",
-      "study_type_ja": "後方視コホート研究（プロパティスコアマッチング、全国研究ネットワークデータベース）",
-      "endpoints_ja": "90日医学的合併症、180日外科的合併症、個別イベント（心筋梗塞、脳卒中、肺炎、敗血症、肺塞栓症、深部静脈血栓症、急性腎障害、尿路感染症、手術部位感染、周囲関節感染、創離開、死亡、再手術）、90日および180日の救急外来受診および/または再入院",
-      "endpoint_results_ja": "90日医学的合併症：OR 1.122, 95% CI 0.736-1.710; P = 0.591。180日外科的合併症：OR 1.632, 95% CI 0.845-3.152; P = 0.141。急性腎障害：OR 0.867, 95% CI 0.417-1.801; P = 0.701。尿路感染症：OR 1.562, 95% CI 0.863-2.827; P = 0.138。手術部位感染：OR 1.726, 95% CI 0.782-3.810; P = 0.172。救急外来受診および/または再入院（90日）：OR 0.775, 95% CI 0.570-1.052; P = 0.102。救急外来受診および/または再入院（180日）：OR 0.887, 95% CI 0.672-1.170; P = 0.397。その他の個別イベント（心筋梗塞、脳卒中、肺炎、敗血症、肺塞栓症、深部静脈血栓症、周囲関節感染、創離開、死亡、再手術）：すべてP > 0.05。",
-      "sample_size_ja": "415対（n = 830）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-13T23:10:04Z"
-    },
-    {
-      "pmid": "42726191",
-      "title": "Improvement of small fiber neuropathy assessed by corneal confocal microscopy following semaglutide treatment: a case report and literature review.",
-      "abstract": "Diabetic peripheral neuropathy (DPN) is the most common chronic complication of type 2 diabetes (T2D) and a major predisposing factor for the development of diabetic foot, one of the most devastating diabetes-related conditions associated with substantial morbidity and mortality. To date, no pharmacological therapy has been shown capable of preventing, halting, or reversing neuropathic damage. We report the case of a 57-year-old man with T2D and obesity (BMI 35.2 kg/m²) who presented with symptoms and signs of DPN, including a neuropathy symptom score (NSS) of 3/9, a neuropathy disability score (NDS) of 3/10, and a vibration perception threshold (VPT) of 22 volts (V) bilaterally. In vivo corneal confocal microscopy (CCM) was performed to further evaluate small fiber involvement. Despite adequate glycemic control (HbA1c 6.6%), semaglutide was initiated to optimize metabolic status and promote weight loss. After 6 months of treatment, both BMI and HbA1c had improved, while NSS, NDS, and VPT remained unchanged. Repeat CCM demonstrated improvement across all corneal nerve parameters. This case suggests that semaglutide-associated metabolic improvement, or a direct semaglutide effect on small fiber integrity, may contribute to early regeneration of small nerve fibers in DPN. Further studies are urgently needed to determine whether semaglutide has a therapeutic role in the management of DPN.",
-      "journal": "Hormones (Athens, Greece)",
-      "authors": "Anastasiou Ioanna A, Tentolouris Nikolaos, Rebelos Eleni",
-      "pub_date": "2026-09-11",
-      "doi": "10.1007/s42000-026-00826-8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726191/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "b72220b45f540f2d13d8355b5ebcc9b7647f2595a6f3c5597486c6e9a182f864",
-      "fetched_at_utc": "2026-09-11T23:13:10Z",
-      "updated_at_utc": "2026-09-11T23:13:10Z",
-      "summary_ja": "T2Dおよび肥満（BMI 35.2 kg/m²）を伴う57歳男性のDPN症例報告および文献レビュー。血糖管理は十分（HbA1c 6.6%）であったが、代謝状態の最適化と減量目的でセマグルチドを開始。6ヶ月後、BMIとHbA1cは改善したが、NSS・NDS・VPTは変化なし。再検査の角膜共焦点顕微鏡（CCM）では、すべての角膜神経パラメータで改善が認められた。",
-      "key_takeaway_ja": "セマグルチド治療に伴う代謝改善、またはセマグルチドの末梢神経線維への直接作用が、DPNにおける小神経線維の早期再生に寄与する可能性がある。",
-      "why_matters_ja": "DPNはT2Dで最も一般的な慢性合併症であり、糖尿病足発症の主要な危険因子である。現在までに、神経障害を予防・停止・逆転できる薬物療法は示されていない。本症例はセマグルチドがDPN管理に治療的役割を果たす可能性を示唆している。",
-      "study_type_ja": "症例報告および文献レビュー",
-      "endpoints_ja": "BMI、HbA1c、神経症状スコア（NSS）、神経障害スコア（NDS）、振動覚閾値（VPT）、角膜共焦点顕微鏡（CCM）による角膜神経パラメータ",
-      "endpoint_results_ja": "ベースライン：BMI 35.2 kg/m²、HbA1c 6.6%、NSS 3/9、NDS 3/10、VPT 22 V（両側）。6ヶ月後：BMI改善（具体値記載なし）、HbA1c改善（具体値記載なし）、NSS変化なし、NDS変化なし、VPT変化なし、CCMではすべての角膜神経パラメータで改善（具体値記載なし）。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-11T23:13:45Z"
-    },
-    {
-      "pmid": "42723263",
-      "title": "The SGLT2i Treatment Gap in UK Primary Care: A Cross-Sectional RWE Study of Prescribing in Clinical Practice.",
-      "abstract": "AIMS: Sodium-glucose co-transporter 2 inhibitors (SGLT2i) improve cardiovascular and renal outcomes in type 2 diabetes mellitus (T2DM), chronic kidney disease (CKD) and chronic heart failure (CHF). Despite clinical guideline recommendations, SGLT2i uptake in UK primary care remains suboptimal and information on utilisation is limited. This study aims to quantify and describe the UK primary care population with T2DM, CKD and/or CHF who are eligible for but not currently prescribed an SGLT2i.\nMATERIALS AND METHODS: A cross-sectional study was conducted using routinely collected electronic health records from the Optimum Patient Care Research Database. Adults aged ≥ 18 years on 1 July 2024 were included. Descriptive analyses estimated disease prevalence (defined by morbidity-coded diagnosis), SGLT2i eligibility (defined using NICE clinical guidelines) and current SGLT2i treatment (defined as any SGLT2i prescription in the previous 2 months) by conditions and selected characteristics. Main results are based on diagnosed disease; in a separate CKD sensitivity analysis, indicative CKD (without a morbidity code) was defined using kidney function test results.\nRESULTS: In the study population of 9.8 million adults, prevalence was 6.52% for T2DM, 4.95% for diagnosed CKD (6.07% including indicative CKD) and 1.40% for CHF. Among all SGLT2i-eligible individuals, 17.5% were currently prescribed an SGLT2i. Current SGLT2i treatment was lowest in CKD-only patients (3.8% treated among eligible) and highest in those meeting eligibility criteria for all three indications (32.9% treated). SGLT2i treatment was lower in women and older adults.\nCONCLUSIONS: SGLT2i therapy is significantly underutilised in UK primary care, particularly for CKD. Equitable implementation of SGLT2i clinical guidelines is vital to improve cardio-renal-metabolic care.",
-      "journal": "Diabetes, obesity & metabolism",
-      "authors": "Stefanska Chelsea, Chung Ryan, Ramjaun Salman, Jin Danyao, Doherty Ciara, McCafferty Kieran, Seidu Samuel",
-      "pub_date": "2026-09-10",
-      "doi": "10.1111/dom.71298",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42723263/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "9adff12be619172ed6f3e2de33f0f68594cd178e679df0b55f76341e9d9a6a48",
-      "fetched_at_utc": "2026-09-11T23:13:10Z",
-      "updated_at_utc": "2026-09-11T23:13:10Z",
-      "summary_ja": "英国プライマリケアにおけるSGLT2阻害薬（SGLT2i）の処方ギャップを定量化・記述することを目的とした横断的RWE研究。Optimum Patient Care Research Databaseの電子健康記録を用い、2024年7月1日時点で18歳以上の成人を対象に、T2DM・CKD・CHFの有病率、NICEガイドラインに基づくSGLT2i適応該当率、および現在のSGLT2i処方率を記述的に分析した。",
-      "key_takeaway_ja": "英国プライマリケアにおいてSGLT2iは著しく未活用されており、特にCKD単独患者では適応該当者のうち3.8%のみが処方されていた。3疾患すべてに該当する患者でも32.9%にとどまり、ガイドラインの公平な実施が課題である。",
-      "why_matters_ja": "SGLT2iは心血管・腎予後改善のエビデンスがあり、ガイドラインで推奨されているにもかかわらず、実臨床での処方率が低いことを大規模RWEデータで定量的に示した。臨床開発・ヘルスケア政策の観点から、未処方の原因解明や介入戦略の設計に重要な基盤データとなる。",
-      "study_type_ja": "横断的RWE研究（電子健康記録を用いた記述的分析）",
-      "endpoints_ja": "T2DM・CKD・CHFの有病率、SGLT2i適応該当率（NICEガイドライン準拠）、現在のSGLT2i処方率（過去2ヶ月間のSGLT2i処方あり）",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-11T23:14:04Z"
-    },
-    {
-      "pmid": "42722807",
-      "title": "Carbon Emission Impact of Semaglutide in People with Obesity in the UK Using a Disease Modelling Approach.",
-      "abstract": "OBJECTIVE: We aimed to assess the carbon footprint and clinical outcomes of once-weekly semaglutide in people with overweight or obesity in the UK using a disease modelling approach.\nMETHODS: A per-patient carbon footprint analysis was conducted to estimate emissions related to obesity management with semaglutide 2.4 mg as an add on to diet and exercise versus diet and exercise alone. A Markov state-transition cohort model (Core Obesity Model) was used for the analysis. Data were sourced from STEP and SELECT trials across three populations: (1) body mass index [BMI] ≥ 30 or ≥ 27 with one or more obesity-related complications (BMI30+/BMI27+C), (2) BMI ≥ 27 with one or more complications, including type 2 diabetes mellitus (BMI27+C), and (3) BMI ≥ 27 with established cardiovascular disease (BMI27+CVD). Carbon emissions were estimated using resource-based and cost-based methods. Key outcomes included life-years, quality-adjusted life-years, and incremental carbon footprint effectiveness ratio.\nRESULTS: In the BMI30+/BMI27+C and BMI27+C populations, semaglutide was dominant, yielding 0.30 and 0.25 additional life-years, 0.51 and 0.46 additional quality-adjusted life-years, while reducing lifetime carbon emissions by 1.8% (9850 vs 10,030 kg of CO2 equivalent [CO2e]) and 1.9% (9792 vs 9983 kg CO2e), respectively. Manufacturing emissions of semaglutide were offset by reductions in carbon emissions resulting from fewer obesity-related complications. In the BMI27+CVD population, semaglutide improved life-years by 0.56 and quality-adjusted life-years by 0.59, but emissions increased (14,700 vs 14,444 kg CO2e) because of longer survival and increased monitoring. Scenario and sensitivity analyses confirmed the robustness of the results.\nCONCLUSIONS: Semaglutide offers both clinical and environmental benefits in obesity management, supporting the UK's net-zero emissions goals.",
-      "journal": "PharmacoEconomics",
-      "authors": "Lund Niels, Lübker Christopher, Rasche Andreas, Taylor Matthew, Xu Weiwei, Taneja Loveleen, Shukla Suramya, Olivieri Anamaria-Vera",
-      "pub_date": "2026-09-10",
-      "doi": "10.1007/s40273-026-01659-4",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722807/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "c10c87a756b4ec581e5e4185897825a92f1f26bd6ddb9b59be0aeb2f219ad3de",
-      "fetched_at_utc": "2026-09-11T23:13:10Z",
-      "updated_at_utc": "2026-09-11T23:13:10Z",
-      "summary_ja": "英国における肥満症患者を対象に、週1回セマグルチド2.4 mg（食事・運動療法併用）と食事・運動療法単独の炭素フットプリントと臨床アウトカムを、Markov状態遷移コホートモデル（Core Obesity Model）を用いて評価したモデリング研究。STEP試験とSELECT試験のデータを3つの母集団（BMI30+/BMI27+C、BMI27+C、BMI27+CVD）に適用し、リソースベース法とコストベース法で炭素排出量を推定した。",
-      "key_takeaway_ja": "BMI30+/BMI27+CおよびBMI27+C母集団ではセマグルチドが優位（dominant）であり、寿命・QALYの改善とともに生涯炭素排出量を1.8〜1.9%削減した。一方、BMI27+CVD母集団では生存延長とモニタリング増加により排出量が増加した。",
-      "why_matters_ja": "肥満治療におけるセマグルチドの臨床的効果と環境的インパクトを同時に評価し、英国のネットゼロ排出目標との整合性を示した点で、臨床開発・薬物経済学・環境持続可能性の交差点において重要な知見を提供する。",
-      "study_type_ja": "モデリング研究（Markov状態遷移コホートモデル）",
-      "endpoints_ja": "寿命（life-years）、QALY（quality-adjusted life-years）、生涯炭素排出量（kg CO2e）、増分炭素フットプリント効果比（incremental carbon footprint effectiveness ratio）",
-      "endpoint_results_ja": "BMI30+/BMI27+C：寿命+0.30年、QALY+0.51、炭素排出量 9850 vs 10,030 kg CO2e（1.8%削減）。BMI27+C：寿命+0.25年、QALY+0.46、炭素排出量 9792 vs 9983 kg CO2e（1.9%削減）。BMI27+CVD：寿命+0.56年、QALY+0.59、炭素排出量 14,700 vs 14,444 kg CO2e（増加）。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-11T23:14:23Z"
-    },
-    {
-      "pmid": "42722006",
-      "title": "Increased Energy Expenditure through Intermittent Cold Exposure Does Not Enhance Tirzepatide Induced Weight-loss in Obese Mice.",
-      "abstract": "Obesity results from an imbalance between energy intake and energy expenditure. While pharmacological approaches such as tirzepatide, a dual GIP/GLP-1 receptor agonist, reduce food intake and body weight, enhancing energy expenditure via intermittent cold exposure-induced activation of thermogenesis may provide complementary benefits. Intermittent cold exposure increases energy expenditure and improves glucose homeostasis independent of weight loss. The objective of this study was to investigate the individual and combined effects of tirzepatide and intermittent cold exposure (ICE) on weight loss and glucose homeostasis. We hypothesized that combining ICE with tirzepatide would lead to greater weight loss and improvements in glucose homeostasis than tirzepatide alone. Male and female C57BL/6J mice were fed a high fat diet for 8 weeks and then treated with tirzepatide (10 nmol/kg) or vehicle and exposed, or not, to ICE (4°C, 1 h/day, 5 days/week) for 3 weeks. Body weight/composition, energy expenditure, food intake and glucose homeostasis were assessed. Tirzepatide reduced body weight, food intake, and adiposity in both sexes while ICE, acutely increased energy expenditure and improved glucose homeostasis independent of changes in body weight. There were no additive effects of combining tirzepatide and ICE. Our findings highlight that combining tirzepatide-mediated reduction in energy intake with ICE-induced activation of thermogenesis yields complementary, but not necessarily additive improvements in metabolic health.",
-      "journal": "American journal of physiology. Regulatory, integrative and comparative physiology",
-      "authors": "Bellucci Annalaura, Alfares Hadil, Gale Clara, Akcan Michael, Waters Ben, Eisner Katelyn, Baranowski Bradley J, Jeromson Stewart",
-      "pub_date": "2026-09-10",
-      "doi": "10.1152/ajpregu.00220.2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722006/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "69b3919b17d01c9db668cbb66f3e699794ec84b3b96dec4970523e899ae3417d",
-      "fetched_at_utc": "2026-09-11T23:13:10Z",
-      "updated_at_utc": "2026-09-11T23:13:10Z",
-      "summary_ja": "肥満マウス（C57BL/6J、高脂肪食8週間）において、tirzepatide（10 nmol/kg）と間欠的寒冷曝露（ICE：4°C、1時間/日、週5日、3週間）の単独および併用効果について体重・体組成、エネルギー消費、食物摂取量、グルコース恒常性に及ぼす影響を評価した。Tirzepatideは両性で体重・食物摂取量・脂肪量を減少させ、ICEは体重変化に依存せずエネルギー消費を急性増加させグルコース恒常性を改善した。両者の併用による相加効果は認められなかった。",
-      "key_takeaway_ja": "Tirzepatideと間欠的寒冷曝露の併用は、tirzepatide単独投与に比べ体重減少の相加効果を示さず、両介入は代謝健康に対して補完的だが必ずしも相加的ではない改善をもたらす。",
-      "why_matters_ja": "薬物療法（GIP/GLP-1受容体作動薬）と生活習慣介入（寒冷曝露による熱産生促進）の併用が体重減少をさらに増強するかという臨床的に重要な問いに答えており、臨床試験デザインや患者への介入戦略の検討に示唆を与える。",
-      "study_type_ja": "前臨床動物実験（マウスモデル、多群比較介入試験）",
-      "endpoints_ja": "体重/体組成、エネルギー消費、食物摂取量、グルコース恒常性",
-      "endpoint_results_ja": "抄録に具体的な数値は記載されていない。定性的な結果として：tirzepatideは両性で体重・食物摂取量・脂肪量を減少、ICEは体重変化に依存せずエネルギー消費を急性増加させグルコース恒常性を改善、併用による相加効果は認められなかった。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-11T23:14:43Z"
     }
   ]
 }
