@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-03T23:45:54Z",
+  "generated_at_utc": "2026-10-04T23:56:09Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -72,6 +72,36 @@
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
     },
     {
+      "pmid": "42828450",
+      "title": "Glucagon-like peptide-1 receptor agonists in hidradenitis suppurativa: A nationwide cohort study.",
+      "abstract": "BACKGROUND: Hidradenitis suppurativa (HS) is associated with obesity, metabolic dysfunction and increased healthcare utilization. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated anti-inflammatory effects and reduction in HS symptoms, but real-world patterns of GLP-1RA use in HS remain limited.\nOBJECTIVES: To investigate GLP-1RA use and comorbidity burden among patients with HS compared to matched psoriasis patients and background controls, including changes in healthcare utilization and treatment patterns following GLP-1RA initiation.\nMETHODS: In this nationwide Danish register-based cohort study, adult patients with HS and age- and sex-matched patients with psoriasis and background controls were included from 1 January 2000 to 31 December 2022. Comorbidities were assessed at the date of HS diagnosis (index date) and at GLP-1RA initiation. Healthcare utilization, surgical procedures and medication use were examined during the 2 years before and after GLP-1RA initiation among patients with HS receiving continuous GLP-1RA treatment and matched HS non-users.\nRESULTS: A total of 12,581 patients with HS, 9824 patients with psoriasis, and 12,581 controls were included. During follow-up, 8.2% of patients with HS initiated GLP-1RA treatment, compared with 5.7% of psoriasis patients and 3.2% of controls. Mean time to GLP-1RA initiation was shorter among patients with HS (8.88 years) than psoriasis patients (10.1 years; p < 0.001) and controls (10.2 years; p < 0.001). Cardiometabolic and psychiatric comorbidities increased from index date to treatment initiation across all groups. Following GLP-1RA initiation, lower rates of surgical procedures and systemic medication use were observed.\nCONCLUSIONS: Patients with HS demonstrated earlier and more frequent use of GLP-1RA compared with psoriasis patients and controls, with decreased use of HS-specific treatments and surgical procedures following GLP-1RA initiation. Comparable declines were observed among matched non-initiators.",
+      "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "authors": "Nielsen Valdemar Wendelboe, Holgersen Nikolaj, Pedersen Nadja Højgaard, Brogaard Emma, Andersen Yuki M F, Egeberg Alexander, Thyssen Jacob P, Thomsen Simon Francis",
+      "pub_date": "2026-10-03",
+      "doi": "10.1111/jdv.70769",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828450/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "6e43dc44a33c4b1f1591d81a5612fcc0aed1e58ec8e160be25f427d7605d3d94",
+      "fetched_at_utc": "2026-10-04T23:56:09Z",
+      "updated_at_utc": "2026-10-04T23:56:09Z",
+      "summary_ja": "デンマーク全国レジスターに基づくコホート研究で、HS患者、年齢・性別マッチした乾癬患者、背景対照群におけるGLP-1RA使用パターンを比較した。2000年1月1日から2022年12月31日までの期間に、HS患者12,581例、乾癬患者9,824例、対照群12,581例を解析した。HS患者のGLP-1RA開始率は8.2%で、乾癬患者（5.7%）や対照群（3.2%）より高かった。GLP-1RA開始までの平均期間はHS患者で8.88年、乾癬患者で10.1年、対照群で10.2年であり、HS患者が有意に短かった（p<0.001）。GLP-1RA開始後、手術手技および全身薬使用率が低下したが、マッチした非開始群でも同様の低下が観察された。",
+      "key_takeaway_ja": "HS患者は乾癬患者や対照群より早期かつ頻回にGLP-1RAを使用し、開始後にHS特異的治療や手術手技の減少が見られたが、非開始群でも同程度の減少が認められたため、GLP-1RAに特異的な効果とは限らない可能性が示唆された。",
+      "why_matters_ja": "HSは肥満・代謝異常と関連し、GLP-1RAには抗炎症作用が報告されているが、HSにおける実世界でのGLP-1RA使用パターンに関する証拠は限られていた。本研究は全国規模のレジスターデータを用いて、HS患者のGLP-1RA使用の実態と治療パターンの変化を明らかにした点で意義がある。",
+      "study_type_ja": "全国レジスターに基づくコホート研究（観察研究）",
+      "endpoints_ja": "GLP-1RA開始率、GLP-1RA開始までの期間、合併症負荷（心代謝性・精神科）、医療利用、手術手技、全身薬使用",
+      "endpoint_results_ja": "GLP-1RA開始率：HS 8.2%、乾癬 5.7%、対照群 3.2%。GLP-1RA開始までの平均期間：HS 8.88年、乾癬 10.1年（p<0.001）、対照群 10.2年（p<0.001）。GLP-1RA開始後の手術手技および全身薬使用率：低下が観察されたが、具体的な数値は抄録に記載なし。非開始群での同様の低下：具体的な数値は抄録に記載なし。",
+      "sample_size_ja": "HS患者12,581例、乾癬患者9,824例、背景対照群12,581例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-04T23:56:37Z"
+    },
+    {
       "pmid": "42827168",
       "title": "Comorbid Cardiovascular-Liver Disease Disparities: Current Understanding and Future Directions.",
       "abstract": "PURPOSE OF REVIEW: Metabolic dysfunction-associated steatotic liver disease (MASLD) is a prevalent chronic liver disease and a multisystem cardiometabolic disorder. Cardiovascular disease (CVD) is a major cause of morbidity and mortality in this population. This review examines disparities in the recognition and management of coexisting cardiovascular and metabolic liver disease.\nRECENT FINDINGS: Shared metabolic and inflammatory pathways link liver disease with obesity, type 2 diabetes, hypertension, and CVD. Differences in measured disease prevalence across racial and ethnic groups must be interpreted separately from genetic susceptibility and in the context of structural inequities, diagnostic practices, and access to care. Socioeconomic disadvantage and sex- and gender-related barriers may further affect diagnosis and treatment. Resmetirom and semaglutide have expanded treatment options for selected adults with metabolic dysfunction-associated steatohepatitis (MASH), but unequal access to fibrosis assessment, insurance coverage, and longitudinal care may limit their benefits. An equity-centered cardio-hepatology framework should integrate early risk identification, stepwise noninvasive fibrosis assessment, individualized cardiovascular prevention, and access to indicated liver-directed therapies. Treatment and quality measures should reflect clinical eligibility rather than medication use alone. Inclusive research and coordinated long-term care are needed to evaluate whether these strategies narrow disparities.",
@@ -109,7 +139,16 @@
       "japan_relevant": true,
       "content_sha256": "e502f4bb9cf939b5d0b113e0d64fab6cdacb3218b9977e0ff0cbc275d3685fbc",
       "fetched_at_utc": "2026-10-03T23:45:54Z",
-      "updated_at_utc": "2026-10-03T23:45:54Z"
+      "updated_at_utc": "2026-10-03T23:45:54Z",
+      "summary_ja": "本レビューは、代謝機能異常関連脂肪性肝疾患（MASLD）と心血管疾患（CVD）の併存における認識・管理の格差を考察する。MASLDは多臓器系的心代謝性疾患であり、CVDはこの集団の主要な有病率・死亡率の原因である。共有される代謝・炎症経路が肝疾患と肥満、2型糖尿病、高血圧、CVDを関連付けている。人種・民族間の有病率の差は、遺伝的感受性とは別に、構造的な不平等、診断慣行、医療アクセスの文脈で解釈すべきである。社会的経済的劣位や性別・ジェンダー関連の障壁が診断・治療にさらに影響しうる。ResmetiromとsemaglutideがMASHの選択的成人における治療選択肢を拡大したが、線維化評価へのアクセスの不均等、保険適用、長期ケアがその恩恵を制限しうる。公平性重視の心臓-肝臓学フレームワークが提唱されている。",
+      "key_takeaway_ja": "MASLDとCVDの併存における格差は、構造的な不平等・診断慣行・医療アクセスの文脈で理解すべきであり、公平性重視の心臓-肝臓学フレームワーク（早期リスク同定、段階的非侵襲的線維化評価、個別化された心血管予防、肝指向治療へのアクセス）の統合が求められる。",
+      "why_matters_ja": "MASLDは高頻度の慢性肝疾患であり、CVDがこの集団の主要な有病率・死亡率の原因であるにもかかわらず、併存する心血管・代謝性肝疾患の認識と管理に格差が存在する。Resmetiromやsemaglutideといった新規治療選択肢が登場した今、アクセスの不均等が恩恵を制限する可能性があるため、公平性重視のアプローチが臨床的に重要である。",
+      "study_type_ja": "レビュー（Review）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-04T23:56:53Z"
     },
     {
       "pmid": "42826222",
@@ -267,7 +306,16 @@
       "japan_relevant": false,
       "content_sha256": "d7461223fbece42a7545e003e47fa5c5ecddb18d029bd4c9ef496558038778d4",
       "fetched_at_utc": "2026-10-03T00:26:22Z",
-      "updated_at_utc": "2026-10-03T00:26:22Z"
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "EudraVigilance（EV）データベースから取得したtirzepatideを含む個別症例安全性報告（ICSR）を用い、他のGLP-1 RAと比較して、治療効果不十分に関連するPreferred Term（PT）および薬剤使用関連問題の報告パターンを記述的解析と不均衡解析（ROR）により評価した後ろ向きファーマコビジランス研究。",
+      "key_takeaway_ja": "全データセットにおいて、tirzepatideはliraglutide（ROR 0.61）、dulaglutide（ROR 0.72）、exenatide（ROR 0.78）、semaglutide（ROR 0.81）と比較して「Drug ineffective」の報告オッズが低かった。一方、HP報告ではtirzepatideとsemaglutideの間に差は認められなかった。「Off-label use」ではtirzepatideはsemaglutideより報告オッズが低かった（ROR 0.52）が、「Off-label use device」ではsemaglutideより高かった（ROR 43.47、ただしCIが広く解釈に注意が必要）。",
+      "why_matters_ja": "tirzepatideは現在最も効果的な減量薬であり、その使用が急速に拡大している。臨床試験のエビデンスを補完する形で、実世界における治療効果不十分や薬剤使用関連問題の報告パターンを把握することは、臨床実践およびファーマコビジランス上重要である。",
+      "study_type_ja": "後ろ向きファーマコビジランス研究（記述的解析および不均衡解析）",
+      "endpoints_ja": "薬剤使用問題に関連する選択されたPreferred Term（PT）のReporting Odds Ratio（ROR）および95% CI。具体的には「Drug ineffective」「Off-label use」「Off-label use device」のPT。",
+      "endpoint_results_ja": "最も頻繁に報告されたPT：'Off-label use'（n=1521）、'Drug ineffective'（n=425）、'Off-label use device'（n=99）。全データセットで「Drug ineffective」：tirzepatide vs liraglutide ROR 0.61（95% CI 0.54–0.70）、vs dulaglutide ROR 0.72（95% CI 0.63–0.82）、vs exenatide ROR 0.78（95% CI 0.67–0.92）、vs semaglutide ROR 0.81（95% CI 0.72–0.91）。HP報告ではtirzepatideとsemaglutideの間に差なし。「Off-label use」：tirzepatide vs semaglutide ROR 0.52（95% CI 0.49–0.55）。「Off-label use device」：tirzepatide vs semaglutide ROR 43.47（95% CI 16.00–118.13）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-04T23:57:22Z"
     },
     {
       "pmid": "42823075",
@@ -431,7 +479,16 @@
       "japan_relevant": false,
       "content_sha256": "b1e7c0094ffe2fd05ea96f133a32b1c32a983c20f43b569c9686fbfd9d1848a7",
       "fetched_at_utc": "2026-10-03T00:26:22Z",
-      "updated_at_utc": "2026-10-03T00:26:22Z"
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "本レビューは、糖尿病治療薬、特にSGLT2阻害薬（SGLT2i）とGLP-1受容体作動薬（GLP-1 RA）が血糖管理を超えて男性生殖機能に及ぼす可能性のある作用を批判的に総括したものである。実験的証拠は、代謝異常、酸化ストレス、炎症、アポトーシス、sertoli細胞代謝の障害が糖尿病・肥満関連の男性生殖機能不全に中心的な役割を果たすことを示唆している。SGLT2iとGLP-1 RAはこれらの経路を調節し、前臨床モデルにおいて精子パラメータの改善、睾丸構造の維持、酸化・炎症性損傷の軽減に寄与する可能性がある。臨床証拠は依然として限定的で部分的に矛盾しており、これらの所見がヒトにおいて臨床的に有意な生殖的利点に転換されるかは不明である。",
+      "key_takeaway_ja": "SGLT2iとGLP-1 RAは前臨床モデルにおいて精子パラメータの改善や睾丸構造の維持に寄与する可能性を示すが、ヒトにおける臨床的に有意な生殖的利点を示す証拠は依然として限定的であり、前向き臨床試験の必要性が提唱されている。",
+      "why_matters_ja": "糖尿病・肥満関連の男性生殖機能不全は公衆衛生上の重要な課題であり、既存の抗糖尿病薬が生殖機能に及ぼす副次的な効果の解明は、統合的なアンドロメタボリックアプローチによる患者管理に新たな視点を提供しうる。",
+      "study_type_ja": "レビュー（総説）",
+      "endpoints_ja": "精子パラメータ、睾丸構造、酸化ストレス、炎症性損傷、ステロイド生成、オートファジー、細胞エネルギー調節",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-04T23:57:48Z"
     },
     {
       "pmid": "42820639",
@@ -456,7 +513,16 @@
       "japan_relevant": false,
       "content_sha256": "6e1eb8da3e2fc1408aba1f84da9ffddaa1536d4f15827e88d5b925ae16a6bec3",
       "fetched_at_utc": "2026-10-03T00:26:22Z",
-      "updated_at_utc": "2026-10-03T00:26:22Z"
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "肥満を伴う2型糖尿病成人を対象とした多国籍・二重盲検・第III相無作為化試験（SYNCHRONIZE-2）。被験者を1:1:1の比率で、週1回皮下投与のsurvodutide 3.6 mg群、6.0 mg群、プラセボ群に無作為割り付けした。主要評価項目はベースラインから76週時点での体重変化率および体重減少率5%以上の達成率であった。752例（3.6 mg群250例、6.0 mg群251例、プラセボ群251例）が登録され、平均年齢55.7歳、平均BMI 36.5、男性49.3%であった。",
+      "key_takeaway_ja": "肥満を伴う2型糖尿病成人において、週1回3.6 mgまたは6.0 mgのsurvodutide（グルカゴン受容体-GLP-1受容体二重作動薬）は、プラセボと比較して統計的に有意に大きな体重減少をもたらした。",
+      "why_matters_ja": "2型糖尿病と肥満を併せ持つ患者において、体重管理は2型糖尿病に対する最も効果的な治療法である可能性がある。GLP-1受容体作動薬は強力な減量効果を持つが、グルカゴン受容体への追加作用によりさらなる代謝的利点が得られる可能性がある。",
+      "study_type_ja": "多国籍・二重盲検・第III相無作為化対照試験（RCT）",
+      "endpoints_ja": "主要評価項目：①ベースラインから76週時点での体重変化率（percent change in body weight）、②ベースラインから76週時点での体重減少率5%以上の達成率。二次評価項目（結果に言及）：ヘモグロビンA1c（HbA1c）の変化。",
+      "endpoint_results_ja": "体重変化率（76週、treatment-regimen estimand）：3.6 mg群 -8.2%（95% CI, -9.2〜-7.2）、6.0 mg群 -9.8%（95% CI, -10.8〜-8.8）、プラセボ群 -3.9%（95% CI, -4.9〜-2.9）。体重減少率5%以上の達成率：3.6 mg群 57.6%、6.0 mg群 64.5%、プラセボ群 35.1%（プラセボとの全比較でP<0.001）。HbA1c変化（ベースライン7.4%）：3.6 mg群 -0.9ポイント、6.0 mg群 -0.8ポイント、プラセボ群 -0.2ポイント。",
+      "sample_size_ja": "752例（3.6 mg群250例、6.0 mg群251例、プラセボ群251例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-04T23:58:17Z"
     },
     {
       "pmid": "42817877",
@@ -559,7 +625,16 @@
       "japan_relevant": false,
       "content_sha256": "97492c00dd1829725155cf09d7128c8c37028d22dc22fedf2e513c97b2e265c2",
       "fetched_at_utc": "2026-10-03T00:26:22Z",
-      "updated_at_utc": "2026-10-03T00:26:22Z"
+      "updated_at_utc": "2026-10-03T00:26:22Z",
+      "summary_ja": "肥満を有する35歳男性が、高用量GLP-1受容体作動薬（セマグルチド）の再開後数日に失神を呈して救急外来を受診した。画像検査で著明な胃拡張と下大静脈圧迫が認められ、低心拍出量ショックを発症した。嘔吐、鼻胃管挿入、静脈内輸液による胃減圧によりショックは改善した。",
+      "key_takeaway_ja": "GLP-1受容体作動薬使用中に原因不明の低血圧、ショック、失神を呈する患者では、薬剤の有害事象を鑑別に含めるべきである。また、GLP-1受容体作動薬の漸増的用量増量（gradual dose escalation）の重要性が示唆された。",
+      "why_matters_ja": "GLP-1受容体作動薬の最大用量開始により、著明な胃拡張を介した下大静脈圧迫と低心拍出量ショックを引き起こすという、これまでに報告例のない副作用の症例であり、臨床現場での薬剤性ショックの鑑別に重要な示唆を与える。",
+      "study_type_ja": "症例報告（単一症例）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "1例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-04T23:58:34Z"
     },
     {
       "pmid": "42815506",
@@ -930,7 +1005,16 @@
       "japan_relevant": false,
       "content_sha256": "3ffb3cec9ef67039cfbcf4c3d3572cb66449cb491e86c13544090d95a4a9e2b2",
       "fetched_at_utc": "2026-10-01T00:31:18Z",
-      "updated_at_utc": "2026-10-03T23:45:54Z"
+      "updated_at_utc": "2026-10-03T23:45:54Z",
+      "summary_ja": "TriNetX US Collaborative Networkを用いたエミュレート・ターゲット・トライアルにより、糖尿病を合併した肝移植受容者におけるGLP-1受容体作動薬（GLP-1 RA）とSGLT2阻害薬（SGLT2i）の肝臓・心血管・死亡率アウトカムを比較した。2015〜2024年に33,161例を同定し、プロパensity score matching後に564ペアを解析した。Cox比例ハザードモデルを用いて感染、移植片拒絶、肝硬変、心血管アウトカム、入院、死亡率のリスクを推定した。",
+      "key_takeaway_ja": "糖尿病を合併した肝移植受容者において、SGLT2i使用と比較してGLP-1 RA使用は虚血性心疾患、心不全、全死因死亡率のリスク低下と関連していた。肝硬変のリスク低下も観察されたが、統計的有意性は境界的であり、代替モデル間で一貫して有意ではなかった。",
+      "why_matters_ja": "肝移植受容者という特殊かつ脆弱な集団において、糖尿病治療の2つの主要な薬剤クラス（GLP-1 RAとSGLT2i）を直接比較した観察研究であり、この集団における薬剤選択の臨床判断に示唆を与える可能性がある。",
+      "study_type_ja": "エミュレート・ターゲット・トライアル（観察研究、プロパensity score matching、Cox比例ハザードモデル）",
+      "endpoints_ja": "感染、移植片拒絶、肝硬変、虚血性心疾患、心不全、肝不全、全死因入院、全死因死亡率",
+      "endpoint_results_ja": "肝硬変: HR 0.787 (95% CI 0.619-0.999)、虚血性心疾患: HR 0.721 (95% CI 0.582-0.892)、心不全: HR 0.502 (95% CI 0.388-0.650)、全死因死亡率: HR 0.622 (95% CI 0.433-0.894)、感染: 有意差なし、移植片拒絶: 有意差なし、肝不全: 有意差なし、全死因入院: 有意差なし",
+      "sample_size_ja": "同定例数33,161例、プロパensity score matching後564ペア（GLP-1 RA使用者564例 vs SGLT2i使用者564例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-05T00:00:11Z"
     },
     {
       "pmid": "42810438",
@@ -1685,7 +1769,16 @@
       "japan_relevant": false,
       "content_sha256": "38c9308a792d88e996fa49d4f328fe7cb73b637430f1bbe411a2f26a41b1c062",
       "fetched_at_utc": "2026-09-29T00:57:38Z",
-      "updated_at_utc": "2026-09-29T00:57:38Z"
+      "updated_at_utc": "2026-09-29T00:57:38Z",
+      "summary_ja": "インクレチン系注射製剤戦略とインスリン強化療法を比較した18件のRCTを含む系統的レビューおよびメタ解析。インクレチン系注射製剤はHbA1c低下、HbA1c目標達成率向上、低血糖（試験定義および重症）の減少、体重減少においてインスリン強化療法より優位であった。一方、消化管有害事象はインクレチン系でより頻発した。",
+      "key_takeaway_ja": "低血糖、体重増加、治療負担が優先される場合、インクレチン系注射製剤戦略はインスリン強化療法の好ましい代替手段であるが、効果は強化（intensification）と簡素化（simplification）の文脈で異なる。",
+      "why_matters_ja": "T2Dにおけるインスリン強化療法は血糖改善をもたらすが、レジメンの複雑化、体重増加、低血糖リスクの増加を伴う。インクレチン系注射製剤がこれらの負担を軽減しつつ血糖管理を維持できるかを示すことで、治療強化・簡素化の意思決定に直接的な根拠を提供する。",
+      "study_type_ja": "系統的レビューおよびメタ解析（対象：RCT 18件）",
+      "endpoints_ja": "主要アウトカム：HbA1c変化、試験定義低血糖。二次アウトカム：体重、HbA1c目標達成、重症低血糖、インスリン用量、消化管有害事象、有害事象による離脱。",
+      "endpoint_results_ja": "HbA1c変化：MD -0.19%（95% CI: -0.34 to -0.05, P = 0.01）。HbA1c目標達成：RR 1.27（95% CI: 1.05 to 1.54, P = 0.01）。試験定義低血糖：RR 0.48（95% CI: 0.35 to 0.66, P = 0.00001）。重症低血糖：RR 0.32（95% CI: 0.19 to 0.51, P = 0.00001）。体重：MD -4.65 kg（95% CI: -5.85 to -3.44, P = 0.00001）。消化管有害事象：インクレチン系でより頻発（具体的数値は記載なし）。インスリン用量：抄録に記載なし。有害事象による離脱：抄録に記載なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-05T00:01:57Z"
     },
     {
       "pmid": "42800900",
@@ -1719,7 +1812,7 @@
     },
     {
       "pmid": "42800499",
-      "title": "Suitability of the ICH S1B(R1) Weight-of-Evidence Framework to Evaluate Glucagon-Like Protein-1 Receptor Agonist (GLP-1RA) Carcinogenicity Risk.",
+      "title": "Suitability of the ICH S1B(R1) weight-of-evidence framework to evaluate glucagon-like protein-1 receptor agonist (GLP-1RA) carcinogenicity risk.",
       "abstract": "Glucagon-like peptide 1 receptor agonists (GLP-1RAs) are an established treatment for management of type 2 diabetes mellitus (T2DM) and obesity. While these agents provide clinical benefits, chronic rodent bioassays have shown a consistent increase in thyroid C-cell tumors, raising regulatory concerns for human carcinogenicity risk and resulting in a boxed warning for medullary thyroid carcinoma (MTC). However, the human relevance of the rodent tumors is unclear due to species differences in GLP-1 receptor (GLP-1R) biology. Carcinogenicity testing of pharmaceuticals is described in ICH S1 guidelines. ICH S1B(R1) outlines experimental approaches to carcinogenicity evaluation including a weight-of-evidence (WoE) framework to determine whether long-term rat carcinogenicity studies add value to human cancer risk assessments. This manuscript applies that framework across seven approved GLP-1RAs: lixisenatide, exenatide, liraglutide, dulaglutide, semaglutide, tirzepatide, and albiglutide, to evaluate the relevance of rodent thyroid tumors and the utility of 2-year bioassays for this drug class. Across all six WoE domains, the evidence supports concluding that GLP1-RAs are tumorigenic in rats via a known human-irrelevant mechanism. Thus, within the S1B(R1) WoE framework, future carcinogenicity testing in rats is unlikely to provide additional value for regulatory decision-making for this class of pharmaceuticals.",
       "journal": "Regulatory toxicology and pharmacology : RTP",
       "authors": "Roach Katherine A, Khazaee Manoochehr, Mohar Isaac, Boon Denali, Cronin Brigitte, Gauthier Alex G",
@@ -1740,18 +1833,18 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "2b0849e2523bda92cf06b610fc075d8abb3103c8ccfbcc8dd9bb4be64b3163c6",
+      "content_sha256": "8993528973d85769b286dd66f7d901510370e9021067a1f1a8d1ecf596f11614",
       "fetched_at_utc": "2026-09-27T23:47:37Z",
-      "updated_at_utc": "2026-09-27T23:47:37Z",
-      "summary_ja": "本論文は、ICH S1B(R1)のweight-of-evidence（WoE）フレームワークを7つの承認済みGLP-1RA（リクセナチド、エクセナチド、リラグルチド、デュラグルチド、セマグルチド、tirzepatide、アルビグルチド）に適用し、ラット甲状腺C細胞腫瘍のヒト関連性及び2年バイオアッセイの有用性を評価した。",
-      "key_takeaway_ja": "6つのWoEドメインすべてにおいて、GLP-1RAは既知のヒト非関連メカニズムを介してラットで腫瘍原性であるという結論が支持され、この薬剤クラスに対する今後のラット発がん性試験は規制上の意思決定に追加的な価値を提供 unlikely と判断された。",
-      "why_matters_ja": "GLP-1RAはラットでの甲状腺C細胞腫瘍増加に基づきMTCのboxed warningを有するが、ヒトへの関連性は不明確である。本分析は、この薬剤クラスに対する今後のラット発がん性試験の免除を規制フレームワークの観点から裏付ける根拠を提供する。",
-      "study_type_ja": "規制毒性学レビュー（既存データに対するWoEフレームワークの適用分析）",
-      "endpoints_ja": "ICH S1B(R1) WoEフレームワークの6ドメインに基づくGLP-1RAのラット甲状腺腫瘍のヒト関連性評価、及び2年ラット発がん性バイオアッセイの規制上の有用性判定",
+      "updated_at_utc": "2026-10-04T23:56:09Z",
+      "summary_ja": "本論文は、ICH S1B(R1)のweight-of-evidence（WoE）フレームワークを7つの承認済みGLP-1受容体作動薬（リクセナチド、エクセナチド、リラグルチド、デュラグルチド、セマグルチド、tirzepatide、アルビグルチド）に適用し、ラット甲状腺C細胞腫瘍のヒト関連性及び2年間の発がん性試験の有用性を評価した。",
+      "key_takeaway_ja": "6つのWoEドメインすべてにおいて、GLP-1受容体作動薬はヒトに関連しない既知の機構によりラットで腫瘍原性であるという結論が支持され、この薬剤クラスに対する今後のラット発がん性試験は規制上の意思決定に追加的な価値を提供 unlikely と判断された。",
+      "why_matters_ja": "GLP-1受容体作動薬はラット長期発がん性試験における甲状腺C細胞腫瘍の増加に基づき、髄様甲状腺癌（MTC）のboxed warningを有しているが、種差によるGLP-1受容体生物学の違いからヒトへの関連性は不明確である。本分析は、この薬剤クラスにおける長期ラット発がん性試験の必要性をWoEフレームワークに基づき評価し、規制効率性及び開発期間に示唆を与える。",
+      "study_type_ja": "規制科学・フレームワーク適用レビュー（臨床試験ではない）",
+      "endpoints_ja": "ICH S1B(R1) WoEフレームワークの6ドメインに基づくラット甲状腺C細胞腫瘍のヒト関連性評価、及び2年間発がん性試験の規制上の有用性",
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-27T23:48:51Z"
+      "summary_generated_at_utc": "2026-10-05T00:02:52Z"
     },
     {
       "pmid": "42799976",
@@ -1913,7 +2006,16 @@
       "japan_relevant": false,
       "content_sha256": "8c53eba3c3b214157969448eed52c12f23829e8d07ca7191f2b6ec7867800309",
       "fetched_at_utc": "2026-09-30T00:22:44Z",
-      "updated_at_utc": "2026-09-30T00:22:44Z"
+      "updated_at_utc": "2026-09-30T00:22:44Z",
+      "summary_ja": "肥満または過体重かつ少なくとも1つの肥満関連合併症を有する成人において、tirzepatideのリアルワールド効果（RWE）を評価した24週間の後方視的観察研究。122名の成人（女性80%、平均年齢44±15歳、糖尿病なし）が、標準化された低炭水化物食事と個別化された身体活動と組み合わせてtirzepatideを投与された。起始用量は2.5 mg/週で、4週間後に5 mgに増量し、その後の用量調整は個別化された。24週後、体重、BMI、腹囲、体脂肪量、血糖コントロール、インスリン感受性が有意に改善し、骨格筋量は維持された。",
+      "key_takeaway_ja": "24週間のtirzepatide治療により、体重（-16%）、BMI、体脂肪量が有意に減少し、骨格筋量は維持された。また、血糖コントロールとインスリン感受性も改善した。本リアルワールドコホートでの24週間の体重減少（-16%）は、SURMOUNT-1試験の72週間後の体重減少と同等であった。",
+      "why_matters_ja": "肥満は心代謝機能不全を引き起こし心血管リスクを増大させるが、本リアルワールド研究では、tirzepatideを標準化された低炭水化物食事と個別化された身体活動と組み合わせた包括的な臨床アプローチにより、臨床試験で観察されたものよりも有益な結果が得られる可能性が示唆された。24週でSURMOUNT-1試験の72週相当の体重減少を達成した点は、リアルワールド設定における治療効果の臨床的意義を示している。",
+      "study_type_ja": "後方視的観察研究（リアルワールド効果研究）",
+      "endpoints_ja": "体重、BMI、腹囲、身長対腹囲比、体脂肪量（FM）、除脂肪量、骨格筋量、HbA1c、空腹時血糖、空腹時インスリン、HOMA-IR",
+      "endpoint_results_ja": "体重：95±20 kg → 80±22 kg（p<0.001）；BMI：35±6 kg/m² → 29±7 kg/m²（p<0.001）；腹囲：109±16 cm → 92±12 cm（p<0.001）；身長対腹囲比：0.66±0.1 → 0.56±0.1（p<0.001）；体脂肪量：35%減少（p<0.001）；除脂肪量：5%減少（p<0.001）；骨格筋量：維持（p=ns）；HbA1c：5.5±0.4% → 5.2±0.1%（p=0.007）；空腹時血糖：93±12 mg/dL → 84±9 mg/dL（p<0.001）；空腹時インスリン：17±15 μIU/mL → 12±9 μIU/mL（p=0.002）；HOMA-IR：4.2±4.7 → 2.5±2.1（p=0.001）；体重減少率：-16%",
+      "sample_size_ja": "122名（女性80%、平均年齢44±15歳、糖尿病なし）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-05T00:03:24Z"
     },
     {
       "pmid": "42799419",
@@ -5116,6 +5218,36 @@
       "content_sha256": "ba3a53e485169ee2841997e3987516eaac536868c4c7999cf888e8374ac8595a",
       "fetched_at_utc": "2026-09-16T23:37:55Z",
       "updated_at_utc": "2026-09-16T23:37:55Z"
+    },
+    {
+      "pmid": "42827671",
+      "title": "Comment on \"Precision-guided heart failure interventions: The expanding role of advanced cardiac imaging and artificial intelligence\".",
+      "abstract": "",
+      "journal": "American heart journal plus : cardiology research and practice",
+      "authors": "Selvapriya B, Deepak Kumar B N",
+      "pub_date": "2026-09-15",
+      "doi": "10.1016/j.ahjo.2026.100894",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42827671/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5a948144c41f16598a1ffcac7e203b20dfe25e01966d1dd47947a2177b036639",
+      "fetched_at_utc": "2026-10-04T23:56:09Z",
+      "updated_at_utc": "2026-10-04T23:56:09Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-04T23:56:09Z"
     },
     {
       "pmid": "42812212",
@@ -8979,6 +9111,32 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-04T23:04:09Z"
+    },
+    {
+      "pmid": "42829595",
+      "title": "Impact of Glucagon-Like Peptide-1 Receptor Agonists on Mental Health: A Systematic Review of Psychiatric Safety and Antidepressant Potential.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly used for type 2 diabetes mellitus (T2DM) and obesity, but concerns about their mental health effects have been raised. Early safety reports linked them to suicidal thoughts and worsening depression; however, evidence remained mixed and unclear. A systematic search was conducted across three databases for studies published between 2021 and May 2026. Out of 617 records identified, 11 studies were finally included after quality checks using appropriate appraisal tools based on study design. This review was not prospectively registered. Data from over 4.9 million patients across eleven primary studies showed that GLP-1RAs did not increase psychiatric risk overall. Ten out of eleven primary studies confirmed either safety or protective psychiatric effects. Increased psychiatric risk was seen in one obesity-specific study; this may partly reflect surveillance or detection bias, though this was not directly tested. Only one of the 11 included studies directly measured mood using validated questionnaires and found that semaglutide was associated with lower (better) depression and anxiety scores. GLP-1 receptor agonists appear to maintain a safe neuropsychiatric profile, with an emerging signal that mood may benefit, currently limited to a single scale-based study among those formally included; most existing evidence remains diagnostic-code-based rather than scale-based. For T2DM patients with stable mood disorders, there is no justification for withholding these medications. For weight management, clinicians may consider baseline mental health screening before starting treatment. Future research must use validated continuous mood rating tools rather than administrative diagnostic codes to properly measure psychological benefits.",
+      "journal": "Cureus",
+      "authors": "Quadir Aisha, Devi Roshna, Jad Allah Bader, Haider Abbas, Shaikh Sabah Shakeel, Botsa Kalyanram N",
+      "pub_date": "2026-09-03",
+      "doi": "10.7759/cureus.115703",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829595/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "69763ff5685f274c9c843f70b22d764c6e700f673a752091cbc9ae80d9ce5ece",
+      "fetched_at_utc": "2026-10-04T23:56:09Z",
+      "updated_at_utc": "2026-10-04T23:56:09Z"
     },
     {
       "pmid": "42757217",
@@ -18621,6 +18779,36 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
       "summary_generated_at_utc": "2026-09-14T23:51:11Z"
+    },
+    {
+      "pmid": "42828252",
+      "title": "Incretin therapy prescription in a high cardiovascular risk population: Insights from a cardiology-based cardiometabolic program.",
+      "abstract": "",
+      "journal": "American journal of preventive cardiology",
+      "authors": "Patel Arpan, Trivedi Lakshya, Prasad Rachna, Avennati Eleanora, Alexander Steven, Nguyen Vu, Kurian Thomas, Satish Priyanka",
+      "pub_date": "2026-06-06",
+      "doi": "10.1016/j.ajpc.2026.101699",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828252/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "e6ecd85d0232375f5ed3cae2b1b7da28f1fecc8f56351d232aafa8f1e7660bec",
+      "fetched_at_utc": "2026-10-04T23:56:09Z",
+      "updated_at_utc": "2026-10-04T23:56:09Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-04T23:56:09Z"
     },
     {
       "pmid": "42615893",
