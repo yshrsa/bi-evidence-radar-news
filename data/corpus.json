@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-06T01:44:23Z",
+  "generated_at_utc": "2026-10-07T00:38:39Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,374 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42837145",
+      "title": "Medicaid's GLP-1 Coverage Gap: A Familiar and Correctable Policy Failure.",
+      "abstract": "",
+      "journal": "Medical care",
+      "authors": "Ayyappan Pranav, Balkrishnan Rajesh",
+      "pub_date": "2026-10-06",
+      "doi": "10.1097/MLR.0000000000002382",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837145/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "58ecab98642a95c7346d5888612aebeb7dc9ecbeca7998c93e5ffe42c1f74a52",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-07T00:38:39Z"
+    },
+    {
+      "pmid": "42837024",
+      "title": "GLP-1 receptor agonists for obstructive sleep apnea: a meta-analysis of randomized controlled trials.",
+      "abstract": "PURPOSE: Weight reduction is recommended in all overweight and obese patients with obstructive sleep apnea (OSA). Glucagon-like peptide-1 (GLP-1) receptor agonists-based therapies have demonstrated clinical benefits in reducing weight and could potentially improve OSA outcomes. We aim to analyze the efficacy and safety of GLP-1 receptor agonists-based therapies in patients with moderate-to-severe OSA.\nMETHODS: We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) that compared GLP-1 receptor agonists-based therapies versus control in adults with moderate-to-severe OSA. We systematically searched electronic databases and registries up to February 10, 2025. Outcomes assessed included apnea-hypopnea index (AHI), body weight, oxygen desaturation index (ODI), minimum oxygen saturation, systolic blood pressure (SBP), diastolic blood pressure (DBP), and adverse events.\nRESULTS: A total of 6 RCTs involving 1,069 participants were included, four evaluating liraglutide and two tirzepatide. Compared with control, GLP-1 receptor agonist-based therapies reduced AHI by - 9.99 events/hour (95% CI, - 16.47 to - 3.50; p < 0.01; I2 = 87%) and body weight by - 9.68 kg (95% CI, - 15.84 to - 3.51; p < 0.01; I2 = 98%). These therapies also reduced SBP by -4.77 mmHg (95% CI, -7.04 to -2.51; p < 0.01), and DBP by -1.41 mmHg (95% CI, -2.71 to -0.11; p = 0.03). No significant differences were observed in ODI or minimum oxygen saturation. GLP-1 receptor agonists-based therapies did not increase the risk of adverse events.\nCONCLUSION: GLP-1 receptor agonist-based therapies reduced AHI and body weight in the populations studied. Substantial heterogeneity limits interpretation of the pooled effect magnitude. These findings support their potential role within comprehensive OSA management but do not establish them as substitutes for CPAP.\nREGISTRY: International Prospective Register of Systematic Reviews; No.: CRD42024564018; URL: https://www.crd.york.ac.uk/prospero/ .",
+      "journal": "Sleep & breathing = Schlaf & Atmung",
+      "authors": "Carvalhal Giulia, Mora Maria Meritxell Roca, Peralta-Jiménez Gonzalo Alberto, Ayasa Laith, Barrera Vivian, Advani Kavita, Aljazeeri Jafar",
+      "pub_date": "2026-10-06",
+      "doi": "10.1007/s11325-026-03826-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837024/",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Sleep Apnea, Obstructive",
+        "Randomized Controlled Trials as Topic",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Tirzepatide",
+        "Liraglutide"
+      ],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "e08f5ba330770c172bc7bf36e268d450a2607eb698fc932ee27a69422e0ba0e8",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z",
+      "summary_ja": "中等症〜重症OSAの成人を対象に、GLP-1受容体作動薬（リラグルチド4試験、tirzepatide 2試験）と対照を比較した6件のRCT（被験者1,069名）を含む系統的レビューおよびメタ解析。AHI、体重、ODI、最低酸素飽和度、収縮期血圧、拡張期血圧、有害事象を評価した。",
+      "key_takeaway_ja": "GLP-1受容体作動薬はAHIと体重を有意に減少させたが、高い異質性（AHI: I²=87%, 体重: I²=98%）により pooled effect の解釈には限界がある。CPAPの代替とはならないが、OSAの包括的治療における潜在的役割を支持する。",
+      "why_matters_ja": "過体重・肥満のOSA患者には減量が推奨されており、GLP-1受容体作動薬は減量効果を示しているため、OSAの転帰改善に寄与する可能性がある。",
+      "study_type_ja": "メタ解析（系統的レビュー）",
+      "endpoints_ja": "AHI（無呼吸低呼吸指数）、体重、ODI（酸素脱飽和指数）、最低酸素飽和度、収縮期血圧（SBP）、拡張期血圧（DBP）、有害事象",
+      "endpoint_results_ja": "AHI: -9.99 events/hour（95% CI, -16.47 to -3.50; p < 0.01; I² = 87%）；体重: -9.68 kg（95% CI, -15.84 to -3.51; p < 0.01; I² = 98%）；SBP: -4.77 mmHg（95% CI, -7.04 to -2.51; p < 0.01）；DBP: -1.41 mmHg（95% CI, -2.71 to -0.11; p = 0.03）；ODI: 有意差なし；最低酸素飽和度: 有意差なし；有害事象: リスク増加なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-07T00:39:09Z"
+    },
+    {
+      "pmid": "42836768",
+      "title": "Association between frailty status and eGFR slope change after initiation of finerenone in chronic kidney disease.",
+      "abstract": "",
+      "journal": "Journal of nephrology",
+      "authors": "Mori Daisuke, Tamai Shinjiro, Nomi Hiroki, Nagatoya Katsuyuki, Yamauchi Atsushi",
+      "pub_date": "2026-10-06",
+      "doi": "10.1093/joneph/aajag190",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42836768/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "44471a731b4bb957cea5f87971904f540abfe2f6a1ddfb04cb560eac8e0b7ee5",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-07T00:38:39Z"
+    },
+    {
+      "pmid": "42834642",
+      "title": "Kidney function decline, heart failure hospitalization, and the effect of empagliflozin in heart failure: an EMPEROR-pooled analysis.",
+      "abstract": "BACKGROUND: Kidney function decline in heart failure (HF) may accelerate during periods surrounding HF-related events, while sodium-glucose cotransporter 2 inhibitors slow kidney function decline. However, the temporal relationship between kidney function changes, HF-related events, and treatment effects has not been well characterized.\nAIMS: We aimed to explore kidney function trajectories around HF-related events and to assess whether empagliflozin modifies these changes.\nMETHODS AND RESULTS: In a pooled analysis of the EMPEROR-Reduced and EMPEROR-Preserved trials, we examined longitudinal changes in estimated glomerular filtration rate (eGFR) before and after HF-related events, defined as HF hospitalization or HF-related death. In the EMPEROR-Pooled analysis, HF-related events occurred in 12.7% of 9554 patients during a median follow-up of 20.9 months (14.7-28.6). Patients who experienced HF-related events had a steeper eGFR decline during the 12 months before the event than those without HF-related events: average -5.01 ml/min/1.73 m2/year vs -1.93 ml/min/1.73 m2/year; P < .001. During the 12 months after HF-related events, eGFR decline persisted at an average rate of -4.73 ml/min/1.73 m2/year. These trajectories were not materially altered after adjustment for concurrent NYHA class or natriuretic peptide levels. Compared with placebo, empagliflozin slowed eGFR decline in patients without events (between-group difference, 0.94 ml/min/1.73 m2/year) and before events (1.09 ml/min/1.73 m2/year). The post-event difference was smaller (0.29 ml/min/1.73 m2/year), without significant heterogeneity across periods (P > .10). Findings were consistent across trials and irrespective of prior HF hospitalization.\nCONCLUSION: Across the LVEF spectrum, kidney function decline accelerated before HF-related events and remained rapid thereafter. Empagliflozin attenuated eGFR decline without evidence of heterogeneity across periods.",
+      "journal": "European journal of heart failure",
+      "authors": "Kobayashi Masatake, Duarte Kevin, Baudry Guillaume, Ferreira João Pedro, Monzo Luca, Butler Javed, Zannad Faiez, Girerd Nicolas",
+      "pub_date": "2026-10-06",
+      "doi": "10.1093/ejhf/xuag295",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834642/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "d344ea708af906a702291d864ea801d953e1215f9e953deb080e28359b6bb0aa",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z",
+      "summary_ja": "EMPEROR-ReducedとEMPEROR-Preserved試験のプール解析において、心不全関連イベント（心不全入院または心不全関連死亡）前後のeGFRの経時的変化を評価し、エンパグリフロジンがこれらの変化を修正するかを検討した。心不全関連イベントを経験した患者は、イベント前の12ヶ月間でeGFRがより急峻に低下しており（平均-5.01 vs -1.93 ml/min/1.73 m2/年、P<.001）、イベント後も-4.73 ml/min/1.73 m2/年の低下が持続した。エンパグリフロジンはプラセボと比較して、イベントなし患者（0.94）、イベント前（1.09）、イベント後（0.29）のeGFR低下を抑制し、期間間の異質性は有意ではなかった（P>.10）。",
+      "key_takeaway_ja": "LVEFスペクトラム全体で、腎機能の低下は心不全関連イベント前に加速し、イベント後も速い低下が持続した。エンパグリフロジンは期間間の異質性の証拠なしにeGFR低下を抑制した。",
+      "why_matters_ja": "腎機能変化、心不全関連イベント、治療効果の間の時間的関係は十分に特徴づけられていなかった。本解析は、心不全患者における腎機能低下の時間的パターンとSGLT2阻害薬の腎保護効果の期間依存性を明らかにし、臨床的なモニタリングや治療判断に示唆を与える。",
+      "study_type_ja": "ランダム化比較試験（EMPEROR-ReducedおよびEMPEROR-Preserved）のプール解析（post-hoc解析）",
+      "endpoints_ja": "心不全関連イベント（心不全入院または心不全関連死亡）前後のeGFRの経時的変化（イベント前12ヶ月、イベント後12ヶ月のeGFR低下速度）、エンパグリフロジンとプラセボ間のeGFR低下速度の差",
+      "endpoint_results_ja": "心不全関連イベントは9554例中12.7%で発生（中央値フォローアップ20.9ヶ月、14.7-28.6）。イベント前12ヶ月のeGFR低下：イベントあり群 -5.01 ml/min/1.73 m2/年 vs イベントなし群 -1.93 ml/min/1.73 m2/年（P<.001）。イベント後12ヶ月のeGFR低下：平均 -4.73 ml/min/1.73 m2/年。エンパグリフロジン vs プラセボのeGFR低下速度差：イベントなし 0.94 ml/min/1.73 m2/年、イベント前 1.09 ml/min/1.73 m2/年、イベント後 0.29 ml/min/1.73 m2/年。期間間の異質性は有意でない（P>.10）。",
+      "sample_size_ja": "9554例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-07T00:40:32Z"
+    },
+    {
+      "pmid": "42832795",
+      "title": "Annals On Call - Tirzepatide Versus Intensified Conventional Care for Poorly Controlled Type 2 Diabetes.",
+      "abstract": "",
+      "journal": "Annals of internal medicine",
+      "authors": "Centor Robert M, Batch Bryan C",
+      "pub_date": "2026-10-06",
+      "doi": "10.7326/ANNALS-26-03906-OC",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42832795/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "06f375474f5dce3f250d3b70ddf58737e2af2c4fa3ae6423028339ee9097431f",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-07T00:38:39Z"
+    },
+    {
+      "pmid": "42834385",
+      "title": "Cost-effectiveness of early empagliflozin initiation after acute myocardial infarction: a German statutory health insurance perspective.",
+      "abstract": "BACKGROUND AND OBJECTIVE: Empagliflozin reduced heart failure (HF) hospitalizations after acute myocardial infarction (MI) in EMPACT-MI without a mortality benefit. We assessed whether HF morbidity prevention generates long-term economic value from the German statutory health insurance perspective.\nMETHODS: We developed a monthly cohort Markov model over a lifetime horizon comparing early empagliflozin plus standard care with standard care in post-MI patients at increased HF risk. The base case applied the EMPACT-MI hazard ratio of 0.77 for first HF hospitalization, assumed no direct mortality benefit, and modelled 24 months of treatment. Costs were in 2026 euros. The primary analysis covered 17.9 months; exploratory lifetime outcomes included quality-adjusted life-years (QALYs) and incremental cost-effectiveness ratios (ICERs).\nRESULTS: Early empagliflozin gained 0.0315 QALYs at €1,418 incremental cost (ICER €45,100/QALY) and avoided 52.0 lifetime HF hospitalizations per 1000 patients. The probability of cost-effectiveness was 16.2%, 55.2%, and 79.7% at €30,000, €50,000, and €80,000/QALY, respectively. Price reductions of 25% and 50% lowered the ICER to €32,300/QALY and €19,500/QALY. The maximum annual price compatible with €30,000/QALY was €607. Results were most sensitive to the HF hospitalization effect, drug price, and baseline HF risk. A trial-anchored analysis using the EMPACT-MI placebo event and mortality rates yielded a similar ICER (€47,200/QALY).\nCONCLUSIONS: Early empagliflozin generated modest projected QALY gains, predominantly through modelled indirect survival gains, at higher lifetime costs.Economic value was conditional, depending on willingness-to-pay, net price, and absolute HF risk, with the most favorable profile at lower net prices and in HF-risk-enriched patients.",
+      "journal": "Cost effectiveness and resource allocation : C/E",
+      "authors": "Boettger Priyanka, Nakou Eleni, Kinsley Thomas, Buerke Michael, Wild Eva-Maria, Sossalla Samuel",
+      "pub_date": "2026-10-05",
+      "doi": "10.1186/s12962-026-00830-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834385/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "ae7e26026a24f98f7e8a529cddfd71752fe905cc0140dd99dcc2dadca3b5d433",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z",
+      "summary_ja": "急性心筋梗塞（MI）後の心不全（HF）リスク増大患者において、早期エンパグリフロジン開始の費用対効果をドイツ法定健康保険の視点から評価したMarkovモデルによる健康経済学的分析である。EMPACT-MI試験のハザード比（初回HF入院HR 0.77、死亡率への直接効果なし）を基に、エンパグリフロジン＋標準治療と標準治療を生涯ホライズンで比較した。ベースケースでは24ヶ月間の治療をモデル化し、2026年ユーロでコストを算出した。",
+      "key_takeaway_ja": "早期エンパグリフロジンは0.0315 QALYの増益と€1,418の増加分コスト（ICER €45,100/QALY）を示し、€30,000/QALYのWTP閾値では費用対効果の確率が16.2%と低かった。価格25%・50%引き下げでICERはそれぞれ€32,300/QALY・€19,500/QALYに低下し、低価格かつHFリスクが高い患者群で最も有利なプロファイルを示した。",
+      "why_matters_ja": "EMPACT-MIでHF入院減少が示されたものの死亡率効果は認められなかったエンパグリフロジンのMI後使用について、ドイツの保険者視点から経済的価値を定量的に評価した。WTP閾値、実質価格、絶対HFリスクに依存する条件付きの経済的価値を示し、薬価設定や適応拡大の意思決定に直接的な根拠を提供する。",
+      "study_type_ja": "Markovモデルを用いた費用対効果分析（健康経済学モデリング研究）",
+      "endpoints_ja": "QALY（品質調整生命年）、ICER（増分費用対効果比）、生涯HF入院回数（1,000患者あたり）、WTP閾値における費用対効果の確率",
+      "endpoint_results_ja": "QALY増益 0.0315、増加分コスト €1,418、ICER €45,100/QALY、1,000患者あたり生涯HF入院回避 52.0回、費用対効果の確率：€30,000/QALYで16.2%、€50,000/QALYで55.2%、€80,000/QALYで79.7%、価格25%引き下げ時ICER €32,300/QALY、価格50%引き下げ時ICER €19,500/QALY、€30,000/QALYに適合する最大年間価格 €607、試験アンカー解析ICER €47,200/QALY",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-07T00:41:01Z"
+    },
+    {
+      "pmid": "42834229",
+      "title": "Oral small-molecule GLP-1RA safiglipron versus dapagliflozin in type 2 diabetes: a randomized, double-blind, active-comparator-controlled phase 3 trial.",
+      "abstract": "Safiglipron is an oral small-molecule glucagon-like peptide-1 (GLP-1) receptor agonist administered without fasting or dietary restrictions. We evaluated its efficacy and safety versus dapagliflozin in OUTSTAND-2, a phase 3, multicenter, randomized, double-blind, double-dummy, active-comparator-controlled trial conducted at 98 sites in China. We randomized 810 adults (mean hemoglobin A1C (HbA1c) 8.60%, median diabetes duration 5.0 years, 35.7% women) to safiglipron 30 mg (n = 202), safiglipron 60 mg (n = 203), safiglipron 90 mg (n = 203) or dapagliflozin 10 mg (n = 202) for 32 weeks, followed by a 20-week active-treatment extension. For the primary endpoint, treatment differences versus dapagliflozin in change from baseline in HbA1c at week 32 under the primary non-inferiority estimand were -0.30% (95% confidence interval (CI): -0.51 to -0.09), -0.22% (-0.44 to -0.01) and -0.40% (-0.62 to -0.19) for safiglipron 30 mg, 60 mg and 90 mg, respectively, establishing non-inferiority for all three doses (all P < 0.0001; non-inferiority margin 0.4%). Under the treatment policy estimand, 90 mg met the prespecified statistical criterion for superiority (difference -0.25%; 95% CI: -0.45 to -0.05; one-sided P = 0.0067), whereas 60 mg did not (P = 0.0789), after which fixed-sequence testing stopped. HbA1c target attainment rates with safiglipron versus dapagliflozin were 54.9-63.5% versus 36.5% for HbA1c <7.0% and 38.9-48.6% versus 16.1% for HbA1c ≤6.5%. Mean body weight changes were -2.35%, -3.55%, -4.17% and -3.60% for safiglipron 30 mg, safiglipron 60 mg, safiglipron 90 mg and dapagliflozin, respectively. Fasting plasma glucose, seven-point self-monitored blood glucose profiles, waist circumference, HOMA-β, HOMA-IR and changes in treatment satisfaction showed varying degrees of improvement from baseline with both safiglipron and dapagliflozin. Rescue therapy was used by 0.5-1.5% versus 0% of participants, respectively. Gastrointestinal adverse events were more frequent with safiglipron and mostly mild or moderate; adverse events led to treatment discontinuation in 4.0%, 4.0%, 3.9% and 1.5% of participants, respectively. Safiglipron provides an effective oral treatment option for adults with type 2 diabetes inadequately controlled with metformin. ClinicalTrials.gov identifier: NCT06589765 .",
+      "journal": "Nature medicine",
+      "authors": "Guo Lixin, Yu Dongni, Xu Yimei, Tang Guo, Peng Liang, Meng Chao, Zhao Meng, Hu Wen",
+      "pub_date": "2026-10-05",
+      "doi": "10.1038/s41591-026-04713-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834229/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "7758981f715a1c33518339ff98cd7bd0ff49f3cfbd938c9a624786ec15f6d740",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z"
+    },
+    {
+      "pmid": "42833987",
+      "title": "Innovative holistic treatment for CKM: what lies ahead?",
+      "abstract": "Cardiovascular-kidney-metabolic (CKM) syndrome, as defined by the American Heart Association, encompasses interrelated metabolic, kidney, and cardiovascular disorders that mutually reinforce one another along a shared risk continuum. Its five-stage model, supported by the PREVENT risk equations, guides stage-specific prevention and treatment. Albuminuria, alongside eGFR, plays a central role not only as a marker of kidney damage but as an independent cardiovascular risk factor. Visceral adiposity and insulin resistance promote cardiovascular and kidney injury through interconnected inflammatory, oxidative, hemodynamic, and neurohormonal pathways. The metabolic dysfunction-associated steatotic liver disease (MASLD) as part of the proposed cardiovascular-kidney-liver-metaolic (CKLM) framework further highlights the role of the liver as another key contributor in this multiorgan disease. Effective management requires coordinated interventions, including lifestyle modification, weight management, renin-angiotensin system inhibitors, SGLT2 inhibitors, GLP-1 receptor agonist, non-steroidal mineralocorticoid receptor antagonists (nsMRAs), as consolidated by the AHA/ACC/ADA/ASN and ESC guidelines. However, fragmented care, limited awereness and socioeconomic inequalities - including a persistent risk treatment paradox - continue to limit implementation. Improved preclinical models and more inclusive clinical studies incorporating multiorgan outcomes may facilitate the translation of mechanistic findings, while multimodal imaging and artificial intelligence may improve risk prediction and diagnostic algorithms. Further validation of disease trajectories and broad implementation of interdisciplinary care are needed to improve outcomes across the CKM continuum.",
+      "journal": "European journal of internal medicine",
+      "authors": "Balfanz Paul, Marx Nikolaus",
+      "pub_date": "2026-10-05",
+      "doi": "10.1016/j.ejim.2026.107222",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833987/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "273a1e785938d9f0d408d005c880928b304e9f59c62d0bde3e0b5e131308697f",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z",
+      "summary_ja": "本レビューは、米心臓協会（AHA）が定義した心血管・腎・代謝（CKM）症候群について概説する。CKM症候群は相互に増強し合う代謝性・腎性・心血管性の疾患を包含し、PREVENTリスク方程式に基づく5段階モデルで段階別の予防・治療を導く。アルブミン尿は腎障害のマーカーであるだけでなく独立した心血管リスク因子として中心的な役割を果たす。内臓脂肪とインスリン抵抗性は、炎症・酸化・血流動態・神経内分泌経路を通じて心血管・腎障害を促進する。MASLDを含むCKLMフレームワークは肝臓の役割をさらに強調する。有効な管理には、生活習慣改善、体重管理、レニン・アンギオテンシン系阻害薬、SGLT2阻害薬、GLP-1受容体作動薬、非ステロイド性ミネラルコルチコイド受容体拮抗薬（nsMRA）を含む協調的介入が必要であり、AHA/ACC/ADA/ASNおよびESCガイドラインに統合されている。しかし、断片的なケア、認識不足、社会経済的不平等（持続的なリスク治療パラドックスを含む）が実施を妨げている。前臨床モデルの改善、多臓器アウトカムを含むより包括的な臨床研究、多モード画像診断や人工知能によるリスク予測の向上が期待される。",
+      "key_takeaway_ja": "CKM症候群の管理には多臓器を横断した協調的・学際的アプローチが必要であるが、断片的なケア体制、認識不足、社会経済的不平等が実施を妨げており、疾患軌跡のさらなる検証と学際的ケアの広範な導入が課題である。",
+      "why_matters_ja": "CKM症候群は単一臓器疾患ではなく、代謝・腎・心血管（および肝臓）が相互に増強し合う多臓器疾患連続体であり、従来の臓器別・断片的なアプローチでは十分に対処できない。本レビューは、現在の治療ギャップと今後の方向性を示すことで、臨床実践と研究の優先順位付けに寄与する。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-07T00:43:06Z"
+    },
+    {
+      "pmid": "42833666",
+      "title": "Trajectories of Albuminuria and Non-Albumin Proteinuria After Sequential Addition of Finerenone for Residual Albuminuria Despite Established SGLT2 Inhibitor Therapy in Diabetic Kidney Disease: A Real-World Cohort Study.",
+      "abstract": "AIMS: CONFIDENCE evaluated simultaneous initiation of finerenone and an SGLT2 inhibitor (SGLT2i). We examined 12-month trajectories of albuminuria and non-albumin proteinuria after finerenone was added to established SGLT2i therapy.\nMATERIALS AND METHODS: This single-centre retrospective cohort study included 86 patients with type 2 diabetes treated with finerenone after SGLT2i therapy. Urinary albumin-to-creatinine ratio (UACR), protein-to-creatinine ratio (UPCR) and non-albumin protein-to-creatinine ratio (UNAPCR) were measured before SGLT2i initiation (T1) and finerenone initiation (T2), at the first post-finerenone assessment (median 1.6 months), and at 6 and 12 months. Covariate-adjusted linear mixed-effects models of log-transformed markers estimated geometric mean changes from T2, with Holm adjustment across 12 primary contrasts.\nRESULTS: Urinary markers showed no significant net changes between T1 and T2. After finerenone initiation, UACR decreased by 46.2% at the first post-finerenone assessment and remained 35.2% lower at 12 months (95% confidence interval [CI], -47.1 to -20.7); corresponding reductions were 39.9% and 23.1% for UPCR and 33.7% and 13.6% for UNAPCR. All reductions were significant except for UNAPCR at 12 months (adjusted p = 0.16). At 12 months, 39 of 76 patients (51.3%) achieved a UACR reduction ≥ 30%. Mean serum potassium level increased from 4.6 to 4.8 mmol/L and plateaued; levels > 5.5 and > 6.0 mmol/L occurred in 17.4% and 4.7% of patients, respectively.\nCONCLUSIONS: In patients with residual albuminuria despite established SGLT2i therapy, finerenone addition was associated with sustained 12-month reductions in albuminuria and total proteinuria and an early reduction in non-albumin proteinuria that attenuated by 12 months. Prospective confirmation is warranted.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Choi Min Seo, Yu Minheui, Kim Hyung Woo, Lee Minyoung, Lee Yong-Ho, Kang Eun Seok, Cha Bong-Soo, Lee Byung-Wan",
+      "pub_date": "2026-10-05",
+      "doi": "10.1111/dom.71412",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833666/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "7ec91a5e401da7791aeb47e2d3427660c053f56bded45282128489553d0df9d3",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z",
+      "summary_ja": "SGLT2阻害薬（SGLT2i）治療下で残存アルブミン尿を有する2型糖尿病腎症患者において、SGLT2i治療確立後にフィネレノンを追加投与した際の12ヶ月間のアルブミン尿および非アルブミン蛋白尿の経時変化を、単一施設後ろ向きコホート研究として評価した。尿アルブミン/クレアチニン比（UACR）、尿蛋白/クレアチニン比（UPCR）、非アルブミン蛋白/クレアチニン比（UNAPCR）をSGLT2i開始前（T1）、フィネレノン開始時（T2）、フィネレノン開始後初回評価（中央値1.6ヶ月）、6ヶ月、12ヶ月で測定し、共変量調整線形混合効果モデルでT2からの幾何平均変化を推定した。",
+      "key_takeaway_ja": "SGLT2i治療確立後にフィネレノンを追加投与した際、アルブミン尿および総蛋白尿は12ヶ月にわたり持続的な減少を示し、非アルブミン蛋白尿は早期に減少したが12ヶ月には減弱した。12ヶ月時点でUACR 30%以上の減少を達成した患者は51.3%（76例中39例）であった。",
+      "why_matters_ja": "CONFIDENCE試験ではフィネレノンとSGLT2iの同時開始が評価されたが、実際の臨床現場ではSGLT2iが先行して導入され、その後フィネレノンが追加されるsequential additionのシナリオがより一般的である。本研究は、この実臨床に即した投与順序におけるフィネレノンの追加効果と安全性（高カリウム血症リスク）をリアルワールドデータで示した点に意義がある。",
+      "study_type_ja": "単一施設後ろ向きコホート研究（リアルワールドコホート研究）",
+      "endpoints_ja": "フィネレノン開始時（T2）からのUACR、UPCR、UNAPCRの幾何平均変化（フィネレノン開始後初回評価、6ヶ月、12ヶ月）、12ヶ月時点でのUACR 30%以上減少達成率、血清カリウム濃度の変化",
+      "endpoint_results_ja": "UACR：フィネレノン開始後初回評価で46.2%減少、12ヶ月で35.2%減少（95%CI, -47.1〜-20.7）。UPCR：39.9%減少（初回）、23.1%減少（12ヶ月）。UNAPCR：33.7%減少（初回）、13.6%減少（12ヶ月）。12ヶ月時のUNAPCR減少のみ有意差なし（調整p=0.16）。12ヶ月時点でUACR 30%以上減少を達成した患者は76例中39例（51.3%）。平均血清カリウム濃度は4.6から4.8 mmol/Lに上昇しプラトー。カリウム>5.5 mmol/Lは17.4%、>6.0 mmol/Lは4.7%の患者で認められた。",
+      "sample_size_ja": "86例（2型糖尿病、SGLT2i治療後にフィネレノンを投与された患者）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-07T00:43:36Z"
+    },
+    {
+      "pmid": "42833423",
+      "title": "Bidirectional Pharmacology of GIP Receptor Targeting in Obesity: Historical Foundations, Mechanistic Divergence, and Translational Boundaries.",
+      "abstract": "The glucose-dependent insulinotropic polypeptide receptor (GIPR) has emerged as a central target in next-generation anti-obesity drug development. Its pharmacology, however, presents an apparent paradox: sustained GIPR agonism and GIPR antagonism can both lower body weight, and both can augment weight loss produced by glucagon-like peptide-1 receptor (GLP-1R) agonism. For this structured narrative review, PubMed/MEDLINE and ClinicalTrials.gov were searched from database inception through 1 August 2026 using prespecified terms for receptors, interventions, obesity, and bariatric surgery to identify basic, translational, and clinical studies available. Retrieved records underwent staged title/abstract screening and full-text eligibility assessment. The evidence was integrated across three levels: selective GIPR modulation, combined GIPR and GLP-1R modulation, and applications after metabolic and bariatric surgery. Recent rodent studies support a working model in which long-acting GIPR agonism engages GABAergic and area-postrema-related circuits, whereas the added weight-lowering effect of GIPR antagonism in several GLP-1R-containing combination models depends on intact GLP-1R signaling and hypothalamic GIPR networks. These mechanisms remain incompletely validated in humans. Clinically, tirzepatide has demonstrated the efficacy of GIPR/GLP-1R co-agonism, whereas maridebart cafraglutide provides phase 2 evidence for GIPR antagonism combined with GLP-1R agonism; nevertheless, the efficacy of these multi-receptor agents cannot be attributed simply to a single GIPR component. Metabolic and bariatric surgery is discussed as a translational context in which altered incretin physiology limits direct extrapolation from nonsurgical obesity trials. Future studies should use stratified designs grounded in receptor pharmacology, brain-region specificity, type of bariatric procedure, and postoperative metabolic phenotype, while assessing fat mass, lean mass, hepatic fat, bone metabolism, gastrointestinal tolerability, hypoglycemia, and weight regain after treatment withdrawal.",
+      "journal": "Peptides",
+      "authors": "Liu Chenming, Wang Yanghai, Liu Jingli, Tian Peirong, Liu Jia, Li Mengyi, Zhang Zhongtao, Zhang Peng",
+      "pub_date": "2026-10-05",
+      "doi": "10.1016/j.peptides.2026.171524",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833423/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4d3fc4982416379bd2a2ed15c81ef90d85ff388d6deed029dc88b0aec3bbc712",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z",
+      "summary_ja": "GIP受容体（GIPR）の双方向性薬理学（アゴニストとアンタゴニストの両方が体重減少に寄与しうる）を、選択的GIPR調節、GIPR/GLP-1R併用調節、代謝・肥満外科術後の応用の3レベルで統合した構造化ナラティブレビュー。PubMed/MEDLINEおよびClinicalTrials.govを2026年8月1日までに検索し、基礎・翻訳・臨床研究を段階的スクリーニングで選定した。",
+      "key_takeaway_ja": "GIPRの持続的アゴニストはGABA作動性回路およびarea postrema関連回路を介して体重を低下させ、GIPRアンタゴニストの体重減少効果はGLP-1Rシグナルの完全性と視床下部GIPRネットワークに依存するが、これらの機構はヒトでは未だ十分に検証されていない。",
+      "why_matters_ja": "GIPRは次世代抗肥満薬開発の中心的ターゲットであり、双方向性薬理学の理解は合理的な薬剤設計に不可欠である。また、多受容体薬剤（tirzepatide、maridebart cafraglutide）の効果を単一のGIPR成分に帰属させることはできず、肥満外科術後のincretin生理学的変化は非外科的肥満試験からの直接的外挿を制限するため、層別化された研究設計が求められる。",
+      "study_type_ja": "構造化ナラティブレビュー（Structured Narrative Review）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-07T00:44:01Z"
+    },
+    {
+      "pmid": "42832816",
+      "title": "A 52-Week Efficacy and Safety Study of Teneligliptin, as an Add-On to Empagliflozin and Metformin in Patients With Type 2 Diabetes Mellitus: A Randomised, Double-Blind, Placebo-Controlled Phase 3 Trial (TERA305 Study).",
+      "abstract": "AIMS: To evaluate the long-term efficacy and safety of teneligliptin add-on in patients with type 2 diabetes mellitus (T2DM) inadequately controlled with metformin and empagliflozin.\nMATERIALS AND METHODS: In this randomised, double-blind, phase 3 trial, 214 patients received teneligliptin 20 mg (n = 107) or placebo (n = 107) once daily for 24 weeks, in addition to metformin (≥ 1000 mg/day) and empagliflozin (25 mg/day). In a subsequent 28-week open-label extension, all patients received teneligliptin 20 mg/day. The primary endpoint was HbA1c change from baseline to week 24.\nRESULTS: At week 24, the least squares mean (LSM) change in HbA1c from baseline was -0.70% ± 0.06% in the teneligliptin group and -0.03% ± 0.06% in the placebo group, with a placebo-adjusted LSM change of -0.67% (95% CI, -0.84 to -0.49; p < 0.0001), demonstrating the superiority of teneligliptin. A significant between-group difference was already evident at week 4 (placebo-adjusted LSM change, -0.36%; p < 0.0001). Significant reductions in fasting plasma glucose and glycated albumin and improvement in pancreatic β-cell function were observed at week 24. During the open-label extension, glycaemic improvements were maintained through week 52, although no concurrent randomised control was available beyond week 24. Placebo-group patients achieved a similar benefit after switching to teneligliptin. Safety outcomes did not differ between groups.\nCONCLUSIONS: Adding teneligliptin to metformin and empagliflozin in patients with inadequately controlled T2DM significantly improved glycaemic control and β-cell function over 24 weeks and was well tolerated through 52 weeks.\nTRAIL REGISTRATION: ClinicalTrials.gov Identifier: NCT05504226.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Moon Jun Sung, Han Kyung Ah, Kim Dong-Lim, Kim Sang Yong, Kim Soo-Kyung, Ku Bon Jeong, Lee Woo Je, Oh Tae Keun",
+      "pub_date": "2026-10-05",
+      "doi": "10.1111/dom.71315",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42832816/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "f1cf3ffbfbc6ff0a21129d3df178fd64713d1c4c5c768e79316d6d7e2d0fac2b",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z",
+      "summary_ja": "メトホルミン（≥1000 mg/day）とエンパグリフロジン（25 mg/day）で血糖コントロール不十分な2型糖尿病患者において、テネリグリプチン20 mg/day追加療法の長期有効性と安全性を評価した無作為化二重盲検プラセボ対照第III相試験。214例がテネリグリプチン群（n=107）またはプラセボ群（n=107）に無作為化され24週間投与された後、28週間のオープンラベル延長期間で全例がテネリグリプチン20 mg/dayに切り替わった。",
+      "key_takeaway_ja": "メトホルミンとエンパグリフロジンでコントロール不十分な2型糖尿病患者において、テネリグリプチン追加は24週間でHbA1cを有意に改善（プラセボ調整LSM変化 -0.67%）し、膵β細胞機能も改善し、52週間まで良好な忍容性を示した。",
+      "why_matters_ja": "メトホルミンとSGLT2阻害薬の併用で血糖コントロール不十分な患者に対する追加治療選択肢として、DPP-4阻害薬（テネリグリプチン）の長期有効性と安全性のエビデンスを提供し、臨床現場での治療エスカレーション判断に有用である。",
+      "study_type_ja": "無作為化、二重盲検、プラセボ対照、第III相試験（24週間の無作為化期間＋28週間のオープンラベル延長期間）",
+      "endpoints_ja": "主要エンドポイント：ベースラインから24週までのHbA1c変化。副次エンドポイント：空腹時血糖、グリコシル化アルブミン、膵β細胞機能（24週時）。",
+      "endpoint_results_ja": "24週時HbA1c変化（LSM）：テネリグリプチン群 -0.70% ± 0.06%、プラセボ群 -0.03% ± 0.06%。プラセボ調整LSM変化：-0.67%（95% CI, -0.84 to -0.49; p < 0.0001）。4週時プラセボ調整LSM変化：-0.36%（p < 0.0001）。空腹時血糖・グリコシル化アルブミンの有意な低下および膵β細胞機能の改善が24週時に観察された（具体的な数値は抄録に記載なし）。52週時まで血糖改善が維持された（具体的な数値は抄録に記載なし）。安全性アウトカムは群間に差なし。",
+      "sample_size_ja": "214例（テネリグリプチン群 n=107、プラセボ群 n=107）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-07T00:44:35Z"
     },
     {
       "pmid": "42832444",
@@ -19174,6 +19542,46 @@
       "content_sha256": "b6dba5843a8c835e69de355a5a761c8c0811f036d49cd7026b1ba11dc2053d5a",
       "fetched_at_utc": "2026-09-23T23:38:51Z",
       "updated_at_utc": "2026-09-23T23:38:51Z"
+    },
+    {
+      "pmid": "42834681",
+      "title": "Association of Sodium-Glucose Cotransporter 2 Inhibitor Use With Outcomes in Patients Undergoing Transcatheter Aortic Valve Implantation: A Systematic Review and GRADE-Assessed Meta-Analysis.",
+      "abstract": "BACKGROUND: Patients undergoing transcatheter aortic valve implantation (TAVI) remain at risk of adverse cardiovascular and renal outcomes despite procedural advancements. Sodium-glucose cotransporter 2 (SGLT2) inhibitors have demonstrated cardiovascular and renal benefits across various patient populations; however, their role in patients undergoing TAVI remains unclear. This study is aimed at evaluating the association between SGLT2 inhibitor use and clinical outcomes in this population.\nMETHODS: We conducted a systematic review and meta-analysis comparing SGLT2 inhibitors versus non-SGLT2 inhibitors or standard care in patients undergoing TAVI. Major databases were searched through March 2026, with Embase updated through June 2026. Pooled analyses were performed using random-effects models to calculate risk ratios (RRs) and mean differences (MDs) with 95% confidence intervals (CIs).\nRESULTS: Five studies involving 6111 patients (SGLT2 inhibitors: n = 2933; control: n = 3178) were included. In primary random-effects models, SGLT2 inhibitors were associated with lower all-cause mortality (RR 0.68, 95% CI 0.48-0.97, p = 0.03), heart failure (HF) hospitalization (RR 0.62, 95% CI 0.42-0.90, p = 0.01), and major adverse cardiovascular events (RR 0.68, 95% CI 0.48-0.96, p = 0.03). However, in REML/Hartung-Knapp sensitivity analyses, CIs crossed the null for all-cause mortality, HF hospitalization, MACE, and pooled hazard ratios. Mortality benefits were absent at 6 and 12 months and in the randomized trial but persisted in low left ventricular ejection fraction (RR 0.56, 95% CI 0.35-0.89, p = 0.01). No significant differences occurred in acute kidney injury, urinary tract infections, or echocardiographic parameters.\nCONCLUSION: SGLT2 inhibitor use was associated with lower all-cause mortality and HF hospitalization after TAVI, but the evidence is limited by observational designs, heterogeneity, and low certainty for several outcomes. Further randomized trials are required.",
+      "journal": "Cardiovascular therapeutics",
+      "authors": "Mohamed Ahmed Adel, Husain Batool Husain, Dali Tammam Khaled, Ahmed Mostafa Elsayed, Al Shawawreh Ghaida, Galal Ali Samir, Moussa Mahmoud Abdelwahab, Hibysh Abdallah M",
+      "pub_date": "2026-01-01",
+      "doi": "10.1155/cdr/8933859",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834681/",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Treatment Outcome",
+        "Transcatheter Aortic Valve Replacement",
+        "Risk Factors",
+        "Aortic Valve Stenosis",
+        "Female",
+        "Male",
+        "Risk Assessment",
+        "Time Factors",
+        "Aged, 80 and over",
+        "Aged",
+        "Aortic Valve",
+        "Heart Failure",
+        "Recovery of Function"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "1ebaf3adbf15ddf2006227de5116237841e644bba031765d5da90e86fa049368",
+      "fetched_at_utc": "2026-10-07T00:38:39Z",
+      "updated_at_utc": "2026-10-07T00:38:39Z"
     },
     {
       "pmid": "42832390",
