@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-07T00:44:39Z",
+  "generated_at_utc": "2026-10-08T01:00:58Z",
   "items": [
     {
       "pmid": "42805503",
@@ -70,6 +70,219 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42842573",
+      "title": "Using dapagliflozin to reduce symptoms in transthyretin cardiac amyloidosis: An n-of-1 trial series pilot study.",
+      "abstract": "BACKGROUND: The role of guideline-directed medical therapy for heart failure (HF) is unclear in transthyretin amyloid cardiomyopathy (ATTR-CM). Dapagliflozin has demonstrated beneficial effects across HF phenotypes, and retrospective studies suggest potential benefit in ATTR-CM; however, prospective data are lacking. This pilot study evaluated the effect and tolerability of dapagliflozin in patients with ATTR-CM to inform the design of a larger randomized trial.\nMETHODS: Participants were followed for 30 weeks over three study periods: 8 weeks baseline without study medication, 12 weeks intervention with dapagliflozin 10 mg once daily, and 10 weeks withdrawal without study medication. The study was open-label and nonrandomized. Vital signs and NT-proBNP were assessed every second week, while Kansas City Cardiomyopathy Questionnaire total symptom score (KCCQ-TSS) and 6-minute walking test (6MWT) were assessed every 4 weeks. Results were analyzed using linear mixed-effects models.\nRESULTS: Seven of ten enrolled patients completed the trial. One participant discontinued because of genitourinary adverse effects, and two withdrew for reasons unrelated to the intervention. The estimated intervention-versus-baseline difference was -142 pg/mL (95% CI -324-41) for NT-proBNP, 24.3 m (95% CI -2.8 to 51.5) for 6MWT distance, and 0.4 points (95% CI -4.0 to 4.8) for KCCQ-TSS. Sitting SBP was 8.8 mmHg lower during intervention than during baseline (95% CI -13.2 to -4.4). No increase in hypotensive symptoms or cardiovascular adverse events was detected.\nCONCLUSIONS: Dapagliflozin was generally well tolerated in this pilot study of patients with ATTR-CM. The estimated differences in NT-proBNP, 6MWT distance, and KCCQ-TSS were imprecise and did not provide conclusive evidence of treatment effects. SBP was lower during treatment, without a detected increase in hypotensive symptoms. These exploratory findings support further evaluation in an adequately powered randomized trial.\nTRIAL REGISTRATION: This study was registered with clinical trial number EudraCT no 2021-003674-32.",
+      "journal": "PloS one",
+      "authors": "Håkansson Erik, Anan Intissar, Brunström Mattias, Hellström-Ängerud Karin, Lindqvist Per, Pilebro Björn, Wixner Jonas, Lindmark Krister",
+      "pub_date": "2026-10-07",
+      "doi": "10.1371/journal.pone.0346065",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842573/",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Pilot Projects",
+        "Male",
+        "Female",
+        "Aged",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Middle Aged",
+        "Amyloid Neuropathies, Familial",
+        "Treatment Outcome",
+        "Cardiomyopathies",
+        "Heart Failure",
+        "Natriuretic Peptide, Brain",
+        "Peptide Fragments",
+        "Aged, 80 and over"
+      ],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "b81573f464dd40ac8ca075a8e0c3c1cf863871649ca6557f99bdbdf2da4729e8",
+      "fetched_at_utc": "2026-10-08T00:56:53Z",
+      "updated_at_utc": "2026-10-08T00:56:53Z",
+      "summary_ja": "転座骨蛋白心アミロイドーシス（ATTR-CM）患者におけるダパグリフロジンの効果と忍容性を評価したn-of-1試験シリーズのピロット研究。10例が登録され、7例が試験を完了した。30週間の追跡期間を3期間（8週間のベースライン、12週間のダパグリフロジン10mg 1日1回投与期間、10週間の離脱期間）に分け、オープンラベル・非ランダム化で実施。NT-proBNP、KCCQ-TSS、6分歩行試験、血圧を評価した。NT-proBNP、6MWT距離、KCCQ-TSSの推定差は不正確であり、治療効果の決定的な証拠は得られなかった。収縮期血圧は投与期間中に低下したが、低血圧症状の増加は認められなかった。",
+      "key_takeaway_ja": "ダパグリフロジンはATTR-CM患者において概ね良好な忍容性を示したが、NT-proBNP、6MWT距離、KCCQ-TSSの推定差は不正確であり、治療効果の決定的な証拠は得られなかった。",
+      "why_matters_ja": "心不全のガイドライン推奨薬物療法（GDMT）のATTR-CMにおける役割は不明確であり、本ピロット研究の探索的所見は、適切にパワーを持たれたランダム化試験の設計を支援する。",
+      "study_type_ja": "n-of-1試験シリーズ（ピロット研究）、オープンラベル、非ランダム化",
+      "endpoints_ja": "NT-proBNP、KCCQ-TSS（Kansas City Cardiomyopathy Questionnaire total symptom score）、6分歩行試験（6MWT）距離、座位収縮期血圧（SBP）、忍容性（低血圧症状、心血管有害事象）",
+      "endpoint_results_ja": "NT-proBNP：介入vsベースライン差 -142 pg/mL（95% CI -324〜41）。6MWT距離：24.3 m（95% CI -2.8〜51.5）。KCCQ-TSS：0.4 points（95% CI -4.0〜4.8）。座位SBP：ベースライン比 8.8 mmHg低下（95% CI -13.2〜-4.4）。低血圧症状や心血管有害事象の増加は認められなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-08T00:57:19Z"
+    },
+    {
+      "pmid": "42841533",
+      "title": "Dapagliflozin and ventricular repolarization across heart failure phenotypes.",
+      "abstract": "BACKGROUND: Type 2 diabetes mellitus (T2DM) is associated with abnormal ventricular repolarization and increased arrhythmic risk. Sodium-glucose cotransporter-2 (SGLT-2) inhibitors may exert electrophysiological effects beyond glycemic control. We investigated changes in electrocardiographic (ECG) markers of ventricular repolarization after dapagliflozin initiation in SGLT-2 inhibitor-naïve patients with T2DM according to heart failure (HF) phenotype.\nMETHODS: In this prospective, non-randomized, controlled observational study, 700 patients with T2DM were enrolled between June 2023 and February 2026. Patients initiating dapagliflozin (n = 350) were classified as HFrEF (LVEF <50%, n = 87), HFpEF (LVEF ≥50% with HF, n = 93), or no HF (LVEF ≥50% without HF, n = 170); 350 controls continued pre-existing antidiabetic therapy. Twelve-lead ECG and echocardiography were performed at baseline and 3 months. Prespecified endpoints included QT, QTc, QT dispersion, Tp-e, Tp-e/QT, and Tp-e/QTc. Inverse probability of treatment weighting and Holm-Bonferroni correction were applied.\nRESULTS: Dapagliflozin was associated with greater reductions in all prespecified ECG parameters than controls (all between-group p <0.001; Cohen's d = 0.48-1.08), with consistent findings after IPTW. Reductions were greatest in HFrEF (QTc = -14.3 ms; Tp-e = -9.1 ms), followed by HFpEF (-11.2 and -7.4 ms) and no HF (-7.6 and -3.8 ms); all between-subgroup comparisons p <0.001. HFrEF independently predicted greater QTc reduction (β = -4.8 ms vs no HF, p < 0.001). Change in Tp-e correlated weakly with HbA1c change (r = -0.145, p = 0.037). LVEF increased in HFrEF (+3.2%) and HFpEF (+0.9%).\nCONCLUSIONS: Dapagliflozin initiation was associated with reductions in multiple ECG markers of ventricular repolarization, with the greatest changes observed in HFrEF. These findings concern surrogate ECG measures and do not establish a reduction in clinical arrhythmic events. Confirmation in prospective randomized trials is warranted.",
+      "journal": "Current medical research and opinion",
+      "authors": "Traş Gülüzar, Polat Fuat, Bozkurt Melike Saday, Altıntaş İsmail",
+      "pub_date": "2026-10-07",
+      "doi": "10.1080/03007995.2026.2741494",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42841533/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4701ee397c7b529a69195d53336180abbbe39031208d998c11dfb532bff4c21b",
+      "fetched_at_utc": "2026-10-08T00:56:53Z",
+      "updated_at_utc": "2026-10-08T00:56:53Z",
+      "summary_ja": "SGLT-2阻害薬未使用の2型糖尿病（T2DM）患者において、ダパグリフロジン開始後の心室脱分極の心電図（ECG）マーカーの変化を、心不全（HF）表現型（HFrEF、HFpEF、HFなし）別に検討した前向き・非ランダム化・対照観察研究。700例（ダパグリフロジン群350例、対照群350例）を2023年6月から2026年2月まで登録し、ベースラインと3か月時に12誘導心電図および心エコー検査を実施した。IPTW（逆確率治療重み付け）およびHolm-Bonferroni補正を適用した。",
+      "key_takeaway_ja": "ダパグリフロジン開始は心室脱分極の複数のECGマーカーの減少と関連し、最も大きな変化はHFrEFで観察された（QTc = -14.3 ms、Tp-e = -9.1 ms）。ただし、これらの所見は代理ECG指標であり、臨床的心律不整イベントの減少を証明するものではない。前向きランダム化試験での確認が必要と結論されている。",
+      "why_matters_ja": "T2DMは異常な心室脱分極および増大した不整脈リスクと関連しており、SGLT-2阻害薬は血糖管理を超えた電気生理学的効果を持つ可能性がある。心不全表現型による効果の差を明らかにすることは、臨床的な意思決定やさらなるランダム化試験の設計に寄与しうる。",
+      "study_type_ja": "前向き・非ランダム化・対照観察研究",
+      "endpoints_ja": "QT、QTc、QT分散、Tp-e、Tp-e/QT、Tp-e/QTc（心室脱分極のECGマーカー）",
+      "endpoint_results_ja": "全prespecified ECGパラメータで対照群より有意な減少（群間p < 0.001；Cohen's d = 0.48-1.08）、IPTW後も一貫した結果。HFrEF：QTc = -14.3 ms、Tp-e = -9.1 ms。HFpEF：QTc = -11.2 ms、Tp-e = -7.4 ms。HFなし：QTc = -7.6 ms、Tp-e = -3.8 ms。全サブグループ間比較p < 0.001。HFrEFはQTc減少を独立予測（β = -4.8 ms vs HFなし、p < 0.001）。Tp-eの変化はHbA1c変化と弱く相関（r = -0.145、p = 0.037）。LVEFはHFrEFで+3.2%、HFpEFで+0.9%増加。",
+      "sample_size_ja": "総数700例（ダパグリフロジン群350例：HFrEF 87例、HFpEF 93例、HFなし170例；対照群350例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-08T00:57:47Z"
+    },
+    {
+      "pmid": "42841449",
+      "title": "Palliative-Oriented Referral and Advanced Vulnerability in Very Old Patients Hospitalised for Acute Heart Failure.",
+      "abstract": "BACKGROUND: Palliative-oriented referral in very old patients hospitalised for acute heart failure (HF) is common in cardiogeriatric practice, but their clinical profile and outcomes remain poorly described. We used referral to the French Identified Palliative Care Bed model, Lits Identifiés de Soins Palliatifs (LISP), as a real-world marker.\nMETHODS: This retrospective single-centre study included patients aged >65 years discharged after acute HF hospitalisation from a cardiogeriatric unit between 1 January and 24 September 2025. Patients who died during the index stay, objected to secondary data use, or had missing/non-interpretable 3-month follow-up were excluded.\nRESULTS: Among 604 patients analysed (mean age 86.9 ± 7.1 years; 52% women), 106 had LISP referral. In exploratory multivariable logistic regression, LISP referral was associated with lower Activities of Daily Living score [odds ratio (OR) 0.45, 95% confidence interval (CI) 0.37-0.55; P < 0.001], major neurocognitive disorders (OR 2.98, 95% CI 1.73-5.13; P < 0.001), higher log-transformed discharge NT-proBNP (OR 1.35, 95% CI 1.08-1.69; P = 0.008), lower SGLT2 inhibitor use among patients with LVEF >50% (OR 0.49, 95% CI 0.27-0.88; P = 0.017), and fewer discharge medications (OR 0.88, 95% CI 0.79-0.97; P = 0.011). LISP referral was associated with higher mortality and lower 6-month survival (47.6% vs. 79.5%).\nCONCLUSION: LISP referral identified very old patients with acute HF, advanced multidimensional vulnerability, higher NT-proBNP levels, and high short-term mortality. It should be interpreted as a clinician-assigned marker, not as a causal determinant of prognosis.",
+      "journal": "ESC heart failure",
+      "authors": "Esser Rémi, Pépin Clémence, Corny Jennifer, Maurou Olivier, Larbaneix Marine, Mondragon Alejandro, Esteban Marlène, Farges Christine",
+      "pub_date": "2026-10-07",
+      "doi": "10.1093/eschf/xvag252",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42841449/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4ece7346f9be4106221d7f11a6b0d16de5d7bec6f37abb197d71e6868abc7891",
+      "fetched_at_utc": "2026-10-08T00:56:53Z",
+      "updated_at_utc": "2026-10-08T00:56:53Z",
+      "summary_ja": "急性心不全で入院した高齢患者（65歳以上）における緩和ケア志向の紹介（フランスのLISPモデル）の臨床プロファイルと予後を評価した後ろ向き単一施設研究。604例中106例がLISP紹介を受けた。多変量ロジスティック回帰分析により、LISP紹介はADLスコアの低さ、主要神経認知障害、退院時NT-proBNPの上昇、SGLT2阻害薬使用の低さ（LVEF>50%）、退院時薬剤数の少さと関連し、死亡率の上昇と6か月生存率の低下（47.6% vs 79.5%）と関連した。",
+      "key_takeaway_ja": "LISP紹介は、急性心不全を有する超高齢患者における高度な多次元的脆弱性、NT-proBNP高値、および高い短期死亡率を特定する臨床医が割り当てたマーカーとして解釈すべきであり、予後の因果決定因子ではない。",
+      "why_matters_ja": "急性心不全で入院した超高齢患者における緩和ケア志向の紹介は心臓老年科の臨床実践で一般的であるが、その臨床プロファイルと予後は十分に記述されていなかった。本研究はこの集団の特徴を明らかにし、LISP紹介を現実世界のマーカーとして位置づけた。",
+      "study_type_ja": "後ろ向き単一施設研究",
+      "endpoints_ja": "LISP紹介（マーカー）との関連因子：ADLスコア、主要神経認知障害、退院時NT-proBNP（log変換）、SGLT2阻害薬使用（LVEF>50%）、退院時薬剤数。予後アウトカム：死亡率、6か月生存率。",
+      "endpoint_results_ja": "6か月生存率：LISP紹介群 47.6% vs 非紹介群 79.5%。ADLスコア：OR 0.45, 95% CI 0.37-0.55; P < 0.001。主要神経認知障害：OR 2.98, 95% CI 1.73-5.13; P < 0.001。log変換退院時NT-proBNP：OR 1.35, 95% CI 1.08-1.69; P = 0.008。SGLT2阻害薬使用（LVEF>50%）：OR 0.49, 95% CI 0.27-0.88; P = 0.017。退院時薬剤数：OR 0.88, 95% CI 0.79-0.97; P = 0.011。",
+      "sample_size_ja": "604例（うちLISP紹介群106例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-08T00:58:19Z"
+    },
+    {
+      "pmid": "42839752",
+      "title": "Efficacy and Safety of Chemically Synthesized Semaglutide Injection (HD1916) for the Treatment of Obesity: A Multicenter, Randomized, Phase III Trial.",
+      "abstract": "AIMS: To evaluate whether HD1916, a chemically synthesised semaglutide, is therapeutically equivalent to the reference product semaglutide (Wegovy) in body weight reduction among Chinese adults with obesity without diabetes.\nMATERIALS AND METHODS: This multicenter, randomised, open-label, active-controlled Phase III trial was conducted at 30 centers in China. Adults aged 18-75 years with obesity (BMI ≥ 28 kg/m2) and without diabetes were randomised 1:1 to receive once-weekly subcutaneous HD1916 or semaglutide for 44 weeks. The primary endpoint was the percentage change in body weight from baseline to week 44. Equivalence was established if the 95% confidence interval (CI) of the between-group difference was within the prespecified margin of ±4.16%. Key secondary endpoints included the proportions of participants achieving ≥ 5% and ≥ 10% weight loss and change in waist circumference.\nRESULTS: A total of 462 participants were randomised (231 per group). At week 44, mean body weight decreased by 13.1% with HD1916 and 14.4% with semaglutide. The estimated treatment difference was 1.35% (95% CI, -0.02 to 2.72), which fell within the equivalence margin, confirming therapeutic equivalence. Proportions of participants achieving ≥ 5% weight loss (87.8% vs. 90.5%) and ≥ 10% weight loss (68.7% vs. 73.6%), as well as reductions in waist circumference, were comparable between groups. Any-grade treatment-emergent adverse events occurred in 86.5% and 89.2% of participants in the HD1916 and semaglutide groups, respectively; most were Grade 1-2.\nCONCLUSIONS: HD1916 demonstrated equivalent body weight reductions to the reference product semaglutide (Wegovy), with a comparable safety profile.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Gao Leili, Ma Yujin, Zhang Qiu, Li Jiarui, Guo Lian, Zhang Lihui, Jin Hongwei, Wang Yan",
+      "pub_date": "2026-10-07",
+      "doi": "10.1111/dom.71354",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42839752/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9f8f6d5ea8367c96c7fe3aed3e9b5fd828f5b1db50d5472115b5c744d1be5f50",
+      "fetched_at_utc": "2026-10-08T00:56:53Z",
+      "updated_at_utc": "2026-10-08T00:56:53Z",
+      "summary_ja": "化学合成セマグルチド（HD1916）が参照品セマグルチド（Wegovy）と治療的に同等かを評価する、中国30施設での多施設・無作為化・オープンラベル・活性対照第III相試験。BMI≥28 kg/m²の糖尿病を伴わない肥満成人462名を1:1でHD1916群またはセマグルチド群に無作為化し、44週間週1回皮下投与した。主要エンドポイントはベースラインから44週までの体重変化率（%）であり、群間差の95%信頼区間が±4.16%の範囲内であれば同等性と判定した。",
+      "key_takeaway_ja": "HD1916は参照品セマグルチド（Wegovy）と体重減少において治療的同等性を示し、安全性プロファイルも同等であった。",
+      "why_matters_ja": "化学合成セマグルチド（HD1916）が参照品セマグルチド（Wegovy）と治療的に同等であることを確認し、肥満治療におけるセマグルチド製剤の選択肢を拡大する根拠を提供する。",
+      "study_type_ja": "多施設・無作為化・オープンラベル・活性対照第III相試験",
+      "endpoints_ja": "主要エンドポイント：ベースラインから44週までの体重変化率（%）。主要な二次エンドポイント：≥5%および≥10%の体重減少を達成した被験者の割合、腹囲の変化。",
+      "endpoint_results_ja": "44週時の平均体重減少：HD1916群 13.1%、セマグルチド群 14.4%。群間差の推定値：1.35%（95% CI, -0.02〜2.72）。≥5%体重減少達成率：HD1916群 87.8% vs セマグルチド群 90.5%。≥10%体重減少達成率：HD1916群 68.7% vs セマグルチド群 73.6%。全グレードの投与関連有害事象：HD1916群 86.5%、セマグルチド群 89.2%（大半はGrade 1-2）。",
+      "sample_size_ja": "462名（HD1916群 231名、セマグルチド群 231名）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-08T00:58:47Z"
+    },
+    {
+      "pmid": "42838854",
+      "title": "Temporal trends in GLP-1 receptor agonist and SGLT2 inhibitor dispensing during pregnancy in Manitoba, Canada, 2015-2023.",
+      "abstract": "GLP-1 receptor agonists (GLP-1 RAs) and SGLT2 inhibitors are widely prescribed for type 2 diabetes and cardiometabolic conditions. Using population-based Manitoba administrative health data, we retrospectively examined yearly dispensing trends across 171,103 pregnancies between January 2015 and March 2023. SGLT2 inhibitor dispensing rose from 1.05 per 1000 pregnancies in 2016 to 2.40 in 2022, while GLP-1 RA dispensing increased from 0.44 in 2021 to 3.72 in 2023, indicating a marked recent increase for GLP-1 RAs. Dispensing of either medication class was 3.37 per 1000 pregnancies in 2022. We found that although dispensing of these medications was low, it increased over time.",
+      "journal": "Obesity research & clinical practice",
+      "authors": "Peymani Payam, Aboulatta Laila, Khan Mohd Wasif, Dragan Roxana, Eltonsy Sherif",
+      "pub_date": "2026-10-06",
+      "doi": "10.1016/j.orcp.2026.10.001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42838854/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5aca1ab2d34cce97aec68cac0d63cf83b1c3f9781e1b69219bcfb65c12978f58",
+      "fetched_at_utc": "2026-10-08T00:56:53Z",
+      "updated_at_utc": "2026-10-08T00:56:53Z",
+      "summary_ja": "カナダ・マニトバ州の人口ベースの管理医療データを用い、2015年1月から2023年3月までの171,103件の妊娠におけるGLP-1受容体作動薬（GLP-1 RA）とSGLT2阻害薬の年間処方（dispensing）トレンドを後向きに検討した。SGLT2阻害薬の処方率は2016年の1,000妊娠あたり1.05から2022年の2.40に上昇し、GLP-1 RAの処方率は2021年の0.44から2023年の3.72に増加した。いずれかの薬剤クラスの処方率は2022年に1,000妊娠あたり3.37であった。",
+      "key_takeaway_ja": "妊娠中のGLP-1 RAおよびSGLT2阻害薬の処方率は低かったものの、時間とともに増加しており、特にGLP-1 RAでは近年の顕著な増加が認められた。",
+      "why_matters_ja": "GLP-1 RAとSGLT2阻害薬は2型糖尿病や心代謝疾患に広く処方されているが、妊娠中の使用は胎児への安全性の観点から懸念される。妊娠中の処方率が増加傾向にあることは、妊婦への不適切な曝露リスクの増加を示唆し、臨床的な注意を要する。",
+      "study_type_ja": "後向き観察研究（人口ベースの管理医療データを用いた処方トレンド分析）",
+      "endpoints_ja": "妊娠中のGLP-1 RAおよびSGLT2阻害薬の処方率（1,000妊娠あたり）の年次トレンド",
+      "endpoint_results_ja": "SGLT2阻害薬：2016年 1.05/1,000妊娠 → 2022年 2.40/1,000妊娠。GLP-1 RA：2021年 0.44/1,000妊娠 → 2023年 3.72/1,000妊娠。いずれかの薬剤クラス：2022年 3.37/1,000妊娠。",
+      "sample_size_ja": "171,103件の妊娠",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-08T00:59:11Z"
+    },
+    {
+      "pmid": "42838477",
+      "title": "Design and baseline characteristics of the CagriSema cardiovascular outcomes trial (REDEFINE 3).",
+      "abstract": "IMPORTANCE: Cagrilintide-semaglutide (CagriSema) is a fixed-dose combination of the amylin receptor agonist cagrilintide and the glucagon-like peptide-1 receptor agonist semaglutide administered subcutaneously once weekly. CagriSema has demonstrated significant weight reduction and improved glycemic control in participants with excess adiposity and type 2 diabetes (T2D).\nMETHODS: REDEFINE 3 is a double-blind, randomized, placebo-controlled trial involving participants with established cardiovascular disease (CVD) and body mass index (BMI) ≥25.0 kg/m2 with/without T2D randomized to CagriSema 2.4 mg/2.4 mg or placebo, plus standard of care. The safety objective is to confirm noninferiority of CagriSema compared with placebo on cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke (MACE-3). The efficacy objective is to confirm the superiority of CagriSema compared with placebo on cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or revascularization (MACE-4).\nRESULTS: Between 1/2023-12/2024, 7076 adults at 575 sites in 24 countries were randomized. Mean age at baseline was 66 years. BMI ≥30 kg/m2 was present in 76% of participants (n=5370). In participants with T2D (n=4348, 61%), the mean duration of T2D was 12 years and mean glycated hemoglobin was 7.7%. Most participants had a prior myocardial infarction (n=4369, 62%). Prior stroke (n=1311, 19%) and peripheral arterial disease (n=769, 11%) were less common, and 617 participants (9%) had more than one qualifying CVD criteria.\nCONCLUSION: The REDEFINE 3 trial will provide evidence regarding the cardiovascular safety and efficacy of CagriSema, a novel fixed-dose combination therapy that could improve cardiovascular outcomes in a broad population of people with established CVD and excess adiposity.\nTRIAL REGISTRATION: The REDEFINE 3 trial is registered at ClinicalTrials.gov (NCT05669755).",
+      "journal": "American heart journal",
+      "authors": "Cavender Matthew A, Jastreboff Ania M, Cheng Alice Y Y, Davies Melanie J, Donaldson Lucienne, Gerlach Lars-Ole, Gylvin Silas Hinsch, Jacobsen Jacob Bonde",
+      "pub_date": "2026-10-06",
+      "doi": "10.1016/j.ahj.2026.107626",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42838477/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d82c4df607e5f9ff71c9d99c74ae57a466323445df3525504785a15f8f2eb2b1",
+      "fetched_at_utc": "2026-10-08T00:56:53Z",
+      "updated_at_utc": "2026-10-08T00:56:53Z",
+      "summary_ja": "REDEFINE 3は、確立した心血管疾患（CVD）を有しBMI≥25.0 kg/m²の参加者を対象とした、CagriSema（カグリリンチド2.4 mg＋セマグルチド2.4 mg）とプラセボの比較を評価する二重盲検・ランダム化・プラセボ対照試験である。本論文は試験のデザインとベースライン特性を報告する。2023年1月から2024年12月にかけて、24カ国の575施設で7,076名がランダム化された。ベースライン平均年齢は66歳、BMI≥30 kg/m²は76%、T2Dを有する参加者は61%（平均T2D罹病期間12年、平均HbA1c 7.7%）、既往心筋梗塞は62%であった。",
+      "key_takeaway_ja": "本論文はREDEFINE 3試験のデザインとベースライン特性を報告するものであり、確立したCVDを有する肥満・過体重の広範な集団におけるCagriSemaの心血管安全性・有効性を評価する大規模試験の参加者プロファイルを示している。",
+      "why_matters_ja": "CagriSemaはアミリン受容体作動薬とGLP-1受容体作動薬の固定用量配合という新規な治療法であり、確立したCVDを有する過剰体脂肪を有する広範な集団において心血管転帰を改善する可能性を有するため、心血管安全性・有効性のエビデンスは臨床的に重要である。",
+      "study_type_ja": "二重盲検・ランダム化・プラセボ対照試験（デザイン・ベースライン特性報告）",
+      "endpoints_ja": "安全性目的：MACE-3（心血管死、非致死性心筋梗塞、非致死性脳卒中）におけるCagriSemaのプラセボに対する非劣性。有効性目的：MACE-4（心血管死、非致死性心筋梗塞、非致死性脳卒中、再血管化）におけるCagriSemaのプラセボに対する優越性。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "7,076名（24カ国575施設でランダム化）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-08T00:59:52Z"
     },
     {
       "pmid": "42837145",
@@ -245,6 +458,42 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
       "summary_generated_at_utc": "2026-10-07T00:38:39Z"
+    },
+    {
+      "pmid": "42840232",
+      "title": "Cardiovascular outcomes with tirzepatide versus semaglutide in type 2 diabetes.",
+      "abstract": "PURPOSE: tirzepatide is associated with greater glycemic control and weight reduction compared to semaglutide in patients with T2D. Tirzepatide has also been recently shown to be non-inferior to dulaglutide in cardiovascular risk reduction among patients with T2D. Whether tirzepatide is more or less effective than semaglutide for cardioprotection is underexplored.\nMETHODS: The Research Collaborative Network of the TriNetX platform was accessed to collect de-identified, real world data on patients with T2D and compare the incidence of a composite of cardiovascular outcomes including acute myocardial infarction, stroke and acute heart failure, as well as all-cause mortality between patients who used tirzepatide and patients who used semaglutide during the period May 13, 2022 to Aug 11, 2026. One-to-one propensity score matching was applied to control for possible confounding covariates.\nRESULTS: two well-matched cohorts (N = 271,685 for each) were analyzed. Compared to the semaglutide group, the tirzepatide group had lower incidences of the primary composite outcome (4.6% vs. 5.5%; absolute risk difference [ARD] -0.9%, 95% confidence interval [CI] -1.01 to -0.77; hazard ratio [HR] 0.9, 95% CI 0.92─0.96) and all-cause mortality (0.6% vs. 0.9%; ARD - 0.3%, 95% CI -0.33 to -0.24; HR 0.8, 95% CI 0.74─0.84).\nCONCLUSION: Tirzepatide was associated with lower risk of a composite of outcome of cardiovascular events as well as all-cause mortality compared to semaglutide in patients with T2D.\nCLINICAL TRIAL REGISTRATION: Clinical trial number: not applicable.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40200-026-02087-z.",
+      "journal": "Journal of diabetes and metabolic disorders",
+      "authors": "Al-Nusair Mohammed, Khurana Shriya, Eysha Mostafa, Elchouemi Mohanad, Zaki Islam H",
+      "pub_date": "2026-10-05",
+      "doi": "10.1007/s40200-026-02087-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840232/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c003ff4fb63b6ba3fe218237d8f1c7c33f494aef802d9c440e55fbb8d992a74c",
+      "fetched_at_utc": "2026-10-08T00:56:53Z",
+      "updated_at_utc": "2026-10-08T00:56:53Z",
+      "summary_ja": "TriNetXプラットフォームの匿名化リアルワールドデータを用い、2型糖尿病患者においてtirzepatide群とsemaglutide群の心血管アウトカム（急性心筋梗塞、脳卒中、急性心不全の複合）および全死因死亡率を比較した後ろ向き観察研究。1対1の傾向スコアマッチングを適用し、2022年5月13日から2026年8月11日までの期間で解析を行った。",
+      "key_takeaway_ja": "2型糖尿病患者において、tirzepatideはsemaglutideと比較して心血管イベントの複合アウトカムおよび全死因死亡率のリスクが有意に低かった。",
+      "why_matters_ja": "tirzepatideとsemaglutideの心保護効果の優劣は未解明であったが、本リアルワールド研究は両薬剤の心血管アウトカムにおける相対的優位性を示す証拠を提供する。",
+      "study_type_ja": "後ろ向き観察研究（リアルワールドデータ、TriNetXプラットフォーム、1対1傾向スコアマッチング）",
+      "endpoints_ja": "主要エンドポイント：心血管アウトカムの複合（急性心筋梗塞、脳卒中、急性心不全）；副次エンドポイント：全死因死亡率",
+      "endpoint_results_ja": "主要複合アウトカム：tirzepatide群 4.6% vs semaglutide群 5.5%；絶対リスク差（ARD）-0.9%（95%CI -1.01〜-0.77）；ハザード比（HR）0.9（95%CI 0.92〜0.96）。全死因死亡率：tirzepatide群 0.6% vs semaglutide群 0.9%；ARD -0.3%（95%CI -0.33〜-0.24）；HR 0.8（95%CI 0.74〜0.84）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-08T01:00:14Z"
     },
     {
       "pmid": "42834385",
@@ -705,6 +954,40 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-03T00:26:44Z"
+    },
+    {
+      "pmid": "42842253",
+      "title": "Early Adoption and Diffusion of Oral Semaglutide in US Adults With Obesity.",
+      "abstract": "",
+      "journal": "JAMA network open",
+      "authors": "Lei Yuqing, Tang Huilin, Jian Xinyao, Asch David A, Chen Yong",
+      "pub_date": "2026-10-01",
+      "doi": "10.1001/jamanetworkopen.2026.37779",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842253/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "cfb9f0ca7522454ce7f85e052be619b846e1607bc1746a0635585aea782fc9ee",
+      "fetched_at_utc": "2026-10-08T00:56:53Z",
+      "updated_at_utc": "2026-10-08T00:56:53Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-08T00:56:53Z"
     },
     {
       "pmid": "42823625",
@@ -5030,289 +5313,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-19T22:59:46Z"
-    },
-    {
-      "pmid": "42747817",
-      "title": "Efficacy and Safety of Semaglutide According to Frailty Status: A Post Hoc Analysis of the SELECT Randomized Clinical Trial.",
-      "abstract": "IMPORTANCE: Whether frailty influences the benefit-risk balance of glucagon-like peptide-1 receptor agonists (GLP-1 RA) is uncertain.\nOBJECTIVE: To evaluate whether frailty modifies the efficacy and safety of the GLP-1 RA semaglutide in adults with cardiovascular disease and overweight/obesity.\nDESIGN, SETTING, AND PARTICIPANTS: In this secondary analysis of a randomized clinical trial, participants were adults with a body mass index of 27 or higher and established cardiovascular disease without diabetes. A 31-item frailty index (FI) was constructed using the Rockwood cumulative deficit approach; participants were categorized as not frail (FI ≤0.210), more frail (FI 0.211-0.310), and most frail (FI ≥0.311).\nINTERVENTIONS: Semaglutide, 2.4 mg, once weekly or placebo.\nMAIN OUTCOMES AND MEASURES: The primary composite outcome was cardiovascular death, nonfatal myocardial infarction, and nonfatal stroke. Key secondary clinical outcomes, health-related quality-of-life (assessed by EuroQol 5-Dimension 5-Level [EQ-5D-5L] score), and safety events were additionally examined.\nRESULTS: Of 17 604 participants, the mean (SD) age was 61.6 (8.9) years; 12 732 patients (72.3%) were male and 4872 were female (27.7%). A total of 5432 patients (31%) had an FI up to 0.210, 8349 (47%) had an FI of 0.211 to 0.310, and 3823 (22%) had an FI 0.311 or higher. The incidence of the primary outcome increased with higher baseline FI. Benefits of semaglutide vs placebo on the primary outcome appeared consistent across the FI categories (hazard ratio [HR], 0.84; 95% CI, 0.65-1.07, if the FI was ≤0.210; HR, 0.70; 95% CI, 0.59-0.82, if the FI was 0.211-0.310; HR, 0.92; 95% CI, 0.76-1.10, if the FI was ≥0.311; P = .09 for interaction). Similar findings were observed when the FI was examined continuously (P = .30 for interaction). Semaglutide additionally reduced the composite heart failure outcome (P = .82 for interaction), all-cause hospitalization (P = .71 for interaction), and all-cause mortality (P = .28 for interaction) regardless of FI category. Benefits of semaglutide on EQ-5D-5L scores appeared larger with higher FI (P = .02 for interaction). Between baseline and week 104, FI category was more likely to improve (odds ratio [OR], 2.46; 95% CI, 1.80-3.37), and less likely to worsen (OR, 0.47; 95% CI, 0.34-0.65) with semaglutide vs placebo. The HRs for adverse events leading to permanent discontinuation of semaglutide vs placebo appeared lower among participants with higher baseline FI (P < .001 for interaction).\nCONCLUSIONS AND RELEVANCE: This study found that semaglutide demonstrated beneficial effects on a broad range of clinical outcomes in SELECT, without detectable heterogeneity by baseline FI. Benefits of semaglutide on health-related quality of life appeared greater with higher FI.\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03574597.",
-      "journal": "JAMA cardiology",
-      "authors": "Ostrominski John W, Plutzky Jorge, Scirica Benjamin M, Hovingh G Kees, Jeppesen Ole Kleist, Lincoff A Michael, Lingvay Ildiko, Hoffmann Morville Thomas",
-      "pub_date": "2026-09-16",
-      "doi": "10.1001/jamacardio.2026.3566",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747817/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "a258409731451b788e798835fb423fc047265e0f14a640f64db2b8b2bca60c70",
-      "fetched_at_utc": "2026-09-16T23:37:55Z",
-      "updated_at_utc": "2026-09-16T23:37:55Z",
-      "summary_ja": "SELECT無作為化臨床試験の事後解析（post hoc analysis）であり、心血管疾患を有し糖尿病を有しない過体重/肥満成人において、31項目のfrailty index（FI）を用いた虚弱度分類（非虚弱：FI≤0.210、やや虚弱：FI 0.211-0.310、最も虚弱：FI≥0.311）が、semaglutide 2.4 mg週1回 vs プラセボの有効性及び安全性にどのように影響するかを評価した。",
-      "key_takeaway_ja": "Semaglutideは虚弱度（FI）の分類を問わず、主要複合心血管アウトカム（心血管死、非致死性心筋梗塞、非致死性脳卒中）に対して一貫した有益性を示し、虚弱度による有意な異質性は検出されなかった。一方、健康関連QOL（EQ-5D-5Lスコア）への有益性はFIが高いほど大きく、semaglutideはFIの改善を促進し悪化を抑制した。",
-      "why_matters_ja": "心血管疾患患者において虚弱は治療意思決定に影響しうるが、GLP-1 RAのbenefit-risk balanceが虚弱度によって変調されるかは不明であった。本解析は、semaglutideの心血管保護効果が虚弱度に関わらず一貫していることを示し、虚弱患者における治療判断の根拠を提供する。",
-      "study_type_ja": "無作為化臨床試験（SELECT試験）の事後解析（post hoc analysis / secondary analysis）",
-      "endpoints_ja": "主要複合アウトカム：心血管死、非致死性心筋梗塞、非致死性脳卒中。主要二次アウトカム：複合心不全アウトカム、全原因入院、全原因死亡。健康関連QOL：EQ-5D-5Lスコア。安全性：semaglutideの永続的中止に至る有害事象。その他：FIカテゴリの改善・悪化。",
-      "endpoint_results_ja": "主要複合アウトカム（semaglutide vs プラセボ）：FI≤0.210でHR 0.84（95% CI 0.65-1.07）、FI 0.211-0.310でHR 0.70（95% CI 0.59-0.82）、FI≥0.311でHR 0.92（95% CI 0.76-1.10）、交互作用P=.09。FIを連続変数として解析：交互作用P=.30。複合心不全アウトカム：交互作用P=.82。全原因入院：交互作用P=.71。全原因死亡：交互作用P=.28。EQ-5D-5Lスコア：交互作用P=.02。FIカテゴリの改善：OR 2.46（95% CI 1.80-3.37）。FIカテゴリの悪化：OR 0.47（95% CI 0.34-0.65）。semaglutideの永続的中止に至る有害事象：交互作用P<.001。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-16T23:38:26Z"
-    },
-    {
-      "pmid": "42747716",
-      "title": "Obesity-Associated Osteoarthritis: Mechanical-Metabolic Pathogenesis, Obesity Memory and Dual-Target Therapy.",
-      "abstract": "PURPOSE OF REVIEW: Given the global obesity epidemic, osteoarthritis (OA) incidence is expected to rise, posing a substantial public health burden. This review covers epidemiological associations of obesity and OA, controversial mechanisms, and current prevention and treatment limitations. Based on these insights, we propose a dual‑target treatment strategy for obesity‑induced OA.\nRECENT FINDINGS: Leptin signaling and mechanical overload from excess adiposity independently drive OA pathogenesis, whereas obesity‑related adipose dysfunction exerts its pathogenic effects only in the presence of mechanical loading. Obesity‑induced residual memory may persist and sustain joint damage even after weight loss and metabolic improvement. Evidence‑based weight loss strategies should be implemented to prevent OA, with the preventive window for obesity shifting to infancy. Given the limited and controversial structural benefits of current clinical interventions, a dual‑target strategy combining weight loss with memory‑targeted interventions is warranted. This review provides new insights into the debate on mechanical versus metabolic mechanisms in obesity‑induced OA, clarifying their relative contributions. Earlier obesity prevention interventions offer a broader window for OA prevention. Given these limitations, a dual‑target strategy addressing both excessive fat accumulation and its persistent adverse effects may represent a promising clinical direction, with particular potential for repurposing FDA‑approved agents such as semaglutide and metformin in this context.",
-      "journal": "Current obesity reports",
-      "authors": "Wang Yudan, Fan Xinhao, Gao Jingyuan, Xing Lei, Tian Faming",
-      "pub_date": "2026-09-16",
-      "doi": "10.1007/s13679-026-00761-0",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747716/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Osteoarthritis",
-        "Obesity",
-        "Weight Loss",
-        "Leptin",
-        "Animals",
-        "Semaglutide"
-      ],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "a0d885200d12ce18266d2c5c95aa72d05c061c3b615ae411281180443e0c99f5",
-      "fetched_at_utc": "2026-09-16T23:37:55Z",
-      "updated_at_utc": "2026-09-16T23:37:55Z",
-      "summary_ja": "肥満関連骨関節炎（OA）の疫学的関連、機械的・代謝的メカニズムの論争、および現在の予防・治療の限界をレビューし、肥満誘発OAに対する二重ターゲット治療戦略（減量＋記憶ターゲット介入）を提案した総説。",
-      "key_takeaway_ja": "肥満関連の残存記憶（obesity memory）は減量や代謝改善後も持続し関節損傷を維持しうるため、減量と記憶ターゲット介入を組み合わせる二重ターゲット戦略が臨床的に有望である。",
-      "why_matters_ja": "世界的な肥満流行によりOAの発症増加が予測され、公衆衛生上の重大な負担となる。現在の臨床介入は構造的効果に限界があり、新たな治療方向性が求められる。",
-      "study_type_ja": "総説（Review）",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-16T23:38:38Z"
-    },
-    {
-      "pmid": "42747605",
-      "title": "GLP-1 Receptor Agonists in Pulmonary Hypertension: Mechanistic Rationale, Preclinical Evidence, and Clinical Knowledge Gaps.",
-      "abstract": "BACKGROUND: Pulmonary hypertension (PH) frequently coexists with type 2 diabetes mellitus, obesity, and heart failure with preserved ejection fraction (HFpEF), particularly in World Symposium on Pulmonary Hypertension (WSPH) Group 2 disease. Glucagon-like peptide-1 (GLP-1) receptor agonists and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists improve several cardiometabolic conditions and have anti-inflammatory and vascular effects. Whether these agents directly modify pulmonary haemodynamics or clinical outcomes in PH remains unknown.\nMETHODS: A structured narrative review was conducted using PubMed/MEDLINE and Google Scholar from database inception through March 2026, with additional studies identified by reference-list screening. Search terms encompassed GLP-1 receptor agonists, dual GIP/GLP-1 receptor agonists, pulmonary hypertension, pulmonary vascular remodelling, endothelial dysfunction, inflammation, and HFpEF. The structured search yielded 491 unique PubMed/MEDLINE records. Of these, 189 were assessed at full-text level alongside 40 additional articles identified through reference-list screening; 67 publications were included in the final synthesis. Evidence was organized by mechanism, experimental model, WSPH group, and whether PH evidence was direct or indirect.\nRESULTS: GLP-1 receptor expression has been demonstrated in pulmonary arterial smooth muscle in human and non-human primate tissue and in selected alveolar cell populations in rodent studies; however, available studies do not establish greater expression in pulmonary than systemic vascular smooth muscle. GLP-1 receptor signalling modulates inflammatory, endothelial nitric oxide, endothelin-1, and mitochondrial pathways relevant to PH. In monocrotaline- and hypoxia-induced models that primarily resemble Group 1 pre-capillary pulmonary arterial hypertension (PAH), liraglutide reduced right ventricular pressures or hypertrophy and pulmonary vascular remodelling, while semaglutide improved right ventricular mitochondrial and functional measures in an experimental pressure-overload model. By contrast, available human evidence is observational or derived indirectly from HFpEF studies, involves populations likely enriched for Group 2 or unclassified PH, and lacks prespecified, catheterization-confirmed PH endpoints. Consequently, these studies do not establish that GLP-1-based therapy prevents or treats PH.\nCONCLUSIONS: Current evidence supports a mechanistic hypothesis and a preclinical signal, not clinical efficacy in PH. Future cardiometabolic and HFpEF trials should incorporate standardized PH and right ventricular measures, and dedicated prospective studies with haemodynamic classification are required before GLP-1-based therapies can be considered for PH.",
-      "journal": "Lung",
-      "authors": "Allaham Laith, King Baylee, Ali Fahiye, Gupta Ishita, Metuku Rajesh, Nieto Isabella, Lurie Andrew, Amer Farah N",
-      "pub_date": "2026-09-16",
-      "doi": "10.1007/s00408-026-00939-2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747605/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Hypertension, Pulmonary",
-        "Glucagon-Like Peptide-1 Receptor Agonists",
-        "Animals",
-        "Glucagon-Like Peptide-1 Receptor",
-        "Vascular Remodeling",
-        "Gastric Inhibitory Polypeptide"
-      ],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "9fe58f10d6526617f6a87b2ab5c181809e66cb8dd8ae2db15c2ecb73d5836a90",
-      "fetched_at_utc": "2026-09-16T23:37:55Z",
-      "updated_at_utc": "2026-09-16T23:37:55Z",
-      "summary_ja": "GLP-1受容体作動薬が肺高血圧症（PH）の肺血流力学的パラメータや臨床転帰に直接影響を与えるかどうかを、機能的根拠・前臨床エビデンス・臨床的知識ギャップの観点から構造化ナラティブレビューとして検討した。PubMed/MEDLINEおよびGoogle Scholarから2026年3月まで検索し、最終的に67件の出版物を統合した。GLP-1受容体は肺動脈平滑筋に発現しており、炎症・内皮NO・エンドセリン-1・ミトコンドリア経路を調節する。前臨床モデル（モノクロタリン誘発・低酸素誘発）ではリラグルチドが右室圧・右室肥大・肺血管リモデリングを軽減し、セマグルチドが右室ミトコンドリア機能指標を改善した。一方、ヒトのエビデンスは観察研究またはHFpEF研究からの間接的なものであり、カテーテル確認されたPHエンドポイントが预设されていない。",
-      "key_takeaway_ja": "現在のエビデンスはGLP-1受容体作動薬のPHに対する機能的仮説と前臨床シグナルを支持するが、臨床的有効性を確立するものではない。",
-      "why_matters_ja": "肺高血圧症は2型糖尿病・肥満・HFpEFと頻繁に併存し、特にWSPH Group 2疾患で顕著である。GLP-1受容体作動薬はこれらの心代謝疾患に広く使用されているため、肺血流力学的パラメータに直接影響を与えるかどうかの解明は、患者管理および今後の臨床試験設計において重要である。",
-      "study_type_ja": "構造化ナラティブレビュー（Journal Article, Review）",
-      "endpoints_ja": "肺血流力学的パラメータ（右室圧、右室肥大、肺血管リモデリング、右室ミトコンドリア機能指標）およびPHの臨床転帰。ヒト研究ではカテーテル確認されたPHエンドポイントが预设されていない。",
-      "endpoint_results_ja": "抄録に具体的な数値は記載なし。前臨床モデルにおいてリラグルチドが右室圧または右室肥大・肺血管リモデリングを軽減し、セマグルチドが右室ミトコンドリア機能指標を改善したと定性的に記述されているのみ。",
-      "sample_size_ja": "本稿はレビューであり、患者サンプルサイズは記載なし。検索から491件のPubMed/MEDLINEレコードを抽出し、189件を全文評価、参考文献リストから40件を追加し、最終的に67件の出版物を統合した。",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-16T23:39:07Z"
-    },
-    {
-      "pmid": "42747354",
-      "title": "Fragility metrics are the wrong tool for finerenone's cardiovascular evidence.",
-      "abstract": "",
-      "journal": "European journal of heart failure",
-      "authors": "Biswas Shankar, Srivastava Yashasvi, Bandaru Susruth Kumar",
-      "pub_date": "2026-09-16",
-      "doi": "10.1093/ejhf/xuag228",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747354/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "finerenone"
-      ],
-      "matched_companies": [
-        "Bayer"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "ddb2746d989fae4f0289cda4908583df52b7b06f5baede53f2e25279c798d4c2",
-      "fetched_at_utc": "2026-09-16T23:37:55Z",
-      "updated_at_utc": "2026-09-16T23:37:55Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-16T23:37:55Z"
-    },
-    {
-      "pmid": "42747340",
-      "title": "Interpreting fragility indices in finerenone trials: complementary insights into statistical stability.",
-      "abstract": "",
-      "journal": "European journal of heart failure",
-      "authors": "Zuin Marco, Piazza Gregory",
-      "pub_date": "2026-09-16",
-      "doi": "10.1093/ejhf/xuag198",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747340/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "finerenone"
-      ],
-      "matched_companies": [
-        "Bayer"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "2fb81067d648b2e039527646b39f6f9c3089e6b4a7e036dfe04b2d39a40e13ef",
-      "fetched_at_utc": "2026-09-16T23:37:55Z",
-      "updated_at_utc": "2026-09-16T23:37:55Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-16T23:37:55Z"
-    },
-    {
-      "pmid": "42746999",
-      "title": "Adjunctive GLP-1 receptor agonists for cardiometabolic risk in antipsychotic-treated patients: A GRADE-assessed meta-analysis of randomized trials.",
-      "abstract": "BACKGROUND: Patients with schizophrenia spectrum or bipolar disorders have reduced life expectancy due to cardiometabolic risk. We conducted this meta-analysis to evaluate glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for their effects on cardiometabolic outcomes.\nMETHODS: We systematically searched PubMed, Embase, Scopus, Web of Science, and Cochrane up to May 2026 for randomized controlled trials (RCTs). We pooled continuous outcomes as mean differences (MDs) and dichotomous outcomes as risk ratios (RRs) using random-effects models with 95% confidence intervals (CIs).\nRESULTS: We included 8 RCTs with 664 patients. Compared with control, GLP-1 RA significantly reduced body weight (MD: -6.74, 95% CI: -10.05 to -3.43), body mass index (BMI; MD: -2.37 kg/m2, 95% CI: -3.52 to -1.23), waist circumference (MD: -4.27 cm, 95% CI: -6.65 to -1.89), HbA1c (MD: -0.61%, 95% CI: -1.06 to -0.17), and fasting glucose (MD: -6.82, 95% CI: -11.89 to -1.76). Subgroup analyses by GLP-1 RA type showed that semaglutide produced the greatest reductions in body weight (MD: -11.06 kg) and BMI (MD: -3.60 kg/m2), with significant between-subgroup differences (p < 0.05). Adverse events (AEs; p = 0.77), serious AEs (p = 0.09), and discontinuation due to AEs (p = 0.20) were similar between groups. However, GLP-1 RA was associated with a significantly higher risk of gastrointestinal (GI) AEs, including nausea, vomiting, and constipation (all p < 0.01).\nCONCLUSION: GLP-1RA, particularly semaglutide, was associated with clinically meaningful improvements in antipsychotic-related cardiometabolic outcomes without compromising psychiatric stability or treatment adherence. However, the significant increase in GI AEs necessitates careful clinical titration. Larger RCTs with longer follow-up are needed to confirm these findings.",
-      "journal": "Journal of psychopharmacology (Oxford, England)",
-      "authors": "Moubarak Elsayed S, Elgendy Mohamed S, Elkoumi Omar, Ibrahim Ahmed A, Manasrah AlMothana, Ahmad Jamal, Hassan Malak A, Rageh Omar ElSayed",
-      "pub_date": "2026-09-16",
-      "doi": "10.1177/02698811261478625",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42746999/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "5a7dcfd3ac50ac43ffce5390d7dbff68c29efe25dcc4d0ef7ee378e096d2eb89",
-      "fetched_at_utc": "2026-09-16T23:37:55Z",
-      "updated_at_utc": "2026-09-16T23:37:55Z",
-      "summary_ja": "抗精神病薬治療中の統合失調症スペクトラム障害または双極性障害患者における心血管代謝リスクを評価するため、GLP-1受容体作動薬（GLP-1 RA）の心血管代謝アウトカムへの影響を評価したGRADE評価付きメタ分析。PubMed、Embase、Scopus、Web of Science、Cochraneを2026年5月まで系統的検索し、8件のRCT（664例）を含む。ランダム効果モデルを用い、連続アウトカムは平均差（MD）、二値アウトカムはリスク比（RR）として集約した。",
-      "key_takeaway_ja": "GLP-1 RA、特にセマグルチドは、抗精神病薬関連の心血管代謝アウトカム（体重、BMI、腹囲、HbA1c、空腹時血糖）に臨床的に有意な改善を示したが、消化管有害事象（悪心、嘔吐、便秘）の有意な増加を伴う。",
-      "why_matters_ja": "統合失調症スペクトラム障害または双極性障害患者は心血管代謝リスクにより予後が短縮されるが、GLP-1 RAが抗精神病薬関連の代謝合併症に対して精神安定性や治療アドヒアランスを損なわずに改善をもたらす可能性を示した。ただし消化管AEの増加により慎重な用量調整が必要であり、より長期の追跡を伴う大規模RCTが今後の課題である。",
-      "study_type_ja": "メタ分析（GRADE評価付き、ランダム化比較試験8件の系統的レビュー）",
-      "endpoints_ja": "体重、BMI、腹囲、HbA1c、空腹時血糖、有害事象（AE）、重篤な有害事象（SAE）、AEによる中止、消化管有害事象（悪心、嘔吐、便秘）",
-      "endpoint_results_ja": "体重: MD -6.74（95% CI: -10.05〜-3.43）；BMI: MD -2.37 kg/m2（95% CI: -3.52〜-1.23）；腹囲: MD -4.27 cm（95% CI: -6.65〜-1.89）；HbA1c: MD -0.61%（95% CI: -1.06〜-0.17）；空腹時血糖: MD -6.82（95% CI: -11.89〜-1.76）；セマグルチドサブグループ: 体重 MD -11.06 kg、BMI MD -3.60 kg/m2（サブグループ間差 p<0.05）；AE: p=0.77；SAE: p=0.09；AEによる中止: p=0.20；消化管AE（悪心、嘔吐、便秘）: すべて p<0.01",
-      "sample_size_ja": "8件のRCT、計664例",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-16T23:40:14Z"
-    },
-    {
-      "pmid": "42827671",
-      "title": "Comment on \"Precision-guided heart failure interventions: The expanding role of advanced cardiac imaging and artificial intelligence\".",
-      "abstract": "",
-      "journal": "American heart journal plus : cardiology research and practice",
-      "authors": "Selvapriya B, Deepak Kumar B N",
-      "pub_date": "2026-09-15",
-      "doi": "10.1016/j.ahjo.2026.100894",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42827671/",
-      "publication_types": [
-        "Letter"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "5a948144c41f16598a1ffcac7e203b20dfe25e01966d1dd47947a2177b036639",
-      "fetched_at_utc": "2026-10-04T23:56:09Z",
-      "updated_at_utc": "2026-10-04T23:56:09Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-10-04T23:56:09Z"
-    },
-    {
-      "pmid": "42812212",
-      "title": "Beauty standards and reproductive health: increasing use of GLP-1 receptor agonists despite limited evidence.",
-      "abstract": "",
-      "journal": "Frontiers in endocrinology",
-      "authors": "de Matos Sophia Martins Simon, Faccini Lilith Schuler, Vianna Fernanda Sales Luiz, Fraga Lucas Rosa",
-      "pub_date": "2026-09-15",
-      "doi": "10.3389/fendo.2026.1911235",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42812212/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "a4c6ccde2e3f8aeb6d752b9ee9e6e19d5bbbfb199fbe19f63196d78be3831f72",
-      "fetched_at_utc": "2026-10-01T00:31:18Z",
-      "updated_at_utc": "2026-10-01T00:31:18Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-10-01T00:31:18Z"
     }
   ]
 }
