@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-08T01:00:58Z",
+  "generated_at_utc": "2026-10-09T01:15:39Z",
   "items": [
     {
       "pmid": "42805503",
@@ -70,6 +70,242 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42844892",
+      "title": "Beyond body mass index: A contemporary review of obesity and female infertility.",
+      "abstract": "Obesity is increasingly understood as a reproductive-metabolic condition that can affect female fertility across the continuum from natural conception to assisted reproductive technology (ART). Excess adiposity may disrupt hypothalamic-pituitary-ovarian regulation, insulin signaling, inflammatory pathways, ovarian function, oocyte competence, embryo development, and endometrial receptivity. This review synthesizes current evidence linking obesity with infertility, reduced ART efficiency, implantation failure, miscarriage, and reduced live birth, while emphasizing that these associations vary according to reproductive and metabolic phenotype. Particular attention is given to polycystic ovary syndrome, advanced age, diminished ovarian reserve, recurrent implantation failure, and recurrent pregnancy loss. Pre-treatment weight-loss strategies, including lifestyle intervention, glucagon-like peptide-1 receptor agonists, tirzepatide, and bariatric surgery, are also considered in relation to reproductive benefit, treatment delay, and pregnancy safety. Overall, obesity should not be treated simply as a body mass index category, but rather as a phenotype-dependent reproductive-metabolic condition that requires individualized fertility-treatment planning.",
+      "journal": "Clinical and experimental reproductive medicine",
+      "authors": "Han Jongeun, Lee Kyung Jin, Kim Seulki",
+      "pub_date": "2026-10-08",
+      "doi": "10.5653/cerm.2026.010048",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42844892/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "726f537544f46362fb98636b70c49b5c202956ed8932299f8518cf7ccbcdda85",
+      "fetched_at_utc": "2026-10-09T01:11:00Z",
+      "updated_at_utc": "2026-10-09T01:11:00Z",
+      "summary_ja": "肥満は、自然妊娠から生殖補助医療（ART）に至るまでの連続的な過程で女性不妊に影響を与える生殖・代謝性疾患として理解されつつある。本レビューは、肥満と不妊、ART効率の低下、着床失敗、流産、出生児数の減少との関連を示す現在の証拠を統合し、これらの関連が生殖・代謝フェノタイプによって異なることを強調している。多嚢胞性卵巣症候群（PCOS）、高齢、卵巣予備能低下、反復着床失敗、反復流産に特に注目し、治療前の減量戦略（生活習慣介入、GLP-1受容体作動薬、tirzepatide、肥満手術）も生殖的効果、治療遅延、妊娠安全性の観点から検討している。",
+      "key_takeaway_ja": "肥満は単なるBMIカテゴリとしてではなく、フェノタイプ依存性の生殖・代謝性疾患として捉え、個別化された不妊治療計画が必要である。",
+      "why_matters_ja": "肥満は自然妊娠からARTに至るまで女性生殖機能の多様な段階（視床下部-下垂体-卵巣軸、インスリンシグナル、炎症経路、卵巣機能、卵子能、胚発育、子宮内膜受容性）に影響を与えるため、BMIのみではなくフェノタイプに応じた個別化治療が臨床的に重要である。",
+      "study_type_ja": "レビュー（contemporary review）",
+      "endpoints_ja": "不妊、ART効率の低下、着床失敗、流産、出生児数の減少",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-09T01:11:21Z"
+    },
+    {
+      "pmid": "42848353",
+      "title": "Re: Hong et al.: Ocular Outcomes with Tirzepatide versus Glucagon-Like Peptide-1 Receptor Agonists in Type 2 Diabetes (Ophthalmol Retina. 2026;10:625-632).",
+      "abstract": "",
+      "journal": "Ophthalmology. Retina",
+      "authors": "Guang Xin, Zhang Guoyu, Wang Yuqing, Chai Hua",
+      "pub_date": "2026-10-07",
+      "doi": "10.1016/j.oret.2026.08.021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42848353/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9ab1d5f742afbdbec8b090f7bf04e6a5f4b556b8ccb1c514ea5b219cb2ce774e",
+      "fetched_at_utc": "2026-10-09T01:11:00Z",
+      "updated_at_utc": "2026-10-09T01:11:00Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-09T01:11:00Z"
+    },
+    {
+      "pmid": "42844829",
+      "title": "The Conventional Cost-Effectiveness and Distributional Cost-Effectiveness of Semaglutide for Obesity Treatment.",
+      "abstract": "OBJECTIVE: This study aimed to evaluate the conventional and distributional cost-effectiveness of semaglutide, laparoscopic sleeve gastrectomy (LSG), and a \"do nothing\" option in Black and White racial subgroups.\nMETHODS: A Markov simulation model was developed from a healthcare perspective over a 25-year time horizon for Black and White adults, aged 65-70, with BMI ≥ 35 and cardiovascular disease. Three interventions were modeled: semaglutide 2.4 mg, LSG, and \"do nothing.\"\nRESULTS: Semaglutide and LSG interventions are cost-effective compared to a \"do nothing\" strategy (ICERs = $7300/QALY and $12,100/QALY, respectively). Compared to semaglutide, LSG is more expensive but cost-effective (ICER = $53,700/QALY). Semaglutide is more equitable but is not distributionally cost-effective compared to LSG, because it has a lower EDE within our defined inequality aversion (ε) range. Across 10,000 probabilistic iterations, LSG has a 57% probability and semaglutide has a 43% probability of being the most cost-effective at the willingness-to-pay threshold of $100,000/QALY. Semaglutide becomes distributionally cost-effective when ε ≥ 14.72, where equity impacts of semaglutide outweigh the conventional cost-effectiveness outcomes.\nCONCLUSIONS: LSG is the most conventionally cost-effective treatment option with some uncertainty. Semaglutide is marginally more equitable than LSG but is not a distributionally cost-effective strategy.",
+      "journal": "Obesity (Silver Spring, Md.)",
+      "authors": "Kulkarni Neeti S, Hutton David, Rhyan Corwin, McCullough Jeffrey S, Greenlee Michaela, Pandya Ankur",
+      "pub_date": "2026-10-07",
+      "doi": "10.1002/oby.70311",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42844829/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "592d4098037018ea5686231458f21aca3d5518a7641f7bde0f2c600b7b6cb914",
+      "fetched_at_utc": "2026-10-09T01:11:00Z",
+      "updated_at_utc": "2026-10-09T01:11:00Z",
+      "summary_ja": "セマグルチド2.4 mg、腹腔鏡下スリーブ胃切除術（LSG）、および「何もしない」戦略のBlackとWhiteの成人（65〜70歳、BMI≥35、心血管疾患あり）における通常の費用対効果と分配的費用対効果を、医療機関の視点から25年間の時間軸で評価したMarkovシミュレーションモデル研究。",
+      "key_takeaway_ja": "LSGが最も通常の費用対効果が高い治療オプションである一方、セマグルチドはLSGよりわずかに公平性が高いが、定義された不平等忌避（ε）範囲内では分配的費用対効果は劣る。",
+      "why_matters_ja": "肥満治療におけるセマグルチドと外科的治療の費用対効果を人種サブグループ別に評価し、医療資源の公平な配分に関する政策意思決定に寄与する。",
+      "study_type_ja": "Markovシミュレーションモデルによる費用対効果分析（25年間、医療機関の視点）",
+      "endpoints_ja": "ICER（QALYあたりコスト）、分配的費用対効果（EDE）、WTP閾値$100,000/QALYにおける最も費用対効果が高い戦略の確率",
+      "endpoint_results_ja": "セマグルチド vs 何もしない: ICER = $7,300/QALY; LSG vs 何もしない: ICER = $12,100/QALY; LSG vs セマグルチド: ICER = $53,700/QALY; WTP $100,000/QALYにおいてLSGが最も費用対効果が高い確率57%、セマグルチド43%; セマグルチドが分配的費用対効果を持つのはε ≥ 14.72の場合",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-09T01:11:51Z"
+    },
+    {
+      "pmid": "42843896",
+      "title": "Pharmacometric analysis of dapagliflozin for triglyceride-lowering effects in Japanese patients with type 2 diabetes mellitus based on long-term real-world data and experimental analysis of dyslipidemia model rats.",
+      "abstract": "1. Although dapagliflozin, a sodium-glucose cotransporter 2 inhibitor, has shown potential triglyceride-lowering effects, the clinical evidence remains inconsistent. This study aimed to determine whether the triglyceride-lowering effect observed in patients receiving dapagliflozin was associated with dapagliflozin exposure using a pharmacometric approach integrating clinical data and a preclinical model.2. Clinical data were retrieved from 85 Japanese patients with type 2 diabetes mellitus who received dapagliflozin 5 mg/day for 12 months. Serum triglyceride levels and plasma concentrations of dapagliflozin were analyzed using a population pharmacokinetic-pharmacodynamic (PK-PD) model. In addition, dapagliflozin (0.1 or 0.2 mg/kg) was administered to poloxamer-407-induced dyslipidemia model rats to examine exposure-dependent triglyceride-lowering effects.3. Among the 18 patients with elevated serum triglyceride levels (≥150 mg/dL) at baseline, dapagliflozin significantly reduced triglyceride levels, with a mean reduction of 47 mg/dL at 12 months. The population PK-PD model captured 103 triglyceride measurements and revealed an exposure-dependent triglyceride-lowering effect. Consistently, a dose-dependent reduction in triglyceride levels was observed in the dyslipidemia model rats.4. These findings suggest that dapagliflozin exposure is associated with triglyceride-lowering effects, demonstrating an exposure-response relationship supported by pharmacometric analysis of long-term real-world data and a dyslipidemia model.",
+      "journal": "Xenobiotica; the fate of foreign compounds in biological systems",
+      "authors": "Terada Ryosuke, Kobuchi Shinji, Anada Ayaka, Watanabe Rina, Miyoshi Tatsuya, Tanide Satoru, Hiroi Kiichi, Nishiwaki Takafumi",
+      "pub_date": "2026-10-07",
+      "doi": "10.1080/00498254.2026.2745915",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843896/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "a27ca86f92187d523fb37fdcc3ddfcf0bf9128ba9dc0cf7831d04d3020611a21",
+      "fetched_at_utc": "2026-10-09T01:11:00Z",
+      "updated_at_utc": "2026-10-09T01:11:00Z",
+      "summary_ja": "本研究は、SGLT2阻害薬ダパグリフロジンのトリグリセリド低下効果と薬物曝露量の関連を、臨床データと前臨床モデルを統合したファーマコメトリックアプローチ（集団PK-PDモデル）で評価した。臨床データは、ダパグリフロジン5 mg/日を12か月間投与された日本人2型糖尿病患者85例から取得し、血清トリグリセリド値と血中ダパグリフロジン濃度を解析した。また、ポロキサマー407誘発性脂質異常症モデルラットにダパグリフロジン（0.1または0.2 mg/kg）を投与し、曝露量依存性のトリグリセリド低下効果を調べた。",
+      "key_takeaway_ja": "ダパグリフロジンの曝露量とトリグリセリド低下効果の間に曝露-反応関係が存在することが、長期実世界データと脂質異常症モデルラットを用いたファーマコメトリック解析により示された。",
+      "why_matters_ja": "ダパグリフロジンのトリグリセリド低下効果に関する臨床エビデンスは一貫性がなく、本研究は曝露量と効果の定量的な関連をファーマコメトリック手法で明らかにすることで、臨床的な不確実性の解消に寄与する。",
+      "study_type_ja": "ファーマコメトリック解析（集団PK-PDモデル）による実世界データと前臨床動物モデルの統合研究",
+      "endpoints_ja": "血清トリグリセリド値の曝露量依存性低下効果（PK-PD関係）、モデルラットにおける用量依存性トリグリセリド低下",
+      "endpoint_results_ja": "ベースライン時血清トリグリセリド値が150 mg/dL以上であった18例中、12か月時の平均トリグリセリド低下量は47 mg/dLであった。集団PK-PDモデルは103件のトリグリセリド測定値を捕捉し、曝露量依存性のトリグリセリド低下効果を明らかにした。脂質異常症モデルラットでは用量依存性のトリグリセリド低下が観察された。",
+      "sample_size_ja": "臨床：日本人2型糖尿病患者85例（うちベースライン時トリグリセリド値≥150 mg/dLが18例）。前臨床：モデルラット（頭数記載なし）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-09T01:12:24Z"
+    },
+    {
+      "pmid": "42843413",
+      "title": "Adverse Oral and Salivary Effects Associated With Glucagon-Like Peptide-1 Receptor Agonists: Clinical Insights.",
+      "abstract": "BACKGROUND: The expanding use of glucagon-like peptide-1 receptor agonists and the dual incretin agonist tirzepatide for Type 2 diabetes mellitus and obesity has drawn attention to potential oral and salivary adverse effects. This short communication summarizes the available evidence, discusses potential mechanisms, and highlights implications for oral medicine practice.\nMETHODS: A narrative synthesis of published case reports, pharmacovigilance findings, and indirect experimental evidence was undertaken to discuss reported manifestations, biological plausibility, and existing knowledge gaps.\nRESULTS: Reported manifestations include xerostomia, hyposalivation, dysgeusia, oral mucosal discomfort, burning sensations, and throat-related symptoms. Proposed mechanisms include modulation of cyclic adenosine monophosphate-dependent signaling in salivary acinar cells, altered autonomic regulation of salivary secretion, and dehydration secondary to gastrointestinal adverse events. Reduced salivary protection combined with gastric acid exposure from reflux or vomiting may increase susceptibility to dental erosion, although a direct association with these therapies has not been established. Sporadic immune-mediated mucocutaneous reactions and facial soft-tissue changes associated with rapid weight loss have also been described. Evidence remains limited and largely indirect.\nCONCLUSION: Potential oral and salivary adverse effects warrant clinical awareness, careful medication history-taking, assessment of salivary function, and individualized preventive care. Systematic reporting and focused clinical and experimental studies are needed to clarify causality, frequency, and underlying mechanisms.",
+      "journal": "Journal of oral pathology & medicine : official publication of the International Association of Oral Pathologists and the American Academy of Oral Pathology",
+      "authors": "Gilligan Gerardo, Garola Federico, Wagner Vivian Petersen, Martins Manoela Domingues",
+      "pub_date": "2026-10-07",
+      "doi": "10.1111/jop.70191",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843413/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "7154bd8655c164882cb5098b66de4afd487fb0f02dfb7da081c5a2fdde9201bc",
+      "fetched_at_utc": "2026-10-09T01:11:00Z",
+      "updated_at_utc": "2026-10-09T01:11:00Z",
+      "summary_ja": "GLP-1受容体作動薬および二重インクレチン作動薬tirzepatideの2型糖尿病・肥満への使用拡大に伴い、口腔・唾液への有害事象が注目されている。本短報は、既発表の症例報告、薬物警戒データ、間接的な実験的証拠のナラティブシントエシスを行い、報告されている症状、生物学的妥当性、および既存の知識のギャップを議論した。報告された症状には口渇、唾液分泌低下、味覚異常、口腔粘膜の不快感、灼熱感、のど関連症状が含まれる。提案される機序には、唾液腺細胞におけるcAMP依存性シグナル伝達の調節、唾液分泌の自律神経調節の変化、消化管有害事象による二次的脱水が含まれる。唾液保護の低下と逆流や嘔吐による胃酸曝露の組み合わせが歯の侵蝕感受性を高める可能性があるが、これらの治療との直接的関連は確立されていない。証拠は限定的で、主に間接的である。",
+      "key_takeaway_ja": "GLP-1受容体作動薬関連の口腔・唾液有害事象の証拠は限定的で間接的であり、因果関係、頻度、基盤機序を明確にするための体系的な報告および焦点を絞った臨床・実験研究が必要である。",
+      "why_matters_ja": "GLP-1受容体作動薬の臨床使用が拡大する中、口腔医学の臨床実践において薬剤歴の丁寧な聴取、唾液機能の評価、個別化された予防ケアが重要となる。",
+      "study_type_ja": "ナラティブシントエシス（短報）",
+      "endpoints_ja": "口渇、唾液分泌低下、味覚異常、口腔粘膜の不快感、灼熱感、のど関連症状、歯の侵蝕感受性、免疫介在性粘膜皮膚反応、顔面軟部組織の変化",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-09T01:12:50Z"
+    },
+    {
+      "pmid": "42843337",
+      "title": "UBT251, a novel triple GLP-1, GIP, and glucagon receptor agonist, in adults with overweight or obesity: A multicenter, randomized phase 2 trial.",
+      "abstract": "UBT251 is a novel triple agonist targeting glucagon-like peptide-1, glucose-dependent insulinotropic polypeptide, and glucagon receptors. In this multicenter, randomized, double-blind, placebo-controlled phase 2 trial, 205 adults with overweight or obesity (59.0% women; aged 18-61 years; without type 2 diabetes) received once-weekly UBT251 at 2 mg, 4 mg (initial dose 0.5 mg or 1 mg), or 6 mg, or placebo for 24 weeks. For the primary efficacy endpoint, least-squares mean percentage changes in body weight at week 24 were -19.7% to -13.6% with UBT251 vs. -2.0% with placebo; placebo-adjusted differences were -17.7% (95% confidence interval [CI], -20.8% to -14.6%) to -11.5% (95% CI, -14.1% to -9.0%; all p < 0.001). UBT251 improved waist circumference, body mass index, blood pressure, lipid profiles, and glycemic parameters. The most frequent adverse events were mild-to-moderate gastrointestinal symptoms. UBT251 produced weight reduction with cardiometabolic improvements and an acceptable safety profile, supporting phase 3 evaluation. This study was registered at China Drug Trials Registry (CTR20250288) and ClinicalTrials.gov (NCT07177469).",
+      "journal": "Cell metabolism",
+      "authors": "Zhou Zhiguang, Cheng Zhifeng, Jin Ping, Yang Guoping, Wang Haifang, Shi Bimin, Dong Qijuan, Shi Xiaoxia",
+      "pub_date": "2026-10-07",
+      "doi": "10.1016/j.cmet.2026.09.021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843337/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "0204a58faad851128d32ff5b8dbf54935b53c387bdaa7f725cd778366b69ade5",
+      "fetched_at_utc": "2026-10-09T01:11:00Z",
+      "updated_at_utc": "2026-10-09T01:11:00Z",
+      "summary_ja": "UBT251は、GLP-1、GIP、グルカゴン受容体を標的とする新規トリプルアゴニストである。本多施設、無作為化、二重盲検、プラセボ対照第2相試験では、過体重または肥満（2型糖尿病なし）の成人205名が、週1回のUBT251 2 mg、4 mg（初回投与量0.5 mgまたは1 mg）、6 mg、またはプラセボを24週間投与された。主要有効性エンドポイントである24週時の体重の最小二乗平均変化率（%）は、UBT251群で-19.7%から-13.6%、プラセボ群で-2.0%であり、プラセボ補正差は-17.7%（95% CI, -20.8%～-14.6%）から-11.5%（95% CI, -14.1%～-9.0%；すべてp < 0.001）であった。UBT251は腹囲、BMI、血圧、脂質プロファイル、血糖パラメータを改善し、最も頻度の高い有害事象は軽～中等度の消化器症状であった。",
+      "key_takeaway_ja": "UBT251は24週間で最大19.7%の体重減少を達成し、心代謝マーカーの改善と許容可能な安全性プロファイルを示し、第3相試験への移行を支持した。",
+      "why_matters_ja": "GLP-1、GIP、グルカゴン受容体を同時に標的とするトリプルアゴニストとして、既存のデュアルアゴニストを超える体重減少効果と心代謝改善を示唆し、肥満治療の新たな治療選択肢として第3相評価の根拠となった。",
+      "study_type_ja": "多施設、無作為化、二重盲検、プラセボ対照第2相試験",
+      "endpoints_ja": "主要エンドポイント：24週時の体重の最小二乗平均変化率（%）。副次エンドポイント：腹囲、BMI、血圧、脂質プロファイル、血糖パラメータ。",
+      "endpoint_results_ja": "主要エンドポイント（24週時の体重の最小二乗平均変化率）：UBT251群 -19.7%～-13.6%、プラセボ群 -2.0%。プラセボ補正差：-17.7%（95% CI, -20.8%～-14.6%）～-11.5%（95% CI, -14.1%～-9.0%；すべてp < 0.001）。副次エンドポイント（腹囲、BMI、血圧、脂質プロファイル、血糖パラメータ）：改善が報告されたが、具体的な数値は抄録に記載なし。",
+      "sample_size_ja": "205名（女性59.0%、年齢18～61歳、2型糖尿病なし）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-09T01:13:13Z"
+    },
+    {
+      "pmid": "42842950",
+      "title": "Kidney Outcomes With GLP-1 Receptor Agonists and Tirzepatide Versus Finerenone in Type 2 Diabetes and Chronic Kidney Disease: A Real-World Cohort Study.",
+      "abstract": "AIM: To compare kidney outcomes after GLP-1 receptor agonists (RA) or tirzepatide (GLP-1/GIP RAs) versus finerenone initiation in adults with Type 2 diabetes (T2D) and moderate chronic kidney disease (CKD).\nMETHODS: In a retrospective TriNetX global network study (July 2021-November 2025), adults with T2D and CKD stages 3-4 initiating GLP-1/GIP RAs or finerenone were 1:1 propensity-score matched and followed ≤ 2.5 years. The primary endpoint was a composite of ESKD, Stage 5 CKD, or dialysis initiation. Secondary analyses compared annual total (0-2.5 years) and chronic (0.5-2.5 years) estimated glomerular filtration rate (eGFR) slopes. Sensitivity analyses included positive/negative controls, extended follow-up, and stratification by age, sex, baseline kidney function, glycated haemoglobin A1c, BMI, specific GLP-1/GIP RA, and baseline medications.\nRESULTS: Among 4554 individuals (43.3% women, mean age 70.7 years, mean eGFR 39.4 mL/min/1.73 m2), the primary endpoint occurred in 110 (4.8%) GLP-1/GIP RAs and 136 (6.0%) finerenone initiators (hazard ratio: 0.71 [95% CI: 0.55-0.91]; 2.5-year absolute risk difference: -1.14% [-2.45 to 0.17]). Between-group differences in total and chronic eGFR slope with GLP-1/GIP RA versus finerenone were 1.04 mL/min/1.73 m2/year [95% CI: 0.32 to 1.75] and -0.08 mL/min/1.73 m2/year [95% CI, -1.27 to 1.12], respectively. Sensitivity analyses were consistent. Baseline albuminuria data were missing for most participants.\nCONCLUSIONS: In a real-world cohort, GLP-1/GIP RAs versus finerenone initiation was associated with a lower relative hazard of adverse kidney outcomes, without evidence of a difference in absolute risk. This was accompanied by total, but not chronic, eGFR slope mitigation. Residual confounding from under-sampled albuminuria is possible, and findings should be interpreted within this specific matched population.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Sehtman-Shachar Dvora R, Fishkin Alisa, Leibowitz Gil, Mosenzon Ofri, Schechter Meir, Aharon-Hananel Genya",
+      "pub_date": "2026-10-07",
+      "doi": "10.1111/dom.71402",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842950/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Bayer",
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c33e7a1c4873ee432d85e822e5d8ac306d7a0e2d250c191cf835d5597625c50e",
+      "fetched_at_utc": "2026-10-09T01:11:00Z",
+      "updated_at_utc": "2026-10-09T01:11:00Z",
+      "summary_ja": "2型糖尿病（T2D）かつ中等度慢性腎臓病（CKD 3〜4期）の成人において、GLP-1受容体作動薬（RA）またはtirzepatide（GLP-1/GIP RA）とfinerenoneの開始後の腎転帰を比較した、TriNetXグローバルネットワークを用いた後方視的実世界コホート研究。1:1プロパティスコアマッチングを行い、最大2.5年間追跡した。主要エンドポイントはESKD、CKD 5期、または透析開始の複合エンドポイント。二次解析として、年間総eGFR斜率（0〜2.5年）と慢性eGFR斜率（0.5〜2.5年）を比較した。",
+      "key_takeaway_ja": "実世界コホートにおいて、GLP-1/GIP RAの開始はfinerenoneの開始と比較して、有害な腎転帰の相対ハザードが低かった（HR 0.71, 95% CI 0.55-0.91）が、絶対リスク差は有意ではなかった（2.5年絶対リスク差: -1.14%, 95% CI -2.45〜0.17）。総eGFR斜率の軽減は認められたが、慢性eGFR斜率には差は認められなかった。",
+      "why_matters_ja": "T2D合併CKD患者において、腎保護効果を持つGLP-1/GIP RAとfinerenoneのどちらを優先すべきかという臨床的疑問に、実世界データから相対リスクの観点で示唆を与える。ただし、絶対リスク差は小さく、アルブミン尿データの欠如による残余交絡の可能性があり、解釈には注意が必要である。",
+      "study_type_ja": "後方視的実世界コホート研究（TriNetXグローバルネットワーク、1:1プロパティスコアマッチング）",
+      "endpoints_ja": "主要エンドポイント：ESKD、CKD 5期、または透析開始の複合エンドポイント。二次エンドポイント：年間総eGFR斜率（0〜2.5年）、慢性eGFR斜率（0.5〜2.5年）。",
+      "endpoint_results_ja": "主要エンドポイント：GLP-1/GIP RA群 110例（4.8%） vs finerenone群 136例（6.0%）、ハザード比 0.71（95% CI: 0.55-0.91）、2.5年絶対リスク差 -1.14%（95% CI: -2.45〜0.17）。総eGFR斜率の群間差：1.04 mL/min/1.73m²/年（95% CI: 0.32〜1.75）。慢性eGFR斜率の群間差：-0.08 mL/min/1.73m²/年（95% CI: -1.27〜1.12）。",
+      "sample_size_ja": "4554例（1:1マッチング、女性43.3%、平均年齢70.7歳、平均eGFR 39.4 mL/min/1.73m²）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-09T01:13:45Z"
     },
     {
       "pmid": "42842573",
@@ -2064,7 +2300,7 @@
     },
     {
       "pmid": "42805553",
-      "title": "Safety profile of Finerenone: Pooled analysis of different types of arrhythmic events.",
+      "title": "Safety profile of finerenone: Pooled analysis of different types of arrhythmic events.",
       "abstract": "BACKGROUND: Finerenone reduces kidney and cardiovascular events in patients with chronic kidney disease and type 2 diabetes mellitus, but its safety profile in terms of arrhythmic outcomes remains uncertain.\nMETHODS: We systematically searched PubMed, Cochrane Library, and ClinicalTrials.gov (inception-March 2026) for randomized trials reporting arrhythmias or conduction disorders with finerenone versus control. Risk ratios (RRs) were pooled using fixed-effects models; heterogeneity was assessed with I2.\nRESULTS: Six trials (21,015 patients; mean age 67.2 years; 33.9% women) were included. Finerenone was not associated with increased atrial or ventricular arrhythmias, high-grade atrioventricular block, or cardiac arrest (all RRs non-significant; low heterogeneity).\nCONCLUSIONS: Finerenone shows no clear increase in clinically reported arrhythmic events in the pooled analysis; however, the included studies were not designed to assess the rate of arrhythmic outcomes and might have underestimated the true rates.",
       "journal": "Journal of cardiology",
       "authors": "Bazoukis George, Clarke Esther Victoria, Tse Gary",
@@ -2083,18 +2319,18 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "701d206925c8269c98609570516a231717a0b943ca0984cce7475d272c991813",
+      "content_sha256": "dab06eb8fac8fbcf039acbe0ddc8c306a7fc30b3e0fa67abf2f9e8639e0c17a9",
       "fetched_at_utc": "2026-09-30T00:22:44Z",
-      "updated_at_utc": "2026-09-30T00:22:44Z",
-      "summary_ja": "慢性腎臓病および2型糖尿病を有する患者におけるフィネレノンの不整脈関連安全性を評価するため、PubMed、Cochrane Library、ClinicalTrials.gov（創刊〜2026年3月）から不整脈または伝導障害を報告したランダム化試験を体系的に検索し、フィネレノン群と対照群のリスク比（RR）を固定効果モデルでプール解析した。6試験（21,015例；平均年齢67.2歳；女性33.9%）が対象となり、フィネレノンは心房性・心室性不整脈、高度房室ブロック、心停止のいずれとも有意な関連は認められなかった（全RR有意差なし；低異質性）。",
-      "key_takeaway_ja": "プール解析において、フィネレノンは臨床的に報告された不整脈事象の増加を示さなかったが、対象試験は不整脈事象の発生率を評価する目的で設計されておらず、真の発生率を過小評価している可能性がある。",
-      "why_matters_ja": "フィネレノンは慢性腎臓病・2型糖尿病患者で腎・心血管イベントを減少させることが知られているが、不整脈に関する安全性プロファイルは不確実であった。本解析は、不整脈事象の増加を示す明確な証拠がないことを示す一方、対象試験の設計上の限界（不整脈評価が主要目的でない）を指摘し、解釈における注意を喚起している。",
+      "updated_at_utc": "2026-10-09T01:11:00Z",
+      "summary_ja": "フィネレノンの不整脈イベントに関する安全性プロファイルを評価するため、PubMed、Cochrane Library、ClinicalTrials.govからランダム化試験を体系的に検索し、フィネレノン対対照群での不整脈または伝導障害を報告した6試験（21,015例）をプール解析した。固定効果モデルでリスク比（RR）をプールし、I²で異質性を評価した。",
+      "key_takeaway_ja": "フィネレノンは心房性不整脈、心室性不整脈、高度房室ブロック、心停止のいずれにおいても有意な増加を示さなかった（全RR有意差なし、低異質性）。ただし、対象試験は不整脈アウトカムの評価を目的として設計されておらず、真の発生率を過小評価している可能性がある。",
+      "why_matters_ja": "フィネレノンは慢性腎臓病を伴う2型糖尿病患者で腎・心血管イベントを減少させるが、不整脈に関する安全性プロファイルは不確実であった。本プール解析により、臨床的に報告された不整脈イベントの明確な増加がないことが示された。",
       "study_type_ja": "ランダム化試験のプール解析（メタ解析）",
       "endpoints_ja": "心房性不整脈、心室性不整脈、高度房室ブロック、心停止",
-      "endpoint_results_ja": "全RR有意差なし；低異質性（具体的なRR値・信頼区間は抄録に記載なし）",
+      "endpoint_results_ja": "全RR有意差なし、低異質性（具体的な数値は抄録に記載なし）",
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-30T00:26:26Z"
+      "summary_generated_at_utc": "2026-10-09T01:15:36Z"
     },
     {
       "pmid": "42805391",
@@ -5063,256 +5299,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-17T23:35:20Z"
-    },
-    {
-      "pmid": "42751742",
-      "title": "Nutritional Deficiencies, Complications, and Nutrition Therapy/Counseling in Pediatric Patients Using GLP-1 Receptor Agonists.",
-      "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly used to treat childhood obesity, prediabetes, and type 2 diabetes. We examined nutritional deficiency incidence and nutrition therapy/counseling (NT/C) utilization among pediatric GLP-1RA users.\nMETHODS: We analyzed Inovalon administrative claims data from 2017 to 2022 covering over 100 million patients to identify 2,031 GLP-1RA users aged 10-17 years who met continuous enrollment criteria and had no prior diagnosis of nutritional deficiency. Nutritional deficiencies were identified using the International Classification of Diseases, 10th edition codes for up to 1 year following GLP-1RA initiation. NT/C visits, time to first NT/C visit, and differences in nutritional deficiency diagnoses by NT/C consultation were assessed. Results are reported as proportions and means, with group comparisons using chi-square tests.\nRESULTS: The mean age was 15 (±1.8) years, 61.5% were female, and 62.6% had obesity. Liraglutide (78.6%), dulaglutide (10.4%), and semaglutide (9.1%) were the most prescribed GLP-1RA drugs. Within 1 year, 16.88% of patients were diagnosed with at least one nutritional deficiency or deficiency-related complication, most frequently vitamin D deficiency (12.4%), followed by nutritional anemia (1.55%), and iron-deficiency anemia (1.44%). Only 23.3% had NT/C visit within 180 days (mean time to first visit: 149 days). Patients with NT/C consultations had higher rates of nutritional deficiencies and deficiency-related complications than those without (23.2% vs. 14.8%, p < 0.01).\nCONCLUSIONS: Nutritional deficiencies are a meaningful and under-recognized risk among pediatric patients receiving GLP-1RA therapy. Current care patterns suggest missed opportunities for proactive and preventative nutrition support. Integration of NT/C care into pediatric GLP-1RA treatment may support healthy growth and long-term outcomes.",
-      "journal": "Childhood obesity (Print)",
-      "authors": "Kerr Kirk W, Chang Andrew T, Sulo Suela, Stutts John T, Panchalingam Thadchaigeni, Ryder Justin R",
-      "pub_date": "2026-09-17",
-      "doi": "10.1177/21532176261486979",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42751742/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "cfd5567bd9be42902b8f64628cd8db6d0a9478c2f0c8e61494504c076b8566ed",
-      "fetched_at_utc": "2026-09-17T23:32:18Z",
-      "updated_at_utc": "2026-09-17T23:32:18Z",
-      "summary_ja": "2017〜2022年のInovalon管理請求データを用い、10〜17歳でGLP-1受容体作動薬（GLP-1RA）を使用し、継続加入基準を満たし、栄養欠乏症の既往診断のない2,031例を対象に、GLP-1RA開始後最大1年間の栄養欠乏症の発生率と栄養療法・カウンセリング（NT/C）の利用率を評価した後ろ向き観察研究。",
-      "key_takeaway_ja": "小児GLP-1RA使用者の16.88%が1年以内に少なくとも1つの栄養欠乏症または関連合併症を診断されたが、NT/C受診率は23.3%にとどまり、予防的な栄養サポートの機会が失われている。",
-      "why_matters_ja": "小児肥満・糖尿病前状態・2型糖尿病の治療にGLP-1RAがますます使用される中、栄養欠乏症は認識不足のリスクであり、NT/Cの統合が小児の健全な成長と長期予後に寄与する可能性がある。",
-      "study_type_ja": "後ろ向き観察研究（管理請求データベース解析）",
-      "endpoints_ja": "1) GLP-1RA開始後1年以内の栄養欠乏症または関連合併症の発生率、2) 180日以内のNT/C受診率、3) 初回NT/C受診までの期間、4) NT/C受診群と非受診群の栄養欠乏症診断率の比較",
-      "endpoint_results_ja": "1年以内に少なくとも1つの栄養欠乏症または関連合併症を診断された割合：16.88%。最も頻度高いのはビタミンD欠乏症（12.4%）、次いで栄養性貧血（1.55%）、鉄欠乏性貧血（1.44%）。180日以内のNT/C受診率：23.3%（初回受診までの平均期間：149日）。NT/C受診群と非受診群の栄養欠乏症・関連合併症診断率：23.2% vs 14.8%（p < 0.01）。",
-      "sample_size_ja": "2,031例（10〜17歳、GLP-1RA使用者、継続加入基準を満たし、栄養欠乏症の既往診断なし）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-17T23:35:46Z"
-    },
-    {
-      "pmid": "42750649",
-      "title": "Comparative Cardiorenal Efficacy and Safety of Finerenone, SGLT2 Inhibitors, Semaglutide and Their Combination in Diabetic Kidney Disease.",
-      "abstract": "AIM: To compare the cardiorenal efficacy and safety of finerenone, sodium-glucose cotransporter 2 inhibitors (SGLT2i), semaglutide and finerenone-SGLT2i combination therapy in diabetic kidney disease (DKD).\nMATERIALS AND METHODS: PubMed, Embase and CENTRAL were searched through July 9, 2026 for randomized trials involving adults with Type 2 diabetes and DKD. A frequentist network meta-analysis estimated risk ratios (RRs) with 95% confidence intervals (CIs) for cardiorenal and safety outcomes.\nRESULTS: Ten randomized datasets involving 37 923 participants were included. Compared with control, dapagliflozin, canagliflozin, finerenone and semaglutide reduced both cardiovascular composite events and composite kidney outcomes; sotagliflozin reduced cardiovascular composite events, and empagliflozin reduced composite kidney outcomes. SGLT2i showed the broadest overall pattern of benefit across cardiorenal outcomes. Dapagliflozin was associated with a lower risk of the composite kidney outcome than semaglutide (RR 0.71, 95% CI: 0.53-0.94), while most other efficacy comparisons between active monotherapies were not statistically significant. Finerenone increased hyperkalaemia (RR 2.03, 95% CI: 1.82-2.26) and treatment discontinuation due to adverse events (RR 1.18, 95% CI: 1.02-1.35). Finerenone plus empagliflozin was associated with a higher risk of hyperkalaemia than empagliflozin alone (RR 2.48, 95% CI: 1.22-5.06).\nCONCLUSIONS: SGLT2i showed the broadest cardiorenal benefits, while finerenone and semaglutide provided additional protection across selected outcomes. Finerenone increased hyperkalaemia and treatment discontinuation. The efficacy of finerenone-SGLT2i combination therapy requires further investigation.",
-      "journal": "Diabetes, obesity & metabolism",
-      "authors": "Zhou Ziyan, Fu Linghua, Chen Dan, Yu Peng, Xu Gaosi, Wu Qinghua, Wu Tao, Yang Pingping",
-      "pub_date": "2026-09-17",
-      "doi": "10.1111/dom.71305",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42750649/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "dapagliflozin",
-        "empagliflozin",
-        "finerenone",
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "AstraZeneca",
-        "Bayer",
-        "Boehringer Ingelheim",
-        "Novo Nordisk"
-      ],
-      "bi_related": true,
-      "japan_relevant": false,
-      "content_sha256": "a19ddbecf1453fadd927bb102946af50ca7b03b309b3bf7ec499efca010749b6",
-      "fetched_at_utc": "2026-09-17T23:32:18Z",
-      "updated_at_utc": "2026-09-17T23:32:18Z",
-      "summary_ja": "糖尿病性腎症（DKD）におけるフィネレノン、SGLT2阻害薬（SGLT2i）、セマグルチド、およびフィネレノン+SGLT2i併用療法の心腎効果と安全性を比較する頻度論的ネットワークメタアナリシス。PubMed、Embase、CENTRALを2026年7月9日まで検索し、2型糖尿病を合併したDKD成人を対象としたランダム化試験10件（被験者37,923名）を包含した。",
-      "key_takeaway_ja": "SGLT2iが心腎アウトカム全体で最も広範な利益を示した。ダパグリフロジンがセマグルチドより複合腎アウトカムで有意に低いリスクを示した（RR 0.71, 95% CI: 0.53-0.94）。フィネレノンは高カリウム血症（RR 2.03, 95% CI: 1.82-2.26）と有害事象による治療中止（RR 1.18, 95% CI: 1.02-1.35）を有意に増加させた。フィネレノン+SGLT2i併用療法の有効性はさらなる調査を要する。",
-      "why_matters_ja": "DKD患者において複数の新規薬剤（フィネレノン、SGLT2i、セマグルチド）が利用可能となったが、これらを直接比較したエビデンスは限られていた。本ネットワークメタアナリシスは、各薬剤の心腎保護効果と安全性プロファイルの相対的な位置づけを提示し、個別化治療の選択に資する。",
-      "study_type_ja": "ネットワークメタアナリシス（頻度論的）",
-      "endpoints_ja": "心血管複合イベント、複合腎アウトカム、高カリウム血症、有害事象による治療中止",
-      "endpoint_results_ja": "ダパグリフロジン vs セマグルチド（複合腎アウトカム）: RR 0.71, 95% CI: 0.53-0.94。フィネレノン vs 対照（高カリウム血症）: RR 2.03, 95% CI: 1.82-2.26。フィネレノン vs 対照（有害事象による治療中止）: RR 1.18, 95% CI: 1.02-1.35。フィネレノン+エンパグリフロジン vs エンパグリフロジン単独（高カリウム血症）: RR 2.48, 95% CI: 1.22-5.06。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-17T23:36:26Z"
-    },
-    {
-      "pmid": "42752027",
-      "title": "Improving Dapagliflozin Dosing in Heart Failure Through System-Level Quality Improvement.",
-      "abstract": "BACKGROUND: Despite strong evidence supporting dapagliflozin 10 mg daily for heart failure with reduced ejection fraction, variation in prescribing practices persists.\nPROJECT RATIONALE: Institutional review identified frequent use of non-guideline-supported dapagliflozin 5 mg dosing and demonstrated that inpatient dose selection strongly influenced discharge prescribing patterns.\nPROJECT SUMMARY: A multidisciplinary quality improvement intervention consisting of electronic medical record redesign, provider education, and pharmacist-led discharge verification was implemented on December 15, 2025. Among 124 preintervention patients, 83.9% received inpatient dapagliflozin 10 mg and 16.1% received 5 mg. Following intervention, guideline-concordant 10-mg prescribing increased to 92.0% and 5-mg prescribing decreased to 8.0%. Inpatient dose remained significantly associated with discharge prescribing behavior (P = 0.0467).\nTAKE-HOME MESSAGES: System-level workflow redesign improved adherence to guideline-concordant dapagliflozin prescribing and reduced non-evidence-based low-dose use. Similar implementation strategies may improve delivery of guideline-directed medical therapy in heart failure.",
-      "journal": "JACC. Case reports",
-      "authors": "Karzoun Ahmad, Alkowatli Hamza, Oyesanmi Olu, Subbiondo Robert, Toka Hakan R",
-      "pub_date": "2026-09-16",
-      "doi": "10.1016/j.jaccas.2026.109545",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42752027/",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "dapagliflozin"
-      ],
-      "matched_companies": [
-        "AstraZeneca"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "9ff6788e7c1f11af75d69dbdb4843fda4bb543bfdc72ec7ef616a2a4b89cfa7a",
-      "fetched_at_utc": "2026-09-17T23:32:18Z",
-      "updated_at_utc": "2026-09-17T23:32:18Z",
-      "summary_ja": "心不全患者におけるダパグリフロジン投与量の改善を目的としたシステムレベルの品質改善（QI）介入研究である。電子カルテの再設計、医療提供者への教育、薬剤師主導の退院時確認からなる多職種QI介入を2025年12月15日に実施した。介入前の124例中、83.9%が入院中にダパグリフロジン10mg、16.1%が5mgを投与されていた。介入後、ガイドライン準拠の10mg投与は92.0%に増加し、5mg投与は8.0%に減少した。入院中の投与量は退院時の処方パターンと有意に関連していた（P=0.0467）。",
-      "key_takeaway_ja": "システムレベルのワークフロー再設計により、ガイドライン準拠のダパグリフロジン処方への遵守が改善し、エビデンスに基づく根拠のない低用量使用が減少した。",
-      "why_matters_ja": "HFrEFにおけるダパグリフロジン10mg/日の有効性を示す強力なエビデンスにもかかわらず、実際の処方実践にはばらつきが持続している。本QI介入は、エビデンスと実践のギャップをシステムレベルで是正する具体的な戦略を示しており、心不全におけるガイドライン準拠医療（GDMT）の提供改善に適用可能である。",
-      "study_type_ja": "品質改善（QI）介入研究（ケースレポート形式で報告）",
-      "endpoints_ja": "入院中および退院時のダパグリフロジン10mg（ガイドライン準拠用量）投与率",
-      "endpoint_results_ja": "介入前（n=124）：10mg 83.9%、5mg 16.1%。介入後：10mg 92.0%、5mg 8.0%。入院中投与量と退院時処方との関連：P=0.0467",
-      "sample_size_ja": "介入前：124例。介入後：抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-17T23:36:50Z"
-    },
-    {
-      "pmid": "42751099",
-      "title": "Sustained weight loss exceeding 100 kg with sequential incretin-based therapy in Prader-Willi syndrome.",
-      "abstract": "Prader-Willi syndrome (PWS) is a neurogenetic disorder characterized by hyperphagia, severe obesity, and early-onset metabolic complications, in which durable weight loss is rarely achieved. We report a 29-year-old man with genetically confirmed maternal uniparental disomy PWS who presented with severe obesity (185 kg; body mass index [BMI] 59.7 kg/m2) and newly diagnosed type 2 diabetes (glycated hemoglobin [HbA1c], 8.3% [SI: 67 mmol/mol] [reference range, <5.7% (SI: <39 mmol/mol)]). He received sequential incretin-based therapy, initiated with retatrutide (1-12 mg weekly) within a clinical trial, followed by oral semaglutide and then dulaglutide after retatrutide became unavailable, together with a structured hypocaloric diet and supervised exercise. At 18 months, total weight loss reached 58.8% (-108.7 kg), with HbA1c of 4.9% (SI: 30 mmol/mol), consistent with diabetes remission after discontinuation of all glucose-lowering medications. Mild transient gastrointestinal symptoms occurred during dose escalation, with no serious adverse events. Follow-up bioimpedance showed a skeletal muscle mass of 38.5 kg after a 58.8% reduction in total body weight.",
-      "journal": "JCEM case reports",
-      "authors": "Yovera-Aldana Marlon, Manrique-Hurtado Helard, Umpierrez Guillermo E",
-      "pub_date": "2026-09-16",
-      "doi": "10.1210/jcemcr/luag260",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42751099/",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "0d75594d5610eaad53ea1fc4d8ab4f51457bb265f90f21e28b4425549cc0a892",
-      "fetched_at_utc": "2026-09-17T23:32:18Z",
-      "updated_at_utc": "2026-09-17T23:32:18Z",
-      "summary_ja": "Prader-Willi症候群（PWS）は過食・重度肥満・早期発症の代謝合併症を特徴とする神経遺伝性疾患であり、持続的な減量は達成困難とされる。本症例報告では、遺伝学的に母性単親性二倍体PWSと確定診断された29歳男性（体重185 kg、BMI 59.7 kg/m²、HbA1c 8.3%）が、臨床試験内でのretatrutide（1-12 mg/週）から開始し、retatrutideが入手不能となった後に経口semaglutide、さらにdulaglutideへ移行するsequential incretin-based therapyと、構造化された低カロリー食事および監督下運動を併用した。18ヶ月時点で総体重減少率58.8%（-108.7 kg）、HbA1c 4.9%（SI: 30 mmol/mol）を達成し、降糖薬全中止後も糖尿病寛解が維持された。用量増量時に軽度の一過性消化器症状を認めたが、重大な有害事象はなかった。追跡生体インピーダンス法により、総体重58.8%減少後も骨格筋量38.5 kgを維持していた。",
-      "key_takeaway_ja": "PWS患者においてsequential incretin-based therapy（retatrutide→経口semaglutide→dulaglutide）と構造化食事・運動の併用により、18ヶ月で総体重減少率58.8%（-108.7 kg）という前例のない減量と糖尿病寛解を達成した。",
-      "why_matters_ja": "PWSは過食と重度肥満を本質とし、持続的な減量は極めて困難とされる疾患である。本症例は、sequential incretin-based therapyがPWSという特殊な肥満背景において100 kg超の持続的減量と糖尿病寛解を可能にし、骨格筋量の維持も示したことで、PWS肥満治療の新たな可能性を示唆する。",
-      "study_type_ja": "症例報告（単一患者）",
-      "endpoints_ja": "総体重減少率（%）および絶対減少量（kg）、HbA1c、骨格筋量（生体インピーダンス法）、有害事象",
-      "endpoint_results_ja": "18ヶ月時点で総体重減少率58.8%（-108.7 kg）、HbA1c 4.9%（SI: 30 mmol/mol）、骨格筋量38.5 kg、軽度の一過性消化器症状あり、重大な有害事象なし",
-      "sample_size_ja": "1例",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-17T23:37:41Z"
-    },
-    {
-      "pmid": "42751094",
-      "title": "Postmenopausal bleeding associated with semaglutide: a diagnostic challenge.",
-      "abstract": "Semaglutide, a glucagon-like peptide-1 (GLP-1) receptor agonist, is widely used for obesity and type 2 diabetes management, but its gynecological adverse effects have not been systematically described. We report a 58-year-old postmenopausal woman with new-onset vaginal bleeding six weeks after starting semaglutide for weight reduction, with onset following dose escalation to 0.5 mg weekly. Hemoglobin fell from 12.9 g/dL (Système International [SI]: 129 g/L) to 10.8 g/dL (SI: 108 g/L) (reference range, 12.0-16.0 g/dL [SI: 120-160 g/L]). The serum follicle-stimulating hormone (FSH) concentration was elevated at 68.4 mIU/mL (SI: 68.4 IU/L; reference, >25 IU/L postmenopausal), and estradiol was suppressed at 3.5 pg/mL (SI: 13 pmol/L; reference, <5.4 pg/mL [SI: <20 pmol/L]), consistent with stable postmenopausal status throughout, without hormonal reactivation (no return toward a premenopausal pattern). Endometrial malignancy, structural pathology, and coagulopathy were excluded. The Naranjo Adverse Drug Reaction Probability Scale score was 6 (\"probable\"). Bleeding resolved completely within five weeks of discontinuation. We propose that rapid semaglutide-induced adipose loss may transiently alter peripheral estrogen metabolism, destabilizing the endometrium despite unchanged hormone levels. This case highlights postmenopausal bleeding as a rare but clinically important adverse effect of GLP-1 receptor agonist therapy warranting malignancy-first evaluation.",
-      "journal": "JCEM case reports",
-      "authors": "Prasad Sai, Parmar Vidhi, Sharma Anukriti, Kaur Navjot, Kothia Darpan, Bavaria Deep",
-      "pub_date": "2026-09-16",
-      "doi": "10.1210/jcemcr/luag261",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42751094/",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "63f03f64c4e4b9c81c07b54e3fa6c7c8f7fb42260ce85a25d61edd1ed492747f",
-      "fetched_at_utc": "2026-09-17T23:32:18Z",
-      "updated_at_utc": "2026-09-17T23:32:18Z",
-      "summary_ja": "セマグルチド（GLP-1受容体作動薬）を減量目的に開始した58歳の閉経後女性において、投与開始6週後（0.5 mg/週への増量後）に新規の腟出血が出現した症例報告。ヘモグロビンが12.9 g/dLから10.8 g/dLに低下した。FSH 68.4 mIU/mL、エストラジオール 3.5 pg/mLと閉経後のホルモンプロファイルは安定しており、ホルモン再活性化は認めなかった。子宮内膜悪性腫瘍、構造異常、凝固異常は除外された。Naranjo尺度スコアは6（probable）。投与中止後5週以内に出血は完全に消退した。",
-      "key_takeaway_ja": "セマグルチドによる急速な脂肪減少が末梢エストロゲン代謝を一過性に変化させ、ホルモン値が変化しないにもかかわらず子宮内膜を不安定化させ、閉経後出血を引き起こす可能性が示唆された。",
-      "why_matters_ja": "GLP-1受容体作動薬の婦人科系有害事象として閉経後出血が初めて体系的に報告されたものであり、この薬剤使用下の閉経後出血には悪性腫瘍を優先的に除外する評価が必要であることを示している。",
-      "study_type_ja": "症例報告",
-      "endpoints_ja": "腟出血の出現と消退、ヘモグロビン変化、FSH、エストラジオール、Naranjo有害事象確率尺度スコア、子宮内膜悪性腫瘍・構造異常・凝固異常の除外",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "1例",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-18T23:19:26Z"
-    },
-    {
-      "pmid": "42749027",
-      "title": "From Gila Monster Venom to Dermatology: The History of GLP-1 Receptor Agonists.",
-      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have evolved from novel therapies for type 2 diabetes mellitus into widely used treatments for obesity and metabolic disease. Their origins can be traced to the Gila monster (Heloderma suspectum), a venomous lizard native to the deserts of the southwestern United States and northwestern Mexico. The discovery of exendin-4, a peptide isolated from the venom of the Gila monster, led to the subsequent development of longer acting GLP-1RAs. Long before its contribution to modern medicine would be recognized, the Gila monster was revered in Navajo culture and folklore. We have examined the historic development of GLP-1 RAs, from the natural history and cultural significance of the Gila monster to the discovery of exendin-4 and the subsequent development of modern therapeutics. We describe the scientific advances that led to the translation of a venom-derived peptide into a major therapeutic class, including the development of exenatide, liraglutide and semaglutide. The history of GLP-1 receptor agonists demonstrates how observations in nature can lead to major therapeutic advances. What began with a view of a venomous desert lizard has evolved into one of the most important therapeutic classes in modern metabolic medicine, with expanding therapeutic applications in dermatology. The Gila monster (Heloderma suspectum) is a venomous lizard native to the deserts of the southwestern United States and northwestern Mexico. Long revered in indigenous cultural traditions, the Gila monster made an unexpected contribution to modern medicine. The discovery of exendin-4, a peptide within its venom, ultimately led to the development of glucagon-like peptide-1 receptor agonists (GLP-1RAs), representing one of the most significant therapeutic advances in modern metabolic medicine. GLP-1RAs are synthetic polypeptides that mimic the actions of the endogenous incretin hormone glucagon-like peptide-1. Initially developed for the treatment of type 2 diabetes mellitus, they have transformed obesity management and are now among the most widely prescribed therapies worldwide. As recognition of obesity has emerged as a major global public health challenge, GLP-1RAs have provided an effective pharmacologic approach to weight management. According to the World Health Organization, more than 1 billion people worldwide have been living with obesity as of 2022 [1]. The success of GLP-1RAs can be traced to the discovery of exendin-4, a peptide isolated from Gila monster venom that shares key biologic properties with human GLP-1 while demonstrating greater resistance to enzymatic degradation. Emerging evidence suggests that GLP-1RAs may influence inflammatory skin disease through a combination of weight reduction, improvements in metabolic health, and modulation of inflammatory and immune pathways [2]. This has generated increasing interest in the potential applications of GLP-1RAs within dermatology. In this review, we have examined the cultural significance and physiologic adaptations of the Gila monster, the discovery of exendin-4 and the subsequent development of GLP-1 RAs from venom-derived peptide to an expanding modern therapeutic class. We have explored how observations from a venomous desert lizard has translated into one of the most important therapeutic advances in metabolic medicine with evolving therapeutic applications in dermatology.",
-      "journal": "Clinics in dermatology",
-      "authors": "Dyson Sarah, Hoenig Leonard, Levell Nick J",
-      "pub_date": "2026-09-16",
-      "doi": "10.1016/j.clindermatol.2026.09.011",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749027/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "3551225de36690ff933dc10a15a00bc9e9d987791c989e7d6292c821173430c0",
-      "fetched_at_utc": "2026-09-17T23:32:18Z",
-      "updated_at_utc": "2026-09-17T23:32:18Z",
-      "summary_ja": "本レビューは、GLP-1受容体作動薬（GLP-1RAs）の歴史的発展を考察したものである。ギラモンスター（Heloderma suspectum）の毒からexendin-4が発見された経緯から、exenatide、liraglutide、semaglutideといった現代のGLP-1RAsの開発に至るまでの科学的進歩を概観し、さらに皮膚科学における応用の拡大についても言及している。",
-      "key_takeaway_ja": "自然界の観察（ギラモンスターの毒）が、現代の代謝医学における最も重要な治療クラスの一つであるGLP-1RAsの開発につながり、その応用は皮膚科学にも拡大しつつある。",
-      "why_matters_ja": "GLP-1RAsは2型糖尿病の治療から肥満・代謝疾患の管理へと進化し、現在では世界中で最も広く処方されている治療法のひとつとなっている。WHOの推計では2022年時点で世界で10億人以上が肥満を抱えており、GLP-1RAsは体重管理に対する有効な薬物学的アプローチを提供している。また、炎症性皮膚疾患への影響（体重減少、代謝健康の改善、炎症・免疫経路の調節）に関する証拠が蓄積しており、皮膚科学における応用が期待されている。",
-      "study_type_ja": "レビュー（歴史・叙述的レビュー）",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-18T23:19:44Z"
-    },
-    {
-      "pmid": "42748969",
-      "title": "[GLP-1 Receptor Agonists in Urology and Andrology: Indications, Opportunities and Clinically Relevant Adverse Effects].",
-      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have evolved rapidly from an antidiabetic drug class into one of the most influential pharmacological groups in internal medicine. The approved agents - semaglutide, liraglutide and the dual GIP/GLP-1 agonist tirzepatide - achieve weight reductions of up to 22% of body weight. The close pathophysiological link between obesity, metabolic syndrome and urological-andrological disease creates direct clinical relevance for urology.This narrative review summarises a systematic PubMed search (2020-2026) covering erectile dysfunction, hypogonadism, male fertility, nephroprotection, prostate cancer, lower urinary tract symptoms and perioperative considerations in the context of GLP-1 RA therapy.GLP-1 RAs show clinically relevant effects in several urological domains: increase in total testosterone and improvement in erectile function in men with obesity-related hypogonadism, nephroprotection with reduction of albuminuria and slowing of eGFR decline, signals of reduced prostate cancer risk in epidemiological studies, and indirect benefit for stress incontinence and overactive bladder via weight loss. At the same time, clinically relevant warning signals exist: a 4.5-fold increased risk of new-onset erectile dysfunction in non-diabetic obese men on semaglutide, novel urological adverse effects in case reports, perioperative aspiration risk through delayed gastric emptying, and a near-complete absence of data in women.GLP-1 RAs represent both a therapeutic opportunity and a clinical challenge for urologists. Systematic andrological and nephrological monitoring as well as proactive patient education on urogenital and perioperative implications is recommended. Prospective controlled trials with urological endpoints are needed.",
-      "journal": "Zentralblatt fur Chirurgie",
-      "authors": "Klotz Theodor",
-      "pub_date": "2026-09-16",
-      "doi": "10.1055/a-2943-1080",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42748969/",
-      "publication_types": [
-        "English Abstract",
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "9528a99c8cdfe1de21ebbde19e752ac894d5a9ab1ac0d829b7c111b0d26772c3",
-      "fetched_at_utc": "2026-09-17T23:32:18Z",
-      "updated_at_utc": "2026-09-17T23:32:18Z",
-      "summary_ja": "GLP-1受容体作動薬（GLP-1 RA）が泌尿器科・男性科領域に与える影響を、2020〜2026年のPubMed検索に基づくナラティブレビューとして総説した。勃起機能障害、低テストステロン血症、男性の生殖能力、腎保護、前立腺がん、下尿路症状、術期管理の各領域を網羅的にレビューした。",
-      "key_takeaway_ja": "GLP-1 RAは肥満関連低テストステロン血症男性における総テストステロン増加・勃起機能改善、アルブミン尿減少・eGFR低下の遅延による腎保護、前立腺がんリスク低下のエピデミオロジー的シグナル、体重減少を介した腹圧性尿失禁・過活動膀胱への間接的効果など複数の泌尿器科領域で臨床的に有意な効果を示す一方、非糖尿病の肥満男性におけるセマグルチド使用時の新規勃起機能障害リスクの4.5倍増加、胃排出遅延による術期誤嚥リスク、女性におけるデータの実質的欠如といった警告シグナルも存在する。",
-      "why_matters_ja": "肥満・代謝症候群と泌尿器科・男性科疾患の間の密接な病理生理学的関連により、GLP-1 RAは泌尿器科医にとって直接的な臨床的関連性を持つ。治療の機会であると同時に臨床的課題でもあり、系統的な男性科・腎科モニタリングおよび性尿路・術期への影響に関する能動的な患者教育が推奨される。泌尿器科エンドポイントを持つ前向き対照試験の必要性が指摘されている。",
-      "study_type_ja": "ナラティブレビュー（2020〜2026年のPubMed検索に基づく）",
-      "endpoints_ja": "総テストステロン、勃起機能、アルブミン尿、eGFR、前立腺がんリスク、腹圧性尿失禁、過活動膀胱、新規勃起機能障害、術期誤嚥リスク",
-      "endpoint_results_ja": "体重減少は最大22%（体重比）。非糖尿病の肥満男性におけるセマグルチド使用時の新規勃起機能障害リスクは4.5倍増加。肥満関連低テストステロン血症男性で総テストステロン増加および勃起機能改善。アルブミン尿減少およびeGFR低下の遅延。前立腺がんリスク低下のエピデミオロジー的シグナル。体重減少を介した腹圧性尿失禁・過活動膀胱への間接的効果。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-19T22:59:46Z"
     }
   ]
 }
