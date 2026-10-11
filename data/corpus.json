@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-10T00:45:07Z",
+  "generated_at_utc": "2026-10-11T00:13:05Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,105 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42855941",
+      "title": "Left ventricular ejection fraction recovery under contemporary quadruple guideline-directed therapy and the need for ICD/CRT-D implantation in HFrEF: a retrospective single-center cohort study.",
+      "abstract": "BACKGROUND: Guidelines advise deferring primary-prevention implantable cardioverter-defibrillator (ICD) or cardiac resynchronization therapy-defibrillator (CRT-D) implantation until left ventricular ejection fraction (LVEF) is reassessed after at least three months of medical therapy in heart failure with reduced ejection fraction (HFrEF). Real-world data under contemporary quadruple therapy are limited.\nRESEARCH DESIGN AND METHODS: Retrospective single-center cohort of 65 HFrEF patients (Coburg Hospital, Germany; October 2023-December 2024), prescribed beta-blocker, angiotensin receptor-neprilysin inhibitor, mineralocorticoid receptor antagonist and SGLT2 inhibitor (all four in 92%; doses not recorded). LVEF was measured by echocardiography (TTE) and cardiac magnetic resonance (CMR) at baseline and ~3 months; reader blinding was not documented. Device implantation followed guideline criteria. Patients with severe arrhythmic events were excluded.\nRESULTS: Twenty-nine patients (44.6%) received a device. LVEF rose on TTE (28.0→36.0%) and CMR (26.3→38.5%) (both p < 0.001), mainly without device implantation (TTE +13.0 vs + 1.5 points). Larger baseline left ventricular end-diastolic diameter was associated with smaller recovery (β = -0.41, p = 0.006) and device implantation (odds ratio 1.11/mm, 95% CI 1.01-1.22). Adverse events were not recorded.\nCONCLUSIONS: LVEF recovery was common, and associations are consistent with disease severity. Findings are hypothesis-generating; absent dose, arrhythmic-outcome and wearable-defibrillator data and the selected cohort limit generalizability.",
+      "journal": "Expert review of cardiovascular therapy",
+      "authors": "Ajmi Issameddine, Frings Mathis Philipp, Forkmann Mathias, Mahnkopf Christian",
+      "pub_date": "2026-10-09",
+      "doi": "10.1080/14779072.2026.2748165",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855941/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "fe3ee9bb89accc0c2be6c917f207c787be7a467eab5f337850d6670cb3ef07d7",
+      "fetched_at_utc": "2026-10-11T00:13:05Z",
+      "updated_at_utc": "2026-10-11T00:13:05Z",
+      "summary_ja": "2023年10月から2024年12月にかけて、ドイツ・コブルク病院で、β遮断薬・ARNI・MRA・SGLT2阻害薬の4薬物療法（92%が4薬物すべて処方）を処方されたHFrEF患者65例を対象とした後ろ向き単一施設コホート研究。ベースラインと約3ヶ月後にTTEおよびCMRでLVEFを測定し、ガイドライン基準に基づきICD/CRT-D植え込みを判断した。",
+      "key_takeaway_ja": "現代の4薬物ガイドライン推奨療法下ではLVEF回復が頻回であり（44.6%がデバイス植え込み）、ベースライン左室拡張期末径が大きいほどLVEF回復が小さく、デバイス植え込みのオッズが高かった。",
+      "why_matters_ja": "現代の4薬物療法下でのLVEF回復に関する実世界データは限られており、本研究はガイドラインが推奨する「少なくとも3ヶ月の薬物療法後のLVEF再評価までICD/CRT-D植え込みを延期する」方針を支持するエビデンスを提供する。",
+      "study_type_ja": "後ろ向き単一施設コホート研究",
+      "endpoints_ja": "LVEF回復（TTEおよびCMR）、デバイス植え込み率、ベースライン左室拡張期末径とLVEF回復・デバイス植え込みとの関連",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "65例（HFrEF患者）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:13:29Z"
+    },
+    {
+      "pmid": "42855133",
+      "title": "Weight Management in Obesity-Associated Sleep-Disordered Breathing: Mechanisms, Clinical Management, and Emerging Therapies.",
+      "abstract": "OBJECTIVE: To review the mechanistic links between obesity and sleep-disordered breathing (SDB) and summarize practical approaches to weight-directed, sleep-directed, and phenotype-informed management.\nMETHODS: We conducted a focused narrative review of clinical trials, systematic reviews, meta-analyses, guidelines, and mechanistic studies identified through PubMed/MEDLINE, Embase, and Google Scholar. Search terms included obesity, obstructive sleep apnea, obesity hypoventilation syndrome, weight loss, positive airway pressure, bariatric surgery, incretin-based pharmacotherapy, endotypes, and circadian disruption.\nRESULTS: Obesity promotes sleep-disordered breathing through upper airway mechanical loading, reduced lung volumes, inflammation, altered ventilatory control, and sleep behavior pathways. Positive airway pressure remains a core therapy for many patients with obstructive sleep apnea and obesity hypoventilation syndrome. Sustained weight loss provides complementary disease modification. Lifestyle intervention, metabolic and bariatric surgery, and incretin based pharmacotherapy can improve obstructive sleep apnea, although residual disease is common. Tirzepatide has shown clinically meaningful reductions in apnea-hypopnea index in adults with obesity and moderate to severe obstructive sleep apnea, largely in association with weight reduction. In obesity hypoventilation syndrome, stable ambulatory patients generally require positive airway pressure. Durable weight loss of approximately 25% to 30% may be needed to resolve hypoventilation. Therapies targeting endotypes and device based options may help selected patients, but they remain adjunctive, investigational, or directed by specialists.\nCONCLUSION: Obesity associated sleep-disordered breathing is best managed as a heterogeneous cardiometabolic and sleep breathing condition. Treatment should integrate positive airway pressure or other sleep specific therapy with individualized weight management. Ongoing reassessment is needed for residual disease, obesity hypoventilation syndrome, and atypical phenotypes.",
+      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+      "authors": "Varghese Ron T, Sharifi Isabella, Akurati Sneha",
+      "pub_date": "2026-10-09",
+      "doi": "10.1016/j.eprac.2026.09.120",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855133/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8bf8ec954cf78bc6037cea3c352ec813197a17a4bbe79b91eacd8440547ada4e",
+      "fetched_at_utc": "2026-10-11T00:13:05Z",
+      "updated_at_utc": "2026-10-11T00:13:05Z",
+      "summary_ja": "肥満関連睡眠時呼吸障害（SDB）における肥満とSDBの機能的関連をレビューし、体重指向・睡眠指向・表現型に基づく管理の実践的アプローチを要約した叙述的レビュー。PubMed/MEDLINE、Embase、Google Scholarから臨床試験、系統的レビュー、メタアナリシス、ガイドライン、機能的研究を収集した。",
+      "key_takeaway_ja": "肥満関連SDBは異質性の高い心代謝・睡眠呼吸疾患として管理すべきであり、CPAP等の睡眠特異的治療と個別化された体重管理を統合し、残存疾患・OHS・非定型表現型に対する継続的再評価が必要である。",
+      "why_matters_ja": "生活習慣介入、代謝・肥満外科手術、インクレチン系薬物療法はOSAを改善しうるが残存疾患が一般的であり、OHSでは約25〜30%の持続的体重減少が換気障害の解決に必要とされる可能性がある。Tirzepatideは肥満を伴う中等症〜重症OSAの成人においてAHIの臨床的に有意な減少を示したが、主に体重減少に伴うものと考えられる。",
+      "study_type_ja": "叙述的レビュー（narrative review）",
+      "endpoints_ja": "無呼吸低呼吸指数（AHI）、体重減少率、換気障害の解決",
+      "endpoint_results_ja": "OHSにおいて、換気障害の解決には約25〜30%の持続的体重減少が必要とされる可能性がある。Tirzepatideは肥満を伴う中等症〜重症OSAの成人においてAHIの臨床的に有意な減少を示したが、具体的な数値は抄録に記載なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:13:58Z"
+    },
+    {
+      "pmid": "42854961",
+      "title": "Tirzepatide persistence, adherence, and dose escalation in a real-world setting with high out-of-pocket costs: a Polish cohort study.",
+      "abstract": "PURPOSE: Tirzepatide is effective in clinical trials, but its real-world use where obesity pharmacotherapy is self-funded remains poorly characterized. We aimed to characterize tirzepatide persistence, adherence, and dose escalation in a high out-of-pocket-cost setting.\nPATIENTS AND METHODS: We retrospectively analyzed nationwide electronic health records from a large Polish private healthcare provider. We included 3,030 adults with a first recorded tirzepatide prescription between November 2023 and February 2025. The primary endpoint was time to observed treatment discontinuation. Multivariable Cox regression identified persistence predictors, while adherence was assessed using proportion of days covered (PDC). Successful titration was escalation from 2.5 or 5 mg to ≥10 mg.\nRESULTS: The cohort included 69.0% women; 83.3% had obesity and 20.0% had type 2 diabetes. Higher first recorded dose was associated with earlier loss of observed treatment. Compared with 2.5 mg initiators, the hazard ratio for discontinuation was 1.44 (95%CI 1.26-1.64, p<0.001) for 15 mg and 1.24 (95%CI 1.12-1.39, p<0.001) for 10 mg doses. Traditional comorbidities did not independently predict persistence (all p>0.10). Among385 patients persistent for ≥180 days, median PDC was 0.86 (IQR 0.73-0.95), with 68% classified as adherent (PDC ≥80%). Of 2,194 eligible low-dose patients, 565 (25.8%) escalated to ≥10 mg, corresponding to 18.6% of the full cohort.\nCONCLUSIONS: Real-world tirzepatide persistence was suboptimal and associated with recorded starting dose. Traditional clinical comorbidities had limited impact on discontinuation timing. Nonclinical factors, including affordability, tolerability, and patient expectations, may contribute to early loss of observed treatment; although these were not directly measured.",
+      "journal": "Advances in medical sciences",
+      "authors": "Dziewierz Artur, Krawczyk-Ożóg Agata, Szarpak Łukasz, Kowalska-Bobko Iwona, Siudak Zbigniew",
+      "pub_date": "2026-10-09",
+      "doi": "10.1016/j.advms.2026.10.005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854961/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "1ee70228c0b68396591453c7278b0d74696e5484d27bbe2e35c4d8f8829f54b6",
+      "fetched_at_utc": "2026-10-11T00:13:05Z",
+      "updated_at_utc": "2026-10-11T00:13:05Z",
+      "summary_ja": "ポーランドの大手民間医療プロバイダーの全国電子健康記録を後ろ向きに分析したコホート研究。2023年11月から2025年2月に初めてtirzepatide処方を受けた3,030人の成人を対象に、治療継続性（persistence）、アドヒアランス（PDC）、および用量エスカレーションを評価した。主評価項目は観察下での治療中止までの時間であり、多変量Cox回帰で継続性の予測因子を同定した。",
+      "key_takeaway_ja": "実世界におけるtirzepatideの継続性は不十分であり、記録された開始用量と関連していた。2.5 mg開始群と比較して、15 mg開始群の中止ハザード比は1.44（95%CI 1.26-1.64）、10 mg開始群は1.24（95%CI 1.12-1.39）であり、高い開始用量ほど早期の観察下での治療中止と関連した。従来の臨床的合併症は中止時期に独立して影響しなかった。",
+      "why_matters_ja": "肥満薬物療法が自己負担（self-funded）となる高自己負担コスト環境におけるtirzepatideの実世界使用は十分に特徴づけられていなかった。本研究は、臨床試験とは異なる実世界環境での継続性・アドヒアランス・用量エスカレーションのデータを提供し、非臨床的要因（経済的負担、耐容性、患者の期待）が早期治療中止に寄与する可能性を示唆する。",
+      "study_type_ja": "後ろ向きコホート研究（実世界研究）",
+      "endpoints_ja": "主評価項目：観察下での治療中止までの時間。副次評価項目：アドヒアランス（PDC：proportion of days covered）、用量エスカレーション（2.5 mgまたは5 mgから≥10 mgへの増量）。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "3,030人",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:14:39Z"
     },
     {
       "pmid": "42853778",
@@ -3201,9 +3300,26 @@
       "doi": "10.1016/j.jdiacomp.2026.109419",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42805130/",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Observational Study"
       ],
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Tirzepatide",
+        "Female",
+        "Adult",
+        "Body Composition",
+        "Male",
+        "Obesity",
+        "Retrospective Studies",
+        "Overweight",
+        "Middle Aged",
+        "Treatment Outcome",
+        "Body Weight",
+        "Weight Loss",
+        "Body Mass Index",
+        "Anti-Obesity Agents"
+      ],
       "matched_assets": [
         "tirzepatide"
       ],
@@ -3212,18 +3328,18 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "8c53eba3c3b214157969448eed52c12f23829e8d07ca7191f2b6ec7867800309",
+      "content_sha256": "0f135585881aa344a82d25874c3d290421d72e784becae6c7f77c351893a6ded",
       "fetched_at_utc": "2026-09-30T00:22:44Z",
-      "updated_at_utc": "2026-09-30T00:22:44Z",
-      "summary_ja": "肥満または過体重かつ少なくとも1つの肥満関連合併症を有する成人において、tirzepatideのリアルワールド効果（RWE）を評価した24週間の後方視的観察研究。122名の成人（女性80%、平均年齢44±15歳、糖尿病なし）が、標準化された低炭水化物食事と個別化された身体活動と組み合わせてtirzepatideを投与された。起始用量は2.5 mg/週で、4週間後に5 mgに増量し、その後の用量調整は個別化された。24週後、体重、BMI、腹囲、体脂肪量、血糖コントロール、インスリン感受性が有意に改善し、骨格筋量は維持された。",
-      "key_takeaway_ja": "24週間のtirzepatide治療により、体重（-16%）、BMI、体脂肪量が有意に減少し、骨格筋量は維持された。また、血糖コントロールとインスリン感受性も改善した。本リアルワールドコホートでの24週間の体重減少（-16%）は、SURMOUNT-1試験の72週間後の体重減少と同等であった。",
-      "why_matters_ja": "肥満は心代謝機能不全を引き起こし心血管リスクを増大させるが、本リアルワールド研究では、tirzepatideを標準化された低炭水化物食事と個別化された身体活動と組み合わせた包括的な臨床アプローチにより、臨床試験で観察されたものよりも有益な結果が得られる可能性が示唆された。24週でSURMOUNT-1試験の72週相当の体重減少を達成した点は、リアルワールド設定における治療効果の臨床的意義を示している。",
-      "study_type_ja": "後方視的観察研究（リアルワールド効果研究）",
-      "endpoints_ja": "体重、BMI、腹囲、身長対腹囲比、体脂肪量（FM）、除脂肪量、骨格筋量、HbA1c、空腹時血糖、空腹時インスリン、HOMA-IR",
-      "endpoint_results_ja": "体重：95±20 kg → 80±22 kg（p<0.001）；BMI：35±6 kg/m² → 29±7 kg/m²（p<0.001）；腹囲：109±16 cm → 92±12 cm（p<0.001）；身長対腹囲比：0.66±0.1 → 0.56±0.1（p<0.001）；体脂肪量：35%減少（p<0.001）；除脂肪量：5%減少（p<0.001）；骨格筋量：維持（p=ns）；HbA1c：5.5±0.4% → 5.2±0.1%（p=0.007）；空腹時血糖：93±12 mg/dL → 84±9 mg/dL（p<0.001）；空腹時インスリン：17±15 μIU/mL → 12±9 μIU/mL（p=0.002）；HOMA-IR：4.2±4.7 → 2.5±2.1（p=0.001）；体重減少率：-16%",
-      "sample_size_ja": "122名（女性80%、平均年齢44±15歳、糖尿病なし）",
+      "updated_at_utc": "2026-10-11T00:13:05Z",
+      "summary_ja": "肥満または過体重かつ少なくとも1つの肥満関連合併症を有する糖尿病患者でない成人122名（女性80%、平均年齢44±15歳）を対象に、tirzepatide（2.5 mg/週開始、4週後に5 mgへ増量、以降は個別調整）を標準化された低炭水化物食および個別化された身体活動と併用した24週間の後方視的観察研究。平均終了時用量は5.32 mg。ベースラインと24週後に人体計測、生体インピーダンス法による体組成、代謝パラメータを評価した。",
+      "key_takeaway_ja": "実臨床環境下での24週間のtirzepatide治療により、体重・BMI・脂肪量の有意な改善と骨格筋量の維持、血糖コントロールおよびインスリン感受性の改善が認められた。24週での体重減少率（-16%）はSURMOUNT-1試験の72週時点の値と同等であった。",
+      "why_matters_ja": "実臨床環境下での包括的な肥満治療アプローチ（tirzepatide＋食事療法＋運動療法）は、臨床試験で観察された効果よりも有益である可能性を示唆しており、RWE（実臨床有効性）の観点から重要な知見を提供する。",
+      "study_type_ja": "後方視的観察研究（実臨床有効性研究）",
+      "endpoints_ja": "体重、BMI、腹囲、ウエスト高身長比、脂肪量（FM）、除脂肪量（FFM）、骨格筋量、HbA1c、空腹時血糖、空腹時インスリン、HOMA-IR",
+      "endpoint_results_ja": "体重：95±20 kg → 80±22 kg（p<0.001）；BMI：35±6 kg/m² → 29±7 kg/m²（p<0.001）；腹囲：109±16 cm → 92±12 cm（p<0.001）；ウエスト高身長比：0.66±0.1 → 0.56±0.1（p<0.001）；脂肪量：35%減少（p<0.001）；除脂肪量：5%減少（p<0.001）；骨格筋量：維持（p=ns）；HbA1c：5.5±0.4% → 5.2±0.1%（p=0.007）；空腹時血糖：93±12 mg/dL → 84±9 mg/dL（p<0.001）；空腹時インスリン：17±15 μIU/mL → 12±9 μIU/mL（p=0.002）；HOMA-IR：4.2±4.7 → 2.5±2.1（p=0.001）；体重減少率：-16%",
+      "sample_size_ja": "122名",
       "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-05T00:03:24Z"
+      "summary_generated_at_utc": "2026-10-11T00:16:20Z"
     },
     {
       "pmid": "42799419",
@@ -3444,7 +3560,16 @@
       "japan_relevant": false,
       "content_sha256": "33a9ebeb307f93e4ee19dd39df79478d9c21db585c1920346380ed8e2cbd8b3b",
       "fetched_at_utc": "2026-10-10T00:45:07Z",
-      "updated_at_utc": "2026-10-10T00:45:07Z"
+      "updated_at_utc": "2026-10-10T00:45:07Z",
+      "summary_ja": "インクレチンおよびマルチレセプターアゴニスト療法は、肥満、2型糖尿病、心血管・腎臓アウトカム、保存型心不全、閉塞性睡眠時無呼吸、代謝機能異常関連脂肪性肝炎にわたる広範な心代謝上の利益を有する。本レビューは、投与開始から用量調整、治療中軌跡、有害事象、継続率、中止、再開に至る患者の旅程に沿って証拠を整理するライフサイクルフレームワークを提案する。チルゼパチドが分析の中心に置かれ、選択的GLP-1受容体アゴニストの文献が成熟した比較対象として用いられる。7つの分析的位置が提示され、5つの具体的な試験デザインが研究アジェンダとして示される。",
+      "key_takeaway_ja": "主要試験が測定する有効性の範囲の外側に、長期の心血管・代謝上の利益を左右する臨床的・システムレベルのプロセスが存在し、試験、処方経路、アクセスシステムをこのクラスの慢性薬物療法の現実と整合させることが今後の課題である。",
+      "why_matters_ja": "非糖尿病性肥満における実世界での12ヶ月継続率は約3分の1にとどまり、中止の主要因は治療失敗ではなくコストである。また、急な中止後には数ヶ月以内に体重および心代謝上の改善がベースラインへ回帰する。これらの実世界のエビデンスギャップを埋めることが、このクラスの長期利益を最大化するために不可欠である。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "心代謝上の利益（肥満、2型糖尿病、心血管・腎臓アウトカム、保存型心不全、閉塞性睡眠時無呼吸、代謝機能異常関連脂肪性肝炎）、実世界での継続率（persistence）、中止（discontinuation）、再開（reinitiation）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:16:48Z"
     },
     {
       "pmid": "42851802",
@@ -3472,7 +3597,16 @@
       "japan_relevant": false,
       "content_sha256": "96dbfd0af64942713e394b50fd343239b46cf5ce509dae27bbee62d7515668d8",
       "fetched_at_utc": "2026-10-10T00:45:07Z",
-      "updated_at_utc": "2026-10-10T00:45:07Z"
+      "updated_at_utc": "2026-10-10T00:45:07Z",
+      "summary_ja": "2型糖尿病を伴う慢性腎臓病患者において、SGLT2阻害薬、セマグルチド、フィネレノンの3薬剤の比較効果と安全性階層を定義するため、ベイズネットワークメタ分析を実施した。PubMed、Embase、Cochrane Libraryから2025年7月31日までに公開された第III相ランダム化試験を系統的に検索し、CREDENCE、DAPA-CKD（T2Dサブグループ）、EMPA-KIDNEY（T2Dサブグループ）、FIDELIO-DKD、FIGARO-DKD、FLOWの6試験レベルデータセット（N=20,521）を主要解析に組み込んだ。FIDELIO-DKDとFIGARO-DKDは試験間の異質性を保持するため個別のエビデンスノードとして扱った。",
+      "key_takeaway_ja": "SGLT2阻害薬が本ネットワークにおいて最大の腎保護効果を示した（HR 0.70, 95% CrI 0.64-0.76; SUCRA 94.5%）。フィネレノン2試験を分離解析した際、SGLT2阻害薬vsフィネレノンの間接比較で統計的に有意なSGLT2阻害薬優位性が検出された（HR 0.83, 95% CrI 0.73-0.95; 固定効果モデルで後確率>99.9%）。ただしこの所見は解析選択に依存し、仮説生成レベルである。セマグルチドはフィネレノンに対して数値上優位ではあるが統計的に有意ではなかった（HR 0.90, 95% CrI 0.76-1.07; 後確率88%）。",
+      "why_matters_ja": "RAS遮断とSGLT2阻害を基盤とする4本柱フレームワーク（セマグルチドとフィネレノンを補完的なフェノタイプ適合追加として位置づける）を支持し、個別化処方に対する確率的エビデンス基盤を提供する。従来のNMAがFIDELITY推定値（HR 0.77）でフィネレノン試験をプールしていたのに対し、本解析は2試験を分離することでプールHR 0.84を導出し、SGLT2阻害薬優位性の間接検出を可能にした。",
+      "study_type_ja": "ベイズネットワークメタ分析（Review）",
+      "endpoints_ja": "腎アウトカム（主要）、心血管アウトカム、安全性（治療中止）",
+      "endpoint_results_ja": "腎アウトカム：SGLT2阻害薬 HR 0.70（95% CrI 0.64-0.76; SUCRA 94.5%）、セマグルチド HR 0.76（95% CrI 0.66-0.88; SUCRA 68.0%）、フィネレノン HR 0.84（95% CrI 0.77-0.92; SUCRA 37.5%）。SGLT2阻害薬vsフィネレノン間接比較：HR 0.83（95% CrI 0.73-0.95; 固定効果モデルで後確率>99.9%、ランダム効果モデルで96%）。セマグルチドvsフィネレノン：HR 0.90（95% CrI 0.76-1.07; 後確率88%）。心血管アウトカム：3薬剤いずれもプラセボ比で心血管リスクを有意に低減、活性薬剤間の統計的に有意な差は認められなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:18:01Z"
     },
     {
       "pmid": "42851503",
@@ -3499,7 +3633,16 @@
       "japan_relevant": false,
       "content_sha256": "328843f1518a636e8f46326a89f49106e08303a25873f26e749a2ac7b25efa6b",
       "fetched_at_utc": "2026-10-10T00:45:07Z",
-      "updated_at_utc": "2026-10-10T00:45:07Z"
+      "updated_at_utc": "2026-10-10T00:45:07Z",
+      "summary_ja": "2型糖尿病患者において、tirzepatide（TZP）が糖尿病足合併症の予防に他の抗糖尿病薬と比較してどのような効果があるかを、TriNetXネットワークを用いた後ろ向きコホート研究で評価した。2022年1月から2025年7月までにTZP、SU、DPP-4i、SGLT2i、GLP-1RAを新規開始した成人を対象とし、プロパensity score matchingにより4つの比較コホートを作成した。主要エンドポイントは糖尿病足合併症（潰瘍、感染、末梢動脈閉塞症、再血管化または切断の複合）とした。",
+      "key_takeaway_ja": "TZPはSU、DPP-4i、SGLT2iと比較して糖尿病足合併症のリスクを有意に低減したが、GLP-1RAとの間には有意な差は認められなかった。",
+      "why_matters_ja": "糖尿病足合併症は2型糖尿病患者の最大25%に影響し、重大な有病率の原因である。TZPは潰瘍や切断リスクのある患者において、糖尿病足合併症の予防に有望な選択肢となりうる。",
+      "study_type_ja": "後ろ向きコホート研究",
+      "endpoints_ja": "糖尿病足合併症（潰瘍、感染、末梢動脈閉塞症、再血管化または切断の複合エンドポイント）",
+      "endpoint_results_ja": "TZP vs SU: HR 0.80 (95% CI 0.76-0.84); TZP vs DPP-4i: HR 0.83 (95% CI 0.78-0.87); TZP vs SGLT2i: HR 0.88 (95% CI 0.83-0.92); TZP vs GLP-1RA: HR 0.97 (95% CI 0.91-1.03)",
+      "sample_size_ja": "TZP vs SU: 各アーム141,002例; TZP vs DPP-4i: 各アーム131,449例; TZP vs SGLT2i: 各アーム146,321例; TZP vs GLP-1RA: 各アーム97,457例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-11T00:18:27Z"
     },
     {
       "pmid": "42851444",
