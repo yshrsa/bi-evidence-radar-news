@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-12T00:35:26Z",
+  "generated_at_utc": "2026-10-13T02:39:40Z",
   "items": [
     {
       "pmid": "42805503",
@@ -70,6 +70,192 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42862815",
+      "title": "GLP-1RA based treatment in patients with a PCSK1 mutation has profound effects on body weight - two case reports.",
+      "abstract": "INTRODUCTION: Monogenetic obesity involving the POMC and MC4R pathway often result in severe obesity, Case presentation: Two sisters, both in their thirties, with a loss-of-function PCSK1 muta-tion and living with class III obesity (BMI's 42 kg/m2 and 46 kg/m2, respectively) was referred for obesity treatment. None of the women had obesity-related diseases; however, due to severe obesi-ty they were treated with semaglutide and tirzepatide resulting in weight loss between 16%-27% of initial body weight.\nCONCLUSION: Despite a loss-of-function PCSK1 mutation disrupting the POMC pathway, the two cases are suggestive of GLP-1RA efficacy both upstream and downstream POMC, illustrating a need for further investigations of the mechanism of action for GLP-1RA-based therapies.",
+      "journal": "Obesity facts",
+      "authors": "Sørensen Trine Poder, Pedersen Steen Bønløkke, Bruun Jens Meldgaard, Gribsholt Sigrid Bjerge",
+      "pub_date": "2026-10-12",
+      "doi": "10.1159/ofa/adzag012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862815/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "682533ed6f5f77889850dc4a76f1d7a2a5610b55a6a3b06e571e50753bd7eace",
+      "fetched_at_utc": "2026-10-13T02:33:01Z",
+      "updated_at_utc": "2026-10-13T02:33:01Z",
+      "summary_ja": "PCSK1の機能喪失型変異を有し、肥満度III（BMI 42 kg/m²および46 kg/m²）の30代の姉妹2名が、セマグルチドおよびtirzepatideで治療され、初期体重の16%〜27%の減量を達成した。",
+      "key_takeaway_ja": "POMC経路を破壊するPCSK1の機能喪失型変異を有する患者においても、GLP-1RAベースの治療はPOMCの上流および下流の両方で有効性を示唆しており、GLP-1RAベース療法の作用機序についてさらなる調査の必要性を示している。",
+      "why_matters_ja": "単一遺伝子性肥満（POMC/MC4R経路）の患者においてGLP-1RAが有効であることは、これらの薬剤がPOMC経路に依存しない機序で作用する可能性を示唆し、GLP-1RAベース療法の作用機序の理解に重要な示唆を与える。",
+      "study_type_ja": "症例報告（2例）",
+      "endpoints_ja": "体重減少（初期体重に対する減少率）",
+      "endpoint_results_ja": "初期体重の16%〜27%の減量",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-13T02:33:28Z"
+    },
+    {
+      "pmid": "42862792",
+      "title": "Weight Maintenance Following Discontinuation of Semaglutide in an Adolescent with Antipsychotic-Associated Weight Gain: A Case Report.",
+      "abstract": "INTRODUCTION: Antipsychotic-induced weight gain (AIWG) presents a significant clinical challenge in pediatric psychiatry, often leading to Class II or III obesity and metabolic comorbidities. While treatment with metformin is the current standard of care, its efficacy is often modest. Preclinical and translational data suggest that, by targeting the underlying cause of AIWG, GLP-1Ras may help restore satiety signaling that is disrupted in patients taking antipsychotics.\nCASE PRESENTATION: We describe an adolescent who experienced profound weight gain following aripiprazole treatment which was successfully managed with semaglutide. Notably, after achieving therapeutic goals of normalization of body mass index (BMI) and hemoglobin A1c, the patient was able to discontinue semaglutide while maintaining her weight loss and normalization of hemoglobin A1c over six months of follow-up.\nCONCLUSION: This single case raises the hypothesis that GLP-1RAs could serve as a temporary \"bridge therapy\" to counteract iatrogenic metabolic insults; given the confounding factors discussed below, this observation is hypothesis-generating and requires confirmation in larger, prospective studies before broader clinical application.",
+      "journal": "Hormone research in paediatrics",
+      "authors": "Griffing Emily, Dabrowski Elizabeth",
+      "pub_date": "2026-10-12",
+      "doi": "10.1159/hrp/adaag040",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862792/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ca134a9d5b52c41911d7bb02c82ef1a0c70f64219216cfbd3c3691c1f140c35c",
+      "fetched_at_utc": "2026-10-13T02:33:01Z",
+      "updated_at_utc": "2026-10-13T02:33:01Z",
+      "summary_ja": "抗精神病薬（アリピプラゾール）関連体重増加を呈した思春期患者1例において、セマグルチドによる治療でBMIおよびヘモグロビンA1cの正常化を達成し、セマグルチド中止後も6か月のフォローアップ期間中に減量およびHbA1cの正常化を維持できた症例報告。",
+      "key_takeaway_ja": "GLP-1受容体作動薬は抗精神病薬による代謝障害に対する一時的な「ブリッジ療法」として機能しうる可能性を示唆するが、本観察は仮説生成であり、より大規模な前向き研究による確認が必要である。",
+      "why_matters_ja": "小児精神医学において抗精神病薬関連体重増加は重大な臨床課題であり、現在の標準治療であるメトホルミンの効能は限定的である。GLP-1受容体作動薬がAIWGの根本原因に作用し、満腹シグナルの回復を助ける可能性は、新たな治療戦略を示唆する。",
+      "study_type_ja": "症例報告",
+      "endpoints_ja": "BMIの正常化、ヘモグロビンA1cの正常化、セマグルチド中止後の体重維持",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "1例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-13T02:34:07Z"
+    },
+    {
+      "pmid": "42862749",
+      "title": "Semaglutide in Heart Failure with Preserved Ejection Fraction and Obesity: The Gap Between Discussion and Use.",
+      "abstract": "INTRODUCTION: Semaglutide improves symptoms and physical function in heart failure with preserved ejection fraction (HFpEF) and obesity. Whether discussion of treatment is accompanied by its use in routine care is less well understood.\nMETHODS: We retrospectively assessed treatment discussion, follow-up medication records and documented reasons for non-initiation in 159 patients from a prospective registry. Available follow-up information was retained when assessment dates were incompletely transcribed. Associations with registry-recorded diabetes or prediabetes were explored using Firth logistic regression.\nRESULTS: Semaglutide was discussed or offered in 148/159 patients (93.1%). Among 148 baseline nonusers with subsequent medication information, it was newly recorded in 23 (15.5%). Recorded diabetes or prediabetes was associated with this outcome (adjusted odds ratio 3.76, 95% confidence interval 1.08-19.93), but a sensitivity analysis restricting the reference group by glycated haemoglobin was inconclusive. Among 125 patients without subsequently recorded semaglutide, affordability concerns were documented in 55 (44.0%), safety concerns in 48 (38.4%), and both in 38 (30.4%).\nCONCLUSION: Frequent discussion of semaglutide coexisted with infrequent documentation of subsequent use. Financial and medication-related concerns commonly overlapped. These findings identify a gap in routine care without establishing its causal determinants or verifying treatment initiation.",
+      "journal": "Cardiology",
+      "authors": "Jurin Ivana, Jakljevic Tomislav",
+      "pub_date": "2026-10-12",
+      "doi": "10.1159/crd/absag023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862749/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "14ccd1daec239fd4f58049294c3c1f59e97ae2869cd37bea4ad9f09cbdc109bd",
+      "fetched_at_utc": "2026-10-13T02:33:01Z",
+      "updated_at_utc": "2026-10-13T02:33:01Z",
+      "summary_ja": "HFpEF（保存型左室機能不全）と肥満を有する患者において、セマグルチドの治療検討と実際の使用の乖離を評価した後向きレジストリ研究。前向きレジストリに登録された159例を対象に、治療検討の有無、フォローアップ時の薬剤記録、未開始の文書化された理由を評価し、レジストリ記録上の糖尿病または糖尿病予備群との関連をFirthロジスティック回帰で解析した。",
+      "key_takeaway_ja": "セマグルチドの治療検討は93.1%と高頻度であったが、ベースライン非使用者における実際の新規記録は15.5%と低く、検討と使用の間に大きな乖離が存在した。未開始理由として経済的懸念（44.0%）と安全性懸念（38.4%）が頻出し、両者が重複する例も30.4%を占めた。",
+      "why_matters_ja": "HFpEFと肥満の患者においてセマグルチドは症状・身体機能の改善が示されているが、実際の臨床現場では治療検討から使用への移行が極めて低いことが示された。これは実臨床における治療ギャップの存在を浮き彫りにし、経済的・安全性の懸念が主要な障壁であることを示唆する。",
+      "study_type_ja": "前向きレジストリに基づく後向きコホート研究",
+      "endpoints_ja": "セマグルチドの治療検討・提案の有無、ベースライン非使用者における新規薬剤記録（開始）、未開始の文書化された理由（経済的懸念、安全性懸念）、糖尿病または糖尿病予備群との関連",
+      "endpoint_results_ja": "セマグルチドが検討または提案された：148/159例（93.1%）。ベースライン非使用者148例中、新規記録された：23例（15.5%）。糖尿病または糖尿病予備群との関連：調整オッズ比3.76（95%信頼区間1.08-19.93）。セマグルチドがその後記録されなかった125例中、経済的懸念：55例（44.0%）、安全性懸念：48例（38.4%）、両方：38例（30.4%）。",
+      "sample_size_ja": "159例（前向きレジストリより）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-13T02:34:42Z"
+    },
+    {
+      "pmid": "42862661",
+      "title": "GLP-1 Receptor Agonists and Insulin Versus Insulin for Perioperative Glycemic Control in Patients with Type 2 Diabetes Undergoing Cardiac Surgery: A Systematic Review.",
+      "abstract": "Perioperative hyperglycemia is common in patients with type 2 diabetes undergoing cardiac surgery and is linked to adverse outcomes. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) offer glucose-dependent insulinotropic effects and potential cardiac benefits, but their perioperative role remains uncertain. This review evaluated the efficacy and safety of GLP-1 RA therapy as an adjunct to insulin in this setting. Three electronic databases (PubMed, Cochrane, and Google Scholar) were searched for relevant articles up to October 2025. The primary endpoint was blood glucose levels during the perioperative period, while secondary endpoints included hypoglycemia incidence, total insulin requirement, time in target glucose range, and postoperative complications. Three randomized controlled trials (RCTs) including 168 patients with type 2 diabetes undergoing cardiac surgery were assessed. Perioperative use of liraglutide (subcutaneously in doses of 0.6-1.8 mg/day) was associated with preliminary evidence of improved glycemic control across preoperative, intraoperative, and early postoperative periods, including lower glucose levels, reduced glycemic variability, and fewer insulin adjustments, with a low incidence of hypoglycemia. However, heterogeneity in dosing, timing, and monitoring protocols across studies limits direct comparisons. Mild gastrointestinal adverse events, such as nausea and vomiting, were more frequent with liraglutide. One study reported exploratory immunometabolic effects in adipose tissue. Preliminary evidence from these heterogeneous studies suggests that adding liraglutide to insulin may improve perioperative glycemic control compared to insulin or placebo in patients with type 2 diabetes undergoing cardiac surgery. However, findings are limited by the small number of studies, methodological variability, and lack of long-term outcomes, necessitating larger, standardized trials.",
+      "journal": "Annals of cardiac anaesthesia",
+      "authors": "Hassan Danish, Shakeel Rida, Qaisi Waleed, Ahmed Syed Rayyan, Taj Javeria, Adi Mohammad, Ahmed Ahmed Yousry, Abuzahra Ammir",
+      "pub_date": "2026-10-12",
+      "doi": "10.4103/aca.aca_307_25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862661/",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Insulin",
+        "Hypoglycemic Agents",
+        "Glycemic Control",
+        "Cardiac Surgical Procedures",
+        "Perioperative Care",
+        "Blood Glucose",
+        "Liraglutide",
+        "Hyperglycemia"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f6c1b6b724dd93cf4ea4813eb159274f990b46662eef9863c70cf90b13e11b83",
+      "fetched_at_utc": "2026-10-13T02:33:01Z",
+      "updated_at_utc": "2026-10-13T02:33:01Z",
+      "summary_ja": "2型糖尿病を有する心臓手術患者における術前・術中・術後の血糖管理において、インスリンにGLP-1受容体作動薬（リラグルチド）を追加する有効性と安全性を評価したシステマティックレビュー。PubMed、Cochrane、Google Scholarの3データベースを2025年10月まで検索し、3件のRCT（168例）を評価した。",
+      "key_takeaway_ja": "3件の非均質なRCTからの予備的証拠は、心臓手術を受ける2型糖尿病患者においてインスリンにリラグルチドを追加することで血糖管理が改善する可能性を示唆するが、研究数の少なさ、方法論的変異、長期アウトカムの欠如により、より大規模な標準化された試験が必要である。",
+      "why_matters_ja": "心臓手術を受ける2型糖尿病患者における術前高血糖は不良転帰と関連しており、GLP-1受容体作動薬の術前・術中・術後の役割は不確実であった。本レビューはインスリン併用としてのGLP-1 RAの位置づけに関する初期証拠を提供する。",
+      "study_type_ja": "システマティックレビュー（3件のRCTを含む）",
+      "endpoints_ja": "主要エンドポイント：術前・術中・術後の血糖値。副次エンドポイント：低血糖発生率、インスリン総用量、目標血糖範囲内時間、術後合併症。",
+      "endpoint_results_ja": "抄録には具体的な数値結果（平均血糖値、低血糖発生率のパーセンテージ、インスリン用量の具体的数値など）は記載されていない。定性的に「血糖値の低下」「血糖変動の減少」「インスリン調整回数の減少」「低血糖の低発生率」が報告されているのみ。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-13T02:36:06Z"
+    },
+    {
+      "pmid": "42860310",
+      "title": "The Power of Two: Harnessing Dual Glucagon and Incretin Signaling for Treatment of Obesity and Metabolic Dysfunction-Associated Steatohepatitis-A Narrative Review with a Translational Focus.",
+      "abstract": "A resurgence in glucagon research has repositioned this pancreatic hormone as a promising target in the treatment of obesity and related metabolic disorders. Glucagon is classically known for contributing to glucose homeostasis, but emerging evidence points to a much wider role in metabolism, including energy balance and liver health. These findings are fueling attempts to understand how to leverage glucagon signaling to treat obesity and metabolic dysfunction-associated steatohepatitis (MASH). Due to potential hyperglycemic effects of glucagon signaling, most investigational compounds are dual agonists of both the glucagon and glucagon-like peptide-1 (GLP-1) receptors to harness the antihyperglycemic and anorectic effects of the latter hormone, analogs of which such as semaglutide are already proven to be potent obesity medications. Glucagon receptor/GLP-1 receptor dual agonists reduce food intake, decrease hepatic fat, and increase energy expenditure in animal models of obesity and MASH. In early clinical trials, some dual agonists substantially reduced body weight, hepatic steatosis, and hepatic fibrosis. Whether they are more effective than GLP-1 receptor mono-agonists remains to be established in definitive head-to-head studies. The precise balance between glucagon and GLP-1 signaling within individual compounds appears important for overall therapeutic effects-including glycemic control, which worsened with some dual agonists. However, the two most clinically advanced compounds-mazdutide (approved for chronic weight management and type 2 diabetes in China) and survodutide (ongoing global phase 3 trials)-had potent weight-loss and antihyperglycemic effects in people with obesity, with survodutide also improving liver health in people with MASH. Therefore, the research into glucagon physiology that led to glucagon receptor/GLP-1 receptor dual agonists is translating to advantageous new therapies for the highly prevalent diseases of obesity and MASH.",
+      "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "authors": "Ard Jamy D, Almandoz Jaime P",
+      "pub_date": "2026-10-11",
+      "doi": "10.1111/obr.70228",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860310/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "survodutide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim",
+        "Novo Nordisk"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "d7423347fadb2d580fa325db775bb42c1b47caef73ecfb72d3836f3136c89c6f",
+      "fetched_at_utc": "2026-10-13T02:33:01Z",
+      "updated_at_utc": "2026-10-13T02:33:01Z",
+      "summary_ja": "グルカゴン受容体/GLP-1受容体二重作動薬が肥満および代謝機能異常関連脂肪性肝炎（MASH）の治療において有望なターゲットであることを、動物モデルデータ、早期臨床試験結果、および臨床的に最も進んだ2化合物（mazdutideとsurvodutide）の知見を交えて叙述したレビュー。",
+      "key_takeaway_ja": "グルカゴン受容体/GLP-1受容体二重作動薬は肥満およびMASHに対して体重減少、肝脂肪減少、肝線維化改善を示すが、GLP-1受容体単独作動薬との優劣は決定的なhead-to-head試験でまだ確立されていない。",
+      "why_matters_ja": "肥満とMASHは高頻度疾患であり、グルカゴンとGLP-1のシグナルを組み合わせる二重作動薬は、エネルギー代謝・肝臓健康・血糖制御を同時に改善する新たな治療戦略として臨床応用に近づいている。",
+      "study_type_ja": "Narrative review（翻訳的焦点を伴う叙述的レビュー）",
+      "endpoints_ja": "体重、肝脂肪（hepatic steatosis）、肝線維化（hepatic fibrosis）、食物摂取量、エネルギー消費、血糖制御",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-13T02:36:35Z"
     },
     {
       "pmid": "42858820",
@@ -304,6 +490,40 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-10T00:45:28Z"
+    },
+    {
+      "pmid": "42860337",
+      "title": "Combined empagliflozin and liraglutide therapy protects against tacrolimus-induced pancreatic and renal injury associated with oxidative stress reduction.",
+      "abstract": "BACKGROUND: Sodium-glucose cotransporter-2 inhibitors (SGLT2is) and glucagon-like peptide-1 receptor agonists (GLP-1RAs) are widely used in type 2 diabetes mellitus for glycemic control and organ protection. This study investigated whether the combined use of empagliflozin (EMPA) and liraglutide (LIRA) could protect against pancreatic and renal damage caused by tacrolimus (TAC).\nMETHODS: Male Sprague-Dawley rats received TAC for 4 weeks, either alone, or in combination with EMPA, LIRA, or both. Metabolic, histologic, and molecular parameters were assessed in vivo and in vitro. TAC caused hyperglycemia, reduced creatinine clearance, pancreatic β-cell loss, renal tubulointerstitial fibrosis, and increased oxidative stress and apoptosis.\nRESULTS: Either EMPA or LIRA alone partially attenuated these changes, whereas their combination provided enhanced protection- improving kidney function, preserving islet integrity, and reducing fibrosis and cell death. In the kidney and pancreas, dual therapy restored antiapoptotic and antioxidant signaling while suppressing profibrotic pathways, thereby mitigating oxidative stress and injury. Cell-based experiments further confirmed that EMPA plus LIRA enhanced cell viability and reduced reactive oxygen species generation in TAC-injured HK-2 and INS-1 cells.\nCONCLUSION: These findings indicate that combined SGLT2i and GLP-1RA therapy confers additive metabolic protection associated with attenuation of oxidative stress in tacrolimus-induced pancreatic and renal damage in this preclinical model, warranting further investigation of its potential as an adjunct strategy for posttransplant diabetes mellitus and nephrotoxicity.",
+      "journal": "Kidney research and clinical practice",
+      "authors": "Na Do Hyun, Fang Xianying, Lee Hanbi, Eum Sang Hun, Ko Eun Jeong, Yoon Hye Eun, Shin Yoo Jin, Lim Sun Woo",
+      "pub_date": "2026-10-08",
+      "doi": "10.23876/j.krcp.26.147",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860337/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "d8c49a3fc5dd7118bf24a6916989ec88666a040f1fb4e358077d7f245744ea7f",
+      "fetched_at_utc": "2026-10-13T02:33:01Z",
+      "updated_at_utc": "2026-10-13T02:33:01Z",
+      "summary_ja": "本研究は、タクロリムス（TAC）による膵臓・腎臓損傷に対して、エンパグリフロジン（EMPA）とリラグチド（LIRA）の併用が保護効果を発揮するかを、雄性Sprague-Dawleyラットを用いて検討した前臨床研究である。TAC投与により高血糖、クレアチニンクリアランスの低下、膵島β細胞の喪失、腎尿細間質線維化、酸化ストレスおよびアポトーシスの増加が誘発された。EMPA単独またはLIRA単独ではこれらの変化を部分的に軽減したが、併用により腎機能の改善、膵島構造の維持、線維化および細胞死の軽減がより強く認められた。腎臓および膵臓において、併用療法は抗アポトーシス・抗酸化シグナルを回復させ、線維化促進経路を抑制した。細胞実験でも、TAC損傷を受けたHK-2細胞およびINS-1細胞において併用が細胞生存率を向上させ、活性酸素種（ROS）産生を減少させた。",
+      "key_takeaway_ja": "SGLT2阻害薬とGLP-1受容体作動薬の併用療法は、タクロリムス誘発性の膵臓・腎臓損傷において酸化ストレスの軽減を伴う相加的な代謝保護効果を前臨床モデルで示した。",
+      "why_matters_ja": "タクロリムスは移植後の標準的免疫抑制薬であり、移植後糖尿病（PTDM）および腎毒性は重要な臨床課題である。本結果は、SGLT2阻害薬とGLP-1受容体作動薬の併用がPTDMおよび腎毒性に対する補助戦略としてさらなる検討を要することを示唆している。",
+      "study_type_ja": "前臨床研究（雄性Sprague-Dawleyラットを用いたin vivo実験およびHK-2細胞・INS-1細胞を用いたin vitro細胞実験）",
+      "endpoints_ja": "高血糖、クレアチニンクリアランス、膵島β細胞の喪失（膵島構造）、腎尿細間質線維化、酸化ストレス、アポトーシス、細胞生存率（in vitro）、活性酸素種（ROS）産生（in vitro）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-13T02:37:47Z"
     },
     {
       "pmid": "42850299",
@@ -1715,6 +1935,41 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-12T00:35:23Z"
+    },
+    {
+      "pmid": "42856399",
+      "title": "Sotagliflozin Reprograms Hepatic Lipid Metabolism and Attenuates Atherosclerosis Beyond Empagliflozin in CKM Mice.",
+      "abstract": "BACKGROUND: Sodium-glucose cotransporter-2 (SGLT2) inhibitors reduce cardiovascular mortality and chronic kidney disease (CKD) progression in cardiovascular-kidney-metabolic (CKM) syndrome, but this benefit derives primarily from reductions in heart failure and cardiovascular mortality rather than in atherothrombotic events. Sotagliflozin, which inhibits both intestinal SGLT1 and renal SGLT2, is the only drug in this class shown to lower rates of myocardial infarction and stroke in CKD. However, its mechanism remains unclear, and its effectiveness in non-diabetic CKD has not been studied. We hypothesized that dual SGLT1/2 inhibition reprograms systemic substrate utilization toward fatty acid oxidation, which may partially account for this protective effect.\nMETHODS: CKD was induced in male low-density lipoprotein receptor-deficient mice by 5/6 nephrectomy. Sham and CKD mice received a high-fat diet and drinking water containing sotagliflozin, empagliflozin, or vehicle for 16 weeks, at doses that produced equivalent fractional excretion of glucose. We quantified atherosclerosis en face and in the aortic sinus. Indirect calorimetry, echocardiography, hepatic RNA sequencing, plasma acylcarnitine profiling, and in vivo deuterium labeling of palmitate were performed.\nRESULTS: At matched levels of glucosuria and plasma total cholesterol, sotagliflozin decreased body mass, atherosclerosis burden, triglycerides, and TNF-α more than empagliflozin, and raised postprandial total GLP-1 approximately 3-fold, while both drugs similarly improved albuminuria and diastolic function. Sotagliflozin increased energy expenditure independent of body mass and lowered respiratory exchange ratio despite compensatory hyperphagia. Sotagliflozin reduced hepatic lipogenic genes and de novo lipogenic flux, while increasing β-oxidation and ketogenesis; empagliflozin only activated the oxidative pathway.\nCONCLUSIONS: In experimental CKM syndrome, dual SGLT1/2 inhibition reduces atherosclerosis and metabolic syndrome more effectively than selective SGLT2 inhibition and is associated with reprogramming of hepatic lipid metabolism. These results suggest that sotagliflozin could be an attractive candidate for mitigating atherosclerotic risk in non-diabetic CKD.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "authors": "Saum Keith, Sim Jessica, Zeng Lixia, Steward Charlie, Kayampilly Pradeep, Dixon Alethia, Singh Anand, Abdel-Latif Ahmed",
+      "pub_date": "2026-10-01",
+      "doi": "10.64898/2026.09.25.754502",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42856399/",
+      "publication_types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "e2fc09c7951fc4b1d8fca41dbbf7783011b72e0c3f07bea54150002af66258d3",
+      "fetched_at_utc": "2026-10-12T00:29:32Z",
+      "updated_at_utc": "2026-10-12T00:29:32Z",
+      "summary_ja": "CKM（心血管・腎・代謝）症候群のマウスモデルにおいて、SGLT1/2二重阻害薬ソタグリフロジンが選択的SGLT2阻害薬エンパグリフロジンよりも肝臓の脂質代謝を再プログラムし、動脈硬化をより強く抑制するかを評価した前臨床研究。LDL受容体欠損マウスに5/6腎切除によりCKDを誘導し、高脂肪食とソタグリフロジン、エンパグリフロジン、または溶媒を16週間投与した。グルコース排泄率を同等に保つ用量で比較し、動脈硬化の定量、間接熱量測定、心エコー、肝臓RNA配列解析、血漿アシルカルニチンプロファイリング、体内重水素パルミ酸ラベリングを行った。",
+      "key_takeaway_ja": "グルコース尿排泄量と血漿総コレステロールが同等の条件下で、ソタグリフロジンはエンパグリフロジンよりも体重、動脈硬化負荷、トリグリセリド、TNF-αをより大きく低下させ、食後総GLP-1を約3倍に上昇させた。ソタグリフロジンは体重に依存しないエネルギー消費の増加と補償性過食にもかかわらず呼吸交換比の低下を示し、肝臓の脂肪合成遺伝子とde novo脂肪合成フラックスを減少させ、β酸化とケト体生成を増加させた。一方、エンパグリフロジンは酸化経路のみを活性化させた。",
+      "why_matters_ja": "SGLT2阻害薬はCKM症候群で心血管死亡率とCKD進行を減少させるが、その効果は主に心不全や心血管死亡率の減少に由来し、動脈血栓塞栓症イベントの減少には至っていない。ソタグリフロジンはCKDで心筋梗塞と脳卒中の発生率を低下させたこのクラスで唯一の薬剤であり、その機序の解明は非糖尿病CKDにおける動脈硬化リスクの軽減に寄与しうる。",
+      "study_type_ja": "前臨床動物実験（マウスモデル）／プレプリント",
+      "endpoints_ja": "動脈硬化負荷（en faceおよび大動脈窦）、体重、トリグリセリド、TNF-α、食後総GLP-1、エネルギー消費量、呼吸交換比、肝臓脂肪合成遺伝子、de novo脂肪合成フラックス、β酸化、ケト体生成、アルブミン尿、拡張期機能、グルコース排泄率、血漿総コレステロール",
+      "endpoint_results_ja": "食後総GLP-1：ソタグリフロジン群で約3倍上昇。体重、動脈硬化負荷、トリグリセリド、TNF-α：ソタグリフロジンがエンパグリフロジンより大きく低下（具体的な数値は記載なし）。エネルギー消費量：ソタグリフロジンで体重に依存しない増加（具体的な数値は記載なし）。呼吸交換比：ソタグリフロジンで低下（具体的な数値は記載なし）。アルブミン尿・拡張期機能：両薬剤で同程度に改善（具体的な数値は記載なし）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-13T02:39:35Z"
     },
     {
       "pmid": "42842253",
@@ -5100,252 +5355,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-22T00:04:53Z"
-    },
-    {
-      "pmid": "42764204",
-      "title": "Quantitative Insights into Tirzepatide and Semaglutide Using Longitudinal Systems Modeling.",
-      "abstract": "CONTEXT: In a 28-week clinical trial of patients with type 2 diabetes (T2D), tirzepatide 15 mg (a dual GIP/GLP-1 receptor agonist) and semaglutide 1 mg (a GLP-1 receptor agonist) both improved fasting glucose, with tirzepatide showing superior efficacy. The longitudinal metabolic mechanisms underlying this difference remain incompletely defined.\nOBJECTIVE: To compare the longitudinal metabolic effects of tirzepatide and semaglutide using model-based analysis of fasting measures, elucidate underlying mechanisms, and explore strategies to enhance outcomes in low responders.\nMETHODS: A mechanistic longitudinal model was developed based on the trial data from patients treated with tirzepatide or semaglutide. The model integrates fasting glucose, fasting insulin, insulin sensitivity, and beta-cell function over time, enabling quantification of hepatic glucose production (HGP) and isolation of insulin-independent drug effects on HGP.\nRESULTS: Beta-cell function, as assessed by HOMA-B, initially increased and then declined as insulin sensitivity improved, a reversal of the canonical T2D progression pathway. Tirzepatide's superior fasting glucose control versus semaglutide was driven primarily by greater insulin-independent suppression of HGP. Low responders exhibited deficient HGP suppression, and simulations suggested that enhancing HGP suppression improves fasting glucose without inducing β-cell stress associated with sustained hypersecretion. Simulated enhancement of weight loss accelerated early glycemic improvement but did not further reduce long-term fasting glucose levels.\nCONCLUSION: Greater suppression of hepatic glucose production was associated with greater efficacy of tirzepatide 15 mg versus semaglutide 1 mg in improving fasting glucose. Therapeutic strategies targeting suppression of hepatic glucose production may provide metabolic benefit beyond direct enhancement of beta-cell function or additional weight loss.",
-      "journal": "The Journal of clinical endocrinology and metabolism",
-      "authors": "Yang Boya, Cabrera Over, Mather Kieren J, Sherman Arthur S",
-      "pub_date": "2026-09-21",
-      "doi": "10.1210/clinem/dgag383",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42764204/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "09be314561c905ec59ab95ef2e33f3da17f5cc3306cf96a11b2fdbd0b60d4086",
-      "fetched_at_utc": "2026-09-22T00:03:03Z",
-      "updated_at_utc": "2026-09-22T00:03:03Z",
-      "summary_ja": "2型糖尿病（T2D）患者を対象とした28週間の臨床試験データを用い、tirzepatide 15 mg（GIP/GLP-1受容体二重作動薬）とsemaglutide 1 mg（GLP-1受容体作動薬）の経時的な代謝効果をメカニスティックなシステムモデルで比較解析した。空腹時血糖、空腹時インスリン、インスリン感受性、β細胞機能を統合したモデルにより、肝糖産生（HGP）の定量化とインスリン非依存性の薬物効果を分離した。",
-      "key_takeaway_ja": "Tirzepatide 15 mgがsemaglutide 1 mgを上回る空腹時血糖コントロールは、主にインスリン非依存性の肝糖産生（HGP）抑制の差に起因していた。",
-      "why_matters_ja": "Tirzepatideとsemaglutideの空腹時血糖コントロール差のメカニズムを定量的に解明し、HGP抑制を標的とする治療戦略がβ細胞機能の直接増強や追加の減量を超えた代謝的恩恵をもたらす可能性を示唆した。",
-      "study_type_ja": "既存臨床試験データを用いたメカニスティックなシステムモデリング（モデルベース解析）",
-      "endpoints_ja": "空腹時血糖、空腹時インスリン、インスリン感受性、β細胞機能（HOMA-B）、肝糖産生（HGP）",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-22T00:05:17Z"
-    },
-    {
-      "pmid": "42764443",
-      "title": "Economic evaluations of antiobesity medications: A systematic literature review.",
-      "abstract": "The global prevalence of obesity is rising rapidly. With several antiobesity medications approved and many more in development, understanding their economic value is increasingly important. This study reviews full economic evaluations of approved antiobesity medications to assess cost-effectiveness and inform reimbursement and access decisions. We systematically reviewed full economic evaluations of approved antiobesity medications in adults with overweight or obesity, including tirzepatide, semaglutide, liraglutide, naltrexone/bupropion, orlistat, phentermine and phentermine/topiramate. Ovid MEDLINE, Embase and government websites were searched for studies comparing these medications with standard care or with each other. Methodological quality was assessed using the BMJ checklist and reporting quality using CHEERS 2022. A narrative synthesis was performed, focusing on quality-adjusted life years and incremental cost-effectiveness ratios. The review followed PRISMA guidelines and was registered on PROSPERO (CRD420251139475). Twenty-six studies met inclusion criteria. All were conducted in high or upper-middle-income countries, predominantly from payer perspectives. Results were heterogeneous and sensitive to model assumptions; however, consistent trends emerged. Semaglutide demonstrated variable cost-effectiveness but consistently outperformed liraglutide, which was generally not cost-effective. Tirzepatide produced greater health gains and frequently favourable ICERs, though it often exceeded willingness-to-pay (WTP) thresholds in lower-threshold settings. Among older agents, phentermine/topiramate appeared economically competitive, largely due to lower acquisition costs. The cost-effectiveness of antiobesity medications is highly context-dependent. Semaglutide is generally more cost-effective than liraglutide, while tirzepatide offers greater clinical benefit but may exceed WTP thresholds. Direct comparative economic evidence between newer agents remains limited. Long-term real-world data and clearer distinctions between cost-effectiveness and affordability are needed to inform policy decisions.",
-      "journal": "British journal of clinical pharmacology",
-      "authors": "Jurković Martina, Fajkić Almir, Faour Andrea Katrin, Momčilović Mirna, Turčić Petra, Belančić Andrej",
-      "pub_date": "2026-09-20",
-      "doi": "10.1002/bcp.70825",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42764443/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "b40a09beed7d3ccdb0e82475d4b814d0da9f493a0ee06a65390e183e72afda87",
-      "fetched_at_utc": "2026-09-22T00:03:03Z",
-      "updated_at_utc": "2026-09-22T00:03:03Z",
-      "summary_ja": "承認済み抗肥満薬（tirzepatide、semaglutide、liraglutide、naltrexone/bupropion、orlistat、phentermine、phentermine/topiramate）の成人肥満・過体重患者を対象とした完全な経済評価研究を体系的にレビューし、費用対効果を評価した。26件の研究が包含基準を満たし、主に高所得国または上級中等所得国で支払者視点から実施されていた。QALYとICERに焦点を当てた叙述的統合が行われた。",
-      "key_takeaway_ja": "抗肥満薬の費用対効果は文脈に大きく依存する。Semaglutideはliraglutideよりも一般的に費用対効果が高く、tirzepatideはより大きな臨床的利益をもたらすがWTP閾値を超える可能性がある。新薬間の直接的比較経済証拠は依然として限られている。",
-      "why_matters_ja": "肥満の世界的な有病率の急増と、承認済みおよび開発中の抗肥満薬の増加に伴い、その経済的価値を理解することは、償還およびアクセス決定を情報提供するためにますます重要である。",
-      "study_type_ja": "体系的文献レビュー（経済評価研究の系統的レビュー）",
-      "endpoints_ja": "QALY（質調整生命年）、ICER（増分費用対効果比）",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-22T00:06:09Z"
-    },
-    {
-      "pmid": "42764399",
-      "title": "Effect of Semaglutide on Thigh Skeletal Muscle Volume, Fat Infiltration and Physical Function in People With Obesity: Secondary Analysis of STEP UP.",
-      "abstract": "AIMS: To assess the effect of semaglutide on body composition and physical function.\nMATERIALS AND METHODS: The phase 3b STEP UP trial randomised adults with body mass index ≥ 30 kg/m2 to once-weekly subcutaneous semaglutide 7.2 mg, semaglutide 2.4 mg or placebo for 72 weeks. This prespecified secondary analysis assessed changes in MRI body composition and physical function.\nRESULTS: Of 1407 participants, 55 with a valid baseline scan were included (semaglutide 7.2 mg, n = 43, 2.4 mg, n = 6 [pooled semaglutide group, n = 49]; placebo, n = 6). Estimated treatment differences (95% confidence intervals; p-values) for absolute changes in adipose/muscle compartment volumes for the pooled semaglutide versus placebo group, respectively, were: -11.1 L (-16.5 to -5.7; p < 0.0001) for adipose body tissue, -1.5 L (-2.9 to -0.1; p = 0.04) for visceral adipose tissue, -1.7 L (-4.0 to 0.7; p = 0.16) for lean body tissue, -1.1 L (-2.3 to 0.1; p = 0.07) for thigh skeletal muscle volume and -0.92%-points (-1.41 to -0.42; p = 0.001) for thigh muscle fat infiltration. Similar results were seen for relative changes in adipose/muscle compartment volumes. A sensitivity analysis for the semaglutide 7.2 mg group versus placebo showed similar results. A mean of 13 sit-to-stand repetitions in 30 s at baseline, and 15 repetitions at Week 72, was observed in the pooled semaglutide and placebo groups.\nCONCLUSIONS: Semaglutide plus lifestyle intervention was associated with reductions in adipose tissue volume, skeletal muscle volume and skeletal muscle fat infiltration, with a preserved number of sit-to-stand repetitions. Further research to assess the impact of weight loss on skeletal muscle composition and function should be explored in the future.\nTRIAL REGISTRATION: ClinicalTrials.gov identifier NCT05646706.",
-      "journal": "Diabetes, obesity & metabolism",
-      "authors": "Hjelmesæth Jøran, Bhat Suhas, Garvey W Timothy, Kolnes Kristoffer Jensen, Linge Jennifer, Lingvay Ildiko, Rasmussen Niklas Kahr, Rosenstock Julio",
-      "pub_date": "2026-09-20",
-      "doi": "10.1111/dom.71323",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42764399/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "801181c02e26aff9e859e6e5c1b69e67bf615d3ab3cc3bdf7c6df5b70fdd6cd1",
-      "fetched_at_utc": "2026-09-22T00:03:03Z",
-      "updated_at_utc": "2026-09-22T00:03:03Z",
-      "summary_ja": "肥満（BMI≥30 kg/m²）の成人を対象とした第3b相STEP UP試験の事前指定された二次解析であり、週1回皮下投与セマグルチド7.2 mg、2.4 mg、またはプラセボを72週間投与した際のMRIによる体組成および身体機能への影響を評価した。",
-      "key_takeaway_ja": "セマグルチドは脂肪組織量および大腿筋脂肪浸潤の有意な減少と関連したが、大腿骨格筋量も減少傾向を示した（有意差なし）。身体機能（30秒間のsit-to-stand反復回数）はセマグルチド群とプラセボ群で同様に維持された。",
-      "why_matters_ja": "GLP-1受容体作動薬による減量に伴う骨格筋量・組成への影響は、サルコペニアリスクのある患者や高齢者における臨床開発上重要な課題であり、本解析は減量薬の筋肉量への影響を定量的に評価した貴重なデータを提供する。",
-      "study_type_ja": "第3b相無作為化比較試験（STEP UP）の事前指定された二次解析",
-      "endpoints_ja": "MRIによる体組成変化（脂肪組織量、内臓脂肪組織量、除脂肪組織量、大腿骨格筋量、大腿筋脂肪浸潤）、身体機能（30秒間のsit-to-stand反復回数）",
-      "endpoint_results_ja": "脂肪組織量: -11.1 L (-16.5 to -5.7; p < 0.0001)、内臓脂肪組織量: -1.5 L (-2.9 to -0.1; p = 0.04)、除脂肪組織量: -1.7 L (-4.0 to 0.7; p = 0.16)、大腿骨格筋量: -1.1 L (-2.3 to 0.1; p = 0.07)、大腿筋脂肪浸潤: -0.92%-points (-1.41 to -0.42; p = 0.001)、sit-to-stand: 基線時平均13回、72週時平均15回（セマグルチド併合群およびプラセボ群で同様の結果）",
-      "sample_size_ja": "親試験の1407名中、有効な基線スキャンを有する55名（セマグルチド7.2 mg群 n=43、2.4 mg群 n=6、セマグルチド併合群 n=49、プラセボ群 n=6）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-22T00:07:10Z"
-    },
-    {
-      "pmid": "42764072",
-      "title": "Association of tirzepatide versus Glucagon-Like Peptide-1 receptor agonists with oral and periodontal outcomes in patients with type 2 Diabetes: A Global propensity Score-Matched cohort study.",
-      "abstract": "AIMS: To evaluate the association between tirzepatide and recorded oral and periodontal outcomes compared with glucagon-like peptide-1 receptor agonists (GLP-1RAs) in patients with type 2 diabetes mellitus (T2DM).\nMETHODS: We conducted a retrospective cohort study using the TriNetX Global Collaborative Network. Adults with T2DM receiving tirzepatide or GLP-1RAs between May 2022 and May 2025 underwent 1:1 propensity score matching using baseline characteristics assessed during the preceding year. Cox models estimated hazard ratios (HRs) and 95% confidence intervals (CIs) for mortality and oral and periodontal outcomes during 1-year follow-up. Additional analyses included subgroup, extended follow-up, active-comparator, composite-outcome, and E-value analyses.\nRESULTS: After matching, each cohort included 97,993 patients. Tirzepatide was associated with lower risks of mortality (HR 0.69, 95% CI 0.59-0.80), periodontitis (0.70, 0.57-0.86), tooth extraction (0.89, 0.84-0.94), peri-implant complications (0.61, 0.52-0.70), periodontal procedures (0.89, 0.85-0.94), and oral or maxillofacial infections (0.70, 0.62-0.79). The composite oral/periodontal outcome was also lower with tirzepatide (HR 0.87, 95% CI 0.84-0.91), with directionally consistent findings across additional analyses.\nCONCLUSIONS: Tirzepatide was associated with lower risks of recorded oral and periodontal outcomes than GLP-1RAs. Given the low recorded event rates and limitations of retrospective EHR data, these associations require confirmation in prospective studies with systematic dental assessments.",
-      "journal": "Diabetes research and clinical practice",
-      "authors": "Tu Cheng-Yun, Chen Hui-Ling, Wu Yu-Hsien, Wu Ming-Ju",
-      "pub_date": "2026-09-20",
-      "doi": "10.1016/j.diabres.2026.113573",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42764072/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "99cfbc0e4509b853486c1bfcee64c64ac89b17dd528438d8fdc9289a9ab44c07",
-      "fetched_at_utc": "2026-09-22T00:03:03Z",
-      "updated_at_utc": "2026-09-22T00:03:03Z",
-      "summary_ja": "TriNetX Global Collaborative Networkを用いた後方視コホート研究であり、2型糖尿病（T2DM）患者においてtirzepatideとGLP-1受容体作動薬（GLP-1RA）の口腔・歯周アウトカムとの関連を評価した。2022年5月から2025年5月にtirzepatideまたはGLP-1RAを投与された成人T2DM患者を対象に、前年度の特徴量を用いて1:1プロパシティスコアマッチングを実施し、1年間のフォローアップ期間における死亡および口腔・歯周アウトカムのハザード比（HR）と95%信頼区間（CI）をCoxモデルで推定した。マッチング後、各コホートは97,993例であった。",
-      "key_takeaway_ja": "T2DM患者において、tirzepatideはGLP-1RAと比較して死亡、歯周炎、抜歯、インプラント周囲合併症、歯周処置、口腔・顎顔面感染、および複合口腔・歯周アウトカムのリスクが有意に低かった。",
-      "why_matters_ja": "T2DM患者の口腔・歯周健康は血糖管理と密接に関連しており、tirzepatideがGLP-1RAと比較して口腔・歯周アウトカムに優位性を示すことは、血糖管理以外の追加的利点を示唆する。ただし、後方視EHRデータの低イベント率と限界から、系統的歯科評価を伴う前向き研究での確認が必要とされている。",
-      "study_type_ja": "後方視コホート研究（プロパシティスコアマッチング）",
-      "endpoints_ja": "死亡、歯周炎、抜歯、インプラント周囲合併症、歯周処置、口腔・顎顔面感染、複合口腔・歯周アウトカム",
-      "endpoint_results_ja": "死亡: HR 0.69, 95% CI 0.59-0.80 / 歯周炎: HR 0.70, 95% CI 0.57-0.86 / 抜歯: HR 0.89, 95% CI 0.84-0.94 / インプラント周囲合併症: HR 0.61, 95% CI 0.52-0.70 / 歯周処置: HR 0.89, 95% CI 0.85-0.94 / 口腔・顎顔面感染: HR 0.70, 95% CI 0.62-0.79 / 複合口腔・歯周アウトカム: HR 0.87, 95% CI 0.84-0.91",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-22T00:08:17Z"
-    },
-    {
-      "pmid": "42626264",
-      "title": "Glucagon-like receptor-1 agonists and impotence: A meta-analysis.",
-      "abstract": "BACKGROUND: Glucagon-like peptide receptors-1 agonists (GLP-1 agonists) have revolutionized the treatment of obesity and diabetes due to their potent effects on weight and glycemic control, and cardiorenal protection. However, emerging reports and post-marketing surveillance have raised concerns regarding erectile dysfunction (ED) or impotence in a subset of male patients.\nAIM: To assess the association between GLP-1 agonists, ED, total (TT) and free testosterone (FT), sex hormone binding globulins (SHBG), luteinizing hormone (LH), and follicular stimulating hormone (FSH).\nMETHODS: We systematically searched PubMed, Google Scholar, and Web of Science in November and December 2026 for articles examining the association between GLP-1 agonists and ED, with no publication date restriction. However, only articles published in the English language were eligible. The terms used were GLP-1 agonists, ED, semaglutide, liraglutide, ozympic, tirzepatide, dulaglutide, and Impotence.\nRESULTS: One hundred seventy-two articles were found; after removing duplicates, 63 remained, of which 12 full texts were screened, and 7 studies were included in the final meta-analysis. Seven studies involving 237 males were included. GLP-1 agonist therapy improved ED score with a significant statistical difference, MD = 2.73, 95% confidence interval (CI): 1.64-3.83. A significant increase was found regarding TT, SHBG, and FSH, MD 73.04, 95%CI: 16.91-129.17, MD 7.00, 95%CI: 1.71-12.30, and MD 0.46, 95%CI: 0.01-0.91 respectively.\nCONCLUSION: No significant differences were evident regarding the FT, and LH. GLP-1 agonists significantly improved ED, TT, SHBG, and FSH in males, no effects were observed on FT, and LH; larger randomized trials are needed.",
-      "journal": "World journal of methodology",
-      "authors": "Mirghani Hyder Osman, AlQurashi Asawir Mohammed",
-      "pub_date": "2026-09-20",
-      "doi": "10.5662/wjm.119385",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42626264/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "4b845828498d98f2f9e2a67653fcf64d408108d25c645fb99d059468b4bab005",
-      "summary_ja": "本論文は、GLP-1受容体作動薬と勃起不全(ED)、総テストステロン(TT)、遊離テストステロン(FT)、SHBG、LH、FSHとの関連を評価したシステマティックレビュー・メタ解析である。PubMed、Google Scholar、Web of Scienceを系統的に検索し、最終的に7研究（男性237名）を含むメタ解析を行った。結果、GLP-1受容体作動薬療法はEDスコアを有意に改善し、TT、SHBG、FSHは有意に増加したが、FTとLHには有意差が認められなかった。",
-      "key_takeaway_ja": "GLP-1受容体作動薬は男性のEDスコアを改善し、TT・SHBG・FSHを増加させる可能性が示されたが、FT・LHへの影響は認められず、より大きなランダム化試験が必要である。",
-      "why_matters_ja": "GLP-1受容体作動薬の心血管・腎保護効果とは別に、男性の性機能・内分泌系への影響を評価するメタ解析であり、C-R-M領域でGLP-1製剤の安全性・忍容性評価の参考となる。",
-      "study_type_ja": "システマティックレビューおよびメタ解析",
-      "endpoints_ja": "主要: 抄録に記載なし。副次: 抄録に記載なし。評価項目: EDスコア、TT、FT、SHBG、LH、FSH",
-      "endpoint_results_ja": "EDスコア: MD=2.73, 95%CI: 1.64-3.83。TT: MD=73.04, 95%CI: 16.91-129.17。SHBG: MD=7.00, 95%CI: 1.71-12.30。FSH: MD=0.46, 95%CI: 0.01-0.91。FT: 有意差なし。LH: 有意差なし。",
-      "sample_size_ja": "N=237（男性、7研究）",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T15:00:45Z"
-    },
-    {
-      "pmid": "42626202",
-      "title": "Pancreatic-liver crosstalk, novel molecular mediators, and 2025 therapeutic breakthroughs.",
-      "abstract": "Obesity, a global public health crisis driven by dysregulated systemic energy homeostasis, is increasingly recognized as a disorder of interorgan communication, with the pancreas and liver serving as central interconnected metabolic hubs. Their bidirectional crosstalk, mediated through neural and humoral pathways, is a key driver of disease progression. Recent breakthroughs have uncovered novel molecular mechanisms amplifying this pathogenic axis: Adipocyte-derived exosomes carrying miR-138-5p directly target pancreatic β-cell SOX4, suppressing insulin secretion and promoting apoptosis, while hepatic RNA demethylase ALKBH5 stabilizes glucagon receptor mRNA and activates lipogenic pathways, exacerbating hyperglycemia and steatosis. Further, colonic inflammation activates hepatic ERK signaling, which is converted into neural signals by the liver and precisely delivered to the pancreas through the liver-pancreas vagus nerve circuit, driving adaptive β-cell proliferation in early obesity by releasing neurotransmitters such as acetylcholine. Traditional pathogenic loops persist: Pancreatic exocrine insufficiency disrupts gut-liver homeostasis, inducing systemic inflammation, and hepatic free fatty acid flux exerts direct and immune-mediated lipotoxicity on pancreatic β-cells, forming a self-perpetuating vicious cycle. Emerging interventions target this axis: GLP-1/GIP dual agonists (e.g., tirzepatide) demonstrate remarkable efficacy in weight loss and non-alcoholic steatohepatitis remission, while time-restricted feeding (e.g., 16:8 regimen) reduces liver fat through circadian and metabolic pathway activation, independent of caloric restriction. This review synthesizes novel interorgan signaling mechanisms and 2025 therapeutic breakthroughs, emphasizing the pancreas-liver axis as a critical target for obesity management.",
-      "journal": "World journal of methodology",
-      "authors": "Pan Hao-Yao, Chen Wei-Wei, Liang Jia-Xin, Sheng Yi-Yang, Zhang Wen-Jing, Zhu Xue-Wen, Wang Shuai-Yan, Yang Guan-Hu",
-      "pub_date": "2026-09-20",
-      "doi": "10.5662/wjm.v16.i3.118728",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42626202/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "fetched_at_utc": "2026-08-28T15:12:43Z",
-      "updated_at_utc": "2026-08-28T15:12:43Z",
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "56fdc4f19138425dd25c45dccf640e9185dbfa449ade46557fc8f1a39a455a99",
-      "summary_ja": "本稿はレビューであり、肥満を臓器間コミュニケーションの障害として捉え、膵臓と肝臓の双方向なクロストークを病態進展の中心軸として整理している。脂肪細胞由来エクソソームのmiR-138-5pによる膵β細胞SOX4抑制、肝臓ALKBH5によるグルカゴン受容体mRNA安定化、肝-膵迷走神経回路など、新規分子・神経機構を概説する。さらに、GLP-1/GIP二重作動薬（tirzepatide）の減量・非アルコール性脂肪肝炎寛解への有効性や、時間制限食事による肝脂肪減少など、2025年の治療的進展を強調している。",
-      "key_takeaway_ja": "肥満管理では膵臓-肝臓軸を標的とする分子・神経機構の理解と、GLP-1/GIP二重作動薬や時間制限食事などの介入が重要である。",
-      "why_matters_ja": "GLP-1/GIP二重作動薬が肥満・肝疾患で有効とされ、CRM領域の代謝・肝臓アウトカムにおける治療ターゲットとして示唆される。",
-      "study_type_ja": "レビュー（総説）",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "local/qwen3.8:27b",
-      "summary_generated_at_utc": "2026-08-31T14:59:16Z"
-    },
-    {
-      "pmid": "42762980",
-      "title": "Changes in Abdominal Adiposity and Associations With Metabolic Health Markers Following Tirzepatide in Japanese Participants With Obesity Disease: Results From the SURMOUNT-J Study.",
-      "abstract": "OBJECTIVES: This analysis characterized obesity-related outcomes in SURMOUNT-J and explored relationships among weight loss, abdominal adiposity, and metabolic improvements.\nMETHODS: Japanese adults with obesity disease without diabetes were randomized (1:1:1) to tirzepatide (10 or 15 mg) or placebo plus lifestyle modification. Prespecified analyses evaluated changes from baseline to week 72 in obesity and glycemic parameters. Post hoc analyses assessed correlations among changes in weight, anthropometrics, abdominal adiposity (visceral adipose tissue [VAT], subcutaneous adipose tissue [SAT], hepatic fat fraction [HFF]), and glycemic outcomes.\nRESULTS: Among 225 participants (placebo n=75; tirzepatide 10 mg n=73; 15 mg n=77), tirzepatide significantly increased high molecular weight adiponectin (mean change: 78.9% and 88.4% vs 0.9%) and reduced leptin (-57.3% and -63.1% vs -8.4%), high-sensitivity C-reactive protein (-55.1% and -65.3% vs -17.7%), and liver-related markers, including procollagen III (-21.3% and -24.8% vs -3.8%) and cytokeratin-18 (-59.8% and -62.0% vs -32.8%) (all P<.001). Glucose, insulin, and C-peptide AUC during a 75-g oral glucose tolerance test were also significantly reduced. At week 72, weight loss correlated linearly with reductions in adiposity. Weight loss was strongly correlated with VAT reduction (r=0.722-0.837 across groups), and VAT reductions strongly correlated with waist measures (r=0.837). Weight and VAT reductions showed moderate correlations with reductions in glucose, insulin, and C-peptide AUC (r=0.378-0.656).\nCONCLUSION: Tirzepatide-induced reductions in body weight and VAT were associated with improvements in metabolic markers and glucose metabolism. Strong associations between anthropometric measures and VAT support their use as surrogate markers of visceral adiposity in Japanese patients with obesity disease.",
-      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
-      "authors": "Waki Hironori, Kaneyuki Eiji, Shingaki Tomotaka, Oura Tomonori, Nagakubo Takashi, Ishigaki Yasushi",
-      "pub_date": "2026-09-19",
-      "doi": "10.1016/j.eprac.2026.09.006",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762980/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": true,
-      "content_sha256": "12174e74f192ede5099ce3744be9c0fd070a8faeb80b010b0a1a3c88d7b04ad9",
-      "fetched_at_utc": "2026-09-20T23:12:36Z",
-      "updated_at_utc": "2026-09-20T23:12:36Z",
-      "summary_ja": "SURMOUNT-J試験において、糖尿病を伴わない日本成人肥満症患者225名を1:1:1でtirzepatide 10 mg、15 mg、プラセボ＋生活習慣指導にランダム化し、ベースラインから72週までの肥満関連パラメータおよび血糖パラメータの変化を評価した。事前指定解析とpost hoc解析により、体重減少、腹部脂肪量（VAT、SAT、HFF）、代謝マーカー間の関連を探索した。",
-      "key_takeaway_ja": "Tirzepatideによる体重減少と内臓脂肪（VAT）の減少は、代謝マーカー（アディポネクチン、レプチン、hs-CRP、肝関連マーカー）およびグルコース代謝の改善と関連しており、日本肥満症患者において人体計測指標（体重、腹囲）が内臓脂肪のサロゲートマーカーとして使用可能である。",
-      "why_matters_ja": "日本肥満症患者において、体重や腹囲などの簡便な人体計測指標が内臓脂肪のサロゲートマーカーとして使用可能であることが示されたことで、画像検査に依存しない臨床現場での内臓脂肪評価が期待される。",
-      "study_type_ja": "ランダム化比較試験（SURMOUNT-J）の事前指定解析およびpost hoc解析",
-      "endpoints_ja": "事前指定解析：ベースラインから72週までの肥満パラメータ（体重、人体計測指標）および血糖パラメータ（75 g OGTT中のグルコース、インスリン、C-ペプチドAUC）の変化。Post hoc解析：体重、人体計測指標、腹部脂肪量（VAT、SAT、HFF）、血糖アウトカム間の相関。代謝マーカー：高分子量アディポネクチン、レプチン、hs-CRP、プロコラゲンIII、サイトケラチン-18。",
-      "endpoint_results_ja": "高分子量アディポネクチン：平均変化 78.9%（10 mg）および88.4%（15 mg）vs 0.9%（プラセボ）。レプチン：-57.3%（10 mg）および-63.1%（15 mg）vs -8.4%（プラセボ）。hs-CRP：-55.1%（10 mg）および-65.3%（15 mg）vs -17.7%（プラセボ）。プロコラゲンIII：-21.3%（10 mg）および-24.8%（15 mg）vs -3.8%（プラセボ）。サイトケラチン-18：-59.8%（10 mg）および-62.0%（15 mg）vs -32.8%（プラセボ）。以上すべてP<.001。体重減少とVAT減少の相関：r=0.722-0.837（群間）。VAT減少と腹囲指標の相関：r=0.837。体重・VAT減少とグルコース、インスリン、C-ペプチドAUC減少の相関：r=0.378-0.656。",
-      "sample_size_ja": "225名（プラセボ n=75、tirzepatide 10 mg n=73、tirzepatide 15 mg n=77）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-20T23:13:54Z"
     }
   ]
 }
