@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-13T02:39:40Z",
+  "generated_at_utc": "2026-10-14T00:21:09Z",
   "items": [
     {
       "pmid": "42805503",
@@ -70,6 +70,306 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42867450",
+      "title": "Effects of tirzepatide (GIP/GLP-1 dual receptor agonist) on cardiorenal biomarkers and functional capacity in heart failure: a systematic review and meta-analysis.",
+      "abstract": "BACKGROUND: Tirzepatide, a dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist, has demonstrated clinical benefits in heart failure with preserved ejection fraction (HFpEF) and obesity. However, its effects on cardiorenal biomarkers and functional capacity have not been comprehensively synthesized. We hypothesized that tirzepatide produces significant reductions in cardiorenal biomarkers and improvements in functional capacity compared to placebo or standard of care.\nMETHODS: This systematic review and meta-analysis (PROSPERO: CRD42026137255) searched PubMed, Embase, CENTRAL, Web of Science, and Scopus from inception to April 17, 2026, without restrictions. Randomized controlled trials and prospective observational studies reporting NT-proBNP, high-sensitivity C-reactive protein (hsCRP), Kansas City Cardiomyopathy Questionnaire Clinical Summary Score (KCCQ-CSS), 6-minute walk test (6 MWT), or renal outcomes with tirzepatide vs placebo or standard of care were included. Data were pooled using random-effects models with Hartung-Knapp-Sidik-Jonkman adjustment.\nRESULTS: Seven studies (5 RCTs, 2 observational; 5406 participants) were included. Tirzepatide significantly reduced hsCRP by 34.3% (95% CI: -38.4% to -30.1%; P < .0001; I2 = 0.0%; 6 studies) and NT-proBNP by 17.6% (95% CI: -26.7% to -8.5%; P = .0001; I2 = 58.1%; 3 studies). In the SUMMIT trial, KCCQ-CSS improved by 5.1 points (P < .001) and 6 MWT by 15.8 m (P = .004). Single-trial data demonstrated estimated glomerular filtration rate (eGFR) preservation (+2.90 mL/min/1.73 m2/year; 95% CI: 0.94 to 4.86) and urine albumin-to-creatinine ratio reduction (-25.0%; 95% CI: -36.0% to -13.0%).\nCONCLUSION: Tirzepatide produces consistent anti-inflammatory effects and significant natriuretic peptide reductions, supported by moderate Grading of Recommendations Assessment, Development and Evaluation certainty. Evidence for functional and renal outcomes remains limited to single-trial analyses and should be considered hypothesis-generating pending larger dedicated heart failure trials.\nPROSPERO REGISTRATION: CRD42026137255.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "authors": "Eisa Naseem, Khoury Mira",
+      "pub_date": "2026-10-13",
+      "doi": "10.1210/clinem/dgag284",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42867450/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a1568f388401cc17b5519c2670b445dc62bfb879868427a8f2b731d91001310d",
+      "fetched_at_utc": "2026-10-14T00:15:50Z",
+      "updated_at_utc": "2026-10-14T00:15:50Z",
+      "summary_ja": "Tirzepatide（GIP/GLP-1二重受容体作動薬）が心不全における心腎バイオマーカーおよび機能能力に及ぼす影響を評価したシステマティックレビューおよびメタアナリシス。PubMed、Embase、CENTRAL、Web of Science、Scopusを2026年4月17日まで検索し、NT-proBNP、hsCRP、KCCQ-CSS、6分間歩行試験（6MWT）、または腎臓アウトカムを報告した無作為化対照試験（RCT）および前向き観察研究を対象とした。7研究（5 RCT、2観察研究；5,406名）が組み込まれた。TirzepatideはhsCRPを34.3%、NT-proBNPを17.6%有意に低下させた。SUMMIT試験ではKCCQ-CSSが5.1点、6MWTが15.8 m改善した。単一試験データではeGFRの維持（+2.90 mL/min/1.73 m²/年）と尿アルブミン/クレアチニン比の低下（-25.0%）が示された。",
+      "key_takeaway_ja": "Tirzepatideは抗炎症効果（hsCRP低下）とナトリウム利尿ペプチド（NT-proBNP）の有意な低下を一貫してもたらす。GRADE確実性は中等度である。機能能力及び腎臓アウトカムのエビデンスは単一試験の解析に限定され、より大規模な心不全専用試験を待って仮説生成段階と位置づけられる。",
+      "why_matters_ja": "TirzepatideはHFpEFおよび肥満において臨床的有益性が示されているが、心腎バイオマーカーおよび機能能力への影響が包括的に統合されていなかった。本メタアナリシスは、Tirzepatideの心不全における抗炎症・心保護作用の定量的なエビデンスを初めて統合的に提示するものである。",
+      "study_type_ja": "システマティックレビューおよびメタアナリシス",
+      "endpoints_ja": "NT-proBNP、hsCRP、KCCQ-CSS、6分間歩行試験（6MWT）、eGFR、尿アルブミン/クレアチニン比",
+      "endpoint_results_ja": "hsCRP: 34.3%低下（95% CI: -38.4%〜-30.1%; P < .0001; I² = 0.0%; 6研究）。NT-proBNP: 17.6%低下（95% CI: -26.7%〜-8.5%; P = .0001; I² = 58.1%; 3研究）。KCCQ-CSS: 5.1点改善（P < .001）（SUMMIT試験）。6MWT: 15.8 m改善（P = .004）（SUMMIT試験）。eGFR: +2.90 mL/min/1.73 m²/年（95% CI: 0.94〜4.86）（単一試験）。尿アルブミン/クレアチニン比: -25.0%（95% CI: -36.0%〜-13.0%）（単一試験）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-14T00:16:36Z"
+    },
+    {
+      "pmid": "42865317",
+      "title": "The Effects of GLP-1RA-Based and SGLT2 Inhibitor Therapy on Perirenal Adipose Tissue in CKD Patients.",
+      "abstract": "AIMS: Perirenal adipose tissue (PRAT) surrounds the kidney and may contribute to chronic kidney disease (CKD) progression. SGLT2 inhibitors have been associated with reductions in this depot, but PRAT has not been quantified under GLP-1RA-based therapy in CKD. We assessed ultrasound-measured PRAT thickness under both treatments and whether changes tracked weight loss.\nMATERIALS AND METHODS: Adults with CKD Stages 1-4 in the prospective ADIPO-CKD inception cohort underwent ultrasound at baseline and at the 8-month visit. PRAT thickness was the mean of right and left measurements; epicardial adipose tissue and body composition were also assessed. Patients received neither drug class (reference), SGLT2i or GLP-1RA-based therapy. Follow-up PRAT was analysed by covariance analysis adjusted for baseline.\nRESULTS: Of 277 patients, 80 had paired studies (32 reference, 24 SGLT2i, 24 GLP-1RA-based; body weight 46-122 kg). PRAT was unchanged in the reference group (+0.035 cm, p = 0.376) and decreased with SGLT2i (-0.273 cm, -20.4%, p = 0.0006) and GLP-1RA-based therapy (-0.463 cm, -36.2%, p < 0.0001). Adjusted differences versus reference were -0.227 cm (95% CI -0.417 to -0.036) and -0.433 cm (-0.622 to -0.244); under multiple imputations, -0.218 cm (-0.482 to +0.046) and -0.421 cm (-0.693 to -0.149). GLP-1RA-based therapy reduced body weight, fat mass and visceral fat area; SGLT2i only body weight, modestly. PRAT change correlated with none.\nCONCLUSIONS: In CKD, both drug classes were associated with lower follow-up PRAT, not explained by measured body-composition change. Under multiple imputations, both estimates were essentially unchanged, though the SGLT2i interval included no difference. PRAT may represent a candidate depot-specific target.\nTRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT07309094 (ADIPO-CKD).",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Checa-Ros Ana, Arias-Mutis Oscar, Okojie Owahabanun-Joshua, Salvador Pilar, D'Marco Luis",
+      "pub_date": "2026-10-13",
+      "doi": "10.1111/dom.71441",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865317/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "6e62e534fce8f4d4c3279d1bbf42572ee8e0ae6c411ace9398533104d60adfcb",
+      "fetched_at_utc": "2026-10-14T00:15:50Z",
+      "updated_at_utc": "2026-10-14T00:15:50Z",
+      "summary_ja": "CKD 1〜4期の成人を対象とした前向きコホート研究（ADIPO-CKD）において、ベースラインと8か月時の超音波測定による腎周囲脂肪組織（PRAT）厚を評価した。277例中80例が対測定可能であり、参照群（両薬剤非使用）32例、SGLT2阻害薬群24例、GLP-1RAベース療法群24例に分類された。参照群ではPRATは変化しなかった（+0.035 cm, p=0.376）一方、SGLT2阻害薬群（-0.273 cm, -20.4%, p=0.0006）およびGLP-1RAベース療法群（-0.463 cm, -36.2%, p<0.0001）では有意に減少した。補正後の差はSGLT2阻害薬で-0.227 cm（95% CI -0.417〜-0.036）、GLP-1RAベース療法で-0.433 cm（-0.622〜-0.244）であった。PRATの変化は測定された体組成変化では説明されなかった。",
+      "key_takeaway_ja": "CKD患者において、SGLT2阻害薬およびGLP-1RAベース療法の両方が腎周囲脂肪組織（PRAT）厚の減少と関連し、この減少は測定された体組成変化では説明されない。PRATは薬剤特異的なデポット標的となり得る。",
+      "why_matters_ja": "腎周囲脂肪組織（PRAT）は腎臓を囲みCKDの進行に寄与する可能性があるが、GLP-1RAベース療法下でのPRATの定量化はこれまで行われていなかった。本研究は、SGLT2阻害薬とGLP-1RAベース療法の両方が体組成変化に依存せずにPRATを減少させることを示し、PRATがデポット特異的な治療標的となり得ることを示唆する。",
+      "study_type_ja": "前向きコホート研究（ADIPO-CKD創設コホート）",
+      "endpoints_ja": "主評価項目：8か月時の超音波測定による腎周囲脂肪組織（PRAT）厚（左右平均値）。副次評価項目：心膜周囲脂肪組織、体組成（体重、脂肪量、内臓脂肪面積）。",
+      "endpoint_results_ja": "PRAT厚の変化：参照群 +0.035 cm（p=0.376）、SGLT2阻害薬群 -0.273 cm（-20.4%, p=0.0006）、GLP-1RAベース療法群 -0.463 cm（-36.2%, p<0.0001）。参照群に対する補正差：SGLT2阻害薬 -0.227 cm（95% CI -0.417〜-0.036）、GLP-1RAベース療法 -0.433 cm（95% CI -0.622〜-0.244）。多重補完による推定：SGLT2阻害薬 -0.218 cm（95% CI -0.482〜+0.046）、GLP-1RAベース療法 -0.421 cm（95% CI -0.693〜-0.149）。",
+      "sample_size_ja": "コホート全体277例、対測定可能80例（参照群32例、SGLT2阻害薬群24例、GLP-1RAベース療法群24例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-14T00:17:26Z"
+    },
+    {
+      "pmid": "42863123",
+      "title": "Early Uptake of Oral Semaglutide for Obesity Treatment After Regulatory Approval.",
+      "abstract": "",
+      "journal": "Annals of internal medicine",
+      "authors": "Jelwan Yara, Zahid Sohail, Burka Semenawit, Silver Nader, Dzaye Omar, Blaha Michael J",
+      "pub_date": "2026-10-13",
+      "doi": "10.7326/ANNALS-26-02436",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863123/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "0399b7b5814e73f41d2c92f9fbe468128dc8a28094be7c285eb0bf0ce772f631",
+      "fetched_at_utc": "2026-10-14T00:15:50Z",
+      "updated_at_utc": "2026-10-14T00:15:50Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-14T00:15:50Z"
+    },
+    {
+      "pmid": "42855941",
+      "title": "Left ventricular ejection fraction recovery under contemporary quadruple guideline-directed therapy and the need for ICD/CRT-D implantation in HFrEF: a retrospective single-center cohort study.",
+      "abstract": "BACKGROUND: Guidelines advise deferring primary-prevention implantable cardioverter-defibrillator (ICD) or cardiac resynchronization therapy-defibrillator (CRT-D) implantation until left ventricular ejection fraction (LVEF) is reassessed after at least three months of medical therapy in heart failure with reduced ejection fraction (HFrEF). Real-world data under contemporary quadruple therapy are limited.\nRESEARCH DESIGN AND METHODS: Retrospective single-center cohort of 65 HFrEF patients (Coburg Hospital, Germany; October 2023-December 2024), prescribed beta-blocker, angiotensin receptor-neprilysin inhibitor, mineralocorticoid receptor antagonist and SGLT2 inhibitor (all four in 92%; doses not recorded). LVEF was measured by echocardiography (TTE) and cardiac magnetic resonance (CMR) at baseline and ~3 months; reader blinding was not documented. Device implantation followed guideline criteria. Patients with severe arrhythmic events were excluded.\nRESULTS: Twenty-nine patients (44.6%) received a device. LVEF rose on TTE (28.0→36.0%) and CMR (26.3→38.5%) (both p < 0.001), mainly without device implantation (TTE +13.0 vs + 1.5 points). Larger baseline left ventricular end-diastolic diameter was associated with smaller recovery (β = -0.41, p = 0.006) and device implantation (odds ratio 1.11/mm, 95% CI 1.01-1.22). Adverse events were not recorded.\nCONCLUSIONS: LVEF recovery was common, and associations are consistent with disease severity. Findings are hypothesis-generating; absent dose, arrhythmic-outcome and wearable-defibrillator data and the selected cohort limit generalizability.",
+      "journal": "Expert review of cardiovascular therapy",
+      "authors": "Ajmi Issameddine, Frings Mathis Philipp, Forkmann Mathias, Mahnkopf Christian",
+      "pub_date": "2026-10-13",
+      "doi": "10.1080/14779072.2026.2748165",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855941/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "dcb714af17cbdde8e0ada4cf7385bc8536d04076a72ac1f0a63fe84b9cb71d42",
+      "fetched_at_utc": "2026-10-11T00:13:05Z",
+      "updated_at_utc": "2026-10-14T00:15:50Z",
+      "summary_ja": "ドイツ・コブルク病院（2023年10月〜2024年12月）の単一施設後方視コホート研究。HFrEF患者65例が四重ガイドライン推奨療法（β遮断薬、ARNI、MRA、SGLT2阻害薬）を処方され、ベースラインと約3ヶ月後にTTEおよびCMRでLVEFを測定した。29例（44.6%）がICD/CRT-Dを植え込まれた。LVEFはTTE（28.0→36.0%）およびCMR（26.3→38.5%）で有意に改善した（いずれもp<0.001）。ベースライン左室拡張期末径が大きいほどLVEF回復が小さく（β=-0.41, p=0.006）、デバイス植え込みのオッズが高かった（OR 1.11/mm, 95% CI 1.01-1.22）。",
+      "key_takeaway_ja": "現代の四重GDMT下ではLVEF回復が頻回であり、約55%の患者がデバイス植え込みを要しなかった。ベースライン左室拡張期末径はLVEF回復の程度とデバイス植え込みの要否と関連した。",
+      "why_matters_ja": "現代の四重GDMT下でのLVEF回復に関する実世界データは限られており、ICD/CRT-D植え込みの判断（少なくとも3ヶ月の薬物療法後のLVEF再評価）に実用的なエビデンスを提供する可能性がある。",
+      "study_type_ja": "後方視単一施設コホート研究",
+      "endpoints_ja": "LVEF回復（TTEおよびCMRによるベースラインと約3ヶ月後の測定）、ICD/CRT-Dデバイス植え込み",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "65例（HFrEF患者）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-14T00:18:00Z"
+    },
+    {
+      "pmid": "42866623",
+      "title": "Characteristics of Youth With Type 2 Diabetes Prescribed Sodium-Glucose Cotransporter-2 Inhibitors Surrounding FDA Approval at an Academic Pediatric Medical Center.",
+      "abstract": "OBJECTIVE: Sodium-glucose cotransporter-2 inhibitors (SGLT2i) were approved by the United States Food and Drug Administration (FDA) for the treatment of type 2 diabetes mellitus (T2DM) in children aged 10 years and older on June 20, 2023. We describe SGLT2i prescribing trends among all specialties at a quaternary care pediatric medical center surrounding the approval of empagliflozin, then identify characteristics of patients with T2DM associated with a higher likelihood of SGLT2i prescription by pediatric endocrinologists.\nMETHODS: We compared the total number of new SGLT2i prescriptions sent by all specialties before and after FDA approval of empagliflozin, between July 1, 2022, and June 30, 2024. We then identified children aged 10 years and older with T2DM who were newly prescribed an SGLT2i by pediatric endocrinologists. Demographic and clinical characteristics were compared with those of children with T2DM not prescribed SGLT2i.\nRESULTS: The number of SGLT2i prescriptions sent by pediatric endocrinologists increased, and the top prescribing specialty shifted from Cardiology to Endocrinology. Increasing glycosylated hemoglobin (HbA1c) was associated with higher odds of SGLT2i prescription (OR 1.2 [95% CI, 1.1-1.3]; p < 0.001) regardless of empagliflozin approval status, low-density lipoprotein cholesterol, or urine microalbumin/creatinine ratio. Those prescribed SGLT2i before FDA approval were older, male, more frequently on insulin, and less frequently on metformin. These differences between groups were not seen post-approval.\nCONCLUSIONS: SGLT2is were more likely to be prescribed for youth with higher HBA1c by pediatric endocrinologists. The presence of risk factors for cardiovascular or renal disease was less important in the decision to prescribe SGLT2i, despite their reno- and cardioprotective effects in adults. Prospective and qualitative data would be useful in further understanding prescribing practices.",
+      "journal": "The journal of pediatric pharmacology and therapeutics : JPPT : the official journal of PPAG",
+      "authors": "Choi Erika Y, Nichols Presley, Jergel Andrew, Hao Shuai, Hsia Daniel S",
+      "pub_date": "2026-10-12",
+      "doi": "10.5863/JPPT-25-00116",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42866623/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "102e6caf76c41ef5c2a70e88381cc01e16ab39d075bc7f966548ac0357411a70",
+      "fetched_at_utc": "2026-10-14T00:15:50Z",
+      "updated_at_utc": "2026-10-14T00:15:50Z",
+      "summary_ja": "2023年6月20日にFDAが10歳以上の2型糖尿病（T2DM）小児に対するSGLT2阻害薬（SGLT2i）を承認した前後（2022年7月1日〜2024年6月30日）に、4次小児医療センターにおける全診療科のSGLT2i処方トレンドを記述し、小児内分泌科医によるSGLT2i処方確率が高いT2DM患者の特徴を同定した。",
+      "key_takeaway_ja": "小児内分泌科医によるSGLT2i処方はHbA1cが高いほど有意に高かった（OR 1.2 [95% CI, 1.1-1.3]; p < 0.001）。心血管・腎疾患のリスク因子は処方決定において相対的に重要ではなかった。",
+      "why_matters_ja": "小児向けに新規承認されたSGLT2iの実際の処方実態を把握し、臨床医が血糖管理と心血管・腎保護効果のどちらを重視して処方判断しているかを明らかにする点で意義がある。",
+      "study_type_ja": "後ろ向き観察研究（承認前後の処方数比較および処方群・非処方群の特徴比較）",
+      "endpoints_ja": "1) FDA承認前後の小児内分泌科医による新規SGLT2i処方数の変化、2) 小児内分泌科医によるSGLT2i処方確率に関連する患者の特徴",
+      "endpoint_results_ja": "小児内分泌科医によるSGLT2i処方数は増加し、最多処方科が循環器科から内分泌科へ変化した。HbA1cの上昇はSGLT2i処方オッズの上昇と関連（OR 1.2 [95% CI, 1.1-1.3]; p < 0.001）。承認前にSGLT2iを処方された群は年齢が高く、男性が多く、インスリン使用頻度が高く、メトホルミン使用頻度が低かった。承認後にはこれらの群間差は認められなかった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-14T00:19:06Z"
+    },
+    {
+      "pmid": "42865987",
+      "title": "Tirzepatide use in adolescents with metabolic dysfunction-associated steatotic liver disease (MASLD): A case series.",
+      "abstract": "Pediatric obesity and metabolic dysfunction-associated steatotic liver disease (MASLD) prevalence has risen markedly over the past decade. Due to transition delays and workforce shortages, pediatric specialists often manage patients into young adulthood, and thus familiarity with adult pharmacotherapies for MASLD is essential. Currently, Semaglutide, a glucagon-like peptide-1 (GLP-1) receptor agonist, is approved for adults with metabolic dysfunction-associated steatohepatitis (MASH) and F2-F3 fibrosis; however, dual and triple agonists are being evaluated. Tirzepatide, a dual agonist that targets gastric inhibitory peptide (GIP) and the GLP-1 receptor, has demonstrated superior weight reduction to Semaglutide (-20.2% vs. -13.7%) with a more favorable gastrointestinal adverse effect profile. Adult literature has demonstrated its effectiveness in MASH resolution, and pediatric data suggest it is safe in younger populations. Currently, there are no pediatric/adolescent studies exploring the use of Tirzepatide in MASLD. We present our experience using Tirzepatide in two adolescent patients with obesity and MASLD.",
+      "journal": "JPGN reports",
+      "authors": "Perumpail Brandon J, Tou Andrea, Panganiban Jennifer",
+      "pub_date": "2026-10-12",
+      "doi": "10.1002/jpr3.70246",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865987/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5f9e6473b567efa6cb68037cc7b3400378381f5160cde80472638af721a1b3d1",
+      "fetched_at_utc": "2026-10-14T00:15:50Z",
+      "updated_at_utc": "2026-10-14T00:15:50Z",
+      "summary_ja": "小児の肥満およびMASLD（代謝機能異常関連脂肪肝疾患）の有病率は過去10年間で著しく増加している。TirzepatideはGIPとGLP-1受容体を標的とするデュアルアゴニストであり、成人ではSemaglutideと比較して優れた減量効果（-20.2% vs. -13.7%）とより良好な消化管有害事象プロファイルを示している。しかし、MASLDにおけるTirzepatideの小児・思春期を対象とした研究はこれまで存在しなかった。本症例シリーズでは、肥満を伴うMASLDの思春期患者2例に対するTirzepatide使用の経験を報告する。",
+      "key_takeaway_ja": "MASLDを伴う思春期患者2例に対するTirzepatide使用の経験が初めて報告された。",
+      "why_matters_ja": "MASLDにおけるTirzepatideの小児・思春期を対象とした研究はこれまで存在せず、小児専門医が患者を若年成人期まで管理することが多いため、成人MASLD薬物療法への理解が不可欠である。",
+      "study_type_ja": "症例シリーズ（case series）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-14T00:19:27Z"
+    },
+    {
+      "pmid": "42864264",
+      "title": "Comparative Cardiorenal Efficacy and Safety of SGLT2 Inhibitors and Finerenone in Chronic Kidney Disease With Type 2 Diabetes: A Systematic Review and Network Meta-Analysis.",
+      "abstract": "AIMS: No randomized trial has compared SGLT2 inhibitors with finerenone in chronic kidney disease (CKD) with Type 2 diabetes. We estimated their comparative cardiorenal efficacy and safety.\nMATERIALS AND METHODS: MEDLINE, Embase, CENTRAL and trial registries were searched from inception to August 2026 for placebo-controlled outcome trials. Hazard ratios (HRs) were pooled in a frequentist random-effects network meta-analysis, and the between-class contrast was derived indirectly through placebo. Risk of bias followed RoB 2 and certainty followed CINeMA.\nRESULTS: Ten trial datasets formed a star network without closed loops. Versus placebo, both classes reduced kidney function progression (SGLT2 inhibitors HR: 0.64, 95% CI: 0.56-0.73; finerenone 0.84, 0.77-0.92) and heart-failure hospitalization (0.61, 0.53-0.69; 0.78, 0.66-0.92). Indirectly, SGLT2 inhibitors were favoured for kidney function progression (0.76, 0.64-0.90) and heart-failure hospitalization (0.77, 0.63-0.95), with no significant difference for atherothrombotic events or mortality. The kidney contrast remained significant after excluding high-risk-of-bias datasets, restricting to dedicated CKD trials and applying a uniform endpoint; the heart-failure contrast did not persist in dedicated CKD trials. Finerenone increased hyperkalemia without increasing acute kidney injury. Certainty was low or very low for every between-class comparison.\nCONCLUSIONS: SGLT2 inhibitors and finerenone both provide cardiorenal protection and appear complementary rather than interchangeable. Indirect differences favouring SGLT2 inhibitors derive from a loop-free network with unverifiable transitivity and low certainty; they are hypothesis-generating and should not be used to rank the agents. Safety domains are not reported comparably across classes.\nTRIAL REGISTRATION: CRD420261439899.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Alghzawi Fadi, Alghzawi Yousef, Alhassan Leen, Kiyyam Raghad",
+      "pub_date": "2026-10-12",
+      "doi": "10.1111/dom.71434",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864264/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "41c79ff874e9cf3df90ee2552d3c8243b976d2ef0662341ca9abea189d67e030",
+      "fetched_at_utc": "2026-10-14T00:15:50Z",
+      "updated_at_utc": "2026-10-14T00:15:50Z",
+      "summary_ja": "2型糖尿病を伴う慢性腎臓病（CKD）において、SGLT2阻害薬とフィネレノンの比較的心腎保護効果と安全性を評価したシステマティックレビューおよびネットワークメタアナリシス。プラセボ対照のアウトカム試験10件のデータセットを用い、頻度論的ランダム効果ネットワークメタアナリシスによりハザード比を統合し、プラセボ経由の間接比較を行った。",
+      "key_takeaway_ja": "SGLT2阻害薬とフィネレノンは両方とも心腎保護効果を示すが、互換性のある代替薬ではなく補完的な関係にある。間接比較ではSGLT2阻害薬が腎機能進行と心不全入院で優位に示されたが、ループフリーネットワークによる検証不能な推移性（transitivity）と低確実性のため、仮説生成に留まり薬剤の順位付けには使用すべきではない。",
+      "why_matters_ja": "2型糖尿病を伴うCKD患者においてSGLT2阻害薬とフィネレノンの直接比較を評価したランダム化試験は存在しないため、両薬剤の相対的な心腎保護効果と安全性プロファイルの理解は臨床実践において重要である。",
+      "study_type_ja": "システマティックレビューおよびネットワークメタアナリシス",
+      "endpoints_ja": "腎機能進行、心不全入院、動脈血栓塞栓症、死亡、高カリウム血症、急性腎障害",
+      "endpoint_results_ja": "腎機能進行（vs プラセボ）：SGLT2阻害薬 HR 0.64（95% CI 0.56-0.73）、フィネレノン HR 0.84（95% CI 0.77-0.92）。心不全入院（vs プラセボ）：SGLT2阻害薬 HR 0.61（95% CI 0.53-0.69）、フィネレノン HR 0.78（95% CI 0.66-0.92）。間接比較（SGLT2阻害薬 vs フィネレノン）：腎機能進行 HR 0.76（95% CI 0.64-0.90）、心不全入院 HR 0.77（95% CI 0.63-0.95）。動脈血栓塞栓症および死亡には有意差なし。フィネレノンで高カリウム血症が増加、急性腎障害の増加なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-14T00:20:03Z"
+    },
+    {
+      "pmid": "42863671",
+      "title": "Characterizing the Adverse Event Profile of Semaglutide: A Comprehensive U.S. Food and Drug Administration Adverse Event Reporting System-Based Pharmacovigilance Study.",
+      "abstract": "BACKGROUND: Semaglutide, a glucagon-like peptide-1 receptor agonist, is increasingly used for the management of type 2 diabetes mellitus and obesity. Given its expanding clinical use, a comprehensive evaluation of its safety profile using real-world data is warranted. This study aimed to characterize adverse event signals associated with semaglutide using the U.S. Food and Drug Administration Adverse Event Reporting System (FAERS).\nMETHODS: Adverse event reports associated with semaglutide were extracted from the FAERS database from 2004 Q1 to 2025 Q3. After data extraction and screening, cases in which semaglutide was recorded as the primary suspected drug were included. Adverse events were classified according to the Medical Dictionary for Regulatory Activities (MedDRA) at the preferred term (PT) and system organ class (SOC) levels. Signal detection was performed using disproportionality methods, including reporting odds ratio (ROR), proportional reporting ratio (PRR), relative reporting ratio (RRR), and empirical Bayes geometric mean (EBGM).\nRESULTS: A total of 43,754 reports were identified. Gastrointestinal disorders were the most frequently reported system organ class, with nausea (n = 5,637; 12.88%), vomiting (n = 4,097; 9.36%), diarrhoea (n = 3,276; 7.49%) and constipation (n = 2,257; 5.16%) being the most frequently reported adverse events. Impaired gastric emptying (n = 2,200; 5.03%) showed a markedly elevated reporting signal. Significant signals were also observed for metabolic and nutritional events, including decreased appetite (n = 2,221; 5.08%), dehydration (n = 1,231; 2.81%) and diabetic ketoacidosis. Notably, high disproportionality signals were detected for weight loss poor and optic ischaemic neuropathy. Additional signals involved psychiatric, renal and hepatobiliary systems. The consistency of findings across multiple statistical methods, including empirical Bayes geometric mean, supports the robustness of the detected signals.\nCONCLUSION: Semaglutide is primarily associated with gastrointestinal and metabolic adverse events consistent with its pharmacological effects; however, several less common but potentially important safety signals were identified. These findings highlight the need for continued pharmacovigilance and careful clinical monitoring in real-world use.",
+      "journal": "Clinical nutrition ESPEN",
+      "authors": "Thawkar Sunaina A, Singare Sakshi R, Sakle Nikhil S",
+      "pub_date": "2026-10-12",
+      "doi": "10.1016/j.clnesp.2026.105169",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863671/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "281528394aed7a87b3640c20e68ff02c4fccddaae460ef9cc26180901e911650",
+      "fetched_at_utc": "2026-10-14T00:15:50Z",
+      "updated_at_utc": "2026-10-14T00:15:50Z",
+      "summary_ja": "セマグルチド（GLP-1受容体作動薬）の安全性プロファイルを評価するため、米国FDAのFAERSデータベース（2004年Q1〜2025年Q3）からセマグルチドを主疑い薬とする有害事象報告を抽出し、MedDRAのPT・SOCレベルで分類した。ROR、PRR、RRR、EBGMの4つの不均衡分析法を用いてシグナル検出を行った。43,754件の報告が同定され、消化器系障害が最も頻度の高いSOCであった。",
+      "key_takeaway_ja": "セマグルチドの有害事象は主に消化器系（悪心、嘔吐、下痢、便秘）および代謝・栄養系（食欲低下、脱水、糖尿病性ケトアシドーシス）に集中し、薬理作用と整合的である。加えて、胃排出能低下、体重減少不良、視神経虚血性神経症に高い不均衡シグナルが検出された。",
+      "why_matters_ja": "セマグルチドは2型糖尿病および肥満の管理において使用が拡大しており、リアルワールドデータに基づく包括的な安全性評価が求められる。本研究は既知の消化器系有害事象に加え、頻度は低いが臨床的に重要な安全性シグナル（視神経虚血性神経症、糖尿病性ケトアシドーシス等）を特定し、継続的な薬物警戒と臨床モニタリングの必要性を強調している。",
+      "study_type_ja": "FAERSデータベースを用いた薬物警戒（ファーマコビジランス）研究（不均衡分析法によるシグナル検出）",
+      "endpoints_ja": "セマグルチドに関連する有害事象シグナル（MedDRA PT・SOCレベルでの分類、ROR/PRR/RRR/EBGMによる不均衡シグナル検出）",
+      "endpoint_results_ja": "総報告数: 43,754件。消化器系障害が最も頻度の高いSOC。最も頻度の高い有害事象: 悪心（n=5,637; 12.88%）、嘔吐（n=4,097; 9.36%）、下痢（n=3,276; 7.49%）、便秘（n=2,257; 5.16%）。胃排出能低下（n=2,200; 5.03%）に著しく高い報告シグナル。代謝・栄養系: 食欲低下（n=2,221; 5.08%）、脱水（n=1,231; 2.81%）、糖尿病性ケトアシドーシス（数値記載なし）。体重減少不良および視神経虚血性神経症に高い不均衡シグナル検出（数値記載なし）。精神系、腎系、肝胆系にも追加シグナル。",
+      "sample_size_ja": "43,754件の有害事象報告",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-14T00:20:31Z"
+    },
+    {
+      "pmid": "42863529",
+      "title": "The SGLT2 Inhibitor Empagliflozin Directly Binds Cardiac JNK3, Uncouples c-Jun/c-Fos Signaling, and Confers Cardioprotection in Diabetic Cardiomyopathy.",
+      "abstract": "BACKGROUND: Sodium-glucose cotransporter 2 (SGLT2) inhibitors, including empagliflozin (EMPA), confer significant cardioprotection in type 2 diabetes in addition to lowering glucose levels. However, their direct targets in cardiac tissue and molecular mechanisms underlying their effects in diabetic cardiomyopathy (DCM) remain unclear. The aim of the present study was to identify a direct cardiac target of EMPA and define the downstream signaling mechanisms mediating its cardioprotective effects in DCM.\nMETHODS: A kinase activity screening of 107 kinases was used to identify candidate targets for EMPA, followed by protein-ligand docking and surface plasmon resonance to validate direct binding to c-Jun N-terminal kinase 3 (JNK3). The cardioprotective effects of EMPA (10 mg/kg/day, 10 weeks) were evaluated in male db/db mice. Mechanistic studies were performed using AC16 cardiomyocytes under high glucose and palmitic acid (HG/PA) conditions. JNK3 function was examined using pharmacological inhibition with SR-3576, overexpression, and small interfering RNA knockdown.\nRESULTS: EMPA improved systolic and diastolic function, reduced cardiac fibrosis and mitochondrial injury in db/db mice, accompanied by suppression of c-Jun/c-Fos signaling. Docking and binding analyses demonstrated selective interaction between EMPA and JNK3 over JNK1/2. EMPA inhibited JNK3-dependent c-Jun/c-Fos signaling without altering pan-JNK phosphorylation, indicating selective disruption of JNK3-c-Jun coupling. In AC16 cells, EMPA or JNK3 inhibition reduced c-Jun phosphorylation and restored mitochondrial function. JNK3 overexpression impaired mitochondrial function. EMPA reversed these effects, whereas JNK3 knockdown improved mitochondrial function independently of EMPA treatment.\nCONCLUSION: EMPA directly targets JNK3, selectively uncoupling it from c-Jun/c-Fos signaling and thus preserving mitochondrial function and limiting fibrosis in DCM. These findings identify JNK3 as a novel direct target of EMPA in the heart and provide a mechanistic basis to explain the cardioprotective effect of SGLT2 inhibitors.",
+      "journal": "Diabetes & metabolism journal",
+      "authors": "Pham Trong Kha, Nguyen Hoai To Thi, Garcia Maria Victoria Faith, Yoon Changshin, Indarua Mário Albino Sozinho, Yun Hyeong Rok, Vu Thu Thi, Kim Hyoung Kyu",
+      "pub_date": "2026-10-12",
+      "doi": "10.4093/dmj.2025.1247",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863529/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "dd1b36906e4accc5a5bfbd3c8c9ab2c2a986895a628857d67ff1e5bb8f2825c1",
+      "fetched_at_utc": "2026-10-14T00:15:50Z",
+      "updated_at_utc": "2026-10-14T00:15:50Z",
+      "summary_ja": "SGLT2阻害薬エンパグリフロジン（EMPA）の心臓組織における直接標的と糖尿病性心筋症（DCM）における心保護効果の分子機構を解明することを目的とした前臨床研究。107種類のキナーゼ活性スクリーニング、タンパク質-リガンドドッキング、表面プラズモン共鳴（SPR）により、EMPAがc-Jun N末端キナーゼ3（JNK3）に直接結合することを同定した。雄性db/dbマウス（EMPA 10 mg/kg/day、10週間）および高糖・パルミチン酸（HG/PA）条件下のAC16心筋細胞を用いた機構解析により、EMPAはJNK3依存性のc-Jun/c-Fosシグナル伝達を選択的に解離し、ミトコンドリア機能の維持と線維化の抑制を通じて心保護効果を発揮することを示した。",
+      "key_takeaway_ja": "エンパグリフロジンは心臓においてJNK3に直接結合し、JNK3-c-Jun結合を選択的に解離することでミトコンドリア機能を維持し、糖尿病性心筋症における線維化を抑制する。JNK3はSGLT2阻害薬の心保護効果の新たな直接標的として同定された。",
+      "why_matters_ja": "SGLT2阻害薬は血糖降下作用とは独立した心保護効果を示すが、その心臓における直接標的と分子機構は不明であった。本研究はJNK3をEMPAの心臓における直接標的として同定し、SGLT2阻害薬の心保護効果の機能的基盤を提供する。",
+      "study_type_ja": "前臨床（基礎）研究：キナーゼ活性スクリーニング、タンパク質-リガンドドッキング、表面プラズモン共鳴、動物モデル（db/dbマウス）、細胞培養（AC16心筋細胞）",
+      "endpoints_ja": "収縮期・拡張期心機能、心筋線維化、ミトコンドリア障害、c-Jun/c-Fosシグナル伝達、JNK3への直接結合（ドッキング・SPR）、c-Junリン酸化、ミトコンドリア機能",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-14T00:21:04Z"
     },
     {
       "pmid": "42862815",
@@ -358,36 +658,6 @@
       "summary_generated_at_utc": "2026-10-12T00:31:53Z"
     },
     {
-      "pmid": "42855941",
-      "title": "Left ventricular ejection fraction recovery under contemporary quadruple guideline-directed therapy and the need for ICD/CRT-D implantation in HFrEF: a retrospective single-center cohort study.",
-      "abstract": "BACKGROUND: Guidelines advise deferring primary-prevention implantable cardioverter-defibrillator (ICD) or cardiac resynchronization therapy-defibrillator (CRT-D) implantation until left ventricular ejection fraction (LVEF) is reassessed after at least three months of medical therapy in heart failure with reduced ejection fraction (HFrEF). Real-world data under contemporary quadruple therapy are limited.\nRESEARCH DESIGN AND METHODS: Retrospective single-center cohort of 65 HFrEF patients (Coburg Hospital, Germany; October 2023-December 2024), prescribed beta-blocker, angiotensin receptor-neprilysin inhibitor, mineralocorticoid receptor antagonist and SGLT2 inhibitor (all four in 92%; doses not recorded). LVEF was measured by echocardiography (TTE) and cardiac magnetic resonance (CMR) at baseline and ~3 months; reader blinding was not documented. Device implantation followed guideline criteria. Patients with severe arrhythmic events were excluded.\nRESULTS: Twenty-nine patients (44.6%) received a device. LVEF rose on TTE (28.0→36.0%) and CMR (26.3→38.5%) (both p < 0.001), mainly without device implantation (TTE +13.0 vs + 1.5 points). Larger baseline left ventricular end-diastolic diameter was associated with smaller recovery (β = -0.41, p = 0.006) and device implantation (odds ratio 1.11/mm, 95% CI 1.01-1.22). Adverse events were not recorded.\nCONCLUSIONS: LVEF recovery was common, and associations are consistent with disease severity. Findings are hypothesis-generating; absent dose, arrhythmic-outcome and wearable-defibrillator data and the selected cohort limit generalizability.",
-      "journal": "Expert review of cardiovascular therapy",
-      "authors": "Ajmi Issameddine, Frings Mathis Philipp, Forkmann Mathias, Mahnkopf Christian",
-      "pub_date": "2026-10-09",
-      "doi": "10.1080/14779072.2026.2748165",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855941/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "fe3ee9bb89accc0c2be6c917f207c787be7a467eab5f337850d6670cb3ef07d7",
-      "fetched_at_utc": "2026-10-11T00:13:05Z",
-      "updated_at_utc": "2026-10-11T00:13:05Z",
-      "summary_ja": "2023年10月から2024年12月にかけて、ドイツ・コブルク病院で、β遮断薬・ARNI・MRA・SGLT2阻害薬の4薬物療法（92%が4薬物すべて処方）を処方されたHFrEF患者65例を対象とした後ろ向き単一施設コホート研究。ベースラインと約3ヶ月後にTTEおよびCMRでLVEFを測定し、ガイドライン基準に基づきICD/CRT-D植え込みを判断した。",
-      "key_takeaway_ja": "現代の4薬物ガイドライン推奨療法下ではLVEF回復が頻回であり（44.6%がデバイス植え込み）、ベースライン左室拡張期末径が大きいほどLVEF回復が小さく、デバイス植え込みのオッズが高かった。",
-      "why_matters_ja": "現代の4薬物療法下でのLVEF回復に関する実世界データは限られており、本研究はガイドラインが推奨する「少なくとも3ヶ月の薬物療法後のLVEF再評価までICD/CRT-D植え込みを延期する」方針を支持するエビデンスを提供する。",
-      "study_type_ja": "後ろ向き単一施設コホート研究",
-      "endpoints_ja": "LVEF回復（TTEおよびCMR）、デバイス植え込み率、ベースライン左室拡張期末径とLVEF回復・デバイス植え込みとの関連",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "65例（HFrEF患者）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-11T00:13:29Z"
-    },
-    {
       "pmid": "42855133",
       "title": "Weight Management in Obesity-Associated Sleep-Disordered Breathing: Mechanisms, Clinical Management, and Emerging Therapies.",
       "abstract": "OBJECTIVE: To review the mechanistic links between obesity and sleep-disordered breathing (SDB) and summarize practical approaches to weight-directed, sleep-directed, and phenotype-informed management.\nMETHODS: We conducted a focused narrative review of clinical trials, systematic reviews, meta-analyses, guidelines, and mechanistic studies identified through PubMed/MEDLINE, Embase, and Google Scholar. Search terms included obesity, obstructive sleep apnea, obesity hypoventilation syndrome, weight loss, positive airway pressure, bariatric surgery, incretin-based pharmacotherapy, endotypes, and circadian disruption.\nRESULTS: Obesity promotes sleep-disordered breathing through upper airway mechanical loading, reduced lung volumes, inflammation, altered ventilatory control, and sleep behavior pathways. Positive airway pressure remains a core therapy for many patients with obstructive sleep apnea and obesity hypoventilation syndrome. Sustained weight loss provides complementary disease modification. Lifestyle intervention, metabolic and bariatric surgery, and incretin based pharmacotherapy can improve obstructive sleep apnea, although residual disease is common. Tirzepatide has shown clinically meaningful reductions in apnea-hypopnea index in adults with obesity and moderate to severe obstructive sleep apnea, largely in association with weight reduction. In obesity hypoventilation syndrome, stable ambulatory patients generally require positive airway pressure. Durable weight loss of approximately 25% to 30% may be needed to resolve hypoventilation. Therapies targeting endotypes and device based options may help selected patients, but they remain adjunctive, investigational, or directed by specialists.\nCONCLUSION: Obesity associated sleep-disordered breathing is best managed as a heterogeneous cardiometabolic and sleep breathing condition. Treatment should integrate positive airway pressure or other sleep specific therapy with individualized weight management. Ongoing reassessment is needed for residual disease, obesity hypoventilation syndrome, and atypical phenotypes.",
@@ -588,41 +858,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-10T00:47:50Z"
-    },
-    {
-      "pmid": "42849689",
-      "title": "GLP-1 Receptor Biology and the Therapeutic Role of Incretin-Based Agonists in Metabolic Diseases.",
-      "abstract": "Type 2 diabetes (T2DM) and obesity represent a growing global health burden, sharing underlying pathophysiological mechanisms such as impaired insulin signalling and chronic low-grade inflammation. The discovery of the incretin effect opened the way for agonist therapies targeting the glucagon-like peptide-1 receptor (GLP-1R) as therapies capable of addressing the metabolic dysregulation common to both diseases simultaneously. This review examines the biology of GLP-1 and the incretin system, with a focus on the structure and signalling mechanisms of GLP-1R, including biased agonism and receptor trafficking. The clinical effectiveness of stable, long-acting GLP-1RAs is evaluated across three therapeutic domains: T2DM management, obesity treatment, and emerging cardiovascular protection. Current evidence demonstrates that GLP-1RAs, which induce insulin secretion and suppress appetite, achieve superior glycaemic control and significant weight reduction compared with conventional therapies, with emerging cardiovascular benefits now extending to non-diabetic patients as well. The shift towards dual and triple receptor agonists, such as tirzepatide and retatrutide, together with biased agonist design, is a promising development for further improvements in effectiveness. Progress in oral formulations of GLP-1RAs may also improve tolerability and patient adherence. Nevertheless, important challenges remain, including gastrointestinal side effects, weight regain upon discontinuation, loss of lean body mass, and unresolved questions regarding long-term safety. In conclusion, while GLP-1R-based therapies represent a major therapeutic advancement, particularly for T2DM patients, their broader application in obesity management requires careful patient selection, continued long-term safety monitoring, and integration with lifestyle interventions.",
-      "journal": "European journal of pharmacology",
-      "authors": "Koceva Elena, Moll Gert N",
-      "pub_date": "2026-10-08",
-      "doi": "10.1016/j.ejphar.2026.179406",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42849689/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "6501ecd61a636d57f87028bc84d9ba72dcf45d2b28e7211a16f311a06bfda9bd",
-      "fetched_at_utc": "2026-10-10T00:45:07Z",
-      "updated_at_utc": "2026-10-10T00:45:07Z",
-      "summary_ja": "本レビューは、GLP-1受容体（GLP-1R）の生物学（構造・シグナリング機構・バイアスド・アゴニズム・受容体トラフィック）と、インクレチン系アゴニストの代謝性疾患における治療的役割を概観する。T2DM管理、肥満治療、心血管保護の3領域における安定した長時間作用型GLP-1RAの臨床的有効性を評価し、デュアル・トリプル受容体アゴニスト（tirzepatide、retatrutide）やバイアスド・アゴニスト設計、経口製剤の進歩にも言及する。",
-      "key_takeaway_ja": "GLP-1RAはインスリン分泌を誘導し食欲を抑制することで、従来療法と比較して優越した血糖コントロールと有意な体重減少を達成し、心血管保護効果は糖尿病患者以外にも拡大しつつある。ただし、消化管副作用、中止後の体重再増加、痩せ体組織の減少、長期安全性の未解決問題が残る。",
-      "why_matters_ja": "T2DMと肥満はインスリンシグナリングの障害と慢性低度炎症を共有する共通の病態生理を持ち、世界的な健康上の負担が増大している。GLP-1Rベースの療法は特にT2DM患者にとって重大な治療的進歩を代表するが、肥満管理への広範な適用には慎重な患者選択、長期安全性モニタリング、生活習慣介入との統合が必要である。",
-      "study_type_ja": "レビュー（Review）",
-      "endpoints_ja": "血糖コントロール、体重減少、心血管保護",
-      "endpoint_results_ja": "抄録に具体的な数値は記載されていない。従来療法と比較して「優越した血糖コントロール」と「有意な体重減少」が達成され、心血管保護効果は糖尿病患者以外にも拡大しつつあると記述されているのみ。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-10T00:48:09Z"
     },
     {
       "pmid": "42844892",
@@ -5100,261 +5335,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-24T23:56:07Z"
-    },
-    {
-      "pmid": "42796421",
-      "title": "Clinical Profile of Documented Diabetic Peripheral Neuropathy by GLP-1-Based Medication Status: A Cross-Sectional Study.",
-      "abstract": "Background and Objectives: This exploratory single-center retrospective cross-sectional study characterized patients with documented diabetic peripheral neuropathy (DPN) according to documented GLP-1-based medication status. GLP-1-based medication status was defined by a hospital medication-field entry for exenatide, dulaglutide, semaglutide, a fixed-ratio insulin/GLP-1 receptor agonist combination, or tirzepatide, a dual GIP/GLP-1 receptor agonist. Materials and Methods: Medication-level records from a hospital-defined February 2024-February 2026 reporting window were aggregated by PatID for 4120 unique patients in active-patient exports from the Clinical County Emergency Hospital Bihor. The files lacked patient-level encounter, diagnosis, and treatment dates; therefore, they were analyzed as an undated reporting snapshot. DPN and diabetes type were defined from export fields and were not independently clinically validated. Results: GLP-1-based medications were documented in 852 patients (20.7%). Patients with these medications in their records had longer documented diabetes duration (14.85 ± 8.64 vs. 11.72 ± 8.73 years; p < 0.001) and a higher documented comorbidity count (2.64 ± 1.65 vs. 1.89 ± 1.55; p < 0.001). Heart failure was documented in 35.7% versus 22.2%, and any lower-limb amputation in 3.3% versus 1.2%. For heart failure, the adjusted odds ratio was 1.68 (95% CI 1.41-1.99) in the primary model and 1.37 (1.12-1.67) in the expanded exploratory model; the corresponding robust Poisson prevalence ratio was 1.45 (1.30-1.63). Because only 66 amputations were recorded, amputation was retained as a descriptive, unadjusted outcome and was not modeled multivariably. Conclusions: A GLP-1-based medication record identified a clinically complex subgroup with documented DPN. The findings are exploratory and hypothesis-generating; because treatment and outcome dates were unavailable, they do not establish temporality, treatment benefit, or treatment harm.",
-      "journal": "Medicina (Kaunas, Lithuania)",
-      "authors": "Ferician Anca Cristina, Ghitea Timea Claudia, Popoviciu Mihaela Simona",
-      "pub_date": "2026-09-21",
-      "doi": "10.3390/medicina62091816",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42796421/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Cross-Sectional Studies",
-        "Diabetic Neuropathies",
-        "Female",
-        "Retrospective Studies",
-        "Male",
-        "Hypoglycemic Agents",
-        "Aged",
-        "Semaglutide",
-        "Middle Aged",
-        "Tirzepatide",
-        "Glucagon-Like Peptide 1",
-        "Exenatide",
-        "Glucagon-Like Peptides",
-        "Diabetes Mellitus, Type 2",
-        "Insulin",
-        "Glucagon-Like Peptide-1 Receptor Agonists"
-      ],
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "7caf4812e24c4f62351b68021a61ee8ef8ac4dbcfd65b7ad2287ab3ba8ea42b7",
-      "fetched_at_utc": "2026-09-26T23:34:30Z",
-      "updated_at_utc": "2026-09-26T23:34:30Z",
-      "summary_ja": "単一施設・後方視的横断研究として、文書化された糖尿病性末梢神経症（DPN）を有する患者をGLP-1系薬剤の文書化ステータス別に特徴化した。Clinical County Emergency Hospital Bihorの2024年2月〜2026年2月の報告期間における薬剤レベル記録を4,120名のユニーク患者について集約し、日付なしの報告スナップショットとして解析した。",
-      "key_takeaway_ja": "GLP-1系薬剤の記録は、文書化されたDPNを有する臨床的に複雑なサブグループを特定した（糖尿病期間が長い、合併症数が多い、心不全・下肢切断の頻度が高い）。ただし、治療と転帰の日付が利用できなかったため、時間的因果関係・治療効果・治療有害性は確立されない。探索的・仮説生成の知見である。",
-      "why_matters_ja": "GLP-1系薬剤使用ステータスによるDPN患者の臨床プロファイルを提供し、このサブグループの臨床的特徴に関する仮説生成に寄与する。",
-      "study_type_ja": "横断研究（単一施設・後方視的・探索的）",
-      "endpoints_ja": "糖尿病期間、合併症数、心不全（文書化）、下肢切断（いずれか）",
-      "endpoint_results_ja": "糖尿病期間：14.85 ± 8.64年 vs. 11.72 ± 8.73年（p < 0.001）。合併症数：2.64 ± 1.65 vs. 1.89 ± 1.55（p < 0.001）。心不全：35.7% vs. 22.2%；主モデルの調整オッズ比 1.68（95% CI 1.41-1.99）、拡張探索モデル 1.37（1.12-1.67）、robust Poisson有病率比 1.45（1.30-1.63）。下肢切断：3.3% vs. 1.2%（記述的・非調整）。",
-      "sample_size_ja": "4,120名（うちGLP-1系薬剤文書化あり 852名、20.7%）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-27T23:49:53Z"
-    },
-    {
-      "pmid": "42768849",
-      "title": "Comparative Risk of Nonarteritic Anterior Ischemic Optic Neuropathy Among Glucagon-Like Peptide-1 Receptor Agonists: An Integrated Safety and Mechanistic Analysis.",
-      "abstract": "AIMS: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are widely used for Type 2 diabetes (T2DM) and obesity, but emerging evidence links them to nonarteritic anterior ischemic optic neuropathy (NAION). Whether this risk differs across agents and the underlying mechanisms remains unclear. We aimed to compare the risks of NAION associated with different GLP-1RAs and to explore the potential molecular mechanisms underlying this adverse reaction.\nMATERIALS AND METHODS: A network meta-analysis was performed to quantitatively compare the differences in NAION risk. Real-world pharmacovigilance data from the FDA Adverse Event Reporting System (FAERS) were used for validation. Network toxicology was further applied to identify central hub targets and signalling pathways. Molecular docking was conducted to evaluate the binding capacity of GLP-1RAs to central hub targets.\nRESULTS: The network meta-analysis revealed significant differences in NAION risk across GLP-1RAs. Compared with non-GLP-1RA treatments, semaglutide showed the highest risk (HR = 1.538, 95% CI: 1.305-1.816), followed by liraglutide (HR = 1.251, 95% CI: 1.080-1.450). FAERS pharmacovigilance analysis suggested a strong disproportionate signal for semaglutide (ROR = 94.534, 95% CI: 83.093-107.552) and a statistically significant but weaker signal for liraglutide (ROR = 4.519, 95% CI: 2.617-7.802). Network toxicology identified CASP3 as the central hub target, and pathway enrichment analysis revealed that the underlying mechanisms were primarily related to Alzheimer's disease, neurodegeneration pathways, and lipid and atherosclerosis pathways. Molecular docking suggested that semaglutide and liraglutide had high binding affinity to CASP3.\nCONCLUSIONS: The combined strategy of network meta-analysis, pharmacovigilance, network toxicology and molecular docking provides insights into possible risk differences and potential mechanisms, and may guide future research on the safety profile of GLP-1RAs.",
-      "journal": "Diabetes, obesity & metabolism",
-      "authors": "Sun Hong, Xin Xiu, Yan Jingchao, Huang Taomin",
-      "pub_date": "2026-09-21",
-      "doi": "10.1111/dom.71358",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768849/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "e50ac210c40a42bc4a346495a1f0e1aa3fdc4bc41b3ca6c7b9abb965e565ae51",
-      "fetched_at_utc": "2026-09-22T23:35:14Z",
-      "updated_at_utc": "2026-09-22T23:35:14Z",
-      "summary_ja": "GLP-1受容体作動薬(GLP-1RA)の非動脈炎性前部虚血性視神経症(NAION)リスクを薬剤間で比較し、潜在的な分子メカニズムを解明することを目的に、ネットワークメタアナリシス、FDA Adverse Event Reporting System(FAERS)による薬物警戒分析、ネットワーク毒理学、分子ドッキングを統合的に実施した。",
-      "key_takeaway_ja": "セマグルチドがNAIONリスク最高(HR=1.538, 95% CI: 1.305-1.816)、リラグルチドが次点(HR=1.251, 95% CI: 1.080-1.450)であり、CASP3が中枢ハブターゲットとして同定された。",
-      "why_matters_ja": "GLP-1RAは2型糖尿病と肥満に広く使用されているが、NAIONとの関連が報告されており、薬剤間のリスク差と分子メカニズムの解明がGLP-1RA群の安全性プロファイル理解と今後の研究方向性の指針となる。",
-      "study_type_ja": "ネットワークメタアナリシス、薬物警戒分析(FAERS)、ネットワーク毒理学、分子ドッキングの統合解析",
-      "endpoints_ja": "非動脈炎性前部虚血性視神経症(NAION)リスク",
-      "endpoint_results_ja": "ネットワークメタアナリシス: セマグルチド HR=1.538 (95% CI: 1.305-1.816)、リラグルチド HR=1.251 (95% CI: 1.080-1.450)。FAERS薬物警戒分析: セマグルチド ROR=94.534 (95% CI: 83.093-107.552)、リラグルチド ROR=4.519 (95% CI: 2.617-7.802)。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-26T00:03:26Z"
-    },
-    {
-      "pmid": "42768825",
-      "title": "Oral Semaglutide in Routine Clinical Practice: 24-Month Real-World Effectiveness, Persistence and Safety in Adults With Type 2 Diabetes.",
-      "abstract": "AIMS: Real-world long-term data on oral semaglutide are limited. We evaluated its 24-month effectiveness, persistence, and safety in adults with type 2 diabetes (T2D).\nMATERIALS AND METHODS: This retrospective real-world study included 232 adults with T2D initiating oral semaglutide at an Italian diabetes clinic. Changes in HbA1c, body weight, eGFR, urinary albumin-to-creatinine ratio (UACR) and lipid profile were assessed using linear mixed models. The composite endpoint of HbA1c ≤ 7% and ≥ 5% weight loss was assessed over follow-up. Treatment persistence was evaluated by Kaplan-Meier analysis, and predictors of discontinuation by multivariable Cox regression with time-dependent covariates. HbA1c and body weight before and after switching to another GLP1 receptor agonist were also evaluated.\nRESULTS: Over 24 months, oral semaglutide significantly reduced HbA1c (-0.8%; p < 0.0001) and body weight (-5.7 kg; p < 0.0001). The composite endpoint was progressively achieved by 44.0% of individuals at 24 months. Non-breakfast administration was independently associated with lower HbA1c after adjustment for BMI, age and sex (β = -0.32; p = 0.041). eGFR and UACR remained stable while total and LDL cholesterol decreased significantly (both p < 0.0001). Treatment persistence at 24 months was 68.5% (mean 19.4 months). Among discontinuers, switching to another GLP1 receptor agonist was the most common strategy (36.2%) and resulted in a further HbA1c reduction (Δ = -0.98%; p = 0.005). No safety concerns emerged.\nCONCLUSIONS: In this real-world cohort, oral semaglutide provided sustained improvements in glycaemic control, body weight, and lipid profile, with preserved renal function and high treatment persistence over 24 months.",
-      "journal": "Diabetes, obesity & metabolism",
-      "authors": "Baldassarre Maria Pompea Antonia, Di Dalmazi Giulia, Carrieri Federica, Centorame Giorgia, Piacentino Luigi, Coluzzi Sara, Formoso Gloria",
-      "pub_date": "2026-09-21",
-      "doi": "10.1111/dom.71371",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768825/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "31c8bc084874243260bad1cc90f96a2adff80b0f155dcfb4d3e1e22f40a78f7a",
-      "fetched_at_utc": "2026-09-22T23:35:14Z",
-      "updated_at_utc": "2026-09-22T23:35:14Z",
-      "summary_ja": "イタリアの糖尿病クリニックで経口セマグルチドを開始した2型糖尿病成人232例を対象とした後方視的リアルワールド研究。24ヶ月間の有効性（HbA1c、体重、eGFR、UACR、脂質プロファイル）、治療継続率、安全性を評価した。線形混合モデル、Kaplan-Meier法、多変量Cox回帰を用いた。",
-      "key_takeaway_ja": "リアルワールド環境において、経口セマグルチドは24ヶ月にわたり血糖コントロール（HbA1c -0.8%）、体重（-5.7 kg）、脂質プロファイルの持続的改善を示し、腎機能は安定し、治療継続率は68.5%であった。",
-      "why_matters_ja": "経口セマグルチドのリアルワールド長期データは限られており、本研究は24ヶ月の有効性・継続率・安全性に関する実臨床でのエビデンスを提供する。",
-      "study_type_ja": "後方視的リアルワールド研究（観察研究）",
-      "endpoints_ja": "HbA1c変化、体重変化、eGFR、UACR、脂質プロファイル（総コレステロール、LDLコレステロール）、複合エンドポイント（HbA1c ≤7%かつ体重減少≥5%）、治療継続率、中止予測因子",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "232例（2型糖尿病成人）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-27T23:50:18Z"
-    },
-    {
-      "pmid": "42767573",
-      "title": "Combination pharmacotherapy for MASH: Potential synergistic approaches.",
-      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most prevalent and severe liver disease globally, encompassing a spectrum from isolated steatosis to metabolic dysfunction-associated steatohepatitis (MASH), the progressive inflammatory form that can lead to fibrosis, cirrhosis, and hepatocellular carcinoma. The multifaceted pathogenesis of MASH, particularly in the setting of obesity and type 2 diabetes mellitus (T2DM), has resulted in the exploration of pharmaca that target metabolic, inflammatory, and fibrotic processes. Until quite recently, demonstrating efficacy in phase 3 trials with single agents has been challenging. Multiple combination trials have been conducted, often requiring complex multi-arm designs, but demonstrating limited additive benefit over monotherapy. The recent conditional approval of two monotherapies targeting metabolic pathways, the thyroid hormone receptor beta agonist (THRβ) resmetirom and the glucagon-like peptide 1 receptor agonist (GLP1 RA) semaglutide, is kickstarting the therapeutic armamentarium for MASH. Other promising monotherapies may follow in the near future, in particular fibroblast growth factor 21 (FGF21) analogues and pan-peroxisome proliferator-activated receptor (pan-PPAR) agonist lanifibranor. As a result, the position of combination therapy in MASH may shift toward add-on strategies evaluated in clinical practice rather than pharma-driven trial settings. The four monotherapy classes mentioned may be applied in combination, as is already occurring with resmetirom and semaglutide. In this review, we break down the rationale for the various combinations. In addition, we highlight the unmet need for effective antifibrotic therapies and discuss future directions for combination therapy in MASH. Based on the available data, we provide recommendations for the most promising combination strategies.",
-      "journal": "Biochemical pharmacology",
-      "authors": "Meije Dana A, Holleboom Adriaan G, van de Graaf Stan F J",
-      "pub_date": "2026-09-21",
-      "doi": "10.1016/j.bcp.2026.118492",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767573/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "2514da80d29e8b0ca069f0bf46c8ade8e9cc13c8c68e7c9ab084193257e93502",
-      "fetched_at_utc": "2026-09-22T23:35:14Z",
-      "updated_at_utc": "2026-09-22T23:35:14Z",
-      "summary_ja": "MASLD（代謝機能異常関連脂肪肝疾患）は世界的に最も頻度が高く重症な肝疾患であり、単独薬のPhase 3試験での有効性証明は困難であった。近年、THRβアゴニストのレスメチロムとGLP-1受容体アゴニストのセマグルチドの条件付き承認が実現し、MASHの治療選択肢が拡大した。本レビューでは、これらの単独薬クラス（FGF21アナログ、pan-PPARアゴニストのラニフィブラノールを含む）の併用戦略の根拠を整理し、抗線維化療法の未充足ニーズと併用療法の将来方向を議論している。",
-      "key_takeaway_ja": "単独薬の承認が相次ぐことで、MASHにおける併用療法の位置づけは、製薬企業主導の試験設定ではなく、臨床実践で評価されるadd-on戦略へとシフトする可能性がある。",
-      "why_matters_ja": "MASHは肥満や2型糖尿病の背景で多面的な病態を呈し、単独薬ではPhase 3試験での有効性証明が困難であった。併用療法により代謝・炎症・線維化の各経路を同時に標的とする可能性があり、治療戦略の転換点にある。",
-      "study_type_ja": "Review",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-27T23:50:34Z"
-    },
-    {
-      "pmid": "42765974",
-      "title": "Effects of Empagliflozin on Cardiovascular Outcomes Are Consistent Across Sociodemographic Subgroups: A Real-World Analysis From the EMPRISE Study.",
-      "abstract": "OBJECTIVE: We aimed to explore the heterogeneity of empagliflozin treatment effects on major adverse cardiovascular events (MACE), hospitalization for heart failure (HHF), and all-cause mortality (ACM) across sociodemographic and cardiovascular disease (CVD) subgroups of adults with type 2 diabetes (T2D).\nRESEARCH DESIGN AND METHODS: Using 2014-2020 Medicare claims data, we examined rates of MACE (e.g., composite myocardial infarction, stroke, all-cause mortality [ACM]), HHF, and ACM among propensity score-matched individuals aged ≥65 years with T2D initiating empagliflozin compared with those prescribed dipeptidyl peptidase-4 inhibitors (DPP4is) and those prescribed GLP-1 receptor agonists (GLP-1RAs). We calculated hazard ratios (HRs) and incidence rate differences (IRDs) overall and by age, sex, race or ethnicity, socioeconomic factors, and baseline CVD.\nRESULTS: Empagliflozin was associated with decreased risk of MACE (HR 0.77, 99.9% CI [0.69, 0.85]; IRD = -10.3 [-14.1, -6.4]); HHF (HR 0.72 [0.67, 0.79]; IRD = -18.3 [-22.9, -13.6]); and ACM (HR 0.66 [0.57, 0.76]; IRD = -8.6 [-11.4, -5.8]) compared with DPP4is. Effect heterogeneity by baseline CVD was present across all outcomes on the IRD scale but only for HHF on the HR scale. Empagliflozin was also associated with decreased risk of HHF (HR 0.88 [0.81, 0.95]; IRD = -6.9 [-10.8, -3.1]) versus GLP-1RAs, with effect heterogeneity by baseline CVD on the IRD scale. No effect heterogeneity was observed by sociodemographic factors, although a numeric trend suggested greater absolute benefit in patients aged ≥75 years compared with those aged 65-74 years.\nCONCLUSIONS: Empagliflozin reduced cardiovascular events across sociodemographic and CVD subgroups compared with both DPP4is and GLP-1RAs, with higher absolute benefits observed in those with prevalent CVD.",
-      "journal": "Diabetes care",
-      "authors": "Cromer Sara J, Tesfaye Helen, Cho Hanseul, Wexler Deborah J, Ortega-Montiel Janinne, Schmedt Niklas, Shay Christina M, Paik Julie M",
-      "pub_date": "2026-09-21",
-      "doi": "10.2337/dca26-0039",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42765974/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "empagliflozin"
-      ],
-      "matched_companies": [
-        "Boehringer Ingelheim"
-      ],
-      "bi_related": true,
-      "japan_relevant": true,
-      "content_sha256": "f275394b3a498dda97c2c9645ade8375fbd9367a0458339bdcbea925d68b9ff7",
-      "fetched_at_utc": "2026-09-22T00:03:03Z",
-      "updated_at_utc": "2026-09-22T00:03:03Z",
-      "summary_ja": "EMPRISE研究の2014-2020年Medicare請求データを用いた実世界解析であり、2型糖尿病を有する65歳以上の成人において、エンパグリフロジンの主要心血管イベント（MACE）、心不全による入院（HHF）、全死因死亡（ACM）への治療効果の異質性を、社会人口統計学的および心血管疾患（CVD）サブグループ間で検討した。プロパensityスコアマッチングにより、エンパグリフロジン開始群をDPP-4阻害薬群およびGLP-1受容体作動薬群と比較し、ハザード比（HR）と発生率差（IRD）を年齢、性別、人種・民族、社会経済的要因、ベースラインCVD別に算出した。",
-      "key_takeaway_ja": "エンパグリフロジンはDPP-4阻害薬およびGLP-1受容体作動薬と比較して、社会人口統計学的およびCVDサブグループ全体で心血管イベントを減少させた。社会人口統計学的要因による効果の異質性は観察されなかったが、ベースラインCVDを有する患者で絶対的ベネフィットがより大きく観察された。",
-      "why_matters_ja": "社会人口統計学的要因による治療効果の異質性が認められなかったことは、エンパグリフロジンの心血管保護効果が幅広い患者群に及ぶことを示唆する。また、ベースラインCVDを有する患者で絶対的ベネフィットが大きいことは、CVD高リスク患者におけるエンパグリフロジンの臨床的意義を支持する。",
-      "study_type_ja": "実世界解析（観察研究）、Medicare請求データを用いたプロパensityスコアマッチング比較",
-      "endpoints_ja": "MACE（複合的心筋梗塞、脳卒中、全死因死亡）、心不全による入院（HHF）、全死因死亡（ACM）",
-      "endpoint_results_ja": "vs DPP4is: MACE HR 0.77 (99.9% CI [0.69, 0.85]), IRD = -10.3 [-14.1, -6.4]; HHF HR 0.72 [0.67, 0.79], IRD = -18.3 [-22.9, -13.6]; ACM HR 0.66 [0.57, 0.76], IRD = -8.6 [-11.4, -5.8]。vs GLP-1RAs: HHF HR 0.88 [0.81, 0.95], IRD = -6.9 [-10.8, -3.1]。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-22T00:04:23Z"
-    },
-    {
-      "pmid": "42765971",
-      "title": "Semaglutide Effects on Insulin Sensitivity and β-Cell Function in Patients With Schizophrenia, Prediabetes, and Obesity Treated With Second-Generation Antipsychotics: Findings From the HISTORI Trial, a 30-Week Randomized, Placebo-Controlled Trial With Semaglutide 1.0 mg Weekly. Diabetes Care 2026;49:XXXX-XXXX.",
-      "abstract": "",
-      "journal": "Diabetes care",
-      "authors": "Chen Lu, Wang Junhui",
-      "pub_date": "2026-09-21",
-      "doi": "10.2337/dc26-0540",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42765971/",
-      "publication_types": [
-        "Letter"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "72fbab5506fc82733210c7f36278d40f40b19cf08e5d997f9e27424a30fdcd0d",
-      "fetched_at_utc": "2026-09-22T00:03:03Z",
-      "updated_at_utc": "2026-09-22T00:03:03Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-22T00:03:03Z"
-    },
-    {
-      "pmid": "42765812",
-      "title": "Sodium-glucose cotransporter-2 inhibitor administration recovers peri-implant bone formation in type 2 diabetes: An experimental study using a type 2 diabetes rat model.",
-      "abstract": "BackgroundDiabetes mellitus is risk factors in implant treatment and maintenance, and it is necessary to consider the effects of diabetes medications.ObjectiveThis study investigates whether oral administration of sodium-glucose cotransporter 2 (SGLT2) inhibitor, affects bone formation after implant placement.MethodsA total of 44 Goto-Kakizaki rats were used as a type 2 diabetes model, divided into two groups: the drug administration group (MD) and the non-administration group (GK). A total of 22 Wistar rats were used as the control group (CO). Titanium implants were implanted into the rat tibiae.ResultsHistological and SEM images showed that the GK group had significantly less bone formation than the CO group at both 2 and 4 weeks. No significant differences were observed between groups in serum biochemistry and body weight. Mechanical strength was significantly lower in the GK group than in the CO group at 2 weeks and 4 weeks. Blood glucose levels in the MD group were significantly lower than the baseline values at both 2 weeks and 4 weeks.ConclusionIn a diabetic rat model, the SGLT2 inhibitor restored implant bone formation without side effects. Further detailed research in clinical settings is needed on the effects of diabetes medications.",
-      "journal": "Bio-medical materials and engineering",
-      "authors": "Masuzaki Tomohiro, Suehiro Fumio, Komabashiri Naohiro, Shimizu Takaharu, Nishimura Masahiro",
-      "pub_date": "2026-09-21",
-      "doi": "10.1177/09592989261481043",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42765812/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "91251157e35110507ce313dfa74f967ae778f3d98017f14142ddd5970e8f1da3",
-      "fetched_at_utc": "2026-09-22T00:03:03Z",
-      "updated_at_utc": "2026-09-22T00:03:03Z",
-      "summary_ja": "2型糖尿病ラットモデル（Goto-Kakizakiラット）を用いた実験研究であり、SGLT2阻害薬の経口投与がインプラント埋入後の骨形成に及ぼす影響を調査した。44頭のGoto-Kakizakiラットを投与群（MD）と非投与群（GK）に分割し、22頭のWistarラットを対照群（CO）とした。ラット脛骨にチタンインプラントを埋入し、組織学的・SEM観察、機械的強度、血清生化学、体重、血糖値を評価した。GK群はCO群に比べ2週・4週ともに骨形成が有意に少なく、機械的強度も有意に低かった。MD群の血糖値は2週・4週ともにベースラインより有意に低下した。血清生化学と体重には群間差は認められなかった。",
-      "key_takeaway_ja": "2型糖尿病ラットモデルにおいて、SGLT2阻害薬の投与によりインプラント周囲の骨形成が副作用なく回復した。",
-      "why_matters_ja": "糖尿病はインプラント治療および維持のリスク因子であり、糖尿病治療薬がインプラント周囲骨形成に及ぼす影響を明らかにすることは、糖尿病患者のインプラント治療における薬物選択の根拠となる可能性がある。",
-      "study_type_ja": "動物実験研究（2型糖尿病ラットモデルを用いた実験研究）",
-      "endpoints_ja": "インプラント周囲の骨形成（組織学的・SEM観察）、機械的強度、血糖値、血清生化学、体重",
-      "endpoint_results_ja": "GK群はCO群に比べ2週・4週ともに骨形成が有意に少なかった。機械的強度はGK群がCO群より2週・4週ともに有意に低かった。MD群の血糖値は2週・4週ともにベースライン値より有意に低かった。血清生化学と体重には群間に有意差は認められなかった。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-22T00:04:53Z"
     }
   ]
 }
