@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-14T23:53:41Z",
+  "generated_at_utc": "2026-10-15T23:39:39Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -72,6 +72,196 @@
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
     },
     {
+      "pmid": "42875211",
+      "title": "Changes in Gait Speed During a 12-Month Multidisciplinary Obesity Management Program Including Semaglutide: A Real-World Observational Study in Japanese Adults With Musculoskeletal Disorders.",
+      "abstract": "Background　Obesity is associated with musculoskeletal disorders, impaired mobility, and frailty. While semaglutide induces substantial weight loss, its effects on objectively measured physical function in routine clinical practice are unclear. We investigated the changes in gait speed and physical function during a multidisciplinary obesity management program that included semaglutide.Methods　This retrospective observational study included 22 adults with obesity and musculoskeletal disorders who completed a 12-month multidisciplinary obesity management program. The program included nutritional counseling every two months, physical therapist-guided exercise intervention, and semaglutide treatment. The primary outcome was the usual gait speed. The secondary outcomes included body weight, pain score, step count, muscle function, and body composition.Results　Body weight decreased significantly from 89.2±18.6 kg to 81.5±17.3 kg (p<0.001). Usual gait speed improved significantly from 0.77±0.20 m/s to 0.91±0.19 m/s (p<0.001). Pain scores also significantly improved (p<0.001). Improvements in gait speed were not associated with weight loss (r=0.22, p=0.32) or pain reduction (r=-0.04, p=0.84). Baseline gait speed was inversely associated with gait speed improvement (r=-0.44, p=0.043), indicating greater gains in participants with poorer baseline mobility.Conclusions　A 12-month multidisciplinary obesity management program, including semaglutide, significantly improved gait speed in patients with obesity and musculoskeletal disorders. Greater improvements were observed in participants with impaired baseline mobility. These findings support the evaluation of obesity treatment not only by weight loss, but also by recovery of mobility.",
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "authors": "Tomita Masuomi, Harashima Fumiya, Takeda Naoto, Ishida Chikako, Nagasaki Kazuhito, Kikuchi Kyota, Hisamichi Katsuya",
+      "pub_date": "2026-10-15",
+      "doi": "10.2169/internalmedicine.8145-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875211/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "9361606038069377b480d8569bc657adebb4e9e17f59bb646361a15e21471a0d",
+      "fetched_at_utc": "2026-10-15T23:39:39Z",
+      "updated_at_utc": "2026-10-15T23:39:39Z",
+      "summary_ja": "肥満と筋骨格系疾患を有する22名の成人を対象に、セマグルチドを含む12ヶ月の多職種肥満管理プログラム（2ヶ月ごとの栄養カウンセリング、理学療法士指導による運動介入、セマグルチド治療）における歩行速度と身体機能の変化を後ろ向き観察研究で検討した。",
+      "key_takeaway_ja": "セマグルチドを含む12ヶ月の多職種肥満管理プログラムは、肥満と筋骨格系疾患を有する患者の歩行速度を有意に改善し、ベースライン時の移動機能が低い参加者ほど改善が大きいことが示された。歩行速度の改善は体重減少や疼痛軽減とは関連しなかった。",
+      "why_matters_ja": "肥満治療の評価を体重減少のみならず、移動機能の回復という観点からも行うことの重要性を支持する。",
+      "study_type_ja": "後ろ向き観察研究",
+      "endpoints_ja": "主要エンドポイント：通常歩行速度。副次エンドポイント：体重、疼痛スコア、歩数、筋機能、体組成。",
+      "endpoint_results_ja": "体重：89.2±18.6 kg → 81.5±17.3 kg（p<0.001）。通常歩行速度：0.77±0.20 m/s → 0.91±0.19 m/s（p<0.001）。疼痛スコア：有意に改善（p<0.001）。歩行速度の改善は体重減少（r=0.22, p=0.32）および疼痛軽減（r=-0.04, p=0.84）とは関連しなかった。ベースライン歩行速度は歩行速度の改善と逆相関（r=-0.44, p=0.043）。歩数、筋機能、体組成の結果は抄録に記載なし。",
+      "sample_size_ja": "22名",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-15T23:40:28Z"
+    },
+    {
+      "pmid": "42875024",
+      "title": "Outcomes in patients with diabetes, atherosclerotic cardiovascular disease, and heart failure treated with tirzepatide or dulaglutide: SURPASS-CVOT analysis.",
+      "abstract": "AIMS: The impact of tirzepatide and dulaglutide on major adverse cardiovascular events (MACE) and heart failure (HF) outcomes according to HF status is unknown.\nMETHODS AND RESULTS: Patients with type 2 diabetes (T2D) and atherosclerotic cardiovascular disease were treated with tirzepatide up to 15 mg or dulaglutide 1.5 mg weekly (average 4 years). The incidence of MACE-3 [cardiovascular (CV) death, myocardial infarction (MI), stroke], MACE-4 (CV death, MI, stroke, coronary revascularization) and composite of all-cause or CV death and hospitalization or urgent visits for HF were analysed in patients with and without a history of HF. A history of HF (20.3%) was associated with more coronary artery disease and prior MI. Incidences of event categories were higher in the HF group. The hazard ratio (HR) for all-cause death or hospitalization or urgent visits for HF on tirzepatide vs. dulaglutide was 0.83 [95% confidence interval (CI) 0.70-0.99] in patients with HF and 0.88 (95%CI 0.78-1.00) without HF. The HR for CV death or hospitalization or urgent visits for HF was 0.85 (95%CI 0.70-1.03) and 0.96 (95%CI 0.83-1.12), for MACE-3 0.90 (95%CI 0.76-1.08) and 0.93 (95%CI 0.83-1.04), and for MACE-4 0.81 (95%CI 0.69-0.95) and 0.91 (95%CI 0.83-1.00) in patients with and without HF, respectively. The patient-reported outcomes of APPADL and EQ-5D-5L visual analogue scores improved and were higher on tirzepatide in both groups.\nCONCLUSION: With overall non-inferiority established, this exploratory analysis revealed lower rates of the composite of all-cause death or HF events, or MACE-4 among patients with T2D and HF treated with tirzepatide compared with dulaglutide.",
+      "journal": "European journal of preventive cardiology",
+      "authors": "Nicholls Stephen J, Pavo Imre, Bhatt Deepak L, Buse John B, Del Prato Stefano, Franco Denise R, Kahn Steven E, Lincoff A Michael",
+      "pub_date": "2026-10-15",
+      "doi": "10.1093/eurjpc/zwag452",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875024/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "86cb624691192f9f4903ce118ae317690a6a90953b444ccdecd92e07b2924da6",
+      "fetched_at_utc": "2026-10-15T23:39:39Z",
+      "updated_at_utc": "2026-10-15T23:39:39Z",
+      "summary_ja": "SURPASS-CVOT試験の探索的解析として、2型糖尿病（T2D）かつ動脈硬化性心血管疾患（ASCVD）を有する患者において、tirzepatide（最大15 mg）またはdulaglutide（1.5 mg）を週1回投与（平均4年間）し、心不全（HF）有病歴の有無別にMACE-3、MACE-4、および全死因または心血管死とHFによる入院・緊急受診の複合エンドポイントの発生率を比較した。",
+      "key_takeaway_ja": "T2DかつHFを有する患者において、tirzepatideはdulaglutideと比較して全死因死またはHFイベントの複合エンドポイント（HR 0.83, 95% CI 0.70-0.99）およびMACE-4（HR 0.81, 95% CI 0.69-0.95）の発生率が低かった。",
+      "why_matters_ja": "T2Dかつ既知のHFを有する高リスク集団において、tirzepatideがdulaglutideに対して心血管および心不全アウトカムで優越性を示唆する探索的エビデンスを提供し、GLP-1 RA/GIP RA複合体のHFに対する追加的有益性を示す点で臨床的に意義がある。",
+      "study_type_ja": "ランダム化比較試験（SURPASS-CVOT）の探索的事後解析",
+      "endpoints_ja": "MACE-3（心血管死、心筋梗塞、脳卒中）、MACE-4（心血管死、心筋梗塞、脳卒中、冠動脈再血管化）、全死因または心血管死とHFによる入院・緊急受診の複合エンドポイント、患者報告アウトカム（APPADL、EQ-5D-5L VAS）",
+      "endpoint_results_ja": "全死因死またはHFによる入院・緊急受診の複合：HFあり HR 0.83（95% CI 0.70-0.99）、HFなし HR 0.88（95% CI 0.78-1.00）。心血管死またはHFによる入院・緊急受診の複合：HFあり HR 0.85（95% CI 0.70-1.03）、HFなし HR 0.96（95% CI 0.83-1.12）。MACE-3：HFあり HR 0.90（95% CI 0.76-1.08）、HFなし HR 0.93（95% CI 0.83-1.04）。MACE-4：HFあり HR 0.81（95% CI 0.69-0.95）、HFなし HR 0.91（95% CI 0.83-1.00）。APPADLおよびEQ-5D-5L VASは両群でtirzepatide群が改善し高値であった（具体的数値は記載なし）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-15T23:41:44Z"
+    },
+    {
+      "pmid": "42875827",
+      "title": "Real-World Treatment Patterns and Weight Outcomes Before and After a Tirzepatide Price Increase in Over One Million Self-Paying UK Adults With Overweight or Obesity.",
+      "abstract": "AIMS: Glucagon-like peptide-1 (GLP-1) receptor agonist-based medicines are highly effective treatments for overweight and obesity, but population-scale real-world evidence remains limited, particularly in self-funded settings where treatment choice may be influenced by relative price. We aimed to characterise provider reach and treatment patterns through a large United Kingdom (UK) telehealth provider, assess changes around the September 2025 tirzepatide list-price increase of up to 170%, and estimate longitudinal weight trajectories.\nMATERIALS AND METHODS: A retrospective cohort study of adults initiating semaglutide or tirzepatide through MedExpress from 1 May 2024 to 1 January 2026 was conducted. Treatment initiation and switching were analysed using segmented interrupted time-series models, with sensitivity analyses addressing anticipatory changes in August 2025. Weight trajectories were estimated using linear mixed-effects models.\nRESULTS: Among 1 033 522 adults, 932 659 (90.2%) initiated tirzepatide and 100 863 (9.8%) semaglutide; provider reach was higher among women than men. In September 2025, semaglutide initiation increased by 31.15 percentage points (95% CI: 26.07-36.24) relative to the projected pre-interruption trend. Tirzepatide-to-semaglutide switching increased by 9.26 percentage points (95% CI: 7.09-11.42) and subsequently attenuated. Sensitivity analyses supported anticipatory changes in August. At 12 months, estimated weight loss was 19.93% with tirzepatide (95% CI: 19.88-19.98; n = 30 763) and 16.40% with semaglutide (95% CI: 16.16-16.64; n = 979).\nCONCLUSIONS: A single UK telehealth provider achieved substantial reach among adults with overweight or obesity. Treatment initiation and switching changed markedly around the tirzepatide price increase. Substantial longitudinal weight loss was observed among patients contributing follow-up in the context of limited adjunctive lifestyle support.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Dix Sophie, Mulligan Anna, Ficarelli Mattia, Brooke Edward, Rosenior-Patten Onayomi, Chen Simon, Maybury Catriona, Bray Benjamin D",
+      "pub_date": "2026-10-14",
+      "doi": "10.1111/dom.71410",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875827/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2c9dfcf931f68d8ac092fec45bf42b29304cc0df4310c1f73db21511cfd875f7",
+      "fetched_at_utc": "2026-10-15T23:39:39Z",
+      "updated_at_utc": "2026-10-15T23:39:39Z",
+      "summary_ja": "英国のテレヘルスプロバイダー（MedExpress）を通じて2024年5月1日から2026年1月1日にsemaglutideまたはtirzepatideを開始した成人を対象とした後方視的コホート研究。2025年9月のtirzepatideのリスト価格最大170%値上げ前後の治療パターンの変化をsegmented interrupted time-seriesモデルで解析し、線形混合効果モデルで体重推移を推定した。",
+      "key_takeaway_ja": "tirzepatide価格上昇後、semaglutideの開始は予測トレンド比で31.15ポイント増加し、tirzepatideからsemaglutideへのスイッチは9.26ポイント増加した。12ヶ月時の体重減少はtirzepatide群で19.93%、semaglutide群で16.40%と推定された。",
+      "why_matters_ja": "自己負担（self-funded）環境におけるGLP-1受容体アゴニストのpopulation-scaleな実世界エビデンスは限られており、価格変動が治療選択に与える影響と、補助的な生活習慣支援が限定的な環境下での実世界における体重減少の規模を示す点で意義がある。",
+      "study_type_ja": "後方視的コホート研究",
+      "endpoints_ja": "1) semaglutideとtirzepatideの治療開始パターン（2025年9月価格上昇前後の変化） 2) tirzepatideからsemaglutideへのスイッチ率の変化 3) 12ヶ月時の体重減少率",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-15T23:42:09Z"
+    },
+    {
+      "pmid": "42875725",
+      "title": "GLP-1 Receptor Agonist Therapy Is Associated With Lower Risk of Lower Extremity Amputation in Adults With Type 2 Diabetes and Foot Ulcer Without Coded Peripheral Arterial Disease: A Hypothesis-Generating Real-World Cohort Study.",
+      "abstract": "AIMS: To compare lower extremity amputation (LEA) risk in adults with Type 2 diabetes and diabetic foot ulcer (DFU) treated with glucagon-like peptide-1 receptor agonists (GLP-1 RAs) versus other glucose-lowering therapy, and to test whether coded peripheral arterial disease (PAD) modifies this association and replicates across comparator classes.\nMATERIALS AND METHODS: This new-user, active-comparator retrospective cohort study used the TriNetX Global Collaborative Network (queried 11 July 2026). Adults with Type 2 diabetes and DFU were propensity-score matched 1:1 on 22 covariates, giving 21 325 pairs for the primary comparison. Effect modification by coded PAD (ICD-10 I70.2) was examined in independently matched subgroups. Six sensitivity analyses were pre-specified: 30- and 180-day landmarks, all-cause mortality, background-therapy balancing, limb-severity adjustment and a broadened PAD definition.\nRESULTS: GLP-1 RA use was associated with lower 5-year LEA risk than all non-GLP-1 RA therapy (hazard ratio [HR]: 0.60, 95% CI: 0.54-0.67). The association was confined to the no-PAD stratum (HR: 0.21, 0.13-0.33) and absent where PAD was coded (HR: 0.97, 0.78-1.20); ratio of hazard ratios 0.21 (0.13-0.36; p < 0.001). All-cause mortality was also lower (HR: 0.48, 0.45-0.50). The insulin no-PAD estimate persisted under background-therapy balancing (0.14), limb-severity adjustment (0.16) and 30- and 180-day landmarks (0.28, 0.33). Broadening the PAD definition attenuated the no-PAD association without abolishing it (HR: 0.34, 0.17-0.65).\nCONCLUSIONS: In Type 2 diabetes with DFU, GLP-1 RA use was associated with lower LEA risk, surviving six pre-specified sensitivity analyses. These observational findings are hypothesis-generating and require prospective confirmation.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Robinson Hani, Yassin Mustafa, Robinson Dror, Eisa Mohamad, Rashed Waseem Abu, Qawasmi Feras, Mahamid Assil, Murad Hamza",
+      "pub_date": "2026-10-14",
+      "doi": "10.1111/dom.71405",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875725/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4e3a02319cfaa11c995633e46e83d498eea6265dd64892ed946700b41dec8c61",
+      "fetched_at_utc": "2026-10-15T23:39:39Z",
+      "updated_at_utc": "2026-10-15T23:39:39Z",
+      "summary_ja": "2型糖尿病および糖尿病性足潰瘍（DFU）を有する成人において、GLP-1受容体作動薬（GLP-1 RA）と他の血糖降下療法との間で下肢切断（LEA）リスクを比較し、コード化された末梢動脈疾患（PAD）がこの関連を修正するか、また比較クラス間で再現されるかを検証した新規ユーザー・アクティブ比較者による後向きコホート研究。TriNetXグローバル協働ネットワーク（2026年7月11日クエリ）を使用し、22個の共変量で1:1プロパensityスコアマッチングを行い、主要比較に21,325ペアを用いた。PADによる効果修正は独立したマッチングサブグループで検討し、6つの感度分析（30日・180日ランドマーク、全死因死亡率、背景療法バランス、肢重症度調整、PAD定義の拡大）を事前指定した。",
+      "key_takeaway_ja": "2型糖尿病およびDFUを有する成人において、GLP-1 RAの使用は5年間の下肢切断リスクの低下と関連した（HR 0.60, 95% CI 0.54-0.67）。この関連はPADがコード化されていない層に限定され（HR 0.21, 95% CI 0.13-0.33）、PADがコード化された層では消失した（HR 0.97, 95% CI 0.78-1.20）。6つの事前指定された感度分析を通過したが、観察研究であり仮説生成に留まる。",
+      "why_matters_ja": "糖尿病性足潰瘍を有する患者の下肢切断は重大な臨床課題であり、GLP-1 RAがPADを有さない層で下肢切断リスクを大幅に低下させる可能性を示唆する。PADの有無による効果の差異は、GLP-1 RAの下肢保護効果の機序に関する示唆を与える。ただし、観察研究であり因果関係は確立されておらず、前向き研究による確認が必要である。",
+      "study_type_ja": "新規ユーザー・アクティブ比較者による後向きコホート研究（仮説生成）",
+      "endpoints_ja": "主要エンドポイント：5年間の下肢切断（LEA）リスク。二次・感度分析：全死因死亡率、PADによる効果修正、30日・180日ランドマーク、背景療法バランス、肢重症度調整、拡大PAD定義",
+      "endpoint_results_ja": "GLP-1 RA vs 全非GLP-1 RA療法：5年LEAリスク HR 0.60, 95% CI 0.54-0.67。無PAD層：HR 0.21, 95% CI 0.13-0.33。PAD層：HR 0.97, 95% CI 0.78-1.20。ハザード比の比：0.21 (0.13-0.36; p < 0.001)。全死因死亡率：HR 0.48, 95% CI 0.45-0.50。インスリン無PAD層の背景療法バランス調整後：0.14。肢重症度調整後：0.16。30日ランドマーク：0.28。180日ランドマーク：0.33。拡大PAD定義：HR 0.34, 95% CI 0.17-0.65。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-15T23:43:09Z"
+    },
+    {
+      "pmid": "42875600",
+      "title": "Efficacy and safety of HRS-7535, a novel oral small-molecule glucagon-like peptide-1 receptor agonist, in participants with type 2 diabetes mellitus inadequately controlled by metformin and sodium-glucose co-transporter 2 inhibitors: a multicentre, randomised, double-blind, placebo-controlled, parallel-group Phase II trial.",
+      "abstract": "AIMS/HYPOTHESIS: This study aimed to evaluate the efficacy and safety of HRS-7535, an oral small-molecule glucagon-like peptide-1 receptor agonist (GLP-1RA), in Chinese participants with type 2 diabetes mellitus inadequately managed by metformin and sodium-glucose co-transporter 2 inhibitors (SGLT2i).\nMETHODS: This multicentre, randomised, double-blind, placebo-controlled, Phase II study included participants aged 18-75 years with type 2 diabetes, HbA1c 58-97 mmol/mol (7.5-11.0%) and BMI 20.0-35.0 kg/m2 and on stable-dose metformin and sodium-glucose co-transporter 2 (SGLT2) inhibitor therapy for ≥8 weeks prior to screening. Participants were assigned in a 1:1:1 ratio to receive HRS-7535 30 mg, HRS-7535 60 mg or visually matching placebo tablets once daily using a stratified block randomisation method, with treatment assignments concealed until study completion. The primary endpoint was the change in HbA1c from baseline to week 16. Secondary efficacy outcomes included the proportions of participants achieving HbA1c targets of <53 mmol/mol (7.0%) and ≤48 mmol/mol (6.5%), and changes from baseline in fasting body weight to week 16.\nRESULTS: A total of 155 participants with a mean baseline HbA1c of 69 mmol/mol (8.5%) were randomly assigned to HRS-7535 30 mg (n=51), HRS-7535 60 mg (n=53) or placebo (n=51). At week 16, the least‑squares mean differences in HbA1c from baseline for the HRS-7535 30 mg, HRS-7535 60 mg and placebo groups were -16 mmol/mol (95% CI -19, -14) (-1.5% [95% CI -1.7, -1.3]), -20 mmol/mol (95% CI -22, -17) (-1.8% [95% CI -2.0, -1.6]) and -4 mmol/mol (95% CI -7, -2) (-0.4% [95% CI -0.6, -0.2]), respectively (p<0.0001 for both HRS-7535 doses vs placebo). The proportions of participants achieving HbA1c <53 mmol/mol (7.0%) were 51.0% in the HRS‑7535 30 mg group, 66.0% in the HRS‑7535 60 mg group, and 9.8% in the placebo group; the corresponding proportions for HbA1c ≤48 mmol/mol (6.5%) were 35.3%, 37.7% and 3.9%, respectively. Body weight loss was -2.4% in the HRS-7535 60 mg group vs -0.7% in the placebo group. Most treatment-emergent adverse events (TEAEs) were mild to moderate, and gastrointestinal adverse events were the most common. No severe hypoglycaemia was reported. The only TEAE that led to treatment discontinuation occurred in the placebo group.\nCONCLUSIONS/INTERPRETATION: Treatment with HRS-7535 resulted in significant improvements in glycaemic management in participants with type 2 diabetes, and the drug exhibited a favourable safety profile. To address a significant clinical data void, this research focused on the addition of HRS‑7535 to the background regimen of metformin and SGLT2i for glycaemic management in participants with type 2 diabetes. Trial registration ClinicalTrials.gov NCT06393348. Funding This study was funded by Jiangsu Hengrui Pharmaceuticals.",
+      "journal": "Diabetologia",
+      "authors": "Xu Mingtong, Song Weihong, Lv Fang, Fu Yanqin, Yang Liu, Bin Xiaochang, Zhang Xiting, Ye Zi",
+      "pub_date": "2026-10-14",
+      "doi": "10.1007/s00125-026-06892-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875600/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ac3b3544aef9c8487af3eb792c5239a31f0ae8d271924e54fa02091a48770c88",
+      "fetched_at_utc": "2026-10-15T23:39:39Z",
+      "updated_at_utc": "2026-10-15T23:39:39Z",
+      "summary_ja": "HRS-7535（経口小分子GLP-1受容体作動薬）のメトホルミンとSGLT2阻害薬で不十分管理の中国の2型糖尿病患者における有効性と安全性を評価した多施設・無作為化・二重盲検・プラセボ対照第II相試験。155名がHRS-7535 30mg、60mg、プラセボに1:1:1で割り付けられ、16週間のHbA1c変化を評価した。",
+      "key_takeaway_ja": "HRS-7535はメトホルミン＋SGLT2i背景療法の上乗せとして、用量依存的にHbA1cを有意に低下させ、良好な安全性プロファイルを示した。",
+      "why_matters_ja": "経口小分子GLP-1RAは注射製剤に代わる選択肢として臨床的に重要であり、メトホルミン＋SGLT2iで不十分管理の患者におけるデータは著者が指摘する臨床的データギャップを埋めるものである。",
+      "study_type_ja": "多施設・無作為化・二重盲検・プラセボ対照・並行群第II相試験",
+      "endpoints_ja": "主要エンドポイント：ベースラインから16週までのHbA1c変化。二次エンドポイント：HbA1c <53 mmol/mol (7.0%) 達成率、HbA1c ≤48 mmol/mol (6.5%) 達成率、ベースラインから16週までの空腹時体重変化。",
+      "endpoint_results_ja": "HbA1c変化（最小二乗平均差、ベースラインから16週）：HRS-7535 30mg -16 mmol/mol (95% CI -19, -14) (-1.5% [95% CI -1.7, -1.3])；HRS-7535 60mg -20 mmol/mol (95% CI -22, -17) (-1.8% [95% CI -2.0, -1.6])；プラセボ -4 mmol/mol (95% CI -7, -2) (-0.4% [95% CI -0.6, -0.2])；両用量ともプラセボ対比 p<0.0001。HbA1c <53 mmol/mol (7.0%) 達成率：HRS-7535 30mg 51.0%、HRS-7535 60mg 66.0%、プラセボ 9.8%。HbA1c ≤48 mmol/mol (6.5%) 達成率：HRS-7535 30mg 35.3%、HRS-7535 60mg 37.7%、プラセボ 3.9%。体重減少：HRS-7535 60mg -2.4%、プラセボ -0.7%。",
+      "sample_size_ja": "155名（HRS-7535 30mg: n=51、HRS-7535 60mg: n=53、プラセボ: n=51）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-15T23:43:41Z"
+    },
+    {
+      "pmid": "42875481",
+      "title": "Emerging therapies for knee osteoarthritis.",
+      "abstract": "Knee osteoarthritis (OA) is the most prevalent form of OA and a leading cause of chronic pain and disability worldwide. Its growing burden, driven mainly by ageing and obesity, is associated with major societal costs and increased cardiovascular mortality. Knee OA is now recognized as a heterogeneous whole-joint disease involving biomechanical, metabolic, inflammatory, osteochondral and neurovascular mechanisms. This complexity helps to explain why existing analgesics have modest efficacy and why disease-modifying OA drug development has repeatedly faltered. The therapeutic landscape is nevertheless evolving rapidly. Emerging symptomatic strategies include incretin-based therapies (semaglutide is the first to show substantial benefits for pain and function), neurotrophin modulation, extended-release intra-articular glucocorticoids, lubricating injectables and image-guided neurovascular interventions. In parallel, candidate disease-modifying OA drugs target cartilage anabolism, Wnt signalling, matrix-degrading enzymes, subchondral bone remodelling, immunometabolic pathways and local gene therapy. Several treatments, including locally administered GLP1 receptor agonists, the anabolic agent TPX-100 and intra-articular IL-1 receptor antagonist gene therapy, have shown encouraging signals, whereas mesenchymal stromal cell therapies have thus far demonstrated inconsistent efficacy across phase III clinical trials, highlighting the need for further standardization of mesenchymal stromal cell products and optimization of patient selection. Recent advances signal a shift towards a more diverse therapeutic landscape for knee OA, with emerging opportunities to target both symptoms and the underlying mechanisms of disease.",
+      "journal": "Nature reviews. Rheumatology",
+      "authors": "Courties Alice, Winkler Tobias, Conaghan Philip G, Berenbaum Francis",
+      "pub_date": "2026-10-14",
+      "doi": "10.1038/s41584-026-01441-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875481/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "7b863299507ad54b4c930aad156032f5cd196ab2aaeb3e36423b16c5edf240d8",
+      "fetched_at_utc": "2026-10-15T23:39:39Z",
+      "updated_at_utc": "2026-10-15T23:39:39Z"
+    },
+    {
       "pmid": "42873316",
       "title": "Aldosterone-mineralocorticoid receptor signaling and residual cardiorenal risk in type 2 diabetes.",
       "abstract": "Clinically important cardiorenal risk persists in type 2 diabetes mellitus (T2DM) despite major advances in metabolic and organ-protective therapy. This narrative review evaluates aldosterone-mineralocorticoid receptor (MR) signaling as one potential contributor and separates mechanistic plausibility from clinical-outcome evidence. PubMed, Embase, Web of Science Core Collection, and ClinicalTrials.gov searches, together with supplementary searches using the Foreign Medical Literature Retrieval Service (FMRS; Metstr), were updated through 22 September 2026; titles/abstracts and relevant full texts were independently screened by two authors. Experimental and observational evidence links MR signaling with inflammation, oxidative stress, fibrosis, endothelial dysfunction, and cardiorenal remodeling, but circulating aldosterone, renin, and the aldosterone-to-renin ratio have no validated thresholds for identifying clinically relevant tissue MR activation or predicting treatment response in unselected T2DM. In T2DM with chronic kidney disease (CKD) receiving maximum tolerated renin-angiotensin system blockade, finerenone reduces prespecified kidney and cardiovascular composite outcomes. By contrast, CONFIDENCE and phase 2 BI 690,517 mainly provide urinary albumin-to-creatinine ratio-based surrogate evidence, and FINEARTS-HF extends clinical-outcome evidence to heart failure with mildly reduced or preserved ejection fraction but was not restricted to diabetes. We therefore present four candidate domains for future MR-oriented phenotyping as a hypothesis-generating framework, not a diagnostic or treatment-selection algorithm. Overall, MR signaling is best regarded as a biologically plausible contributor within a multifactorial residual-risk model; prospective validation is required before biomarker-guided MR-targeted therapy can be recommended.",
@@ -95,7 +285,16 @@
       "japan_relevant": false,
       "content_sha256": "c99a2dc206890230f4b64784dfc3199c725be049a9f3360d2367a8e086d26aa7",
       "fetched_at_utc": "2026-10-14T23:53:41Z",
-      "updated_at_utc": "2026-10-14T23:53:41Z"
+      "updated_at_utc": "2026-10-14T23:53:41Z",
+      "summary_ja": "2型糖尿病（T2DM）において、代謝・臓器保護療法の大きな進歩にもかかわらず臨床的に重要な心腎リスクが持続している。本叙述的レビューは、アルドステロン-ミネラルコルチコイド受容体（MR）シグナル伝達をその潜在的な寄与因子として評価し、機能的妥当性と臨床アウトカム証拠を区別する。PubMed、Embase、Web of Science Core Collection、ClinicalTrials.govの検索（2026年9月22日更新）およびFMRS（Metstr）による補完検索を実施し、2名の著者が独立してスクリーニングを行った。実験的・観察的証拠はMRシグナル伝達と炎症、酸化ストレス、線維化、内皮機能不全、心腎リモデリングとの関連を示すが、循環中のアルドステロン、レニン、アルドステロン/レニン比には、非選択的T2DMにおいて臨床的に関連する組織MR活性化の同定や治療反応の予測に有効な閾値は確立されていない。T2DM伴慢性腎臓病（CKD）で最大耐用量のレニン-アンギオテンシン系遮断下では、フィネレノンが事前指定の腎・心血管複合アウトカムを減少させる。一方、CONFIDENCEおよび第2相BI 690,517は主に尿アルブミン/クレアチニン比に基づくサロゲート証拠を提供し、FINEARTS-HFは臨床アウトカム証拠を軽度低下型または保存型心不全に拡張したが、糖尿病に限定されなかった。したがって、将来のMR指向フェノタイピングのための4つの候補ドメインを仮説生成フレームワークとして提示する。",
+      "key_takeaway_ja": "MRシグナル伝達は、多因子性残存リスクモデルにおける生物学的に妥当な寄与因子と位置づけられるが、バイオマーカー指導型MR標的治療を推奨するには前向き検証が必要である。",
+      "why_matters_ja": "2型糖尿病において代謝・臓器保護療法の進歩にもかかわらず臨床的に重要な心腎リスクが持続しており、MRシグナル伝達がその残存リスクの寄与因子である可能性は、将来の治療戦略の方向性を示唆する点で重要である。",
+      "study_type_ja": "叙述的レビュー（Narrative review）",
+      "endpoints_ja": "事前指定の腎・心血管複合アウトカム（フィネレノン、T2DM伴CKD）、尿アルブミン/クレアチニン比（CONFIDENCE、第2相BI 690,517）、臨床アウトカム（FINEARTS-HF、軽度低下型または保存型心不全）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-15T23:46:40Z"
     },
     {
       "pmid": "42873315",
@@ -123,7 +322,16 @@
       "japan_relevant": false,
       "content_sha256": "6575144c783062a178a48dde425dc09d3aeed1a6e72f06c4a537facd5bb937ac",
       "fetched_at_utc": "2026-10-14T23:53:41Z",
-      "updated_at_utc": "2026-10-14T23:53:41Z"
+      "updated_at_utc": "2026-10-14T23:53:41Z",
+      "summary_ja": "セマグルチド、tirzepatide、retatrutideに関連する脱毛の有病率、機能的経路、臨床経過に関する証拠を統合した叙述的レビュー。PubMed/MEDLINEデータベースを用い、臨床試験、実世界観察研究、薬物警戒データベースからデータを統合した。",
+      "key_takeaway_ja": "インクレチン系療法関連の脱毛は主に休止期脱毛（TE）であり、薬剤毒性ではなく減量の大きさ・速度に駆動される。概して一過性かつ可逆性であるが、tirzepatideは従来のGLP-1 RAより強い関連を示す。",
+      "why_matters_ja": "脱毛の心理的影響が治療アドヒアランスを損なう可能性があるため、臨床医はTEの自己限定的な性質を強調した能動的なカウンセリングを提供すべきである。",
+      "study_type_ja": "叙述的レビュー（Narrative Review）",
+      "endpoints_ja": "脱毛の有病率、脱毛の表現型（休止期脱毛）、薬剤関連リスク（報告オッズ比）、脱毛の予測因子、男性型脱毛症および炎症性瘢痕性脱毛症のパラドキシカルな改善",
+      "endpoint_results_ja": "脱毛有病率：対照試験で3〜7%、実世界コホートで70%超。最も頑健な予測因子：女性、10%超の減量。セマグルチドおよびtirzepatideについて薬物警戒データで不整合だが有意なシグナル（報告オッズ比が薬剤関連リスクを示唆）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-15T23:46:57Z"
     },
     {
       "pmid": "42873314",
@@ -3085,6 +3293,28 @@
       "summary_generated_at_utc": "2026-10-02T00:44:23Z"
     },
     {
+      "pmid": "42876799",
+      "title": "GLP-1-Based therapies for obesity-related heart failure with preserved ejection fraction: an umbrella review incorporating broader heart failure and cardiometabolic evidence.",
+      "abstract": "BACKGROUND: The cardiometabolic phenotype of obesity-related heart failure with preserved ejection fraction (HFpEF) is increasing in clinical prevalence. Existing systematic reviews and meta-analyses have primarily summarized efficacy estimates for glucagon-like peptide-1 (GLP-1)-based therapies, but the credibility and independence of these syntheses remain uncertain because methodological limitations and overlap in primary trials have not been systematically evaluated. This umbrella review therefore appraised the methodological quality, overlap, consistency, and robustness of the existing review-level evidence rather than generating another efficacy synthesis.\nMETHODS: We conducted an umbrella review of systematic reviews, meta-analyses, and network meta-analyses evaluating GLP-1-based regimens in obesity-related HFpEF and adjacent cardiometabolic populations. PubMed, Embase, Web of Science, and the Cochrane Library were searched over the preceding decade. The systematic review or meta-analysis was the unit of analysis. Methodological quality was assessed with AMSTAR 2, and overlap of primary studies across reviews was quantified using the corrected covered area (CCA). No de novo meta-analysis was performed; primary trials were examined only to assess overlap and calculate the CCA. Review-level findings were synthesized according to effect direction, consistency, precision, sample size, methodological quality, clinical relevance, and overlap.\nRESULTS: Seventeen systematic reviews underwent qualitative profiling, of which 11 reported quantitative estimates relevant to the core review-level synthesis. For heart failure hospitalization, the review by Diallo et al. reported HR 0.78 (95% CI 0.73-0.84; n = 25,440). For the composite of cardiovascular death and heart failure hospitalization, Diallo et al. reported HR 0.84 (95% CI 0.78-0.89), Ahmed HM et al. reported HR 0.76 (95% CI 0.64-0.90), and Ahmed M et al. reported RR 0.73 (95% CI 0.57-0.93). Existing reviews also consistently suggested improvements in functional status. The review by Gera et al. reported OR 0.85 (95% CI 0.77-0.93; n = 85,373) for stroke, whereas findings for cardiovascular and all-cause mortality remained inconsistent. Evidence for major adverse cardiovascular events was limited; the review by Gonzales-Uribe et al. reported HR 0.71 (95% CI 0.60-0.86). AMSTAR 2 classified six reviews as having low overall methodological confidence and five as having critically low overall methodological confidence. The CCA was 13.2%, indicating high overlap. All HR, RR, and OR values were estimates reported by included reviews and were not recalculated or quantitatively combined in this umbrella review.\nCONCLUSIONS: At the level of existing evidence syntheses, GLP-1-based therapies appear most consistently associated with fewer heart failure hospitalizations and improved functional capacity in obesity-related HFpEF. However, the review-level evidence does not establish a consistent mortality benefit or support GLP-1-based therapy as a universal mortality-modifying treatment for HFpEF. These agents are better interpreted as emerging metabolic-functional therapies whose apparent benefits must be considered in light of methodological limitations and high overlap among reviews.",
+      "journal": "Frontiers in cardiovascular medicine",
+      "authors": "Li Qiang, Yang Tianyi, Jin Guannan, Zhou Yabin",
+      "pub_date": "2026-09-30",
+      "doi": "10.3389/fcvm.2026.1930278",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876799/",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "b922ea29ba6c01ebd74418c8cc84b6faa0bcd8515ccaa69675da4446593f1ef8",
+      "fetched_at_utc": "2026-10-15T23:39:39Z",
+      "updated_at_utc": "2026-10-15T23:39:39Z"
+    },
+    {
       "pmid": "42865775",
       "title": "Glucagon-like Peptide-1-based and Emerging Cardiometabolic Therapies in Heart Failure with Preserved Ejection Fraction: Linking Molecular Mechanisms to Clinical Outcomes.",
       "abstract": "Heart failure with preserved ejection fraction (HFpEF) is a heterogeneous clinical syndrome driven by frequent coexistence of cardio-renal-metabolic comorbidities. It has growing epidemiological relevance as global populations age. At its pathophysiological core lies a state of chronic systemic inflammation, coronary microvascular dysfunction and myocardial remodelling, a cascade where epicardial adipose tissue plays a pivotal amplifying role. This complexity is driving a fundamental shift in HFpEF management towards integrated cardiometabolic targeting. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) and the dual GLP1/glucose-dependent insulinotropic polypeptide (GIP)-RA tirzepatide have emerged as compelling multi-system agents, simultaneously addressing several key pathophysiological drivers of the syndrome with consistent improvements in symptoms, functional capacity and clinical outcomes. Nevertheless, questions remain regarding the long-term impact on cardiovascular outcomes, consequences of discontinuing treatment and the potential loss of muscle mass. This review examines the pathophysiological basis of HFpEF within the cardio-renal-metabolic continuum, appraising the clinical evidence, benefits and limitations of GLP-1RAs in HFpEF and discussing future directions including phenotype-directed therapy, mechanism-based combination strategies and next-generation molecules.",
@@ -3748,6 +3978,32 @@
       "summary_generated_at_utc": "2026-09-30T00:24:07Z"
     },
     {
+      "pmid": "42877389",
+      "title": "Cardiometabolic therapy for rhythm control: a case report of refractory atrial fibrillation resolving after initiation of semaglutide for obesity.",
+      "abstract": "BACKGROUND: Obesity is a major modifiable risk factor for atrial fibrillation (AF) and has been linked to processes involved in atrial structural and electrical remodelling. Glucagon-like peptide-1 (GLP-1) receptor agonists reduce cardiovascular events in patients with type 2 diabetes at high cardiovascular risk and are increasingly regarded as cardiometabolic therapies. Whether these agents modify the trajectory of atrial cardiomyopathy or exert direct antiarrhythmic effects beyond their metabolic actions remains an area of active investigation.\nCASE SUMMARY: A 50-year-old man with obesity (body mass index 34.9 kg/m2) and persistent AF presented with persistent symptomatic episodes despite four prior pulmonary vein isolation procedures and repeated electrical cardioversions. Rhythm monitoring was performed continuously using a wearable device since 2023, documenting recurrent episodes lasting 8-30 h with a modified European Heart Rhythm Association (mEHRA) class IIb-III symptom burden. Echocardiography demonstrated preserved left ventricular systolic function and left atrial enlargement. In January 2026, once-weekly subcutaneous semaglutide was initiated for weight management (0.25 mg/week with subsequent dose escalation). While a weight reduction of 14 kg was observed within 6 months, AF episodes and symptoms ceased immediately after treatment initiation and have not recurred during follow-up.\nCONCLUSION: This case describes cessation of recurrent AF episodes following initiation of semaglutide in a patient with obesity and prior ablation failure. Potential mechanisms may include cardiometabolic effects as well as direct myocardial effects on sodium and calcium handling that have been described experimentally. Although a causal relationship cannot be established from a single observation, this finding may serve as a hypothesis-generating signal and provide a rationale for prospective studies evaluating cardiometabolic therapies as potential adjuncts in rhythm control strategies.",
+      "journal": "European heart journal. Case reports",
+      "authors": "Weitkamp Frederike Marie, Vatic Mirela, von Haehling Stephan, Schmidt Constanze, Wiedmann Felix",
+      "pub_date": "2026-09-28",
+      "doi": "10.1093/ehjcr/ytag727",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877389/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2e7dc0c2b4b5250297ceac362c3c1529bdecc2235836544e2cb9baf096eb5649",
+      "fetched_at_utc": "2026-10-15T23:39:39Z",
+      "updated_at_utc": "2026-10-15T23:39:39Z"
+    },
+    {
       "pmid": "42866022",
       "title": "Divergent ocular safety profiles of glucagon-like peptide-1 receptor agonists: a pharmacological heterogeneity framework.",
       "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have revolutionized the treatment of type 2 diabetes and obesity, yet their ocular safety profile remains contested. The longer-acting semaglutide has been repeatedly linked to an increased risk of non-arteritic anterior ischemic optic neuropathy (NAION) and, in situations of rapid glycemic correction, to early deterioration of diabetic retinopathy, while shorter-acting drugs such as liraglutide and exenatide show much weaker signals. This review explores the pharmacological underpinnings of this difference by combining three lines of evidence: biased agonism and trafficking at the receptor level, cell-type-specific signaling microenvironments, and a recently proposed hemodynamic mechanism based on GLP-1RA-mediated changes in intracranial pressure. The ocular liabilities of GLP-1RAs may be influenced by a multifactorial interplay between ligand-dictated receptor occupancy profiles, cell-type-specific signaling milieu, and individual anatomical vulnerabilities. This model makes testable predictions and has implications for drug choice, risk stratified monitoring, and the development of future agonists with enhanced ocular safety. Key areas for future research include head-to-head comparisons of different GLP-1RAs' signaling in specific ocular cell types and the risk-benefit equation in non-diabetic individuals using these drugs for weight loss.",
@@ -3814,24 +4070,23 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42865447/",
       "publication_types": [
         "Journal Article",
-        "Review"
+        "Practice Guideline"
       ],
       "mesh_terms": [
         "Humans",
+        "Anti-Obesity Agents",
+        "Glucagon-Like Peptide-1 Receptor",
         "Glucagon-Like Peptide-1 Receptor Agonists",
         "Obesity",
-        "Practice Guidelines as Topic",
-        "Glucagon-Like Peptide-1 Receptor",
-        "Anti-Obesity Agents",
         "Weight Loss"
       ],
       "matched_assets": [],
       "matched_companies": [],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "c46c7f128b164f664209c94324ca25d894969094dc6afb4be0b241edf675f575",
+      "content_sha256": "c9a707fe89c03fed6761eff5bf531f822c0cbcb1b01c2523360fda3090ef5db4",
       "fetched_at_utc": "2026-10-14T00:15:50Z",
-      "updated_at_utc": "2026-10-14T00:15:50Z"
+      "updated_at_utc": "2026-10-15T23:39:39Z"
     },
     {
       "pmid": "42865361",
@@ -17431,6 +17686,28 @@
       "sample_size_ja": ""
     },
     {
+      "pmid": "42877202",
+      "title": "GLP-1 receptor agonists and tendon healing: a systematic review and meta-analysis.",
+      "abstract": "INTRODUCTION: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are prescribed for cardiometabolic indications and may exert anti-inflammatory and tissue-regenerative effects. However, their effect on tendon healing and tendon-related surgical outcomes remains unclear. In this systematic review and meta-analysis, we evaluated the available preclinical and clinical evidence on the effects of GLP-1RAs on tendon healing and related musculoskeletal outcomes.\nMETHODS: A systematic search of the PubMed, Embase, Medline, Scopus, Clinical Key, Google Scholar, and Cochrane databases was conducted from database inception to December 31, 2025. Eligible studies included animal studies, human experimental studies, and retrospective clinical cohorts that evaluated GLP-1RA exposure in relation to tendon biology, tendon healing, or tendon-related orthopedic outcomes. Risk of bias was assessed using design-appropriate tools, including SYRCLE, ROBINS-I, the Newcastle-Ottawa Scale, SANRA, AMSTAR 2, and the NIH assessment tool.\nRESULTS: A total of 41 studies were included: eight animal studies, three human experimental studies, six retrospective cohort studies, one prospective study, 18 review or commentary articles, and five systematic reviews. Preclinical evidence generally supported the tendon-promoting effects of GLP-1RAs through the modulation of inflammation, fibroblast activity, angiogenesis, and extracellular matrix remodeling. Quantitative synthesis of two retrospective cohorts evaluating revision risk after total shoulder arthroplasty suggested a lower risk among GLP-1RA users than non-users. However, only two studies were eligible for pooling, and significant clinical heterogeneity remained across the available cohorts.\nCONCLUSIONS: GLP-1RAs demonstrate biologically plausible tendon healing benefits in preclinical models, with a potentially favorable association with selected postoperative outcomes; however, causal inference remains limited by retrospective design, heterogeneity, and potential confounding factors.",
+      "journal": "Archives of medical science : AMS",
+      "authors": "Khayyat Mohammed Y, Khayyat Yasir M",
+      "pub_date": "2026-08-20",
+      "doi": "10.5114/aoms/225241",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877202/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "587583f466872242d61f58b227722bb1b805b1b85d3b8772367e2c715127d3c5",
+      "fetched_at_utc": "2026-10-15T23:39:39Z",
+      "updated_at_utc": "2026-10-15T23:39:39Z"
+    },
+    {
       "pmid": "42707964",
       "title": "Finerenone in Asian patients with diabetic kidney disease: evaluating the evidence for \"better efficacy\".",
       "abstract": "Diabetic kidney disease (DKD) has emerged as the primary driver of kidney failure across the Asia-Pacific region. Thus, therapeutic interventions capable of effectively slowing the progression of chronic kidney disease (CKD) and reducing concomitant cardiovascular risk are of critical strategic importance. Finerenone, a novel non-steroidal mineralocorticoid receptor antagonist (nsMRA) approved for the treatment of DKD, exerts cardiorenal protective effects by selectively inhibiting the overactivation of the mineralocorticoid receptor (MR)-a key mediator of pathological inflammatory and fibrotic processes underlying renal and cardiac injury. A consistent finding across major clinical trials, including FIDELIO-DKD, FIGARO-DKD, and the pooled FIDELITY analysis, is the \"potentially enhanced\" (based on post-hoc subgroup analyses) therapeutic efficacy of finerenone in Asian, predominantly Chinese, patient populations. This review synthesizes emerging evidence indicating a distinct, potentially superior therapeutic response (based on available subgroup analyses) in Asian cohorts compared to global populations, alongside potential genetic and environmental factors contributing to this phenomenon. Additionally, we address the associated safety profile of hyperkalemia in Asian patients. We contend that this risk is manageable through structured monitoring and should not preclude clinicians from utilizing this high-impact therapy. Ultimately, this review positions finerenone as a crucial and effective intervention for Asian patients with high cardiorenal risk, provided that potassium homeostasis is proactively managed.",
@@ -22295,6 +22572,46 @@
       "content_sha256": "b6dba5843a8c835e69de355a5a761c8c0811f036d49cd7026b1ba11dc2053d5a",
       "fetched_at_utc": "2026-09-23T23:38:51Z",
       "updated_at_utc": "2026-09-23T23:38:51Z"
+    },
+    {
+      "pmid": "42874603",
+      "title": "GLP-1 receptor agonist initiation and risk of psychiatric hospitalisation and emergency department presentation in adults with schizophrenia and type 2 diabetes in the USA: an observational cohort study using electronic health records data.",
+      "abstract": "BACKGROUND: Many individuals with schizophrenia have persistent psychotic symptoms despite antipsychotic treatment, and the disorder is associated with a disproportionately high burden of metabolic dysregulation. Whether GLP-1 receptor agonists are associated with psychiatric benefit alongside their metabolic effects remains unknown. We aimed to examine associations between GLP-1 receptor agonist initiation and psychiatric hospitalisation and emergency department presentation in adults with schizophrenia and type 2 diabetes, compared with DPP-4 inhibitor initiation, SGLT2 inhibitor initiation, and non-initiation.\nMETHODS: In this observational cohort study, we used electronic health record (EHR) data from the US NeuroBlu Data repository to construct a cohort of adults (≥18 years) with documented diagnosis of schizophrenia and comorbid type 2 diabetes. The exposure was the initiation of GLP-1 receptor agonists, compared with non-initiation or initiation of DPP-4 inhibitors or SGLT2 inhibitors. The index date, from Jan 1, 2018, was defined as the date of the first recorded psychiatric visit at which both a diagnosis of schizophrenia and comorbid type 2 diabetes were present in the participant's record. Time zero (T0) was the date of the first prescription of any of these agents between Jan 1, 2018, and Oct 1, 2025; for non-initiators, T0 was the index date. Participants contributed person-time from T0 until 2 years of follow-up, the last recorded clinical observation in the NeuroBlu Data repository, or the end of the observation period (March 24, 2026), whichever happened earliest. The main outcomes of interest included risk of psychiatric hospitalisation and psychiatric emergency department presentation. Inverse probability weighting was applied to balance demographic, clinical, and pharmacological covariates, and weighted regression models were used. Analyses were conducted using an intention-to-treat framework, whereby exposure status was defined according to the medication initiated at T0.\nFINDINGS: A total of 70 257 individuals met the inclusion criteria; mean age was 53·1 years [SD 12·32] and 33 882 [48·2%] were women. Among the 70 257 eligible individuals, 9093 (12·9%) initiated GLP-1 receptor agonists, 4968 (7·1%) initiated DPP-4 inhibitors, 5328 (7·6%) initiated SGLT2 inhibitors, and 50 868 (72·4%) were non-initiators. In weighted regression analyses, GLP-1 receptor agonist initiation was associated with a lower risk of psychiatric hospitalisation compared with non-initiation (weighted hazard ratio [HR] 0·76 [95% CI 0·71-0·82]), DPP-4 inhibitor initiation (0·82 [0·75-0·90]), and SGLT2 inhibitor initiation (0·83 [0·78-0·88]). GLP-1 receptor agonist initiation was also associated with a lower risk of emergency department presentation than non-initiation (0·71 [0·65-0·77]), DPP-4 inhibitor initiation (0·87 [0·80-0·95]), and SGLT2 inhibitor initiation (0·80 [0·73-0·88]).\nINTERPRETATION: GLP-1-based therapy initiation was associated with lower psychiatric acute-care use than non-initiation and initiation of DPP-4 or SGLT2 inhibitors in adults with schizophrenia and type 2 diabetes. Potential residual confounding and selection bias restrict generalisability of the results. The findings suggest that lower psychiatric acute-care use could be a favourable secondary benefit when GLP-1-based therapies are clinically indicated for metabolic management, although their use as primary psychiatric treatments require investigation in randomised and mechanistic studies.\nFUNDING: Synergy for the Development of Innovative Clinical Treatments in Schizophrenia (SYNDICAT) project (GNT2035912).",
+      "journal": "The lancet. Psychiatry",
+      "authors": "Davoodian Najmeh, Williams Lana J, Berk Michael, Arnautovska Urska, Kim Jee Hyun, McLure James, Panizzutti Bruna, Rossell Susan L",
+      "pub_date": "2026-01-01",
+      "doi": "10.1016/S2215-0366(26)00276-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874603/",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antipsychotic Agents",
+        "Cohort Studies",
+        "Diabetes Mellitus, Type 2",
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Electronic Health Records",
+        "Emergency Room Visits",
+        "Emergency Service, Hospital",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Hospitalization",
+        "Schizophrenia",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "United States"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "78091d98f01be1d38264643505963ffdc0b6b318f7e977c223cf6f736329b53c",
+      "fetched_at_utc": "2026-10-15T23:39:39Z",
+      "updated_at_utc": "2026-10-15T23:39:39Z"
     },
     {
       "pmid": "42867205",
