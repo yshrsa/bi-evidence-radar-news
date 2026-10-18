@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-17T23:12:05Z",
+  "generated_at_utc": "2026-10-18T23:18:36Z",
   "items": [
     {
       "pmid": "42805503",
@@ -72,6 +72,84 @@
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
     },
     {
+      "pmid": "42892471",
+      "title": "GLP-1 receptor agonist therapy and incident atrial fibrillation in non-diabetic adults with obesity and chronic kidney disease: a propensity matched cohort study.",
+      "abstract": "BACKGROUND: Obesity and chronic kidney disease (CKD) are potent risk factors for atrial fibrillation (AF), yet whether GLP-1 receptor agonists (GLP-1RAs) prevent incident AF in non-diabetic adults with obesity and CKD is unexamined. We assessed whether GLP-1RA therapy reduces 1-year AF incidence in this cardiorenal phenotype.\nMETHODS: Using the TriNetX US Collaborative Network (66 healthcare organizations), we conducted a retrospective target trial emulation of non-diabetic adults aged 18 or older with obesity and CKD stages 3-5 diagnosed 2021-2024. Patients receiving semaglutide, liraglutide, or tirzepatide (n = 10,985) were compared with unexposed patients (n = 94,527). After propensity score matching, 7326 patients remained per cohort. The primary outcome was incident AF at 1 year; secondary outcomes included AF subtypes, ventricular tachyarrhythmias, and all-cause hospitalization. Cox models generated hazard ratios (HRs); sensitivity analyses extended follow-up to 2-3 years with landmark analyses.\nRESULTS: At 1 year, GLP-1RA use was associated with significantly lower incident AF (1.63% vs. 2.62%; HR 0.655, 95% CI 0.508-0.844; p = 0.001), a 34.5% relative risk reduction. Reductions were consistent for paroxysmal (HR 0.586), persistent (HR 0.482), and longstanding persistent AF (HR 0.527; all p < 0.05); permanent AF was non-significant at 1 year. Ventricular tachyarrhythmias (HR 0.556; p = 0.002) and hospitalization (HR 0.668; p < 0.001) were also significantly reduced. Benefits persisted across 2- and 3-year follow-up and remained consistent in landmark analyses.\nCONCLUSIONS: In non-diabetic adults with obesity and CKD, GLP-1RA therapy was associated with significant, durable reductions in incident AF, ventricular arrhythmias, and hospitalization. These findings are consistent with a possible cardiorenal benefit and support prioritizing this phenotype for dedicated randomized trials.",
+      "journal": "International journal of cardiology",
+      "authors": "Hassan Abdulraheem, Okorigba Efeturi, Grace Chilaka, Otabor Emmanuel, Osineye Busayo, Olayiwola Olalekan, Oyeleye Tutuola, Amin Parthiv",
+      "pub_date": "2026-10-17",
+      "doi": "10.1016/j.ijcard.2026.135000",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892471/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d671ee58d1692753f35f59f5ca42d2e53427aa10e718599385767fb1aed64915",
+      "fetched_at_utc": "2026-10-18T23:05:40Z",
+      "updated_at_utc": "2026-10-18T23:05:40Z",
+      "summary_ja": "TriNetX US Collaborative Network（66医療機関）のデータを用いた後方視的ターゲットトライアルエミュレーション。2021〜2024年に診断された、肥満を伴うCKD 3〜5期の非糖尿病成人（18歳以上）において、GLP-1受容体作動薬（セマグルチド、リラグルチド、tirzepatide）が1年間の新規心房細動（AF）発生を抑制するかを評価した。傾向スコアマッチング後、コホートごとに7,326例が比較対象となった。主要アウトカムは1年時点の新規AF発生、副次アウトカムはAFサブタイプ、心室性頻拍性不整脈、全原因入院であった。",
+      "key_takeaway_ja": "肥満を伴うCKDの非糖尿病成人において、GLP-1受容体作動薬の使用は1年時点の新規AF発生（HR 0.655）、心室性頻拍性不整脈（HR 0.556）、全原因入院（HR 0.668）の有意かつ持続的な減少と関連していた。",
+      "why_matters_ja": "肥満とCKDはAFの強力なリスク因子であるが、この心腎フェノタイプにおいてGLP-1受容体作動薬が新規AFを予防するかは未検証であった。本結果は、このフェノタイプに対する専用のランダム化試験を優先すべきことを支持する。",
+      "study_type_ja": "後方視的ターゲットトライアルエミュレーション（傾向スコアマッチングコホート研究）",
+      "endpoints_ja": "主要アウトカム：1年時点の新規心房細動（AF）発生。副次アウトカム：AFサブタイプ（発作性、持続性、長期持続性、恒常性）、心室性頻拍性不整脈、全原因入院。",
+      "endpoint_results_ja": "1年時点の新規AF：GLP-1RA群 1.63% vs 非暴露群 2.62%；HR 0.655, 95% CI 0.508-0.844; p = 0.001。発作性AF：HR 0.586。持続性AF：HR 0.482。長期持続性AF：HR 0.527（いずれもp < 0.05）。恒常性AF：1年時点で有意差なし。心室性頻拍性不整脈：HR 0.556; p = 0.002。全原因入院：HR 0.668; p < 0.001。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-18T23:08:48Z"
+    },
+    {
+      "pmid": "42891874",
+      "title": "Periconceptional and early-pregnancy exposure to SGLT2 inhibitors and congenital malformations: a systematic review and meta-analysis.",
+      "abstract": "PURPOSE: Sodium-glucose cotransporter-2 (SGLT2) inhibitors are increasingly prescribed to women of reproductive age for type 2 diabetes and cardiorenal protection, and are commonly continued through the periconceptional period until pregnancy is recognized. Human safety data on inadvertent first-trimester exposure remain scarce, creating substantial clinical uncertainty.\nMETHODS: We systematically searched PubMed/MEDLINE, Embase, and CENTRAL from inception to 15 May 2026 for observational cohort studies comparing early-pregnancy or preconception exposure to SGLT2 inhibitors with active antidiabetic comparators among women with type 2 diabetes. Adjusted risk ratios (RRs) were pooled using random-effects meta-analysis.\nRESULTS: Three cohorts, including 669 SGLT2 inhibitor-exposed pregnancies, were eligible. In the prespecified insulin-comparator analysis, SGLT2 inhibitor exposure was not associated with major congenital malformations (RR 0.94, 95% CI 0.68-1.29) or cardiac malformations (RR 0.97, 95% CI 0.64-1.48). The inclusion of a preconception sulfonylurea comparator cohort yielded a similar estimate for major congenital malformations (RR 0.98, 95% CI 0.74-1.29). In a Korean cohort, exposure during gestational weeks 4-10 was associated with congenital heart defects (RR 2.79, 95% CI 1.16-7.06).\nCONCLUSIONS: Based on the limited observational evidence available, early SGLT2 inhibitor exposure was not associated with an increased risk of overall major congenital or cardiac malformations; however, the estimates were imprecise and could not rule out clinically important increases in risk. Certainty of the evidence was low to very low because of residual confounding, live-birth selection, heterogeneous exposure definitions, and few exposed events. A possible timing-specific cardiac signal requires replication.",
+      "journal": "Endocrine",
+      "authors": "Dutta Deep, Mahajan Kunal, Gupta Gunjan, Sharma Meha, Sugandha Swati, Kamrul-Hasan A B M",
+      "pub_date": "2026-10-17",
+      "doi": "10.1007/s12020-026-04839-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891874/",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Pregnancy",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Diabetes Mellitus, Type 2",
+        "Abnormalities, Drug-Induced",
+        "Hypoglycemic Agents",
+        "Pregnancy Trimester, First",
+        "Pregnancy in Diabetics"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "036d00d84539d1a858c6ef37ab1f610f1b73b343092d47a51b229570a071ceab",
+      "fetched_at_utc": "2026-10-18T23:05:40Z",
+      "updated_at_utc": "2026-10-18T23:05:40Z",
+      "summary_ja": "SGLT2阻害薬の周産期・妊娠初期曝露と先天奇形との関連を評価した系統的レビューおよびメタアナリシス。観察コホート研究3件（SGLT2阻害薬曝露妊娠669例）が対象となった。インスリン比較群の事前指定解析では、主要先天奇形（RR 0.94, 95% CI 0.68-1.29）および心奇形（RR 0.97, 95% CI 0.64-1.48）との関連は認められなかった。スルホニルウレア比較群を含む解析でも主要先天奇形の推定値は類似（RR 0.98, 95% CI 0.74-1.29）。一方、韓国コホートでは妊娠4〜10週での曝露が先天性心疾患と関連（RR 2.79, 95% CI 1.16-7.06）した。",
+      "key_takeaway_ja": "限られた観察疫学的証拠に基づき、SGLT2阻害薬の早期曝露は全体的な主要先天奇形や心奇形のリスク増加とは関連しなかったが、推定値は不正確であり、臨床的に重要なリスク増加を排除できなかった。時期特異的な心臓シグナルの再現性が求められる。",
+      "why_matters_ja": "SGLT2阻害薬は生殖年齢の女性に2型糖尿病や心腎保護目的で増加傾向にあり、妊娠が判明するまで周産期に継続されることが多い。意図しない第1三半期曝露に関するヒト安全性データは依然として乏しく、臨床的不確実性が大きい。",
+      "study_type_ja": "系統的レビューおよびメタアナリシス（観察コホート研究を対象）",
+      "endpoints_ja": "主要先天奇形、心奇形、先天性心疾患（妊娠4〜10週曝露の時期特異的解析）",
+      "endpoint_results_ja": "主要先天奇形（インスリン比較群）: RR 0.94, 95% CI 0.68-1.29 / 心奇形（インスリン比較群）: RR 0.97, 95% CI 0.64-1.48 / 主要先天奇形（スルホニルウレア比較群を含む）: RR 0.98, 95% CI 0.74-1.29 / 先天性心疾患（韓国コホート、妊娠4〜10週曝露）: RR 2.79, 95% CI 1.16-7.06",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-18T23:09:26Z"
+    },
+    {
       "pmid": "42888932",
       "title": "Dapagliflozin in phenotypically stratified HFpEF without myocardial fibrosis: the STADIA-HFpEF randomized crossover trial.",
       "abstract": "AIMS: Heart failure with preserved ejection fraction(HFpEF) is characterized by increased diastolic left ventricular(LV) stiffness resulting from variable contributions of myocardial extracellular matrix(ECM) remodeling and titin-based cardiomyocyte stiffness. Sodium-glucose cotransporter-2 inhibitors(SGLT2i) improved cardiomyocyte distensibility, inflammation, and oxidative stress in experimental and human HFpEF myocardium. We investigated whether dapagliflozin improves LV distensibility in phenotypically stratified HFpEF patients without significant myocardial fibrosis.\nMETHODS: STADIA-HFpEF was a 34-week, randomized, double-blind, placebo-controlled crossover trial. HFpEF patients underwent multi-level phenotypic stratification including cardiac magnetic resonance imaging to exclude structural cardiomyopathies and significant myocardial ECM remodeling. Participants were randomized to dapagliflozin 10 mg or placebo for two 13-week treatment periods separated by an 8-week washout.The co-primary endpoints were changes in E/e'/LV end-diastolic volume index(LVEDVi) and mean LV e', reflecting LV distensibility and relaxation. Secondary endpoints included echocardiographic variables, quality of life, 6-minute walk distance, and inflammatory biomarkers.\nRESULTS: Between February 2020 and October 2022, 32 patients were randomized and 29 completed the study protocol. Median age was 73(68-76) years including 28 women(88%). Dapagliflozin did not significantly modify E/e'/LVEDVi compared with placebo 0.24 (0.20-0.32) to 0.26 (0.22-0.34) vs. 0.23 (0.22-0.29) to 0.25 (0.21-0.31); p=0.370 nor did it change mean LV e' 6.2 (5.6-7.5) to 6.2 (5.7-7.1) vs. 6.6 (5.6-7.4) to 6.7 (5.4-7.5); p=0.448. Most secondary outcomes were neutral. However, an isolated improvement in LA conduit strain and numerical reductions in inflammatory biomarkers were observed during dapagliflozin treatment.\nCONCLUSIONS: In phenotypically stratified HFpEF patients without significant myocardial fibrosis, dapagliflozin did not improve LV distensibility or relaxation. An isolated improvement in LA conduit strain and numerical reductions in inflammatory biomarkers were observed; however, these exploratory findings require confirmation in larger studies.",
@@ -104,6 +182,37 @@
       "sample_size_ja": "32例がランダム化、29例がプロトコルを完了",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-17T23:05:20Z"
+    },
+    {
+      "pmid": "42891093",
+      "title": "Diagnostic challenges of masked arginine vasopressin deficiency in neurosarcoidosis complicated by sodium-glucose cotransporter 2 inhibitor use.",
+      "abstract": "A wide variety of endocrine disorders caused by sarcoidosis have been reported to date. We report the case of an 82-year-old male patient who presented with hypercalcemia and anterior pituitary hormone deficiency at the time of his sarcoidosis diagnosis and was subsequently diagnosed with arginine vasopressin deficiency (AVP-D) 6 months after the initiation of glucocorticoid therapy. Magnetic resonance imaging revealed an enlarged pituitary gland, thickened pituitary stalk, and loss of the posterior pituitary bright spot, raising the suspicion of hypothalamic-pituitary sarcoidosis. Despite improvement in hypercalcemia, anterior pituitary function, and pituitary enlargement and stalk thickening with glucocorticoid therapy, subjective symptoms of dry mouth and polyuria gradually became apparent several months after the start of treatment. While the characteristic hypotonic polyuria of AVP-D was not prominent, we surmised that these typical clinical features were masked by adrenal insufficiency, chronic kidney disease (CKD), and concurrent use of a sodium-glucose cotransporter 2 (SGLT2) inhibitor for type 2 diabetes. This case highlights the fact that the typical presentation of AVP-D can be masked by concurrent SGLT2 inhibitor use and CKD, emphasizing careful assessment of water balance in such patients.",
+      "journal": "JCEM case reports",
+      "authors": "Nonaka Ryohei, Tanaka Katsuhiro, Tomimoto Akemi, Nagai Yukie, Nomura Takuya, Shibata Hirotaka",
+      "pub_date": "2026-10-16",
+      "doi": "10.1210/jcemcr/luag318",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891093/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "17a039f2684fd0ca426029b54560ec1c16b55db108157bea4eb2f69d733b58d6",
+      "fetched_at_utc": "2026-10-18T23:05:40Z",
+      "updated_at_utc": "2026-10-18T23:05:40Z",
+      "summary_ja": "82歳男性の神経サルコイドーシス症例。サルコイドーシス診断時に高カルシウム血症と前葉ホルモン欠損を認め、グルココルチコイド療法開始6か月後にアルギニンバソプレシン欠損（AVP-D）と診断された。MRIで下垂体肥大、下垂体茎肥厚、後葉高信号消失を認めた。グルココルチコイド療法により高カルシウム血症・前葉機能・下垂体肥大は改善したが、数か月後に口渇と多尿が徐々に出現した。AVP-Dに特徴的な低浸透圧性多尿は顕著でなく、副腎不全、慢性腎臓病（CKD）、および2型糖尿病に対するSGLT2阻害薬の併用により典型的な臨床所見がマスクされていたと推測された。",
+      "key_takeaway_ja": "SGLT2阻害薬の併用とCKDによりAVP-Dの典型的な臨床所見（低浸透圧性多尿）がマスクされうるため、こうした患者では水分バランスの慎重な評価が重要である。",
+      "why_matters_ja": "神経サルコイドーシスに伴うAVP-Dは、SGLT2阻害薬やCKDなどの併存疾患・薬剤により診断が困難になり得る。本症例は、これらの要因がAVP-Dの典型的な臨床像を隠蔽し、診断を遅らせる可能性を示しており、臨床現場での水分バランス評価の重要性を強調している。",
+      "study_type_ja": "症例報告",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-18T23:09:56Z"
     },
     {
       "pmid": "42888373",
@@ -548,6 +657,36 @@
       "sample_size_ja": "チルゼパチド開始者122例中、低用量戦略コホートに107例（うち65歳以上37例）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-16T23:37:46Z"
+    },
+    {
+      "pmid": "42879337",
+      "title": "SGLT2 Inhibitor Therapy and Risk of Incident Atrial Fibrillation in Patients With HFpEF and Type 2 Diabetes.",
+      "abstract": "Background Atrial fibrillation (AF) frequently coexists with Heart Failure with Preserved Ejection Fraction, particularly in patients with Type 2 Diabetes, due to shared cardiometabolic and inflammatory mechanisms. Sodium-glucose cotransporter-2 inhibitors (SGLT2i) have demonstrated cardiovascular benefit in HFpEF, but data regarding prevention of incident AF remain limited. Objectives To evaluate the association between SGLT2 inhibitor therapy and incident atrial fibrillation/flutter in patients with HFpEF and diabetes mellitus. Methods We performed a retrospective propensity score-matched cohort study using the TriNetX Research Network. Adults aged ≥18 years with HFpEF and diabetes mellitus receiving oral antihyperglycemic therapy were identified. Patients receiving SGLT2 inhibitors were matched 1:1 with those receiving Dipeptidyl peptidase-4 inhibitors. The primary outcome was incident AF/flutter. Secondary outcomes included all-cause mortality, ischemic stroke, and composite major adverse cardiovascular events (cMACE; all-cause mortality, ischemic stroke, or acute myocardial infarction). Associations were assessed using hazard ratios (HRs) and risk ratios (RRs). Results After propensity matching, 37,108 patients were included (18,554 per group). Compared with DPP4 inhibitor therapy, SGLT2 inhibitor use was associated with lower incidence of AF/flutter (17.8% vs 19.2%; HR 0.84, RR 0.93), all-cause mortality (12.5% vs 21.4%; HR 0.53, RR 0.59), ischemic stroke (7.4% vs 8.7%; HR 0.78, RR 0.85), and cMACE (24.4% vs 33.0%; HR 0.66, RR 0.74). Conclusions In patients with HFpEF and diabetes mellitus, SGLT2 inhibitor therapy was associated with lower rates of incident AF/flutter and adverse cardiovascular outcomes, supporting a potential role for SGLT2 inhibitors in modifying arrhythmic risk in addition to established cardiometabolic benefits.",
+      "journal": "Cardiology",
+      "authors": "Acheampong Irene Animah, Blankson George, Kumi Dennis Danso, Tetteh Esther Bajo, Seidu Adama, Sullivan Claire, Zacharias Michael",
+      "pub_date": "2026-10-15",
+      "doi": "10.1159/crd/absag026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879337/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3a046953c0eec9a5ae9eedf0c6320e078d245797297eb037894d0efe27e6fb26",
+      "fetched_at_utc": "2026-10-16T23:32:15Z",
+      "updated_at_utc": "2026-10-16T23:32:15Z",
+      "summary_ja": "HFpEFと2型糖尿病を有し経口降血糖薬を投与中の成人を対象に、TriNetX研究ネットワークを用いた後方視的プロパティスコアマッチングコホート研究を行った。SGLT2阻害薬群とDPP-4阻害薬群を1:1でマッチングし、新規心房細動/心房粗動の発生率を比較した。マッチング後37,108例（各群18,554例）が解析対象となった。SGLT2阻害薬群はDPP-4阻害薬群と比較して、新規AF/心房粗動（17.8% vs 19.2%）、全死因死亡（12.5% vs 21.4%）、虚血性脳卒中（7.4% vs 8.7%）、cMACE（24.4% vs 33.0%）の発生率が有意に低かった。",
+      "key_takeaway_ja": "HFpEFと糖尿病を有する患者において、SGLT2阻害薬はDPP-4阻害薬と比較して新規心房細動/心房粗動の発生率を低下させ、心血管アウトカム改善と関連していた。",
+      "why_matters_ja": "HFpEFと2型糖尿病を併せ持つ患者では心房細動が頻繁に共存し、共有される心代謝・炎症性メカニズムが関与している。SGLT2阻害薬はHFpEFにおける心血管有益性が示されているが、新規AF予防に関するデータは限られていた。本研究はSGLT2阻害薬が確立された心代謝効果に加え、不整脈リスクの修正にも寄与する可能性を示唆し、臨床実践におけるSGLT2阻害薬の適応拡大を支持する根拠となる。",
+      "study_type_ja": "後方視的プロパティスコアマッチングコホート研究（TriNetX研究ネットワーク）",
+      "endpoints_ja": "主要エンドポイント：新規心房細動/心房粗動（incident AF/flutter）。二次エンドポイント：全死因死亡、虚血性脳卒中、複合主要心血管不良事象（cMACE：全死因死亡、虚血性脳卒中、または急性心筋梗塞）。",
+      "endpoint_results_ja": "新規AF/心房粗動：SGLT2i群 17.8% vs DPP4i群 19.2%（HR 0.84, RR 0.93）。全死因死亡：SGLT2i群 12.5% vs DPP4i群 21.4%（HR 0.53, RR 0.59）。虚血性脳卒中：SGLT2i群 7.4% vs DPP4i群 8.7%（HR 0.78, RR 0.85）。cMACE：SGLT2i群 24.4% vs DPP4i群 33.0%（HR 0.66, RR 0.74）。",
+      "sample_size_ja": "37,108例（SGLT2i群 18,554例、DPP4i群 18,554例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-18T23:11:45Z"
     },
     {
       "pmid": "42878727",
@@ -5150,165 +5289,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-06T01:50:15Z"
-    },
-    {
-      "pmid": "42785932",
-      "title": "Estimating the carbon footprint of oral semaglutide (Rybelsus): a comparative analysis of the medicine carbon footprint model and manufacturer life-cycle assessment in pharmaceutical production.",
-      "abstract": "OBJECTIVES: Pharmaceuticals are a major contributor to healthcare's greenhouse gas emissions yet product-level carbon footprints are rarely disclosed. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly being used for the management of type 2 diabetes and people living with obesity, but their carbon impact remains poorly characterised. We aimed to compare carbon footprint estimates for oral semaglutide (Rybelsus), a peptide-based medicine, generated using the medicine carbon footprint (MCF) framework and manufacturer-reported life cycle assessment (LCA) data.\nDESIGN AND SETTING: Comparative methodological analysis using cradle-to-gate boundaries to compare pharmaceutical carbon footprint estimates for oral semaglutide.\nMETHODS: Per-tablet MCF estimates for 3, 7 and 14 mg Rybelsus were annualised and compared with product-specific LCA results reported by Novo Nordisk. Differences between methods were assessed descriptively across the three dose strengths. Absolute differences and symmetric percentage differences were calculated.\nRESULTS: Annualised MCF estimates were 8.9, 20.0 and 39.3 kg CO₂e/year for 3, 7 and 14 mg tablets, respectively. Corresponding EU LCA estimates were 17.0, 25.2 and 39.9 kgCO₂e/year. The mean symmetric percentage difference was -29%, with the largest discrepancy observed at the 3 mg dose (-62.6%) and the smallest difference at the 14 mg dose (-1.5%).\nCONCLUSION: For oral semaglutide, MCF generated lower carbon footprint estimates than manufacturer-reported LCA values, particularly at lower doses, where fixed device/excipient and packaging emissions are proportionally larger. MCF offers a rapid, accessible and indicative estimation method when proprietary data are unavailable. Improved transparency and harmonised boundaries would strengthen comparability between pharmaceutical carbon footprint estimation approaches. These findings are specific to the Rybelsus formulation of oral semaglutide and may not be generalisable to other formulations or GLP-1 RAs.",
-      "journal": "BMJ open",
-      "authors": "Hansell Louise, Zhu Wandi, Lynch Michelle, Hocking S L, Celermajer David S, Sack Fabian",
-      "pub_date": "2026-09-24",
-      "doi": "10.1136/bmjopen-2026-124968",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42785932/",
-      "publication_types": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "mesh_terms": [
-        "Semaglutide",
-        "Glucagon-Like Peptides",
-        "Humans",
-        "Carbon Footprint",
-        "Hypoglycemic Agents",
-        "Administration, Oral",
-        "Diabetes Mellitus, Type 2",
-        "Drug Industry"
-      ],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "25d3d250c09cf128302643c10695c261bf71e0666c081b7f9499b3195e2772fd",
-      "fetched_at_utc": "2026-09-25T23:56:10Z",
-      "updated_at_utc": "2026-09-25T23:56:10Z",
-      "summary_ja": "経口セマグルチド（Rybelsus）の炭素フットプリントを、医薬品炭素フットプリント（MCF）フレームワークと製造メーカー（Novo Nordisk）が報告したライフサイクルアセスメント（LCA）データを用いて比較した方法論的比較分析である。3 mg、7 mg、14 mgの各錠剤について、cradle-to-gate境界で年間換算した炭素フットプリントを算出し、両手法間の差を記述的に評価した。",
-      "key_takeaway_ja": "MCFはメーカー報告LCA値よりも低い炭素フットプリント推定値を生成し、特に低用量（3 mg）で差が最大（対称パーセンテージ差-62.6%）であった。低用量では固定のデバイス・添加物・包装由来の排出が相対的に大きいためと考えられた。",
-      "why_matters_ja": "医薬品は医療分野の温室効果ガス排出の主要因であるが、製品レベルの炭素フットプリントはほとんど開示されていない。MCFはプロプライエタリデータが利用できない場合に迅速かつアクセス可能な推定手法を提供するが、手法間の比較可能性を高めるためには透明性の向上と境界の調和が必要である。",
-      "study_type_ja": "比較的方法論的分析（Comparative methodological analysis）",
-      "endpoints_ja": "経口セマグルチド（3 mg、7 mg、14 mg）の年間換算炭素フットプリント（kg CO₂e/年）をMCF法とメーカーLCA法で比較し、絶対差および対称パーセンテージ差を算出",
-      "endpoint_results_ja": "MCF年間推定値：3 mg 8.9 kg CO₂e/年、7 mg 20.0 kg CO₂e/年、14 mg 39.3 kg CO₂e/年。EU LCA推定値：3 mg 17.0 kg CO₂e/年、7 mg 25.2 kg CO₂e/年、14 mg 39.9 kg CO₂e/年。平均対称パーセンテージ差：-29%。最大差：3 mgで-62.6%。最小差：14 mgで-1.5%。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-25T23:58:23Z"
-    },
-    {
-      "pmid": "42785112",
-      "title": "Evoke (+) trials of semaglutide for early alzheimer's disease: Innovations, lessons, and implications.",
-      "abstract": "The evoke and evoke+ trials for the treatment of early Alzheimer's disease (AD) with semaglutide were founded on the observation that semaglutide reduced the incidence of dementia in patients with type 2 diabetes. Non-clinical investigations support an effect of semaglutide on AD pathology. The evoke and evoke+ trials were large, well conducted, and innovative. These trials were negative, showing no clinical benefit of treatment with 14 milligrams of semaglutide for two years. Semaglutide produced a statistically significant and robust reduction in high sensitivity C-reactive protein consistent with suppression of peripheral inflammation. There was no effect on most plasma measures collected. CSF analyses showed nominally significant effects on biomarkers of the core biology of AD; YKL-40 and glial fibrillary acidic protein in CSF were decreased indicating a reduction in astroglial activation. The magnitude of these changes was small (7%-10%) and there was no correlative effect on AD progression. The discrepancy between observations in real world data and the trial outcomes indicates that treatment of symptomatic AD confirmed with biomarkers differs from treatment of patients with diabetes who were cognitively unimpaired and at risk for all cause cognitive decline. The evoke and evoke+ trials suggest that reduction in peripheral inflammation may be insufficient to produce beneficial clinical effects in AD. The results of the evoke(+) trials do not exclude the possibility that AD populations enriched for elevated levels of markers of peripheral inflammation or use of brain penetrant GLP-1 RAs could produce therapeutic benefit.",
-      "journal": "The journal of prevention of Alzheimer's disease",
-      "authors": "Cummings Jeffrey L, Scheltens Philip",
-      "pub_date": "2026-09-24",
-      "doi": "10.1016/j.tjpad.2026.100677",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42785112/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "d4473a107fb0a83d4f0a50a2b3b5aa8655378ce4cad7522c07749a71f6cc511d",
-      "fetched_at_utc": "2026-09-25T23:56:10Z",
-      "updated_at_utc": "2026-09-25T23:56:10Z",
-      "summary_ja": "セマグルチドによる早期アルツハイマー病（AD）治療のEvokeおよびEvoke+試験は、2型糖尿病患者においてセマグルチドが認知症の発症を減少させたという観察に基づいて設計された。非臨床研究はセマグルチドのAD病態への効果を支持している。これらの試験は大規模で適切に実施され、革新的であったが、14mgのセマグルチドを2年間投与しても臨床的有益性は示されなかった（ネガティブ）。セマグルチドは末梢炎症の抑制と整合する高感度C反応性蛋白（hs-CRP）の統計的に有意かつ確実な減少を生じさせた。CSF解析では、ADのコア生物学のマーカーに名目上有意な効果が認められ、YKL-40とGFAPが減少しアストロサイト活性化の低下を示したが、変化の大きさは小さく（7%〜10%）、ADの進行との相関効果はなかった。",
-      "key_takeaway_ja": "セマグルチド14mgを2年間投与しても早期AD患者における臨床的有益性は示されず、末梢炎症の減少だけではADに対する有益な臨床効果を生み出すには不十分である可能性が示唆された。",
-      "why_matters_ja": "2型糖尿病患者における実世界データでの認知症発症減少と、対照試験でのネガティブ結果との乖離は、バイオマーカーで確認された症状性ADの治療と、認知機能に障害のない糖尿病患者の全原因認知機能低下リスクの治療とは異なることを示唆している。また、末梢炎症マーカーの上昇で富んだAD集団や脳移行性GLP-1受容体作動薬の使用が治療的有益性を生みうる可能性は排除されていない。",
-      "study_type_ja": "Review",
-      "endpoints_ja": "臨床的有益性（ADの進行）、高感度C反応性蛋白（hs-CRP）、CSF中のYKL-40、CSF中のGFAP（グリア線維酸性蛋白）、その他の血漿マーカー",
-      "endpoint_results_ja": "セマグルチド14mgを2年間投与し臨床的有益性は認められなかった。hs-CRPは統計的に有意かつ確実な減少。CSF中のYKL-40とGFAPは減少（変化の大きさは7%〜10%）し、ADの進行との相関効果はなかった。その他の血漿マーカーには効果が認められなかった。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-25T23:59:03Z"
-    },
-    {
-      "pmid": "42784582",
-      "title": "Cardiovascular outcomes associated With GLP-1 and dual GLP-1/GIP receptor agonists in patients with type 2 diabetes and inflammatory bowel disease: A retrospective real-world cohort study.",
-      "abstract": "INTRODUCTION: Individuals with co-morbid T2D and IBD represent a uniquely high-risk group, facing amplified cardiovascular risk through synergistic inflammatory and metabolic pathways, in whom conventional cardiometabolic strategies (such as dietary and lifestyle changes, weight loss, blood pressure and lipid optimization, metformin therapy, SGLT2 inhibitor therapy) may be insufficient due to the overlap between metabolic disease and chronic inflammatory disease processes. At present, the literature available on the role of incretin-based therapy in the treatment of T2D in patients with co-morbid IBD is limited. We aimed to evaluate the association of GLP-1 receptor agonists and dual GLP-1/GIP receptor agonists with cardiovascular outcomes in individuals with T2DM and IBD. This study is not intended as a direct comparison of the efficacy of GLP-1 agonists and dual GLP-1/GIP receptor agonists in patients with T2D and IBD. Both drug classes were analyzed as a combined incretin-based therapy exposure group to reflect real-world prescribing patterns and maximize statistical power.\nMETHODS: We conducted a retrospective cohort study using the TriNetX global federated research network, identifying adults (≥18 years) with T2D and IBD between 2015-2024. Patients prescribed GLP-1 or dual GLP-1/GIP were compared with non-users following 1:1 propensity score matching on demographics, comorbidities, and medication use. Relative risks (RR) and Hazard Ratios (HR) with 95% confidence intervals (CI) were calculated, with significance defined as p < 0.05.\nRESULTS: After matching 16,118 patients per cohort from among a total matched population of 32,236 patients, GLP-1 or GLP-1/GIP receptor agonist therapy was associated with lower hazard ratios across all outcomes, including myocardial infarction (HR 0.701, 95% CI 0.637-0.771), chronic ischemic heart disease (HR 0.936, 95% CI 0.896-0.978), heart failure (HR 0.777, 95% CI 0.737-0.820), atrial fibrillation/flutter (HR 0.838, 95% CI 0.788-0.890), sudden cardiac death (HR 0.694, 95% CI 0.605-0.795), ischemic stroke (HR 0.781, 95% CI 0.707-0.862), deep vein thrombosis (HR 0.642, 95% CI 0.586-0.702), and pulmonary embolism (HR 0.722, 95% CI 0.640-0.815).\nCONCLUSIONS: In patients with comorbid T2D and IBD, GLP-1 and GLP-1/GIP receptor agonists were associated with significant reductions in ischemic, arrhythmic, and thromboembolic cardiovascular outcomes. These findings highlight the potential role of incretin-based therapies in improving cardiovascular risk management in this high-risk population. However, the present study does not establish the comparative efficacy of the two classes of drugs in this patient population, and the findings may be associational rather than causal. Both drug classes were analyzed as a combined exposure group. Mechanistic explanations proposed in this paper should be considered hypothesis-generating rather than confirmed by the current observational study design.",
-      "journal": "PloS one",
-      "authors": "Kazi Muhammad Ali Ibrahim, Mufarrih Syed Musa, Sirohi Akanksha, Hasan Fahad, Sharma Akshay, Singh Sanmeet, Muganlinskaya Nargiz, Haq Nowreen",
-      "pub_date": "2026-09-24",
-      "doi": "10.1371/journal.pone.0358659",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42784582/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Diabetes Mellitus, Type 2",
-        "Inflammatory Bowel Diseases",
-        "Retrospective Studies",
-        "Glucagon-Like Peptide-1 Receptor Agonists",
-        "Female",
-        "Male",
-        "Middle Aged",
-        "Cardiovascular Diseases",
-        "Receptors, Gastrointestinal Hormone",
-        "Adult",
-        "Incretins",
-        "Aged",
-        "Hypoglycemic Agents",
-        "Glucagon-Like Peptide 1"
-      ],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "1f9f57f966a0f3413d169fb3a66a50778bcaaa047e0c2421b84f4681f94cafab",
-      "fetched_at_utc": "2026-09-25T23:56:10Z",
-      "updated_at_utc": "2026-09-25T23:56:10Z",
-      "summary_ja": "TriNetXグローバルフェデレーション研究ネットワークを用いた後方視コホート研究。2015〜2024年に2型糖尿病（T2D）と炎症性腸疾患（IBD）を併せ持つ成人（18歳以上）を対象に、GLP-1受容体作動薬またはGLP-1/GIP二重受容体作動薬の使用者と非使用者を1:1プロパティスコアマッチングで比較し、心血管アウトカムとの関連を評価した。",
-      "key_takeaway_ja": "T2DとIBDを併せ持つ患者において、GLP-1受容体作動薬およびGLP-1/GIP二重受容体作動薬の曝露は、虚血性、不整脈性、血栓塞栓性の心血管アウトカムの有意な減少と関連した。",
-      "why_matters_ja": "T2DとIBDの併存は、炎症性・代謝性経路の相乗効果により心血管リスクが増幅される独自のハイリスク群を形成するが、この集団におけるインクレチン系療法の役割に関する文献は限られていた。本研究は、このハイリスク集団における心血管リスク管理にインクレチン系療法が果たしうる潜在的役割を浮き彫りにしている。",
-      "study_type_ja": "後方視コホート研究（リアルワールド）",
-      "endpoints_ja": "心筋梗塞、慢性虚血性心疾患、心不全、心房細動/心房粗動、突然死（心原性）、虚血性脳卒中、深部静脈血栓症、肺塞栓症",
-      "endpoint_results_ja": "心筋梗塞: HR 0.701, 95% CI 0.637-0.771 / 慢性虚血性心疾患: HR 0.936, 95% CI 0.896-0.978 / 心不全: HR 0.777, 95% CI 0.737-0.820 / 心房細動/心房粗動: HR 0.838, 95% CI 0.788-0.890 / 突然死（心原性）: HR 0.694, 95% CI 0.605-0.795 / 虚血性脳卒中: HR 0.781, 95% CI 0.707-0.862 / 深部静脈血栓症: HR 0.642, 95% CI 0.586-0.702 / 肺塞栓症: HR 0.722, 95% CI 0.640-0.815",
-      "sample_size_ja": "コホートあたり16,118例（マッチング後総計32,236例）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-26T00:00:29Z"
-    },
-    {
-      "pmid": "42784230",
-      "title": "Ovarian fibrosis as a common mechanism of infertility.",
-      "abstract": "Female fertility has long been explained through observation of the ovarian follicle: the number of residing follicles and the quality of the oocyte. This review argues that the tissue surrounding those follicles involved in regulating cyclical ovarian remodelling is an additional contributor to female subfertility. Ovarian fibrosis, the accumulation of extracellular matrix with stromal stiffening and inflammation, was historically viewed as a passive consequence of aging or injury. Here, we present evidence that this phenomenon may be an active constraint on fertility, altering the biomechanical environment that manages follicle activation, ovulation, and oocyte quality. Although reproductive aging, premature ovarian insufficiency, polyendocrine metabolic ovarian syndrome, obesity, endometriosis, chronic psychological stress, and treatment/environment-induced ovarian injury have different underlying causes, all reach a similar fibrotic state. Strong causal evidence comes from in vitro hydrogel studies isolating stiffness from all other variables, where stiff matrices inhibit follicle growth, survival and quality. Despite this highly fibrotic morphology impacting maturation of follicles, pre-clinical and human studies have shown the efficacy of antifibrotic drugs in restoring follicular growth. Further, in early human trials, antifibrotic finerenone yields mature oocytes and embryos in women with premature ovarian insufficiency. While the current focus in standard infertility treatment aims to improve follicle and hormone health, fibrosis may be reversible and preventable, making it a candidate therapeutic target that could complement existing treatments. However, key gaps remain: no standardized measure of ovarian fibrosis, uncertain rodent-to-human translation, and no study linking fibrosis measurement to a fertility outcome in human patients.",
-      "journal": "Biology of reproduction",
-      "authors": "Aitken Caroline J, Landry David A",
-      "pub_date": "2026-09-24",
-      "doi": "10.1093/biolre/ioag214",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42784230/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "finerenone"
-      ],
-      "matched_companies": [
-        "Bayer"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "451f21d5fca0d261d1f7d2bc499a359e0bc6674919521e1cacad8a9d6342b577",
-      "fetched_at_utc": "2026-09-25T23:56:10Z",
-      "updated_at_utc": "2026-09-25T23:56:10Z",
-      "summary_ja": "卵胞周囲の組織（間質）の線維化（細胞外マトリックスの蓄積、間質の硬化、炎症）が、卵胞の活性化・排卵・卵子品質を管理する生力学的環境を変化させることで、女性不妊に能動的に寄与する共通メカニズムであるというレビュー。生殖加齢、卵巣機能不全、多内分泌代謝性卵巣症候群、肥満、子宮内膜症、慢性心理的ストレス、治療・環境由来の卵巣損傷など、異なる原因を持つ疾患がすべて類似の線維化状態に至ることを示唆。in vitroヒドロゲル研究、前臨床・ヒト研究、および早期ヒト試験（フィネレノン）の証拠を統合して論じる。",
-      "key_takeaway_ja": "卵巣線維化は可逆性・予防可能性を有し、既存の不妊治療を補完する治療ターゲットとなり得る。",
-      "why_matters_ja": "標準的な不妊治療は卵胞・ホルモン健康の改善に焦点を当てるが、線維化は多様な原因の不妊に共通する下流メカニズムであり、かつ可逆性があるため、新たな治療介入の機会を提供しうる。",
-      "study_type_ja": "レビュー",
-      "endpoints_ja": "卵胞の成長・生存・品質（in vitro）、成熟卵子・胚の獲得（早期ヒト試験）",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-26T00:00:47Z"
     }
   ]
 }
