@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-20T00:25:58Z",
+  "generated_at_utc": "2026-10-20T23:51:26Z",
   "items": [
     {
       "pmid": "42805503",
@@ -70,6 +70,70 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42900014",
+      "title": "Response to Comment on Ganeshalingam et al. Semaglutide Effects on Insulin Sensitivity and β-Cell Function in Patients With Schizophrenia, Prediabetes, and Obesity Treated With Second-Generation Antipsychotics: Findings From the HISTORI Trial, a 30-Week Randomized, Placebo-Controlled Trial With Semaglutide 1.0 mg Weekly.",
+      "abstract": "",
+      "journal": "Diabetes care",
+      "authors": "Ganeshalingam Ashok A, Uhrenholt Nicolai, Bilenberg Niels, Frystyk Jan",
+      "pub_date": "2026-10-20",
+      "doi": "10.2337/dci26-0050",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900014/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ba8e96b66922043e3941a454d412dc7e1473cb7904342d557746d3e0d87cf185",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42897102",
+      "title": "Food Noise in the Era of Incretin-Based Obesity Pharmacotherapy: Current Evidence, Clinical Implications and Research Priorities.",
+      "abstract": "",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Patoulias Dimitrios, Popovic Djordje S, Koufakis Theocharis",
+      "pub_date": "2026-10-19",
+      "doi": "10.1111/dom.71445",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897102/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "81ac61a788f7942948d2b20f39572b0e882bd047ee29852d1abf63a9397f5c62",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-20T23:50:18Z"
     },
     {
       "pmid": "42895644",
@@ -5184,91 +5248,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
       "summary_generated_at_utc": "2026-10-03T00:26:22Z"
-    },
-    {
-      "pmid": "42805130",
-      "title": "Real-world effectiveness of 6-month tirzepatide therapy on body weight and composition in adults with overweight and obesity.",
-      "abstract": "AIMS/HYPOTHESIS: Obesity drives cardiometabolic dysfunction and increases cardiovascular risk, with excess fat mass and impaired body composition playing a key role in metabolic outcomes. This clinical study aimed to evaluate the real-world effectiveness (RWE) of tirzepatide on body weight, body composition, and metabolic parameters in adults with obesity or overweight and at least one obesity-associated comorbidity.\nMETHODS: A 24-week retrospective observational analysis included 122 adults (80% women; mean age 44 ± 15 years) with overweight or obesity, and without diabetes. Participants received tirzepatide in combination with a standardized low-carbohydrate diet and tailored physical activity. Tirzepatide was initiated at a dose of 2.5 mg once weekly and increased to 5 mg after 4 weeks. Subsequent dose adjustments were individualized. Anthropometric measurements, bioelectrical impedance analysis and metabolic parameters were assessed at baseline and after 24 weeks.\nRESULTS: The mean dose of tirzepatide at the end of the study was 5.32 mg. In comparison to baseline, we found after 24 weeks an improvement in body weight (from 95 ± 20 to 80 ± 22 kg), BMI (from 35 ± 6 to 29 ± 7 kg/m2) waist circumference (from 109 ± 16 to 92 ± 12 cm) and waist-to-height ratio (from 0.66 ± 0.1 to 0.56 ± 0.1), all p < 0.001. Fat mass (FM) largely reduced by 35%, fat-free mass slightly decreased by 5% (p < 0.001 for both), while skeletal muscle mass was preserved (p = ns). Metabolic parameters were also improved, including HbA1c (from 5.5 ± 0.4% to 5.2 ± 0.1%, p = 0.007), fasting plasma glucose (from 93 ± 12 to 84 ± 9 mg/dL, p < 0.001), fasting insulin (from 17 ± 15 to 12 ± 9 μIU/mL, p = 0.002) and HOMA-IR (from 4.2 ± 4.7 to 2.5 ± 2.1, p = 0.001). Correlation analysis revealed that the reduction in FM was significantly associated with the reduction in both insulin (r = 0.498, p < 0.05) and HOMA-IR (r = 0.513, p < 0.05). Interestingly, the weight loss found in our real-world cohort after 24 weeks of tirzepatide therapy (-16%) was identical to that found in the SURMOUNT-1 trial but after 72 weeks.\nCONCLUSIONS: In this RWE study, 24 weeks of tirzepatide treatment led to significant improvement on body weight, BMI and fat mass, together with preservation of lean skeletal muscle mass, as well as improved glycemic control and insulin sensitivity. Our findings suggest that a comprehensive clinical approach to obesity in real-world settings may be more beneficial than what observed in clinical trials.",
-      "journal": "Journal of diabetes and its complications",
-      "authors": "Brancato Davide, Maggio Viviana, Vaccaro Francesca, Muratore Elena, Pirrello David, Cittadini Ettore, Patti Angelo Maria, Di Falco Felicia",
-      "pub_date": "2026-09-25",
-      "doi": "10.1016/j.jdiacomp.2026.109419",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42805130/",
-      "publication_types": [
-        "Journal Article",
-        "Observational Study"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Tirzepatide",
-        "Female",
-        "Adult",
-        "Body Composition",
-        "Male",
-        "Obesity",
-        "Retrospective Studies",
-        "Overweight",
-        "Middle Aged",
-        "Treatment Outcome",
-        "Body Weight",
-        "Weight Loss",
-        "Body Mass Index",
-        "Anti-Obesity Agents"
-      ],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "0f135585881aa344a82d25874c3d290421d72e784becae6c7f77c351893a6ded",
-      "fetched_at_utc": "2026-09-30T00:22:44Z",
-      "updated_at_utc": "2026-10-11T00:13:05Z",
-      "summary_ja": "肥満または過体重かつ少なくとも1つの肥満関連合併症を有する糖尿病患者でない成人122名（女性80%、平均年齢44±15歳）を対象に、tirzepatide（2.5 mg/週開始、4週後に5 mgへ増量、以降は個別調整）を標準化された低炭水化物食および個別化された身体活動と併用した24週間の後方視的観察研究。平均終了時用量は5.32 mg。ベースラインと24週後に人体計測、生体インピーダンス法による体組成、代謝パラメータを評価した。",
-      "key_takeaway_ja": "実臨床環境下での24週間のtirzepatide治療により、体重・BMI・脂肪量の有意な改善と骨格筋量の維持、血糖コントロールおよびインスリン感受性の改善が認められた。24週での体重減少率（-16%）はSURMOUNT-1試験の72週時点の値と同等であった。",
-      "why_matters_ja": "実臨床環境下での包括的な肥満治療アプローチ（tirzepatide＋食事療法＋運動療法）は、臨床試験で観察された効果よりも有益である可能性を示唆しており、RWE（実臨床有効性）の観点から重要な知見を提供する。",
-      "study_type_ja": "後方視的観察研究（実臨床有効性研究）",
-      "endpoints_ja": "体重、BMI、腹囲、ウエスト高身長比、脂肪量（FM）、除脂肪量（FFM）、骨格筋量、HbA1c、空腹時血糖、空腹時インスリン、HOMA-IR",
-      "endpoint_results_ja": "体重：95±20 kg → 80±22 kg（p<0.001）；BMI：35±6 kg/m² → 29±7 kg/m²（p<0.001）；腹囲：109±16 cm → 92±12 cm（p<0.001）；ウエスト高身長比：0.66±0.1 → 0.56±0.1（p<0.001）；脂肪量：35%減少（p<0.001）；除脂肪量：5%減少（p<0.001）；骨格筋量：維持（p=ns）；HbA1c：5.5±0.4% → 5.2±0.1%（p=0.007）；空腹時血糖：93±12 mg/dL → 84±9 mg/dL（p<0.001）；空腹時インスリン：17±15 μIU/mL → 12±9 μIU/mL（p=0.002）；HOMA-IR：4.2±4.7 → 2.5±2.1（p=0.001）；体重減少率：-16%",
-      "sample_size_ja": "122名",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-11T00:16:20Z"
-    },
-    {
-      "pmid": "42799419",
-      "title": "Recurrent Euglycemic Diabetic Ketoacidosis Weeks After SGLT2 Inhibitor Cessation: A Case Report.",
-      "abstract": "Euglycemic diabetic ketoacidosis (EDKA) is a complication of sodium-glucose cotransporter-2 (SGLT2) inhibitors that is being increasingly documented. It is challenging to diagnose, especially in critically ill patients because hyperglycemia is absent or mild. We report the case of a 71-year-old man with type 2 diabetes mellitus previously treated with dapagliflozin, which had been discontinued 2 weeks before presentation, who was admitted for tracheostomy and percutaneous endoscopic gastrostomy (PEG) placement in the context of a neurodegenerative disorder. On postoperative day 2, he was transferred to the intensive care unit (ICU) for aspiration pneumonia complicated by septic shock. He subsequently experienced recurrent episodes of high anion gap metabolic acidosis associated with positive ketonuria and relative euglycemia. The initial episode was interpreted as mixed septic lactic acidosis and SGLT2 inhibitor-associated EDKA, whereas later episodes were more consistent with isolated recurrent EDKA. Management consisted of treatment of the underlying septic shock, and repeated courses of fixed intravenous (IV) insulin infusions to close the anion gap while maintaining euglycemia. This case demonstrates the importance of suspecting EDKA, especially in critically ill patients on SGLT2 inhibitors who present with unexplained high anion gap metabolic acidosis, even when lactic acidosis is present. Early diagnosis and treatment are essential to prevent complications and relapse.",
-      "journal": "Case reports in endocrinology",
-      "authors": "Mansour Celine, Katrib Emile, Mansour Myriam, Fares Mirna",
-      "pub_date": "2026-09-25",
-      "doi": "10.1155/crie/9610048",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42799419/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "dapagliflozin"
-      ],
-      "matched_companies": [
-        "AstraZeneca"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "07cbcb9c20c160f8660572362edf57c84c0cfed8ef2cf414b285339df0a187be",
-      "fetched_at_utc": "2026-09-27T23:47:37Z",
-      "updated_at_utc": "2026-09-27T23:47:37Z",
-      "summary_ja": "SGLT2阻害薬（ダパグリフロジン）を2週間前に中止された71歳の2型糖尿病患者が、神経変性疾患に対する気管切開および経皮的内視鏡的胃瘻（PEG）造設術後に、誤嚥性肺炎合併敗血症性ショックでICUに転帰した。術後2日目に高アニオンギャップ代謝性アシドーシス、ケトン尿陽性、相対的血糖正常を伴う再発性エピソードを経験した。初期エピソードは敗血症性乳酸アシドーシスとSGLT2阻害薬関連EDKAの混合型と解釈され、その後のエピソードは単独の再発性EDKAとより一致した。管理は敗血症性ショックの治療と、血糖正常を維持しながらアニオンギャップを閉じるための反復的固定量IVインスリン持続静注であった。",
-      "key_takeaway_ja": "SGLT2阻害薬使用中の重症患者で、乳酸アシドーシスが併存していても、説明不能な高アニオンギャップ代謝性アシドーシスを呈する場合はEDKAを疑うことが重要であり、SGLT2阻害薬中止後も数週間後に再発し得る。",
-      "why_matters_ja": "EDKAは高血糖が欠如または軽度であるため診断が困難であり、特に重症患者では見逃されやすい。本症例はSGLT2阻害薬中止後数週間でEDKAが再発し得ることを示し、早期診断・治療が合併症や再発の予防に不可欠であることを強調している。",
-      "study_type_ja": "症例報告",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-27T23:49:11Z"
     }
   ]
 }

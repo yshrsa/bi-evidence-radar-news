@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-20T00:17:34Z",
+  "generated_at_utc": "2026-10-20T23:50:18Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,222 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42900175",
+      "title": "Finerenone: A Non-Steroidal Mineralocorticoid Receptor Antagonist and Its Emerging Role in Cardiovascular-Kidney-Metabolic Syndrome.",
+      "abstract": "Cardiovascular-kidney-metabolic (CKM) syndrome represents the interconnected pathophysiology of metabolic risk factors, chronic kidney disease (CKD), and cardiovascular disease, leading to multiorgan dysfunction and elevated adverse outcomes. Overactivation of the mineralocorticoid receptor (MR), via aldosterone-dependent and ligand-independent pathways, drives inflammation, fibrosis, and oxidative stress and facilitates CKM progression. Finerenone is a selective non-steroidal MR antagonist (nsMRA) that exhibits high MR affinity, has balanced cardiac and renal distribution, and minimal off-target steroidal effects, which make it mechanistically different from steroidal MRAs. Large phase 3 trials such as FIDELIO-DKD and FIGARO-DKD in type 2 diabetes with CKD, and FINEARTS-HF in heart failure (HF) with a left ventricular ejection fraction (LVEF) > 40%, demonstrated consistent cardiorenal benefits. The prespecified FINE-HEART pooled analysis showed finerenone reduced all-cause mortality (HR 0.91, 95% CI 0.84-0.99), HF hospitalizations (HR 0.83, 95% CI 0.75-0.92), and the kidney composite outcome (HR 0.80, 95% CI 0.72-0.90), with benefits consistent across CKM components and background therapies including sodium-glucose cotransporter 2 (SGLT2) inhibitors. Recent data from FIND-CKD extend utility to non-diabetic CKD. Various guidelines incorporate finerenone as an additive therapy for patients with persistent albuminuria on maximal renin-angiotensin system inhibition (RASi) + SGLT2i. This review summarizes the MR pathophysiology in CKM syndrome, compares the mechanisms of non-steroidal versus steroidal MRAs, synthesizes clinical trial evidence, safety, and guideline-directed place in therapy, addresses implementation barriers, including cost, and outlines future research directions. Finerenone may fill a critical gap in multimodal CKM management, enabling comprehensive pillar-based therapy to mitigate residual cardiorenal risk.",
+      "journal": "Journal of cardiovascular pharmacology",
+      "authors": "Fischer Kyle G, Beavers Craig J",
+      "pub_date": "2026-10-20",
+      "doi": "10.1097/FJC.0000000000001893",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900175/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4b73e5579b20e59a16bc2b8fff09bacf78ad0850b5fc64ba305a6f5397fde285",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42900014",
+      "title": "Response to Comment on Ganeshalingam et al. Semaglutide Effects on Insulin Sensitivity and β-Cell Function in Patients With Schizophrenia, Prediabetes, and Obesity Treated With Second-Generation Antipsychotics: Findings From the HISTORI Trial, a 30-Week Randomized, Placebo-Controlled Trial With Semaglutide 1.0 mg Weekly.",
+      "abstract": "",
+      "journal": "Diabetes care",
+      "authors": "Ganeshalingam Ashok A, Uhrenholt Nicolai, Bilenberg Niels, Frystyk Jan",
+      "pub_date": "2026-10-20",
+      "doi": "10.2337/dci26-0050",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900014/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ba8e96b66922043e3941a454d412dc7e1473cb7904342d557746d3e0d87cf185",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42897716",
+      "title": "Tirzepatide for Obstructive Sleep Apnea: Trial Evidence, Cardiometabolic Effects, and Implications for Cardiovascular Practice.",
+      "abstract": "Obstructive sleep apnea affects approximately one billion adults worldwide and is associated with hypertension, atrial fibrillation, heart failure, and stroke. Obesity is its dominant reversible cause, yet positive airway pressure therapy splints the pharyngeal airway without addressing the adiposity that narrows it, and randomized trials have not shown that it reduces cardiovascular events. In December 2024, the United States Food and Drug Administration approved tirzepatide, a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist, as the first drug for moderate-to-severe obstructive sleep apnea in adults with obesity. We summarize the pharmacology of tirzepatide and the anatomic basis by which weight reduction improves upper airway patency, notably reduction of tongue and parapharyngeal fat. We then review the SURMOUNT-OSA program: two parallel 52-week, double-blind, placebo-controlled phase 3 trials enrolling 469 adults with obesity and an apnea-hypopnea index of at least 15 events per hour, one conducted without positive airway pressure and one during established positive airway pressure use. Tirzepatide reduced the apnea-hypopnea index by an estimated 20.0 and 23.8 events per hour relative to placebo, with concurrent reductions in sleep apnea-specific hypoxic burden, body weight, systolic blood pressure, and high-sensitivity C-reactive protein.",
+      "journal": "Cardiology in review",
+      "authors": "Arslan Fatima Safi, Ahmad Rimsha, Frishman William H, Aronow Wilbert S",
+      "pub_date": "2026-10-20",
+      "doi": "10.1097/CRD.0000000000001504",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897716/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "6017c93ba332037f344f6ec697932032ba06269b49fe6877c3a107882844f5b7",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42897925",
+      "title": "Early Changes in Left Atrial Mechanics During Sodium-Glucose Cotransporter-2 Inhibitor Therapy in Heart Failure with Preserved Ejection Fraction.",
+      "abstract": "BACKGROUND: Conventional echocardiographic improvements after sodium-glucose cotransporter-2 (SGLT2) inhibitor therapy have been reported in heart failure with preserved ejection fraction (HFpEF), but data on novel composite indices of atrial mechanics, particularly the left atrial (LA) stiffness index and the left atrioventricular coupling index (LACI), remain poorly characterized. The authors evaluated early changes in conventional diastolic parameters and atrial mechanics following initiation of SGLT2 inhibitor therapy.\nMETHODS: In this prospective, single-center observational cohort study, patients with HFpEF in sinus rhythm who were naive to SGLT2 inhibitors received empagliflozin or dapagliflozin. Clinical assessment, laboratory testing, and comprehensive echocardiography were performed at baseline and after 3 months. Echocardiographic evaluation included LA reservoir and pump strain, the LA stiffness index (E/e'/LA reservoir strain), and LACI (minimum LA volume/LV end-diastolic volume ×100).\nRESULTS: Fifty patients completed follow-up (70% women; mean age, 63.9 ± 8.1 years). New York Health Association functional class improved and N-terminal pro-brain natriuretic peptide levels decreased significantly (347 [134.8-524.8] vs. 257 [161.3-427.5] pg/mL; P = .007). Left atrial volume index and E/e' decreased significantly (34.6 ± 5.5 to 32.6 ± 5.7 mL/m2 and 12.1 ± 3.2 to 9.8 ± 2.8, respectively; both P < .001). Left atrial reservoir and pump strain increased, whereas the LA stiffness index and LACI decreased significantly (all P < .001).\nCONCLUSIONS: In this prospective observational cohort of patients with HFpEF, initiation of SGLT2 inhibitor therapy was associated with early changes in conventional diastolic parameters and LA mechanics. Composite atrial indices, particularly the LA stiffness index and LACI, changed in parallel with established clinical and echocardiographic markers, suggesting that they may provide complementary information for monitoring early atrial remodeling during SGLT2 inhibitor therapy.",
+      "journal": "Anatolian journal of cardiology",
+      "authors": "Altun Selen Cansu, Özyüncü Nil, Akbulut Koyuncu İrem Müge, Tan Türkan Seda",
+      "pub_date": "2026-10-19",
+      "doi": "10.14744/AnatolJCardiol.2026.6899",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897925/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "e1d818fadf554e6135bb346ef8fe667e479ebeb46c2b7124525faaa44a8b1de5",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42897718",
+      "title": "Real-world observational study evaluating metabolic and kidney outcomes in patients living with chronic kidney disease and type 2 diabetes mellitus with obesity prescribed tirzepatide.",
+      "abstract": "BACKGROUND: Obesity and type 2 diabetes mellitus (T2DM) accelerate chronic kidney disease (CKD) progression. Tirzepatide, a dual glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) receptor agonist, has demonstrated metabolic and potential renoprotective benefits in clinical trials. There have been limited reports of the implications of prescribing tirzepatide in a real-world cohort of patients with advanced CKD.\nMETHODS: This observational study includes a multi-ethnic cohort of 62 adults with CKD stages 1-5 who initiated tirzepatide indicated for T2DM with concurrent obesity in a general nephrology clinic between June 2024 and October 2025. Patients were followed for a median of 21.4 weeks. Clinical outcomes including weight, glycated haemoglobin (HbA1c), estimated glomerular filtration rate (eGFR), urinary albumin-to-creatinine ratio (uACR), blood pressure, lipid profile and insulin requirements were collected.\nRESULTS: Tirzepatide significantly reduced median weight (103-100 kg; p < 0.0001), HbA1c (63 [7.9%] to 54 [7.1%] mmol/mol; p = 0.002) and uACR (111-44 mg/mmol; p = 0.008), while eGFR remained stable. Significant improvements were also observed in triglycerides, total cholesterol, LDL cholesterol and total daily insulin dose. Gastrointestinal symptoms and decreased serum bicarbonate were the most common adverse events.\nCONCLUSIONS: In this real-world, multi-ethnic cohort, including patients with advanced CKD, tirzepatide was associated with clinically meaningful improvements in weight, glycaemic control, albuminuria, lipid profile and insulin requirements without adversely affecting kidney function. The introduction of tirzepatide to patients with CKD should be guided by a multidisciplinary team.",
+      "journal": "Diabetic medicine : a journal of the British Diabetic Association",
+      "authors": "Carruthers Jack E, Ooi Xi Yan, Goodall Dawn, Reed Jo, Bedi Rachna, McGrath Adrian, Willicombe Michelle, Avari Parizad",
+      "pub_date": "2026-10-19",
+      "doi": "10.1111/dme.70500",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897718/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "9f517b2254e7748c1320fc32dd0ba3c6c5b8ae54a6a20272ce31ab066d64e84e",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42897121",
+      "title": "Real-World Semaglutide Initiation Behaviours in the United States: Impact on Early Treatment Discontinuation and on 1-Year Persistence.",
+      "abstract": "AIMS: Little is known about how glucagon-like peptide-1 receptor agonists (GLP-1RA) are initiated in real-world settings and whether prescribing behaviours in routine care contribute to the high discontinuation rates seen in practice. We examined prescribing behaviours for injectable semaglutide at treatment initiation and evaluated their impact on early medication discontinuation and on 1-year persistence among US adults.\nMATERIALS AND METHODS: Using MarketScan data (2018-2021), this retrospective cohort study identified US adults with diabetes and/or obesity on no prior incretin therapy starting injectable semaglutide. Initiating dose was categorized as low or high (≤ 0.5 and ≥ 1.0 mg/week, respectively); treatment status was followed for 12 months. Medication persistence was estimated using Kaplan-Meier analysis. Piecewise Cox proportional hazards regression assessed early discontinuation risk, logistic regression assessed the odds of high-dose initiation.\nRESULTS: Among this cohort of 48 658 adults, 14.5% were started on semaglutide using high doses. The off-label high-dose regimen was associated with decreased 1-year persistence (p = 0.01), and a 25% increase in early discontinuation risk (HR: 1.25, 95% CI: 1.17-1.34, p < 0.001) independently of age, obesity status, co-morbidity measures and cost. Odds of high-dose initiation were increased in the West and South (p < 0.001), for endocrinologists (p = 0.02), for patients who were male (p < 0.001), younger (p = 0.02), with obesity versus overweight (p = 0.002), and for treatment initiation in 2018 compared with 2019-2021 (p < 0.001).\nCONCLUSION: Initiation of injectable semaglutide therapy using high doses is common in real-world settings. High-dose initiation represents a modifiable risk factor for early medication discontinuation and decreased 1-year persistence.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Belalcazar L Maria, Gao Daoqi, Modi Saman, Meer Aima, Kuo Yong-Fang",
+      "pub_date": "2026-10-19",
+      "doi": "10.1111/dom.71448",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897121/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "892a5b9d22e717d96f0c8129ca266263242729d1bdc4740d376454f78fdfc458",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42897109",
+      "title": "Changes in Muscle Strength Following Semaglutide Treatment in Adults: A Systematic Review With Meta-Analysis of Handgrip Strength.",
+      "abstract": "AIMS: To systematically review and quantitatively synthesize within-group changes in skeletal muscle strength following semaglutide treatment in adults.\nMATERIALS AND METHODS: This PRISMA 2020 systematic review was registered in PROSPERO (CRD420251185935). MEDLINE, Embase, CENTRAL, LILACS and Google Scholar were searched through 20 August 2026, without language restrictions. Eligible studies included adults treated with semaglutide reporting quantitative skeletal muscle strength outcomes, including handgrip and knee extension strength. Randomized, non-randomized and uncontrolled before-after studies were included. The primary meta-analysis pooled within-group changes in handgrip strength from baseline to the longest available follow-up of semaglutide-only arms using a random-effects model. Knee extension strength was summarized descriptively.\nRESULTS: Sixteen reports represented eleven studies, all assessing handgrip strength; one small randomized trial also assessed knee extension strength. Ten studies (660 semaglutide-treated participants) contributed to the primary meta-analysis of uncontrolled within-group changes, showing a nonsignificant pooled handgrip strength change (-0.16 kgf; 95% confidence interval: -1.98 to 1.65), with substantial heterogeneity (I2 = 90.8%) and a 95% prediction interval from -5.96 to 5.63 kgf. Duration-stratified and sensitivity analyses were also nonsignificant. Individual study findings were heterogeneous. Certainty was very low.\nCONCLUSIONS: Available evidence is insufficient to determine whether semaglutide is associated with changes in handgrip strength because the principal synthesis was based on uncontrolled within-group changes, with very low certainty and significant heterogeneity. These findings do not establish strength preservation or a causal treatment effect. More robust comparative studies with standardized strength assessment and longer follow-up are needed.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Machado Luís Guilherme, Siedschlag Schmidt Pedro Henrique, Tasca Petroski Guido, Lopes Costa Geraldo Lucas, Vieira Dos Santos Ribeiro Letícia, Ramos Da Cruz João Victor, De Luca Canto Graziela, Hohl Alexandre",
+      "pub_date": "2026-10-19",
+      "doi": "10.1111/dom.71432",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897109/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f7a0d6d3c27e5aa52c1905bf20114c87f2f3f9300a2e8aa7e4eb10e7ca039d60",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42897102",
+      "title": "Food Noise in the Era of Incretin-Based Obesity Pharmacotherapy: Current Evidence, Clinical Implications and Research Priorities.",
+      "abstract": "",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Patoulias Dimitrios, Popovic Djordje S, Koufakis Theocharis",
+      "pub_date": "2026-10-19",
+      "doi": "10.1111/dom.71445",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897102/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "81ac61a788f7942948d2b20f39572b0e882bd047ee29852d1abf63a9397f5c62",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-20T23:50:18Z"
     },
     {
       "pmid": "42895644",
@@ -3181,6 +3397,38 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
       "summary_generated_at_utc": "2026-10-07T00:38:39Z"
+    },
+    {
+      "pmid": "42898736",
+      "title": "Endocrine determinants of MASLD: mechanisms and therapeutic targets.",
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) affects approximately 30% of adults worldwide, yet is still framed largely as a hepatological disorder despite being driven substantially by endocrine and metabolic dysfunction. This review proposes a unified endocrine framework organised around seven hormonal axes, presenting each in terms of molecular pathogenesis, clinical presentation, and therapeutic implications. Insulin resistance is the central driver, coupling chronic caloric excess to hepatic de novo lipogenesis through selective hepatic insulin resistance, although genetic variants in PNPLA3 and TM6SF2 can uncouple steatosis from metabolic risk. Adipose tissue dysfunction contributes through adipocyte senescence, adipokine imbalance, and inflammatory adipose-liver signalling. Reduced hepatic thyroid hormone sensitivity, even in euthyroid individuals, predicts steatosis and fibrosis and underpins the first approved liver-directed therapy. Gonadal steroids exert sexually dimorphic effects, with testosterone deficiency, menopausal oestrogen loss, and polycystic ovary syndrome representing distinct risk states. Glucocorticoid dysregulation is stage-dependent, shifting from enhanced hepatic cortisol clearance in steatosis to local amplification in steatohepatitis. The gut-liver-endocrine axis, encompassing incretin, bile acid, and fibroblast growth factor signalling, has proved the most therapeutically tractable. Reduced GH/IGF-1 signalling, whether from pituitary disease or obesity-induced functional suppression, promotes both steatosis and fibrogenesis. Biological sex and life-course influences spanning developmental programming and ageing further modify these determinants. Two agents, resmetirom and semaglutide, now have US FDA accelerated approval for noncirrhotic MASH with moderate-to-advanced fibrosis, supporting the principle that correcting axis-specific endocrine dysfunction can produce measurable hepatic benefit; however, both approvals are accelerated and await confirmatory outcome data, while others remain investigational. An endocrine framework offers both a coherent account of pathogenesis and a rational basis for biomarker-guided, phenotype-targeted therapy.",
+      "journal": "Frontiers in endocrinology",
+      "authors": "Chaturvedi Richa, Mathew Anu, Pradhan Aprajita, Goyal Monika, Sharma Monika, Kachroo Varsha, Agrawal Chhavi, Krishnamurthy Aishwarya",
+      "pub_date": "2026-10-05",
+      "doi": "10.3389/fendo.2026.1967494",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898736/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Fatty Liver",
+        "Insulin Resistance",
+        "Endocrine System"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "cb9fc6f78672ec0ca35a726cdafef0c2722dcfd78c96d83cb3b5357083901084",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z"
     },
     {
       "pmid": "42857284",
@@ -23537,6 +23785,66 @@
       "sample_size_ja": ""
     },
     {
+      "pmid": "42897592",
+      "title": "Efficacy and safety of mazdutide vs. dulaglutide in adults with type 2 diabetes: a systematic review and meta-analysis of randomized controlled trials.",
+      "abstract": "BACKGROUND: Type 2 diabetes mellitus (T2DM) is closely linked to obesity and carries a high risk of metabolic complications. While GLP-1 receptor agonists like dulaglutide improve blood sugar and support modest weight loss, many patients do not reach their treatment goals. Mazdutide, a dual GLP-1 and glucagon receptor agonist, may offer stronger metabolic benefits.\nOBJECTIVE: To compare the efficacy and safety of mazdutide versus dulaglutide in adults with T2DM.\nMETHODS: We systematically reviewed randomized controlled trials comparing mazdutide and dulaglutide. Primary outcomes included changes in HbA1c, body weight, and achievement of glycemic and weight-loss targets. Safety outcomes included treatment-emergent adverse events. Data were pooled using random-effects models, and evidence certainty was assessed using GRADE.\nRESULTS: Three trials met inclusion criteria. Mazdutide led to greater reductions in HbA1c (- 0.25%) and body weight (- 2.97 kg) compared with dulaglutide. Patients were more likely to achieve HbA1c < 7.0%, ≥ 5% weight loss, and the combined target of ≥ 5% weight loss with HbA1c < 7.0%. Fasting plasma glucose was numerically but not significantly improved. Mazdutide was associated with higher rates of gastrointestinal side effects and decreased appetite, with a non-significant numerical increase in hypoglycemia, while serious adverse events and discontinuations were similar between treatments. Glycemic and major weight outcomes were supported by high-certainty evidence; most safety outcomes were moderate-certainty.\nCONCLUSIONS: Mazdutide, based on evidence from three RCTs, provides preliminary evidence of meaningful improvements in blood sugar control and weight loss compared with dulaglutide, though with an increased risk of mostly manageable gastrointestinal effects; given the limited number of trials, these findings should be considered preliminary and supporting its potential role as a promising dual-action therapy for T2DM management, pending confirmation in larger, longer-term trials.",
+      "journal": "Diabetology & metabolic syndrome",
+      "authors": "Hassan Muhammad, Hussain Muhammad, Khan Saifullah, Azam Muhammad Tayyab, Shahid Zain Ul Abideen, Hannan Abdul, Khuhro Muhammad Mussawir, Bhagia Sahil",
+      "pub_date": "2026-07-24",
+      "doi": "10.1186/s13098-026-02248-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897592/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ca8b53f3ce34806259eaa298ac30dd163a85518c394fe70e9d15eb9c1cd8ce98",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42897521",
+      "title": "Current status of anti-obesity medications and performance, an EHR based survey.",
+      "abstract": "BACKGROUND: While randomized clinical trials (RCTs) establish the efficacy of anti-obesity medications (AOMs), their real-world effectiveness, inter-individual variability, and weight regain post discontinuation remain poorly characterized across diverse, large scale populations.\nMETHODS: Electronic health records with pharmacy dispensation of obesity or overweight individuals were retrieved from local UT-Physician and nationwide EPIC COSMOS databases. AOMs were analyzed for short to long-term effectiveness on obesity relevant metrics.\nRESULTS: From the two cohorts, 71,318 (11·7%) and 1 M (27·9%) individuals documented AOM exposures, respectively, with about 70% individuals experiencing more than one treatment session. Tirzepatide and Semaglutide outperformed other AOMs and were associated with up to 9·6[IQR:11]% and 6·2[IQR:11]% weight loss, respectively, and both improved blood pressure, HbA1c, and lipid profile. The median exposure durations were approximately 4·6 months for the two GLP-1/GIP AOMs, far short of the 72-week duration typically required for peak therapeutic benefit in RCTs. All AOMs showed substantial inter-individual variability in responses, regardless of exposure length. Substantial differences were found between RCT and real-world performance. For example, while Tirzepatide led both cohorts, nearly 50% and 25% of individuals didn't achieve the 10% and 5% weight loss target respectively, after a minimum 72 weeks exposure, highlighting a notable effectiveness gap. Critically, we identified that Metformin co-therapy acted as a modifier of the 'rebound effect,' significantly attenuating (median 1·9 - 2·6%, p < 0.0001) weight regain compared to semaglutide or tirzepatide monotherapy.\nCONCLUSION: Our findings confirm real-world AOM effectiveness and reveal challenges of the 'one-size-fits-all' approach of current pharmacotherapy. The marked inter-individual variability suggests that stratified, personalized pharmacotherapy is essential to transform transient weight loss into sustainable metabolic health.\nCLINICAL TRIAL: Not applicable.",
+      "journal": "BMC endocrine disorders",
+      "authors": "Ruan Xiaoyang, Li Rui, Wang Liwei, Lu Shuyu, Wen Andrew, Sameer Murali, Liu Hongfang",
+      "pub_date": "2026-07-24",
+      "doi": "10.1186/s12902-026-02423-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897521/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Anti-Obesity Agents",
+        "Obesity",
+        "Semaglutide",
+        "Tirzepatide",
+        "Electronic Health Records",
+        "Female",
+        "Male",
+        "Weight Loss",
+        "Glucagon-Like Peptides",
+        "Surveys and Questionnaires"
+      ],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "49dc8be2c967f179e074cc4d3d6fb9390e4eddc8a3e022db4d911390886bde3a",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
       "pmid": "42653643",
       "title": "Beyond Fat: Reframing MASLD Through Genetics, Clonal Biology, and Precision Hepatology.",
       "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) has traditionally been conceptualized as a predominantly metabolic disorder driven by obesity and insulin resistance. However, recent advances in human genetics have revealed a more complex picture that encompasses germline susceptibility variants, protective loss-of-function alleles, polygenic risk models, and somatic clonal evolution. Since the discovery of PNPLA3 (patatin-like phospholipase domain-containing 3) I148M, multiple loci-including TM6SF2, MBOAT7, GCKR, HSD17B13, MTARC1, GPAM, and CIDEB-have substantially expanded the mechanistic understanding of disease heterogeneity and hepatocellular vulnerability. Recent studies integrating partitioned polygenic risk scores and unsupervised phenotypic clustering suggest that MASLD may be organized into at least two predominant subtypes: a liver-specific subtype characterized by intrinsic hepatocellular susceptibility, and a cardiometabolic subtype associated with systemic metabolic dysfunction and increased cardiovascular risk. Analyses of cirrhotic liver tissue have, in turn, demonstrated somatic clonal expansion of hepatocytes harboring adaptive metabolic mutations, adding an evolutionary dimension to advanced disease. On this basis, we propose an integrated LS/CM/C framework encompassing liver-specific (LS), cardiometabolic (CM), and clonal (C) components. This model offers a conceptual structure that links germline genetics, metabolic heterogeneity, somatic adaptation, and emerging pharmacogenomic strategies. The recent development of genotype-directed therapies targeting PNPLA3 and HSD17B13, together with the approval of resmetirom and semaglutide, further supports the transition toward biologically stratified hepatology. Although prospective validation remains necessary, the convergence of genetics, clonal biology, and targeted therapeutics suggests that MASLD is moving toward an era of precision medicine.",
@@ -23919,6 +24227,31 @@
       "updated_at_utc": "2026-09-04T23:01:37Z"
     },
     {
+      "pmid": "42898280",
+      "title": "Impact of Empagliflozin on mRNA Levels of Cardiotrophin-1 and GDF-15 in Patients with Type 2 Diabetes and ST-Segment Elevation Myocardial Infarction Undergoing PCI: A Double-Blind Pilot Trial.",
+      "abstract": "INTRODUCTION: Given the proven cardiovascular benefits of Empagliflozin (EM), we aimed to investigate the effect of Empagliflozin on Cardiotrophin-1 (CTF-1) and growth differentiation factor-15 (GDF-15) expressions in circulating monocytes in type 2 diabetic patients after MI.\nMETHODS: This randomized, double-blind, placebo-controlled study included 33 patients referred to Ayatollah Mousavi Hospital in Zanjan between 5 of September to 25 of December, 2024. Eligible patients with type 2 diabetes and MI who underwent primary percutaneous coronary intervention (PCI) were randomly assigned (17:16) to receive either 10 mg of EMPA daily or placebo for 12 weeks. Target genes expression levels were quantified by real time PCR, and data were analyzed by SPSS version 26.\nRESULTS: Thirty-three patients were included in this study (mean age: 61.27±9.07, 66% male), mean diabetes duration was longer in intervention group (7.82±5.13) compared to placebo group (3.75±2.74), hypertension was the most common comorbidity (57%). CTF-1 expression in the intervention group was 0.3±0.28 and in placebo group was 5.66±6.52. GDF-15 expression in the intervention group was 0.198±0.22 and in placebo group was 1.66±1.04. EMPA significantly reduced expression of CTF-1 (13-fold) (P=0.003) and GDF-15 (7-fold) (P ˂ 0.0001). The CTF-1 and GDF-15 expression reduction were not associated with any other clinical variables. Significant reduction observed in LDL (P=0.045) and triglycerides (P=0.013) after intervention.\nCONCLUSION: EMPA significantly reduced the expression of CTF-1 and GDF-15 in type 2 diabetic, post MI patients, which are associated with atherosclerosis, and suggest that potential anti-atherosclerotic effect of EMPA mediated through modulation of GDF-15 and CTF-1 gene expression.",
+      "journal": "Journal of cardiovascular and thoracic research",
+      "authors": "Rastgoo Reza, Yousefi Ramandi Mahnaz, Ebrahimi Fereshteh, Madadi Reza, Khederlou Hamid, Ramazani Ali",
+      "pub_date": "2026-06-30",
+      "doi": "10.34172/jcvtr.33675",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898280/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "dfa38d5a4ae8c51f4001b9e18c0cd92df6a49659dc040a7bbc671b9d5c5f1de2",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
       "pmid": "42733526",
       "title": "Effects of Losartan, Empagliflozin, and Their Combination on Uric Acid Concentrations in People With Type 2 Diabetes.",
       "abstract": "",
@@ -24104,6 +24437,161 @@
       "content_sha256": "b6dba5843a8c835e69de355a5a761c8c0811f036d49cd7026b1ba11dc2053d5a",
       "fetched_at_utc": "2026-09-23T23:38:51Z",
       "updated_at_utc": "2026-09-23T23:38:51Z"
+    },
+    {
+      "pmid": "42899606",
+      "title": "Effectiveness of Weekly Semaglutide Treatment (0.5 or 1 mg) in Chilean Patients with Type 2 Diabetes Mellitus.",
+      "abstract": "UNLABELLED: Semaglutide is approved in Chile for the management of type 2 diabetes mellitus (T2DM), although it is generally not available in the public health system. Generating local evidence may aid in its incorporation into national guidelines and reduce the therapeutic gap with international standards.\nAIM: To evaluate the effectiveness and safety of adding weekly semaglutide to the standard treatment for T2DM in the public health system.\nMETHODS: A phase 4, multicenter, interventional study evaluated the weekly addition of 0.5 or 1 mg of subcutaneous semaglutide over 24 weeks, followed by a 5-week post-treatment monitoring period.\nRESULTS: n=104 (79.8% women; age: 58.3±9.3 years; 44.2% over 60 years of age; 35.6% with ≥1 complication of T2DM). Common comorbidities: hypertension: 71.2%; obesity: 71.2%; dyslipidemia: 51.9%. Most commonly used baseline treatments: metformin, 96.2%; NPH insulin, 65.4%; empagliflozin, 46.2%; regular insulin, 27.9%; insulin glargine, 22.1%; dapagliflozin, 21.2%. At 24 weeks, a reduction in glycosylated hemoglobin (HbA1c: 8.6±0.7% to 7±1%, difference: -1.6%), fasting blood glucose (160.3±49.3 to 133.7±54.8 mg/dL, difference: -26.2 mg/dL), and weight (89.3±20.2 to 85.3±20.4 kg; difference: -4 kg) were confirmed. Participants with HbA1c <7% increased from 0% to 56.4%. Thirty-one percent of patients receiving basal insulin reduced their dose (median: 6 IU). Gastrointestinal adverse events were the most frequent, consistent with the drug's safety profile.\nCONCLUSIONS: In people with inadequately controlled T2DM in the real world, the addition of a weekly dose of semaglutide was associated with improvement in HbA1c, fasting blood glucose, and weight, and a reduction in insulin dose, with an adequate safety profile. These results provide local evidence on the efficacy of semaglutide in improving various cardio-renal-metabolic risk factors in people with T2DM.",
+      "journal": "Revista medica de Chile",
+      "authors": "Estica Marcos, Godoy Gonzalo, Vargas Cecilia, Elgueta Karina, Gattini Francesca, Gutiérrez Vicente, Salort Perla",
+      "pub_date": "2026-01-01",
+      "doi": "10.4067/s0034-98872026000801150",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42899606/",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Clinical Trial, Phase IV"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Semaglutide",
+        "Female",
+        "Middle Aged",
+        "Glucagon-Like Peptides",
+        "Hypoglycemic Agents",
+        "Chile",
+        "Male",
+        "Treatment Outcome",
+        "Glycated Hemoglobin",
+        "Aged",
+        "Blood Glucose",
+        "Drug Administration Schedule",
+        "Time Factors"
+      ],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin",
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim",
+        "Novo Nordisk"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "8a1418cefd961bd244bc834136883f35e61a86e095298d82ddd63d56998c058d",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42896210",
+      "title": "The Cost-Effectiveness of Semaglutide and Tirzepatide for Patients With Knee Osteoarthritis and Obesity.",
+      "abstract": "",
+      "journal": "Annals of internal medicine",
+      "authors": "Smith Karen C, Losina Elena",
+      "pub_date": "2026-01-01",
+      "doi": "10.7326/ANNALS-26-02925",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896210/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3f28eda6fc7fb7153f2c55f364da1c56c0e1004b12e6f26cfc5e2827d9d70c9d",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42896209",
+      "title": "The Cost-Effectiveness of Semaglutide and Tirzepatide for Patients With Knee Osteoarthritis and Obesity.",
+      "abstract": "",
+      "journal": "Annals of internal medicine",
+      "authors": "Bubb Michael R",
+      "pub_date": "2026-01-01",
+      "doi": "10.7326/ANNALS-26-02923",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896209/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3f28eda6fc7fb7153f2c55f364da1c56c0e1004b12e6f26cfc5e2827d9d70c9d",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-20T23:50:18Z"
+    },
+    {
+      "pmid": "42896208",
+      "title": "The Cost-Effectiveness of Semaglutide and Tirzepatide for Patients With Knee Osteoarthritis and Obesity.",
+      "abstract": "",
+      "journal": "Annals of internal medicine",
+      "authors": "Wei Liangsheng, Zhang Yi, Yue Qiaoning, Zhang Xiguang",
+      "pub_date": "2026-01-01",
+      "doi": "10.7326/ANNALS-26-02922",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896208/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3f28eda6fc7fb7153f2c55f364da1c56c0e1004b12e6f26cfc5e2827d9d70c9d",
+      "fetched_at_utc": "2026-10-20T23:50:18Z",
+      "updated_at_utc": "2026-10-20T23:50:18Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-20T23:50:18Z"
     },
     {
       "pmid": "42895046",
