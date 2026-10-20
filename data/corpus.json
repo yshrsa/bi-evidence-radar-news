@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-18T23:05:40Z",
+  "generated_at_utc": "2026-10-20T00:17:34Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -72,6 +72,108 @@
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
     },
     {
+      "pmid": "42895644",
+      "title": "[Treatment of type 2 diabetes mellitus].",
+      "abstract": "Modern diabetology is undergoing a paradigm shift from glucose-centric management toward risk-adapted precision medicine. Differentiated phenotyping into clusters allows for the early identification of organ-specific risks. Pharmacotherapy now prioritizes cardiorenal protection using sodium-glucose cotransporter 2 (SGLT2) inhibitors, glucagon-like peptide‑1 (GLP-1) receptor agonists, and nonsteroidal mineralocorticoid receptor antagonists (nsMRAs; finerenone), which reduce vascular events beyond glycated hemoglobin (HbA1c) reduction alone. Technological innovations, such as continuous glucose monitoring (CGM), complement traditional markers with dynamic metrics such as time in range. A new, realistic therapeutic goal is metabolic remission, facilitated by potent incretin mimetics and early intervention during the prediabetes stage. The ultimate objective is the sustainable restoration of normoglycemia and the prevention of end-organ damage through a multifactorial, individualized approach.",
+      "journal": "Innere Medizin (Heidelberg, Germany)",
+      "authors": "Jumpertz von Schwartzenberg Reiner, Király Julia",
+      "pub_date": "2026-10-19",
+      "doi": "10.1007/s00108-026-02171-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895644/",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "159d9f634600e9588fe756578e094af3040b07bb94f580ff271f5f0cf6ab6c0a",
+      "fetched_at_utc": "2026-10-20T00:17:34Z",
+      "updated_at_utc": "2026-10-20T00:17:34Z",
+      "summary_ja": "現代の糖尿病学は、グルコース中心的管理からリスク適応型プレシジョン・メディシンへのパラダイムシフトを経験している。クラスタリングによるフェノタイピングで臓器特異的リスクを早期に同定し、SGLT2阻害薬、GLP-1受容体作動薬、非ステロイド性ミネラルコルチコイド受容体拮抗薬（フィネレノン）による心腎保護を優先する薬物療法が主流となっている。連続グルコースモニタリング（CGM）による動的指標（time in range）が従来の指標を補完し、インクレチン模倣薬と糖尿病予備群段階での早期介入により代謝寛解が現実的な治療目標として提唱されている。",
+      "key_takeaway_ja": "2型糖尿病の治療はHbA1c低下のみならず心腎保護を優先する方向へ転換しており、インクレチン模倣薬と早期介入による代謝寛解が新たな現実的な治療目標として位置づけられている。",
+      "why_matters_ja": "2型糖尿病の管理方針がグルコース中心から臓器保護・個別化医療へ転換しつつあることを示し、臨床現場での治療戦略の再考を促す。",
+      "study_type_ja": "総説",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:18:12Z"
+    },
+    {
+      "pmid": "42895615",
+      "title": "Antidiabetic medications in the pipeline.",
+      "abstract": "There is an extensive pipeline of therapies for diabetes mellitus. It has been known for the past three decades that obesity is a key pathophysiological player, involving inflammation, insulin resistance and metabolic dysfunction leading to type 2 diabetes and to significant cardiovascular, renal and hepatic complications, all central to the metabolic syndrome. On the basis of this knowledge and the disposition of drugs with multiple effects on different disease components, the diabetes therapeutic paradigm has shifted from merely glucocentric to multitargeted against these interconnected pathways.Much more recently, incretin-based multi-agonists have been developed that deliver unprecedented glycemic and weight benefits as well as weekly insulins and oral GLP-1 agonists that are able to reduce the burden of injectable therapies. An antibody-peptide conjugate that acts as a dual GLP-1/GIP receptor modulator has also shown promising results. Today, novel insulin sensitizers are modulating metabolic pathways towards higher energy expenditure with fewer side effects. Adjunctive agents for type 1 diabetes are improving glucose control while reducing hypoglycemia risk. Finally, drugs designed to restrain the inevitable muscle mass loss caused by antiobesity treatments are being tested. The diabetes pipeline is rich and there is hope that in the next few years, the therapeutic landscape will be further transformed with even more efficacious and individualized treatments.",
+      "journal": "Hormones (Athens, Greece)",
+      "authors": "Efstathiadou Zoe A, Gogakos Apostolos I, Divaris Efstathios, Kostopoulos Georgios, Makri Evangelia",
+      "pub_date": "2026-10-19",
+      "doi": "10.1007/s42000-026-00780-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895615/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3fc5eaf74499a0897d4c99337e09bee1b88c7a9aa7206d9c4822b65b054aeac4",
+      "fetched_at_utc": "2026-10-20T00:17:34Z",
+      "updated_at_utc": "2026-10-20T00:17:34Z",
+      "summary_ja": "糖尿病治療薬のパイプラインに関するレビュー論文。肥満が炎症・インスリン抵抗性・代謝異常を介して2型糖尿病および心血管・腎・肝臓合併症を引き起こす主要な病生理学的因子であることが30年以上前から知られており、この知見に基づき糖尿病治療のパラダイムは単なるグルコース中心から、相互に関連する経路に対するマルチターゲットアプローチへと移行した。インクリン系マルチアゴニスト、週1回インスリン、経口GLP-1アゴニスト、GLP-1/GIP受容体二重モジュレーターである抗体-ペプチド融合体、新規インスリン感受性改善薬、1型糖尿病の補助療法、抗肥満治療に伴う筋量減少を抑制する薬剤などが開発されている。",
+      "key_takeaway_ja": "糖尿病治療のパイプラインは豊富であり、グルコース中心からマルチターゲットアプローチへの転換が進んでおり、今後数年でより効果的で個別化された治療が実現する可能性がある。",
+      "why_matters_ja": "糖尿病治療の方向性が単一の血糖値低下から、肥満・炎症・代謝異常を含む複数の病態経路を同時に標的とするマルチターゲット戦略へと転換しており、心血管・腎・肝臓合併症を含むメタボリックシンドローム全体へのアプローチが期待される。",
+      "study_type_ja": "Review",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:18:40Z"
+    },
+    {
+      "pmid": "42894545",
+      "title": "Economic evaluation of tirzepatide, semaglutide, and liraglutide in the treatment of obese and overweight patients without diabetes: a short-term cost-effectiveness analysis in Iran.",
+      "abstract": "PURPOSE: GLP-1 and dual GLP-1/GIP receptor agonists have improved obesity treatment, but their high cost requires economic evaluation to guide resource allocation. To assess the short-term cost-effectiveness of subcutaneous tirzepatide, semaglutide, and liraglutide for treating adults with overweight or obesity without diabetes in Iran.\nMETHODS: A decision-tree model was developed to compare tirzepatide, semaglutide, and liraglutide over 68 weeks in adults aged ≥ 18 years with BMI ≥ 30 kg/m² or ≥ 27 kg/m² with at least one additional weight-related complication, excluding those with diabetes, from the payer perspective. Clinical effectiveness, adverse event (AE), and treatment discontinuation data were obtained from published literatures. Quality-adjusted life years (QALYs) were estimated based on BMI changes and AE-related disutility. Direct medical costs included drug acquisition and AE management costs. Deterministic and probabilistic sensitivity analyses were performed.\nRESULTS: Compared with semaglutide, tirzepatide generated greater health benefits but at higher costs, resulting in an incremental cost-effectiveness ratio of US$34,423.89/QALY. Liraglutide was dominated by semaglutide. Semaglutide was cost-effective at the Iranian willingness-to-pay threshold of US$ (Purchasing power parity (PPP) 15,558.5/QALY, equal to one time GDP per capita in 2026. Sensitivity analyses confirmed the robustness of the findings.\nCONCLUSION: Semaglutide was the cost-effective injectable GLP-1-based therapy in Iran. Although tirzepatide provided greater health benefits, its higher cost limited its cost-effectiveness at current prices.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40200-026-02114-z.",
+      "journal": "Journal of diabetes and metabolic disorders",
+      "authors": "Reiszadeh Negin, Radmanesh Ramin, Heshmat Ramin, Mohammadi Hamed, Darvishi Ali",
+      "pub_date": "2026-10-17",
+      "doi": "10.1007/s40200-026-02114-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894545/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3554b5cc2f59a41d8aeabf8f199ee61573e4dd1bd1ead960138caafeaf43442b",
+      "fetched_at_utc": "2026-10-20T00:17:34Z",
+      "updated_at_utc": "2026-10-20T00:17:34Z",
+      "summary_ja": "イランにおいて、糖尿病を伴わない過体重・肥満成人に対する皮下注射製剤（tirzepatide、semaglutide、liraglutide）の短期（68週間）コスト効果分析を、ペイヤー視点から決定木モデルを用いて実施した。臨床効果、有害事象、治療中断データは公開文献から取得し、QALYはBMI変化とAE関連のディスユーティリティに基づいて推定した。",
+      "key_takeaway_ja": "SemaglutideはイランのWTP閾値（US$15,558.5/QALY、PPP、2026年1人当たりGDPの1倍）においてコスト効果があった。Tirzepatideはsemaglutideより健康利益が大きいが高コストであり、ICERはUS$34,423.89/QALYであった。Liraglutideはsemaglutideに支配された。",
+      "why_matters_ja": "GLP-1受容体作動薬およびGLP-1/GIP二重受容体作動薬は肥満治療を改善しているが、その高コストにより資源配分を導くための経済評価が必要である。",
+      "study_type_ja": "コスト効果分析（決定木モデルを用いた経済評価）",
+      "endpoints_ja": "主要エンドポイント：増分コスト効果比（ICER/QALY）。その他：QALY、直接医療コスト（薬剤取得費＋AE管理費）、WTP閾値におけるコスト効果の判定。",
+      "endpoint_results_ja": "Tirzepatide vs semaglutideのICER：US$34,423.89/QALY。Liraglutideはsemaglutideに支配された。SemaglutideはイランのWTP閾値（US$15,558.5/QALY、PPP、2026年1人当たりGDPの1倍）においてコスト効果があった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:19:44Z"
+    },
+    {
       "pmid": "42892524",
       "title": "Dapagliflozin alleviates CYH33-induced hyperglycemia and preserves antitumor immunity against ovarian cancer in type 1 diabetic mice.",
       "abstract": "PI3K is frequently hyperactivated in ovarian cancer and has emerged as a promising therapeutic target. CYH33 is a novel PI3Kα-selective inhibitor that has been approved in Japan for the treatment of ovarian clear cell carcinoma harboring PIK3CA mutations. However, its on-target adverse effect of hyperglycemia limits its clinical application, particularly in patients susceptible to diabetes, underscoring the urgent need to optimize therapeutic strategies to improve both safety and efficacy. In this study, we employed an ID8 syngeneic murine ovarian cancer model and demonstrated that CYH33 significantly inhibited tumor growth with a modest effect on glucose homeostasis. We then established mouse models of type 1 (T1D) and type 2 diabetes (T2D) to expose hyperglycemia induced by PI3K inhibition and identified that dapagliflozin effectively alleviated CYH33-induced hyperglycemia while preserving its antitumor activity in T1D mice. Mechanistically, the combination of CYH33 and dapagliflozin may improve the immunosuppressive tumor microenvironment in T1D mice, as evidenced by upregulation gene sets involved in interferon-α and interferon-γ response, as well as significantly enhanced infiltration of CD8+ T-cell in ID8 tumors. Furthermore, this combination synergized with anti-PD-1 antibody to further enhance antitumor efficacy. These findings provide a potential strategy for optimizing the clinical use of PI3K inhibitors and shed light on metabolic interventions to modulate tumor immune microenvironment.",
@@ -94,7 +196,16 @@
       "japan_relevant": true,
       "content_sha256": "16bd31c5c7fa83758d4e83408e88c2701723ce45456a402146a558192e7c4685",
       "fetched_at_utc": "2026-10-18T23:05:40Z",
-      "updated_at_utc": "2026-10-18T23:05:40Z"
+      "updated_at_utc": "2026-10-18T23:05:40Z",
+      "summary_ja": "本研究は、ID8同種マウス卵巣がんモデルを用い、PI3Kα選択的阻害薬CYH33が腫瘍増殖を有意に抑制し、血糖恒常性への影響は modest であることを示した。次に、1型糖尿病（T1D）および2型糖尿病（T2D）マウスモデルを確立し、PI3K阻害による高血糖を再現した。T1Dマウスにおいて、ダパグリフロジンがCYH33誘発性高血糖を効果的に軽減しつつ抗腫瘍活性を維持することを明らかにした。機能的には、CYH33とダパグリフロジンの併用がT1Dマウスの免疫抑制性腫瘍微小環境を改善し、インターフェロン-αおよびインターフェロン-γ応答関連遺伝子セットの上調とID8腫瘍におけるCD8+ T細胞浸潤の有意な増加が認められた。さらに、この併用は抗PD-1抗体と相乗的に抗腫瘍効果をさらに増強した。",
+      "key_takeaway_ja": "ダパグリフロジンは、1型糖尿病マウスにおいてCYH33誘発性高血糖を軽減しつつ抗腫瘍免疫を維持し、抗PD-1抗体との併用により抗腫瘍効果を相乗的に増強する。",
+      "why_matters_ja": "CYH33は日本においてPIK3CA変異を有する卵巣明細胞癌の治療に承認されているが、高血糖というオンターゲット有害事象が臨床応用を制限している。本結果は、PI3K阻害薬の臨床使用を最適化し、代謝介入による腫瘍免疫微小環境の調節を示す新たな戦略を提供する。",
+      "study_type_ja": "前臨床（マウスモデル）研究",
+      "endpoints_ja": "腫瘍増殖、血糖恒常性（高血糖）、腫瘍微小環境（インターフェロン-α/γ応答関連遺伝子セット、CD8+ T細胞浸潤）、抗腫瘍効果（抗PD-1抗体併用時）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:21:21Z"
     },
     {
       "pmid": "42892471",
@@ -817,6 +928,40 @@
       "summary_generated_at_utc": "2026-10-15T23:41:44Z"
     },
     {
+      "pmid": "42895156",
+      "title": "Cost-effectiveness of Empagliflozin in Chronic Heart Failure: A Markov Model-based Analysis in Uzbekistan.",
+      "abstract": "INTRODUCTION: Chronic Heart Failure (CHF) is a major public health challenge associated with high morbidity, mortality, and healthcare costs. Empagliflozin has demonstrated clinical benefits across the spectrum of heart failure; however, evidence on its economic value in low- and middle-income countries remains limited. To evaluate the cost-effectiveness of adding empagliflozin to standard therapy for patients with chronic heart failure from the perspective of the healthcare payer.\nMATERIALS AND METHODS: A cohort-based Markov model with a 3-month cycle length and a 20- year time horizon was developed to simulate disease progression in CHF. Health states included no complications, cardiovascular complications, renal complications, and death. Outcomes were measured in Life Years (LYs), Quality-Adjusted Life Years (QALYs), total costs, and Incremental Cost-Effectiveness Ratios (ICERs). Both deterministic and probabilistic sensitivity analyses were conducted.\nRESULTS: Quality-adjusted life expectancy increased from 11.595 to 12.224 QALYs. Total discounted costs were 48,133,588 UZS for empagliflozin versus 43,261,361 UZS for standard therapy. The Incremental Cost-Effectiveness Ratio (ICER) was 7,738,951 UZS per QALY gained, which was substantially below the national willingness-to-pay threshold of 141.6 million UZS.\nDISCUSSIONS: Since the ICER for empagliflozin compared with placebo is substantially lower than the calculated willingness-to-pay threshold, empagliflozin can be considered a costeffective treatment option.\nCONCLUSIONS: Adding empagliflozin to standard therapy for CHF is a cost-effective intervention in the Republic of Uzbekistan and provides meaningful clinical and economic benefits.",
+      "journal": "Cardiovascular & hematological disorders drug targets",
+      "authors": "Sultanbayeva Nargiza, Umarova Shakhnoz, Iskandarova Shokhista, Mullabaeva Guzal, Mukhamedova Shohista",
+      "pub_date": "2026-10-14",
+      "doi": "10.2174/011871529X495679261009064725",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895156/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "f5e04dc25013c01ce5cb4826ccbc8115bfa015b5234625f8434f2f3a78a71f16",
+      "fetched_at_utc": "2026-10-20T00:17:34Z",
+      "updated_at_utc": "2026-10-20T00:17:34Z",
+      "summary_ja": "ウズベキスタンにおける慢性心不全患者に対する標準療法へのエンパグリフロジンの追加投与の費用対効果を評価するため、コホートベースのMarkovモデル（3ヶ月サイクル、20年ホライズン）を用いた分析を行った。健康状態は合併症なし、心血管合併症、腎合併症、死亡の4状態を想定し、決定論的および確率的感度分析を実施した。",
+      "key_takeaway_ja": "エンパグリフロジンのICERは7,738,951 UZS/QALYであり、国内のWTP閾値（141.6百万UZS）を大きく下回っており、ウズベキスタンにおいて費用対効果のある治療選択肢と判断された。",
+      "why_matters_ja": "低・中所得国におけるエンパグリフロジンの経済的価値に関するエビデンスが限られていた中、ウズベキスタンの医療保険者視点での費用対効果を定量的に示し、同国における治療方針決定に資する。",
+      "study_type_ja": "Markovモデルに基づく費用対効果分析（薬物経済学モデル）",
+      "endpoints_ja": "QALYs、総コスト、ICER",
+      "endpoint_results_ja": "QALYs: 11.595 → 12.224、総割引コスト: エンパグリフロジン群 48,133,588 UZS vs 標準療法群 43,261,361 UZS、ICER: 7,738,951 UZS/QALY",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:22:15Z"
+    },
+    {
       "pmid": "42875827",
       "title": "Real-World Treatment Patterns and Weight Outcomes Before and After a Tirzepatide Price Increase in Over One Million Self-Paying UK Adults With Overweight or Obesity.",
       "abstract": "AIMS: Glucagon-like peptide-1 (GLP-1) receptor agonist-based medicines are highly effective treatments for overweight and obesity, but population-scale real-world evidence remains limited, particularly in self-funded settings where treatment choice may be influenced by relative price. We aimed to characterise provider reach and treatment patterns through a large United Kingdom (UK) telehealth provider, assess changes around the September 2025 tirzepatide list-price increase of up to 170%, and estimate longitudinal weight trajectories.\nMATERIALS AND METHODS: A retrospective cohort study of adults initiating semaglutide or tirzepatide through MedExpress from 1 May 2024 to 1 January 2026 was conducted. Treatment initiation and switching were analysed using segmented interrupted time-series models, with sensitivity analyses addressing anticipatory changes in August 2025. Weight trajectories were estimated using linear mixed-effects models.\nRESULTS: Among 1 033 522 adults, 932 659 (90.2%) initiated tirzepatide and 100 863 (9.8%) semaglutide; provider reach was higher among women than men. In September 2025, semaglutide initiation increased by 31.15 percentage points (95% CI: 26.07-36.24) relative to the projected pre-interruption trend. Tirzepatide-to-semaglutide switching increased by 9.26 percentage points (95% CI: 7.09-11.42) and subsequently attenuated. Sensitivity analyses supported anticipatory changes in August. At 12 months, estimated weight loss was 19.93% with tirzepatide (95% CI: 19.88-19.98; n = 30 763) and 16.40% with semaglutide (95% CI: 16.16-16.64; n = 979).\nCONCLUSIONS: A single UK telehealth provider achieved substantial reach among adults with overweight or obesity. Treatment initiation and switching changed markedly around the tirzepatide price increase. Substantial longitudinal weight loss was observed among patients contributing follow-up in the context of limited adjunctive lifestyle support.",
@@ -1039,7 +1184,16 @@
       "japan_relevant": false,
       "content_sha256": "254a248baef1dcf9d662491381a0f334ab4d6054437444b43e07df867a394b31",
       "fetched_at_utc": "2026-10-14T23:53:41Z",
-      "updated_at_utc": "2026-10-14T23:53:41Z"
+      "updated_at_utc": "2026-10-14T23:53:41Z",
+      "summary_ja": "GLP-1受容体作動薬（GLP-1 RA）が既往に急性膵炎を有する患者における再発性急性膵炎（RAP）のリスクに与える影響を評価した系統的レビュー。4研究（10,624例）を含む。GLP-1 RAの使用はRAPの増加とは関連しなかったが、比較エビデンスは2研究に限定され、慎重な解釈が必要と結論された。",
+      "key_takeaway_ja": "既往に急性膵炎を有する患者において、GLP-1受容体作動薬の使用は再発性急性膵炎の増加とは関連しなかった。ただし比較エビデンスは2研究に限定されるため、慎重な解釈が求められる。",
+      "why_matters_ja": "GLP-1受容体作動薬は2型糖尿病や肥満の患者に広く使用されているが、既往膵炎患者における安全性は不確実であった。本レビューは、この集団でのGLP-1 RA使用の安全性に関する臨床的判断を支援するエビデンスを提供する。",
+      "study_type_ja": "系統的レビュー",
+      "endpoints_ja": "主要アウトカム：再発性急性膵炎（recurrent acute pancreatitis）",
+      "endpoint_results_ja": "GLP-1 RA使用はプラセボと比較して再発性急性膵炎のオッズが低かった（OR 0.26, 95% CI 0.05-1.32）。SGLT2阻害薬と比較してもリスクが低かった（OR 0.57, 95% CI 0.52-0.64）。GLP-1 RA使用者における再発率は9.9%（95% CI 5.8%-16.3%）および11.9%（95% CI 5.1%-25.8%）と報告された。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:23:14Z"
     },
     {
       "pmid": "42873199",
@@ -1064,7 +1218,16 @@
       "japan_relevant": false,
       "content_sha256": "115b0fccb8632771a7a880c57d57260d67019bc02db0ea81b451dc07f82373ad",
       "fetched_at_utc": "2026-10-14T23:53:41Z",
-      "updated_at_utc": "2026-10-14T23:53:41Z"
+      "updated_at_utc": "2026-10-14T23:53:41Z",
+      "summary_ja": "GLP-1受容体作動薬（GLP-1RA）は世界で最も急速に成長している薬剤クラスの一つであり、肥満治療への処方数は2019年から2024年にかけて587%増加した。前臨床証拠では、歯周組織およびインプラント周囲組織に対する抗炎症・骨保護効果が一貫して示されているが、これらはすべてin vitroおよび動物実験に基づくものであり、臨床データは単一の後ろ向きコホート研究のみである。一方、薬物警戒分析に基づき、特にセマグルチドにおいて口渇、味覚異常、嗅覚障害などの口腔内有害事象が報告されている。消化管副作用（悪心15〜50%、嘔吐5〜24%、胃食道逆流）は歯の侵蝕および二次う蝕に対するリスクを推測させるが、定量化はされていない。GLP-1シグナルと口腔内微生物叢の双方向的関連も複雑さを加えている。本批判的評価は、複数の歯科分野にわたる証拠を統合し、各領域で評価を行い、緊急の調査を要するギャップを特定している。",
+      "key_takeaway_ja": "GLP-1RAの歯周・インプラント周囲組織に対する前臨床的有益性は示されているが、臨床証拠は極めて限定的であり、GLP-1RA投与患者において歯科アウトカムをエンドポイントとした前向き研究は1件も存在しない。また、口腔内有害事象（口渇、味覚異常、嗅覚障害）や消化管副作用による歯の侵蝕リスクも懸念される。",
+      "why_matters_ja": "GLP-1RAは肥満治療への処方数が2019年から2024年にかけて587%増加するほど急速に普及しており、歯科臨床においてこれらの薬剤の口腔健康への影響を理解することは、患者管理の観点から重要である。",
+      "study_type_ja": "批判的評価（ナラティブレビュー）",
+      "endpoints_ja": "歯周組織の骨代謝（骨芽細胞分化、歯槽骨吸収）、インプラントの骨結合、口腔内有害事象（口渇、味覚異常、嗅覚障害）、消化管副作用（悪心、嘔吐、胃食道逆流）、歯の侵蝕、二次う蝕、口腔内微生物叢との関連",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:24:21Z"
     },
     {
       "pmid": "42870759",
@@ -1103,7 +1266,16 @@
       "japan_relevant": false,
       "content_sha256": "152bbaec5b007e4bbac6e1aa53ed1d24855bd9c72704959b624cb0d422e360bc",
       "fetched_at_utc": "2026-10-14T23:53:41Z",
-      "updated_at_utc": "2026-10-14T23:53:41Z"
+      "updated_at_utc": "2026-10-14T23:53:41Z",
+      "summary_ja": "GLP-1およびGLP-1受容体単独作動薬（GLP-1RA）が動物モデルにおける報酬処理に与える影響を評価した前臨床研究の系統的レビュー。Web of Science、OVID（MedLINE、Embase、PsycInfo）、PubMedから2026年6月28日までに公開された研究を収集し、食物関連・薬物関連・性的報酬機能に関する前臨床研究66件を含む。結果として、GLP-1およびGLP-1RAは食物関連、薬物関連、性的報酬行動に影響を与える傾向が示された。",
+      "key_takeaway_ja": "GLP-1およびGLP-1RAの投与により、動物モデルにおいて食物・薬物・性的報酬関連行動が減少する傾向が示され、快楽機能障害を特徴とする精神疾患へのGLP-1RA応用の根拠が提供された。",
+      "why_matters_ja": "GLP-1RAは現在2型糖尿病の治療に使用されているが、本レビューは報酬処理への前臨床的エビデンスを体系的に統合し、快楽機能・行動の障害を特徴とする精神疾患に対するGLP-1RAの治療戦略としての評価を促す根拠を提供する。",
+      "study_type_ja": "前臨床（動物モデル）研究の系統的レビュー",
+      "endpoints_ja": "食物関連報酬行動、薬物関連報酬行動、性的報酬行動",
+      "endpoint_results_ja": "Exenatide（選択脳領域への局所投与）：物質使用、食物探索、性的行動の減少（p < 0.05）。Liraglutide：物質関連および食物関連報酬の減弱（p < 0.05）。Semaglutide：物質およびスクロース摂取の減少（p値は抄録に記載なし）。Dulaglutide：物質摂取の減少（p < 0.001）。",
+      "sample_size_ja": "66件の研究を含む（動物の総頭数は抄録に記載なし）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-20T00:25:54Z"
     },
     {
       "pmid": "42870732",
@@ -23932,6 +24104,45 @@
       "content_sha256": "b6dba5843a8c835e69de355a5a761c8c0811f036d49cd7026b1ba11dc2053d5a",
       "fetched_at_utc": "2026-09-23T23:38:51Z",
       "updated_at_utc": "2026-09-23T23:38:51Z"
+    },
+    {
+      "pmid": "42895046",
+      "title": "Chronic kidney disease as a systemic disorder: filtration phenotypes, inflammation and cardiovascular risk in the cardio-kidney metabolic era.",
+      "abstract": "Chronic kidney disease (CKD) is increasingly recognized as a systemic disorder driven by metabolic dysfunction, vascular injury, inflammation, and emerging filtration phenotypes. In the cardio-kidney-metabolic (CKM) era, renal biomarkers such as estimated glomerular filtration rate (eGFR) and albuminuria provide essential insight into early metabolic-renal stress and cardiovascular (CV) vulnerability. This narrative review synthesizes contemporary evidence linking CKD to cardiovascular disease (CVD), emphasizing the multidimensional interactions among filtration impairment, glomerular barrier injury, metabolic dysfunction, and inflammatory pathways. Novel filtration phenotypes defined through creatinine-cystatin C (Cr-CysC) eGFR (including glomerular hyperfiltration and selective hypofiltration) highlight the limitations of classical staging and underscore the need for refined risk assessment. The integration of kidney markers into the AHA PREVENT equations represents a major advance, enabling absolute CVD risk estimation across the CKM continuum. Simulation-based analyses of 5000 virtual patients visually demonstrate the nonlinear and synergistic effects of eGFR, albuminuria, age, hypertension, diabetes, and lipid abnormalities on CV risk. Furthermore, disease-modifying therapies such as SGLT2 inhibitors, finerenone, GLP-1 receptor agonists, and anti-obesity interventions provide multisystem benefits that align with CKM pathophysiology. Together, these developments support a unified, continuum-based approach to CKD detection, risk stratification, and prevention, positioning CKD as a central driver of long-term CV outcomes.",
+      "journal": "Panminerva medica",
+      "authors": "Valtuille Rodolfo A, Fernandez Elmer A",
+      "pub_date": "2026-01-01",
+      "doi": "10.23736/S0031-0808.26.05449-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895046/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cardiovascular Diseases",
+        "Inflammation",
+        "Renal Insufficiency, Chronic",
+        "Glomerular Filtration Rate",
+        "Phenotype",
+        "Risk Factors",
+        "Biomarkers",
+        "Heart Disease Risk Factors",
+        "Albuminuria",
+        "Risk Assessment",
+        "Kidney"
+      ],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "144cd4e3b94592c8a915ae845d06a9179bd9f00fc529bcde7cd017aa87c6c91a",
+      "fetched_at_utc": "2026-10-20T00:17:34Z",
+      "updated_at_utc": "2026-10-20T00:17:34Z"
     },
     {
       "pmid": "42880294",
