@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-21T23:59:02Z",
+  "generated_at_utc": "2026-10-22T23:58:05Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -106,6 +106,33 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-21T23:59:31Z"
+    },
+    {
+      "pmid": "42901597",
+      "title": "Adverse oral effects of GLP-1 and GIP receptor agonists: a scoping review protocol.",
+      "abstract": "INTRODUCTION: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) and dual incretin receptor agonists such as glucagon-like peptide-1 (GLP-1)/glucose-dependent insulinotropic polypeptide (GIP) are increasingly being prescribed for type 2 diabetes and obesity due to their efficacy in glycaemic control, weight loss and cardiovascular risk reduction. Emerging pharmacovigilance data suggest potential oral adverse effects, including xerostomia, dysgeusia, oral hypoesthesia and throat discomfort. Therefore, alterations in salivary function may compromise oral homeostasis and increase susceptibility to dental caries, periodontal inflammation and mucosal irritation. Additionally, metabolic and inflammatory changes mediated by GLP-1 and GIP may indirectly affect oral tissues. However, current evidence remains limited and inconsistently reported. Further research is needed to investigate the prevalence, underlying mechanisms and clinical significance of oral manifestations associated with GLP-1RA and GLP-1/GIP dual receptor agonist medications, as well as to explore the need for individualised management strategies and more frequent monitoring for patients receiving these therapies.\nMETHODS AND ANALYSIS: This protocol describes the methodology for a future scoping review to be conducted in accordance with the JBI reporting guidelines. Studies addressing incretin-based medications and their implications for oral health will be eligible for inclusion in the review, with no restrictions on language or publication date. The following databases will be searched: Cochrane, LILACS, PubMed/MEDLINE, Scopus and Web of Science. Additional literature will be identified through Google Scholar and ProQuest Dissertations & Theses Global. The snowballing technique and consultation with experts in the field will be used to identify additional relevant studies. The findings will be presented through a narrative synthesis, supported by tables, graphs and maps. When data are available, exploratory comparisons will be performed according to therapeutic indication (type 2 diabetes or obesity) and pharmacological class (GLP-1RAs and GLP-1/GIP dual receptor agonists), with particular attention to tirzepatide and other incretin-based agents, to explore potential differences in reported oral manifestations. In particular, studies involving different GLP-1RA and GLP-1/GIP dual receptor agonists agents (eg, semaglutide, liraglutide and tirzepatide) may be compared to explore potential differences in reported oral manifestations. These comparisons will be conducted descriptively, considering variations in dosage, treatment duration and pharmacological class when such information is reported.\nREGISTRATION DETAILS: This protocol has been registered prospectively on the Open Science Framework (DOI:10.17605/OSF.IO/NWTCS).\nETHICS AND DISSEMINATION: This scoping review protocol does not require ethics approval, as it only describes the methodological aspects of a future scoping review and uses secondary data from previously published studies. The findings of the review will be disseminated through publication in a peer-reviewed journal and presentations at scientific conferences. As this study is a protocol for a scoping review and does not involve human participants or identifiable data, ethics committee approval was not required.",
+      "journal": "BMJ open",
+      "authors": "Escudero Samaniego Doménica Gabriela, Falconí Tarapués Melany Abigail, Cañarte Vergara Bianca Taíz, Coelho Manuella Salm, De Magalhães Gonzaga Maria de Fátima, Stefani Cristine Miron, Gonçalves Thais Marques Simek, De Luca Canto Graziela",
+      "pub_date": "2026-10-20",
+      "doi": "10.1136/bmjopen-2026-122207",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901597/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9a9fea07a49aba98d2bf02b3c41a116997cef624adf3a2ed53b4f7f60932aeb9",
+      "fetched_at_utc": "2026-10-22T23:58:05Z",
+      "updated_at_utc": "2026-10-22T23:58:05Z"
     },
     {
       "pmid": "42901472",
@@ -10366,6 +10393,37 @@
       "updated_at_utc": "2026-09-16T23:37:55Z"
     },
     {
+      "pmid": "42903917",
+      "title": "Dulaglutide-associated interstitial granulomatous dermatitis: A case report.",
+      "abstract": "",
+      "journal": "JAAD case reports",
+      "authors": "Chidiac Georgio, Kesrouani Carole, Korkomaz Joelle",
+      "pub_date": "2026-09-15",
+      "doi": "10.1016/j.jdcr.2026.09.009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903917/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3d43998135bf23fc2d44597bd3a654dc8e4f18f9a369774a21d5b15296ca4a0e",
+      "fetched_at_utc": "2026-10-22T23:58:05Z",
+      "updated_at_utc": "2026-10-22T23:58:05Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-10-22T23:58:05Z"
+    },
+    {
       "pmid": "42890326",
       "title": "Initiation of Glucagon-Like Peptide-1 Receptor Agonist Therapy and Lifestyle Modifications for Morbid Obesity in a Patient With Paroxysmal Atrial Fibrillation, Severe Osteoarthritis, and Obstructive Sleep Apnea: A Case Report.",
       "abstract": "This case report describes a 57-year-old man with morbid obesity, paroxysmal atrial fibrillation, and severe knee osteoarthritis. We discuss the successful optimization of his metabolic and orthopedic risks through the initiation of a glucagon-like peptide-1 (GLP-1) receptor agonist in conjunction with a structured lifestyle modification plan. This case demonstrates the measurable benefit of combining advanced pharmacotherapy with targeted behavioral interventions to manage complex, obesity-related comorbidities. Through the course of a 12-month monitoring period, this patient shifted his body mass index (BMI) from stage 2 to stage 1 obesity, moved his blood pressure to a healthier range, and achieved measurable improvements in his lipid profile.",
@@ -15653,6 +15711,52 @@
       "sample_size_ja": "N=1,970（COMBINE 1およびCOMBINE 3のプール）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-02T23:23:28Z"
+    },
+    {
+      "pmid": "42902646",
+      "title": "Perspectives on Newer Antiobesity Drugs (Semaglutide and Tirzepatide) among Healthcare Professionals Treating Obesity in South Asia: A Cross-sectional Survey.",
+      "abstract": "INTRODUCTION: Obesity has reached epidemic proportions in South Asia, contributing significantly to metabolic diseases and economic burdens. Newer antiobesity medications (AOMs), such as semaglutide and tirzepatide, show promising efficacy but face barriers such as high costs and limited familiarity among healthcare professionals (HCPs) in low- and middle-income countries (LMICs). This study explored perceptions, prescribing practices, efficacy, safety concerns, and barriers to AOM use among HCPs managing obesity in South Asia.\nMETHODS: A cross-sectional online survey was conducted from May to September 2025 among 552 HCPs (physicians, endocrinologists, bariatric surgeons, nephrologists, gastroenterologists, and dieticians) specializing in obesity care, recruited via social media groups using convenience sampling. The questionnaire, developed from prior surveys and pilot-tested, assessed knowledge, attitudes, and practices regarding AOMs. Descriptive analysis was performed using SPSS version 21.\nRESULTS: Of 552 responses, 86.4% were from India. Endocrinologists (62.9%) and internists (21.6%) dominated, with varied experience levels. Key factors influencing prescriptions included efficacy (83%), affordability (75.9%), and safety (58.9%). Reported efficacy was high with 51.7% of the patients achieving > 10% weight loss. Barriers encompassed high costs (93.8%), side effect fears (46.2%), and poor adherence (41.3%). Biosimilars were available to 52.7%, with 78.6% of HCPs open to them if efficacy/safety matched originators.\nCONCLUSIONS: South Asian HCPs recognize AOMs' transformative potential but are hindered by costs, safety, and access. Biosimilars could enhance equity, but require robust data and regulation. Targeted education, reimbursement policies, and region-specific evidence are essential to optimize AOM integration in obesity management.",
+      "journal": "The Journal of the Association of Physicians of India",
+      "authors": "Agarwal Khushboo, Nagendra Lakshmi, Bhattacharya Saptarshi, Sharma Sourabh, Kamrul-Hasan Abm, Kapoor Nitin, Shreshtha Dina, Das Sambit",
+      "pub_date": "2026-09-01",
+      "doi": "10.59556/japi.74.1709",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902646/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tirzepatide",
+        "Semaglutide",
+        "Cross-Sectional Studies",
+        "Anti-Obesity Agents",
+        "Obesity",
+        "Female",
+        "Male",
+        "Practice Patterns, Physicians'",
+        "Attitude of Health Personnel",
+        "Adult",
+        "India",
+        "Surveys and Questionnaires",
+        "Asia, Southern",
+        "Middle Aged",
+        "Health Personnel",
+        "South Asian People",
+        "Health Knowledge, Attitudes, Practice"
+      ],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f649a9093524507e35264024c5c9031907d56959ec9439e7a472ac8bb6c42c35",
+      "fetched_at_utc": "2026-10-22T23:58:05Z",
+      "updated_at_utc": "2026-10-22T23:58:05Z"
     },
     {
       "pmid": "42871273",
