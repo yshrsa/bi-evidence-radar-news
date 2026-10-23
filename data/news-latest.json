@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-22T23:58:32Z",
+  "generated_at_utc": "2026-10-23T23:54:02Z",
   "items": [
     {
       "pmid": "42805503",
@@ -70,6 +70,277 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42912707",
+      "title": "Butyrate enhances the obesity reduction effect of Semaglutide.",
+      "abstract": "BACKGROUND: Obesity represents a global public health burden with continuously increasing prevalence over recent decades. Combination regimens pairing semaglutide (Sema) with additional therapeutic agents have emerged as a major focus for anti-obesity research.\nMETHODS: In diet-induced obese (DIO) mice, we evaluated whether oxytocin (Oxt, 3 and 5 mg·kg-1), long-acting oxytocin (la‑Oxt), caffeine, or butyrate could potentiate the anti-obesity efficacy of Sema. We further compared hypothalamic neuronal activity and plasma metabolomic profiles following Sema treatment against dietary restriction (DR), an established intervention for weight loss and metabolic improvement.\nRESULTS: Whereas Oxt, la‑Oxt, and caffeine did not augment Sema-mediated body weight reduction, butyrate produced significant potentiation of Sema's anti-obesity effects. Either Sema monotherapy or Sema-butyrate co-administration elevated the number of c-Fos-positive cells in the paraventricular nucleus (PVN) of the hypothalamus. By contrast, DR decreased PVN c-Fos-positive cell number. Butyrate amplified Sema-elicited activation of PVN neuronal activity. Plasma metabolomics revealed limited overlap between the pharmacological interventions and DR, demonstrating orthogonal metabolic responses.\nCONCLUSIONS: These findings identify the Sema-butyrate combination as a promising anti-obesity strategy, and demonstrate that Sema and DR exert divergent effects on both hypothalamic neuronal activity and plasma metabolite levels.",
+      "journal": "Neuroendocrinology",
+      "authors": "Huang Ying, Gu Kaiyue, Li Chaonan, Cheng Jie, Liu Mengmeng, Zhang Guo",
+      "pub_date": "2026-10-23",
+      "doi": "10.1159/nen/advag013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42912707/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4d573e7c321b9673b41211eba61bafbf2a1596405da0c63ce06c61801275aed8",
+      "fetched_at_utc": "2026-10-23T23:50:31Z",
+      "updated_at_utc": "2026-10-23T23:50:31Z",
+      "summary_ja": "食事誘発性肥満（DIO）マウスを用い、セマグルチド（Sema）の抗肥満効果にオキシトシン（Oxt, 3および5 mg/kg）、長作用型オキシトシン（la-Oxt）、カフェイン、酪酸（butyrate）が相乗的に作用するかを評価した。さらに、Sema投与と食事制限（DR）による視床下部神経活動および血漿メタボロームプロファイルの比較も行われた。Oxt、la-Oxt、カフェインはSemaによる体重減少を増強しなかったが、酪酸はSemaの抗肥満効果を有意に増強した。Sema単独投与およびSema-酪酸併用投与は視床傍核（PVN）のc-Fos陽性細胞数を増加させたが、DRは減少させた。酪酸はSema誘発のPVN神経活動を増幅した。血漿メタボローム解析では、薬理学的介入とDRの間には限られた重複のみが認められ、直交的な代謝応答を示した。",
+      "key_takeaway_ja": "酪酸はセマグルチドの抗肥満効果を有意に増強し、Sema-酪酸併用は有望な抗肥満戦略である。また、Semaと食事制限は視床下部神経活動および血漿代謝物レベルに対して異なる効果を示す。",
+      "why_matters_ja": "肥満は近年の増加傾向が続く世界的な公衆衛生上の負担であり、セマグルチドと追加治療薬を組み合わせる併用療法は抗肥満研究の主要な焦点となっている。",
+      "study_type_ja": "前臨床（動物実験）研究：食事誘発性肥満（DIO）マウスを用いた薬理学的介入およびメカニズム解明研究",
+      "endpoints_ja": "体重減少（抗肥満効果）、視床傍核（PVN）のc-Fos陽性細胞数、血漿メタボロームプロファイル",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T23:50:54Z"
+    },
+    {
+      "pmid": "42912696",
+      "title": "SEMAGLUTIDE TREATMENT IN TWO VERY YOUNG CHILDREN WITH SEVERE EARLY-ONSET OBESITY.",
+      "abstract": "BACKGROUND: Monogenic obesity comprises a group of rare genetic disorders characterized by severe early-onset obesity and hyperphagia. Pharmacological treatment options for severe early-onset obesity remain limited, particularly in young children.\nCASE PRESENTATION: We report two children younger than 6 years of age with severe early-onset obesity, including one with genetically confirmed monogenic obesity, who showed reductions in BMI-SDS during semaglutide treatment. Case-1: A 4.5-year-old girl with a homozygous ADCY3 (c.1102G>A) variant presented with severe obesity, hyperphagia, hypertension, hepatosteatosis and Blount's disease. Baseline BMI was 48.0 kg/m2 (+5.5 SDS). Semaglutide was initiated at 0.125 mg/week and titrated to 1.5 mg/week. After 18 months, BMI-SDS decreased from +5.5 to +4.1 (-25.5%), accompanied by improved in hyperphagia and resolution of left ventricular hypertrophy. No significant adverse effects were observed, and linear growth remained age appropriate. Case-2: A 3.3-year-old boy with hyperphagia, severe obesity and dyslipidaemia was diagnosed with Klinefelter syndrome (47,XXY). Clinical Exome Sequencing identified no causative variant for obesity. Baseline BMI was 32.6 kg/m2 (+5.7 SDS). Semaglutide was initiated at 0.0625 mg/week and gradually titrated to 2.0 mg/week. After 21 months, BMI-SDS decreased from +5.7 to +4.4 (-22%). Treatment was generally well tolerated, with normal linear growth.\nCONCLUSION: This two cases describe reductions BMI-SDS during semaglutide treatment in very young children with severe early-onset obesity, including one child with genetically confirmed ADCY3-related monogenic obesity. These findings suggest a potential clinical benefit of semaglutide in this young population, warranting evaluation in larger studies.",
+      "journal": "Hormone research in paediatrics",
+      "authors": "Canbaz Aylin Tugba, Kahveci Ahmet, Kurt Ilknur, Demir Senol, Geçkinli Bilgen Bilge, Bereket Abdullah, Haliloglu Belma",
+      "pub_date": "2026-10-23",
+      "doi": "10.1159/hrp/adaag048",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42912696/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "816ddd2ede4547dae95629439e39fe6de8795d38ebd122ad615bf3e2fdf5f4d5",
+      "fetched_at_utc": "2026-10-23T23:50:31Z",
+      "updated_at_utc": "2026-10-23T23:50:31Z",
+      "summary_ja": "6歳未満の重度の早期発症肥満を有する2児（うち1児は遺伝的に確認されたADCY3関連単一遺伝子肥満）において、セマグルチド治療中にBMI-SDSの低下が観察された症例報告。Case-1は4.5歳の女児（ADCY3ホモ接合変異）、Case-2は3.3歳の男児（Klinefelter症候群、肥満原因変異なし）。",
+      "key_takeaway_ja": "非常に幼い重度の早期発症肥満児（6歳未満）においてセマグルチド治療によりBMI-SDSの有意な低下が観察され、この年齢層での潜在的な臨床的有用性を示唆する。",
+      "why_matters_ja": "重度の早期発症肥満、特に幼い小児における薬物治療選択肢は限られており、本症例報告はセマグルチドがこの年齢層で有効かつ忍容性良好である可能性を示し、より大規模な研究での評価を要する。",
+      "study_type_ja": "症例報告（2例）",
+      "endpoints_ja": "BMI-SDSの変化、過食の改善、左室肥大の消退、線形成長、有害事象",
+      "endpoint_results_ja": "Case-1: BMI-SDS +5.5 → +4.1（-25.5%）、18ヶ月後。過食の改善、左室肥大の消退。有意な有害事象なし。線形成長は年齢相応。Case-2: BMI-SDS +5.7 → +4.4（-22%）、21ヶ月後。治療は概ね忍容性良好。線形成長は正常。",
+      "sample_size_ja": "2例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T23:51:14Z"
+    },
+    {
+      "pmid": "42911774",
+      "title": "Modern antidiabetic therapy in older adults with type 2 diabetes: evidence, best practice and a clinical pharmacist's framework.",
+      "abstract": "INTRODUCTION: Older adults with type 2 diabetes require treatment that balances cardiovascular and kidney protection against hypoglycemia, treatment burden, undernutrition, and functional vulnerability.\nAREAS COVERED: This narrative review considers PubMed-indexed literature and ClinicalTrials.gov records covering January 2010-October 2026, with targeted updating on 12 October 2026. It examines sodium-glucose cotransporter-2 inhibitors, glucagon-like peptide-1 receptor agonists, tirzepatide, and dipeptidyl peptidase-4 inhibitors. Age-stratified outcome evidence is distinguished from whole-trial results and the limited evidence in adults aged 80 years or older. Body-composition findings, neurodegenerative outcomes, kidney-protective treatment, and pharmacist-supported regimen modification are critically appraised.\nEXPERT OPINION: Organ protection and glycemic simplification should be considered separately. Frailty is not synonymous with kidney impairment, and reductions in lean mass do not establish treatment-induced sarcopenia. Weight-neutral therapy remains useful when weight loss is undesirable. A structured medication review should integrate patient priorities, nutrition, physical performance, renal function, and hypoglycemia risk, followed by explicit monitoring and communication across care transitions. Prospective validation of this integrated framework in the oldest and most vulnerable populations is needed.",
+      "journal": "Expert review of clinical pharmacology",
+      "authors": "Martinc Boštjan, Šabovič Mišo, Janić Miodrag, Lunder Mojca",
+      "pub_date": "2026-10-22",
+      "doi": "10.1080/17512433.2026.2754390",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42911774/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c660ad2e17442e7fa2107e446b0caa1f63ef36e8d90c06485d4947cfefd9593f",
+      "fetched_at_utc": "2026-10-23T23:50:31Z",
+      "updated_at_utc": "2026-10-23T23:50:31Z",
+      "summary_ja": "2010年1月から2026年10月までのPubMed索引文献およびClinicalTrials.gov記録を対象としたナラティブレビュー。高齢の2型糖尿病患者におけるSGLT2阻害薬、GLP-1受容体作動薬、tirzepatide、DPP-4阻害薬の最新治療を考察し、年齢層別アウトカムエビデンス、体組成、神経変性アウトカム、腎保護治療、薬剤師支援によるレジメン変更を批判的に評価した。",
+      "key_takeaway_ja": "臓器保護と血糖管理の簡素化は別々に考慮すべきである。フレイルは腎機能障害と同義ではない。減量中立的療法は減量が望ましくない場合に有用である。患者の優先事項、栄養、身体機能、腎機能、低血糖リスクを統合した構造化された薬剤レビューを行い、ケア移行時の明示的なモニタリングとコミュニケーションを行うべきである。",
+      "why_matters_ja": "高齢の2型糖尿病患者では、心血管・腎保護と低血糖、治療負担、栄養不足、機能脆弱性のバランスが求められる。80歳以上の成人におけるエビデンスは限られており、最も高齢で脆弱な集団における統合フレームワークの前瞻性検証が未解決の課題である。",
+      "study_type_ja": "ナラティブレビュー",
+      "endpoints_ja": "年齢層別アウトカムエビデンス、体組成、神経変性アウトカム、腎保護治療",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T23:51:33Z"
+    },
+    {
+      "pmid": "42911768",
+      "title": "The Veterans Affairs Pentoxifylline in Diabetic Kidney Disease (VA PTXRx) Study: Baseline Characteristics.",
+      "abstract": "INTRODUCTION: Experimental and clinical data suggest that the non-specific phosphodiesterase inhibitor pentoxifylline (PTX) reduces proteinuria and may delay the progression of diabetic kidney disease (DKD). However, no large-scale randomized clinical trial has determined whether PTX can reduce end-stage kidney disease (ESKD) and mortality in DKD.\nDESIGN: VA PTXRx is a randomized, double-blind, placebo-controlled, parallel-group, multicenter clinical trial designed to test the hypothesis that PTX, when added to usual care, prolongs the time to kidney failure or death in type 2 diabetic (T2D) participants with DKD compared to usual care plus placebo. Enrolled participants at very high risk for ESKD and/or death were randomized in a 1:1 ratio to either PTX 400 mg twice daily or matching placebo using randomly permuted blocks with stratification for site, renin-angiotensin-aldosterone (RAAS) inhibitor use, and chronic kidney disease (CKD) stage. The study is event-driven, requiring 646 primary events (ESKD (chronic dialysis or transplantation) or death) to achieve 80% power to detect a relative risk reduction of 19% with PTX.\nBASELINE RESULTS: Between December 2019 and November 2025, 2376 participants at 34 VA sites in the USA were randomized. The mean age at randomization was 72.3 years (SD 7.7), with 97% being male. The mean baseline eGFR was 33.3 mL/min/1.73 m2 (SD 9.4). The median urinary albumin to creatinine ratio (UACR) was 401 mg/g (IQR 122-1076). At baseline, the usage of RAAS inhibitors was 80.0%, sodium-glucose transporter-2 (SGLT2) inhibitors 52.9%, glucagon-like peptide-1 (GLP-1) receptor agonists 33.2%, and finerenone 3.0%. The majority (88%) of participants had stage 3B or 4 CKD (eGFR < 45 mL/min/1.73m2).\nCONCLUSIONS: The results, anticipated in 2027, are expected to determine whether PTX is a treatment option for patients with high-risk DKD. Because PTX is a generic medication, it is inexpensive in many health systems, which would facilitate access if it proves effective. Trial Registration: This study is registered with clinicaltrials.gov (Identifier: NCT03625648).",
+      "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+      "authors": "Leehey David J, Agarwal Rajiv, Xing Bin, Clise Christina, Navaneethan Sankar, Utzschneider Kristina, Lammie Douglas, Wei Yongliang",
+      "pub_date": "2026-10-22",
+      "doi": "10.1093/ndt/gfag245",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42911768/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "414044f46928027505804f90a3b5ce23e375cd41248ea86535b33731cc4a4c5a",
+      "fetched_at_utc": "2026-10-23T23:50:31Z",
+      "updated_at_utc": "2026-10-23T23:50:31Z",
+      "summary_ja": "VA PTXRx試験は、非特異的ホスホジエステラーゼ阻害薬ペンタキシフィル（PTX）が2型糖尿病性腎症（DKD）患者の腎不全または死亡までの時間を延長するかを検証する、無作為化・二重盲検・プラセボ対照・並行群・多施設臨床試験である。2019年12月から2025年11月までに、米国34箇所のVA施設で2,376名が1:1でPTX 400 mg 1日2回またはプラセボに無作為化された。本論文はベースライン特性の報告であり、平均年齢72.3歳、男性97%、平均ベースラインeGFR 33.3 mL/min/1.73 m²、中央値UACR 401 mg/g、CKD 3B期または4期が88%であった。結果は2027年に発表予定。",
+      "key_takeaway_ja": "本論文はVA PTXRx試験のベースライン特性の報告であり、2,376名が無作為化されたことを示している。PTXがDKD患者のESKDまたは死亡を減少させるかどうかの最終結果は2027年に発表予定である。",
+      "why_matters_ja": "PTXはジェネリック医薬品であり、多くの医療システムで安価であるため、有効性が証明されればアクセスが容易になる。これまでPTXがDKDにおけるESKDや死亡率を減少させるかどうかを決定した大規模無作為化臨床試験は存在しなかった。",
+      "study_type_ja": "無作為化・二重盲検・プラセボ対照・並行群・多施設臨床試験（ベースライン特性の報告）",
+      "endpoints_ja": "主要エンドポイント：腎不全（ESKD：慢性透析または移植）または死亡までの時間。イベント駆動型で、646件の主要イベント（相対リスク19%の減少を検出する80%の検出力）が必要。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "2,376名（米国34箇所のVA施設で無作為化）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T23:51:53Z"
+    },
+    {
+      "pmid": "42908410",
+      "title": "Transient Adipose Inflammatory Remodeling during High-Dose Semaglutide-Induced Weight Loss and Regain.",
+      "abstract": "BACKGROUND: Weight loss improves obesity-associated metabolic dysfunction, yet resolution of adipose inflammation may be incomplete and can reappear during weight regain. Whether high-dose semaglutide induces sustained immunological remodeling of adipose and hepatic tissues during weight cycling remains unclear.\nMETHODS: Male C57BL/6 mice with diet-induced obesity were treated with semaglutide (60 nmol/kg, intraperitoneally, every 3 days) or vehicle for 3 weeks, followed by drug withdrawal under continued high-fat diet feeding. Body weight, body composition, and glucose homeostasis were assessed during treatment and after weight regain. Inflammatory changes in visceral and subcutaneous adipose tissue and liver were analyzed by flow cytometry, histology, immunofluorescence, and gene expression profiling.\nRESULTS: Semaglutide induced rapid fat mass-selective weight loss with preservation of lean mass and significantly improved fasting glucose, insulin levels, insulin sensitivity, and glucose tolerance. During treatment, visceral adipose tissue exhibited marked reductions in pro-inflammatory macrophages, crown-like structures, and inflammatory gene expression, whereas subcutaneous adipose tissue was minimally affected. Following withdrawal, mice rapidly regained weight and adiposity. Visceral adipose inflammation fully reverted, with macrophage infiltration and inflammatory gene expression comparable to chronically obese controls. Hepatic steatosis and inflammatory markers similarly returned to obese levels. Despite this tissue-level reversion, fasting glycemia and insulin levels remained partially improved.\nCONCLUSION: High-dose semaglutide induces robust metabolic improvement and transient suppression of visceral adipose inflammation during active treatment; however, these inflammatory changes are not sustained after withdrawal and largely revert with weight regain. In contrast, partial improvement in fasting glycemia persisted, suggesting differential durability between systemic metabolic adaptation and local inflammatory remodeling during pharmacological weight cycling.",
+      "journal": "Endocrinology and metabolism (Seoul, Korea)",
+      "authors": "Seo Mihye, Julietta Vivi, Averia Maria, Soedono Shindy, Budiono Ellen, Park Hyeong Kyu, Suh Kyoil, Cho Kae Won",
+      "pub_date": "2026-10-22",
+      "doi": "10.3803/EnM.2026.2979",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908410/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9325c7d6b0d363e021aa32a382d9dcab5ee4f0b295cea7991622bdaeb850952b",
+      "fetched_at_utc": "2026-10-23T23:50:31Z",
+      "updated_at_utc": "2026-10-23T23:50:31Z",
+      "summary_ja": "高用量セマグルチドによる体重減少と再増加時の脂肪組織の炎症性リモデリングを、食事誘発性肥満マウスモデルで評価した前臨床研究。セマグルチド投与中は内臓脂肪組織の炎症性マクロファージ、クラウン様構造、炎症性遺伝子発現が有意に減少し、空腹時血糖・インスリン値・インスリン感受性・グルコース耐性が改善した。投与中止後の体重再増加に伴い、内臓脂肪炎症は慢性肥満対照群と同等レベルまで完全に回復し、肝脂肪変性および炎症マーカーも同様に肥満レベルに戻った。一方、空腹時血糖とインスリン値は部分的に改善が持続した。",
+      "key_takeaway_ja": "高用量セマグルチドによる内臓脂肪炎症の抑制は投与中の一時的なものであり、投与中止後の体重再増加に伴いほぼ完全に回復する。一方、空腹時血糖の改善は部分的に持続し、全身的な代謝適応と局所的な炎症性リモデリングの持続性に差があることを示唆する。",
+      "why_matters_ja": "肥満治療薬による体重減少後の炎症の再発機序を理解することは、治療中断後の代謝リスク評価や、持続的な炎症抑制を目的とした治療戦略の開発に重要である。",
+      "study_type_ja": "前臨床研究（動物実験）",
+      "endpoints_ja": "体重、体組成、空腹時血糖、インスリン値、インスリン感受性、グルコース耐性、内臓脂肪組織および皮下脂肪組織の炎症性変化（フローサイトメトリー、組織学、免疫蛍光、遺伝子発現プロファイリング）、肝脂肪変性および炎症マーカー",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T23:52:18Z"
+    },
+    {
+      "pmid": "42907720",
+      "title": "Glucose-dependent insulinotropic polypeptide (GIP) signaling in visceral and subcutaneous adipose tissue: implications for obesity and metabolic disease-a narrative review with a structured literature search.",
+      "abstract": "Glucose-dependent insulinotropic polypeptide is one of the principal incretin hormones involved in the regulation of glucose homeostasis, lipid metabolism, and adipocyte function. Increasing evidence indicates that its biological actions differ substantially between adipose tissue depots. The aim of this narrative review with a structured literature search was to summarize current evidence on the role of GIP in visceral adipose tissue (VAT) and subcutaneous adipose tissue (SAT), incorporating preclinical, clinical, and genetic data. Animal studies have demonstrated that VAT is characterized by higher expression of the GIP receptor (GIPR) and greater sensitivity to the lipogenic and proinflammatory effects of GIP. Activation of GIPR in VAT promotes lipid accumulation, inflammation, and insulin resistance. Conversely, pharmacological blockade or genetic deletion of GIPR confers protection against diet-induced obesity and leads to improvements in metabolic parameters. In SAT, GIP exerts more heterogeneous and metabolically context-dependent effects that differ according to insulin sensitivity and obesity status. Moreover, under specific conditions, GIP may promote lipolysis in SAT, distinguishing its actions in this depot from those observed in VAT. These observations may help explain the efficacy of dual and triple incretin receptor agonists, including tirzepatide and retatrutide, which produce significant improvements in body weight and metabolic outcomes. Collectively, current evidence supports a depot-specific and context-dependent role of GIP in adipose tissue biology and underscores the therapeutic potential of targeting the GIP/GIPR axis in obesity and metabolic disease.",
+      "journal": "Reviews in endocrine & metabolic disorders",
+      "authors": "Smarkusz-Zarzecka Joanna, Radziszewska Marcelina, Gofron Krzysztof Ksawery, Ostrowska Lucyna",
+      "pub_date": "2026-10-22",
+      "doi": "10.1007/s11154-026-10098-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907720/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "61789f579a2b6ff32164b4d3293121d1fcbf1a69ced149c6a0caba6e0b6f8560",
+      "fetched_at_utc": "2026-10-23T23:50:31Z",
+      "updated_at_utc": "2026-10-23T23:50:31Z",
+      "summary_ja": "GIP（グルコース依存性インスリン熱促進ペプチド）が内臓脂肪組織（VAT）と皮下脂肪組織（SAT）に及ぼす役割に関する現在の証拠を、前臨床・臨床・遺伝子データを含めてまとめたナラティブレビュー（構造化文献検索付き）。動物研究では、VATはGIP受容体（GIPR）の発現が高く、GIPの脂肪合成促進・促炎作用に対してより敏感であることが示された。VATにおけるGIPRの活性化は脂質蓄積、炎症、インスリン抵抗性を促進する一方、GIPRの薬理学的阻害または遺伝的欠損は食餌誘発肥満から保護し、代謝パラメータの改善をもたらす。SATでは、GIPはインスリン感受性や肥満状態に応じて異なる異質で代謝的に文脈依存的な効果を発揮し、特定の条件下ではSATでリポリシスを促進しうる。これらの知見は、tirzepatideやretatrutideを含むデュアル・トリプルインクレチン受容体アゴニストの有効性を説明する助けとなる可能性がある。",
+      "key_takeaway_ja": "GIPは脂肪組織の部位特異的かつ文脈依存的な役割を有しており、VATでは脂肪合成・炎症・インスリン抵抗性を促進する一方、SATでは条件次第でリポリシスを促進しうる。この部位特異性がGIP/GIPR軸を標的とした肥満・代謝疾患治療の潜在的可能性を裏付けている。",
+      "why_matters_ja": "tirzepatideやretatrutideなどのデュアル・トリプルインクレチン受容体アゴニストが体重および代謝アウトカムに有意な改善をもたらすメカニズムを説明する枠組みを提供し、GIP/GIPR軸を標的とした肥満・代謝疾患治療の理論的根拠を強化する。",
+      "study_type_ja": "ナラティブレビュー（構造化文献検索付き）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T23:52:44Z"
+    },
+    {
+      "pmid": "42906932",
+      "title": "Whether to hold and what to measure: perioperative euglycemic ketoacidosis in patients taking SGLT2 inhibitors.",
+      "abstract": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors are widely used for type 2 diabetes, heart failure, and chronic kidney disease, including in patients without diabetes. Their ketogenic effects may be amplified perioperatively by fasting, surgical stress, and volume loss, resulting in ketoacidosis without marked hyperglycemia. Reported frequencies depend on ascertainment. Where ketones were measured against a diagnostic threshold, cohorts reported 0-1.8% in non-cardiac and mixed populations and 0-15.1% in cardiac surgery; one prospective study using a lower threshold (≥ 0.6 mmol/L) reported a far higher figure, and studies without ketone measurement reported surrogate metabolic-acidosis endpoints of 30-41%. None of these are comparable incidence estimates. Severe and fatal cases have been reported. Because plasma glucose may be normal, diagnosis requires attention to acid-base status and ketones. Quantitative blood β-hydroxybutyrate is preferred when SGLT2 inhibitor (SGLT2i)-associated ketoacidosis is suspected; urine ketone tests may screen when blood testing is unavailable, but a negative result does not exclude it. Perioperative guidance remains inconsistent: some bodies recommend withholding SGLT2i for 3 days (4 days for ertugliflozin), whereas others support risk-stratified continuation in selected patients under specified fasting and dietary conditions. No randomized trial has compared continuation with discontinuation using perioperative ketoacidosis as an endpoint; observational evidence remains limited and conflicting, and ketone thresholds and monitoring intervals lack prospective validation. This review summarizes evidence on recognition, diagnosis, withholding, monitoring, and postoperative restart.",
+      "journal": "Anesthesia and pain medicine",
+      "authors": "Park Eun Ji, Hong Jeong-Min",
+      "pub_date": "2026-10-22",
+      "doi": "10.17085/apm.26812",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906932/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "008ee948405eb0d9a00863c93921971ed118ced7ab1b4d7e3184d5138a6859d5",
+      "fetched_at_utc": "2026-10-23T23:50:31Z",
+      "updated_at_utc": "2026-10-23T23:50:31Z",
+      "summary_ja": "SGLT2阻害薬を使用する患者における術前・術後の正常血糖性ケトアシドーシスに関するレビュー。認識、診断、投与中止、モニタリング、術後再開に関する証拠を総括している。絶食、手術ストレス、体液喪失によりケトジェニック効果が増幅され、著明な高血糖を伴わないケトアシドーシスが生じ得る。",
+      "key_takeaway_ja": "SGLT2阻害薬使用者における術前・術後の正常血糖性ケトアシドーシスは重症・致死例が報告されており、診断には血糖値だけでなく酸塩基平衡とケトン体の評価が不可欠である。術前中止に関するガイドラインは不統一であり、中止と継続を比較したランダム化試験は存在しない。",
+      "why_matters_ja": "SGLT2阻害薬は2型糖尿病、心不全、慢性腎臓病に広く使用されているが、術前・術後のケトアシドーシスは重症・致死例が報告されており、血糖値が正常であるため見逃されやすい。術前中止の推奨は機関によって異なり、ケトン体の閾値やモニタリング間隔のprospective検証が未実施であるため、臨床現場での判断が困難である。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "術前・術後の正常血糖性ケトアシドーシス（診断閾値に対するケトン体測定）、代理代謝性アシドーシスエンドポイント",
+      "endpoint_results_ja": "診断閾値に対するケトン体測定：非心臓・混合集団で0〜1.8%、心臓手術で0〜15.1%。低閾値（≥0.6 mmol/L）を用いた前向き研究ではより高い頻度が報告（具体的な数値は記載なし）。ケトン体測定なしの代理代謝性アシドーシスエンドポイント：30〜41%。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T23:53:04Z"
+    },
+    {
+      "pmid": "42906796",
+      "title": "Poly(vinyl alcohol) dissolving microneedles for transdermal semaglutide delivery and anti-obesity therapy in rats.",
+      "abstract": "Semaglutide is an effective anti-obesity peptide, but repeated subcutaneous injections may reduce its acceptability for long-term therapy. We prepared semaglutide-loaded poly(vinyl alcohol) (PVA) dissolving microneedles (Sema-MNs) by sequential vacuum-assisted molding and room-temperature drying. The 15 × 15 arrays concentrated Cy5-labelled semaglutide toward the needle tips, resisted axial compression, penetrated rat skin, and partially dissolved within 5 min; skin barrier function approached baseline within 4-6 h. Sema-MNs contained 29 ± 2 μg semaglutide per patch, with an apparent delivered amount of 18 ± 2 μg (63 ± 3%; n = 3), and released more than 90% of the Sema-Cy5-associated cargo within 30 min. In high-fat-diet-induced obese rats, once-daily Sema-MN treatment for 7 days reduced food intake and body weight. Treatment also decreased adipocyte size and hepatic lipid accumulation, improved glucose tolerance and serum metabolic indices, and reduced hypothalamic neuropeptide Y immunofluorescence relative to the disease and unloaded-microneedle controls. No evident renal biochemical or major-organ histopathological abnormalities were observed during the study. These findings support the feasibility of a compositionally simple, rapid-release PVA microneedle system for transdermal semaglutide administration.",
+      "journal": "International journal of pharmaceutics",
+      "authors": "Cheng Xueqing, Wang Fei, Liu Hongwei, Li Feifei, Li Tongle, Liu Chaoyong",
+      "pub_date": "2026-10-21",
+      "doi": "10.1016/j.ijpharm.2026.127576",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906796/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "7441f5b3dbaf29f10914449069ba488a5a501bba5745c1bde069534877473978",
+      "fetched_at_utc": "2026-10-23T23:50:31Z",
+      "updated_at_utc": "2026-10-23T23:50:31Z",
+      "summary_ja": "セマグルチドを充填したポリビニルアルコール（PVA）溶解型マイクロニードル（Sema-MNs）を、逐次真空補助型成形と室温乾燥により調製した。15×15配列のマイクロニードルはCy5標識セマグルチドを針先に濃縮し、軸方向圧縮に耐え、ラット皮膚を貫通し、5分以内に部分的に溶解した。皮膚バリア機能は4〜6時間でベースラインに接近した。Sema-MNsはパッチあたり29±2μgのセマグルチドを含み、見かけの投与量は18±2μg（63±3%；n=3）であり、30分以内にSema-Cy5関連カゴの90%以上を放出した。高脂肪食誘導肥満ラットにおいて、1日1回のSema-MN投与を7日間行ったところ、食物摂取量と体重が減少した。また、脂肪細胞サイズと肝臓の脂質蓄積が減少し、グルコース耐量と血清代謝指標が改善し、視床下部のニューロペプチドY免疫蛍光が疾患対照群および無充填マイクロニードル対照群と比較して減少した。研究期間中に明らかな腎生化学的異常や主要臓器の組織病理学的異常は観察されなかった。",
+      "key_takeaway_ja": "組成が単純で速放出型のPVA溶解型マイクロニードルシステムにより、セマグルチドの経皮投与が実現可能であり、高脂肪食誘導肥満ラットにおいて抗肥満効果（体重減少、食物摂取量減少、肝臓脂質蓄積減少、グルコース耐量改善）が示された。",
+      "why_matters_ja": "セマグルチドは有効な抗肥満ペプチドであるが、反復的な皮下注射は長期治療の受容性を低下させる可能性がある。本マイクロニードルシステムは、皮下注射に代わる経皮投与経路として、患者のコンプライアンス向上に寄与する可能性がある。",
+      "study_type_ja": "前臨床動物実験（ラットを用いた薬理学的・安全性評価）",
+      "endpoints_ja": "食物摂取量、体重、脂肪細胞サイズ、肝臓脂質蓄積、グルコース耐量、血清代謝指標、視床下部ニューロペプチドY免疫蛍光、腎生化学パラメータ、主要臓器組織病理学、皮膚バリア機能、投与量、放出率",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "投与量測定：n=3。肥満ラット群のサンプルサイズは抄録に記載なし。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-23T23:53:58Z"
     },
     {
       "pmid": "42902597",
@@ -1063,40 +1334,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-16T23:35:14Z"
-    },
-    {
-      "pmid": "42885795",
-      "title": "Dapagliflozin After Transcatheter Aortic Valve Implantation According to Frailty in DapaTAVI Trial.",
-      "abstract": "BACKGROUND: Frailty is common in patients with severe aortic stenosis undergoing transcatheter aortic valve implantation and portends worse outcomes. Whether the benefit of posttranscatheter aortic valve implantation dapagliflozin differs by frailty is uncertain.\nMETHODS: In this post hoc analysis, we investigated the efficacy of dapagliflozin according to frailty status in the DapaTAVI (Dapagliflozin in Patients Undergoing Transcatheter Aortic Valve Implantation) trial. Frailty was assessed through the Fatigue, Resistance, Ambulation, Illnesses, and Loss of Weight scale (robust=0, prefrail=1-2, frail=3-5). The primary outcome was the composite of all-cause death or worsening heart failure at 1 year.\nRESULTS: Among 1222 patients with baseline frailty assessment, 47.2% were frail, 40.3% prefrail, and 12.4% robust. Over 12 months, 215 patients (17.6%) experienced the primary end point. Patients who were prefrail and frail had higher risk than robust patients (adjusted hazard ratios [HRs], 1.88 [95% CI, 1.05-3.38] and 2.29 [1.29-4.07], respectively; P=0.004). Dapagliflozin was associated with a lower risk of the primary end point in patients who were frail (HR, 0.53 [95% CI, 0.36-0.77]) but not in those who were prefrail (HR, 1.01 [95% CI, 0.66-1.55]) or robust patients (HR, 1.26 [95% CI, 0.42-3.75]); P for interaction=0.021. There was no evidence that frailty modified the safety profile of dapagliflozin.\nCONCLUSIONS: Frailty was common and independently associated with worse outcomes after transcatheter aortic valve implantation. Dapagliflozin appeared to confer greater relative benefit in patients with frailty.",
-      "journal": "Journal of the American Heart Association",
-      "authors": "Gonzalez-Manzanares Rafael, Ojeda Soledad, Amat-Santos Ignacio, Ariza-Solé Albert, Romaguera Rafael, López Otero Diego, Nombela-Franco Luis, Gheorge Livia",
-      "pub_date": "2026-10-16",
-      "doi": "10.1161/JAHA.126.051379",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42885795/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "dapagliflozin"
-      ],
-      "matched_companies": [
-        "AstraZeneca"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "01ae95cb02d76f32d4f627d2f715fed7479846b4d458de94e6e228b82a11b39c",
-      "fetched_at_utc": "2026-10-16T23:32:15Z",
-      "updated_at_utc": "2026-10-16T23:32:15Z",
-      "summary_ja": "DapaTAVI試験のpost hoc解析として、経カテーテル大動脈弁留置術（TAVI）を受けた患者において、虚弱（frailty）状態別にダパグリフロジンの有効性を評価した。虚弱はFRAILスケール（robust=0, prefrail=1-2, frail=3-5）で評価し、主要エンドポイントは1年時の全死因死亡または心不全増悪の複合エンドポイントとした。",
-      "key_takeaway_ja": "虚弱患者においてダパグリフロジンは主要エンドポイントのリスクを有意に低減した（HR 0.53, 95% CI 0.36-0.77）が、prefrail（HR 1.01）およびrobust（HR 1.26）患者では有意な効果は認められなかった（交互作用P=0.021）。虚弱患者において相対的な利益が大きいことが示唆された。",
-      "why_matters_ja": "TAVI患者において虚弱は頻度高く、予後不良と関連する。本解析は、虚弱患者においてダパグリフロジンの相対的効果が大きいことを示し、虚弱患者におけるSGLT2阻害薬の適応選択や治療戦略の検討に寄与する可能性がある。",
-      "study_type_ja": "ランダム化比較試験（DapaTAVI試験）のpost hoc解析",
-      "endpoints_ja": "主要エンドポイント：1年時の全死因死亡または心不全増悪の複合エンドポイント",
-      "endpoint_results_ja": "12ヶ月間で215例（17.6%）が主要エンドポイントを達成。虚弱状態別のリスク：prefrail vs robust 調整HR 1.88（95% CI 1.05-3.38）、frail vs robust 調整HR 2.29（95% CI 1.29-4.07）、P=0.004。ダパグリフロジンの効果：frail HR 0.53（95% CI 0.36-0.77）、prefrail HR 1.01（95% CI 0.66-1.55）、robust HR 1.26（95% CI 0.42-3.75）、交互作用P=0.021。",
-      "sample_size_ja": "ベースラインで虚弱評価が実施された1222例",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-16T23:36:43Z"
     },
     {
       "pmid": "42872693",
@@ -4953,264 +5190,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
       "summary_generated_at_utc": "2026-09-30T00:22:44Z"
-    },
-    {
-      "pmid": "42804756",
-      "title": "Peer Referral Pathways and 6-Month Outcomes in a Tirzepatide-Supported Digital Weight Loss Service: Retrospective Cohort Study.",
-      "abstract": "In a retrospective analysis of 34,449 adults using an unsubsidized, tirzepatide-supported digital weight loss service (DWLS) in Australia, patients entering via peer referral showed higher 6-month program adherence and greater percentage weight loss than propensity score-matched nonreferred patients, suggesting that peer referral pathways may support retention and effectiveness in medicated obesity care.",
-      "journal": "Journal of medical Internet research",
-      "authors": "Talay Louis, Swinckels Laura, Hom Jason, Tan Marilyn, Ahuja Neera",
-      "pub_date": "2026-09-28",
-      "doi": "10.2196/105583",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42804756/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Tirzepatide",
-        "Retrospective Studies",
-        "Referral and Consultation",
-        "Peer Group",
-        "Female",
-        "Male",
-        "Adult",
-        "Obesity",
-        "Middle Aged",
-        "Weight Reduction Programs",
-        "Australia",
-        "Weight Loss",
-        "Treatment Outcome"
-      ],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "2ca026ef82894c2946de4b48228651efe6d82ede979bfb9d4bce3556ae547249",
-      "fetched_at_utc": "2026-09-29T00:57:38Z",
-      "updated_at_utc": "2026-09-29T00:57:38Z",
-      "summary_ja": "オーストラリアの非補助型tirzepatide併用デジタル減量サービス（DWLS）を利用した34,449人の成人を対象とした後方視的コホート研究。ピア紹介経由で入会した患者は、傾向スコアマッチングによる非紹介患者と比較して、6ヶ月間のプログラム継続率が高く、体重減少率も大きかった。",
-      "key_takeaway_ja": "ピア紹介経路は、薬剤併用肥満治療における患者の継続率と減量効果の向上に関連する可能性がある。",
-      "why_matters_ja": "薬剤併用肥満治療のデジタルサービスにおいて、ピア紹介という低コストの介入が患者の定着と治療効果に寄与し得ることを示唆し、サービス設計や患者エンゲージメント戦略に示唆を与える。",
-      "study_type_ja": "後方視的コホート研究",
-      "endpoints_ja": "6ヶ月間のプログラム継続率、体重減少率（percentage weight loss）",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "34,449人",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-29T00:58:25Z"
-    },
-    {
-      "pmid": "42803913",
-      "title": "New Amylin-Based Agonists for the Treatment of Obesity and Type 2 Diabetes Mellitus.",
-      "abstract": "INTRODUCTION: Type 2 diabetes mellitus (T2DM) and obesity represent two major global health challenges. Amylin-based agonists offer a promising perspective. Three frontrunner agents of this class are increasingly being investigated: zenagamtide, eloralintide and cagrilintide-semaglutide (CagriSema).\nMETHODS: A search in PubMed/MEDLINE, Scopus and Google Scholar was conducted with the use of appropriate keywords until June 2026 for this narrative review.\nRESULTS: Zenagamtide (formerly known as amycretin), a unimolecular long-lasting amylin and glucagon-like peptide-1 receptor (GLP-1R) co-agonist, achieved weight loss up to 13.1% (phase 1 study, 85 days) in obesity trials as an oral formulation and up to 24.3% (phase 1b/2a study, 36 weeks) as a subcutaneous formulation. Moreover, eloralintide, a long-acting mostly amylin type 1 receptor (AMY1R) agonist, achieved weight loss up to 20.1% (phase 2 study, 48 weeks), and CagriSema resulted in weight loss up to 22.7% (phase 3a study, 68 weeks). All these agents reduced body mass index (BMI) and waist circumference (WC). In T2DM, CagriSema reduced glycated haemoglobin (HbA1c) by up to 2.0% (trial product estimand, phase 3a study, 68 weeks) and is currently the most well-studied agent in T2DM. In treatment-naïve people with T2DM, this agent has been successfully used, leading even to T2DM remission in approximately one out of two CagriSema users (phase 3a, 40 weeks). In individuals with T2DM receiving basal insulin, it reduced insulin dose by 20 units compared with the control arm (phase 3a, 40 weeks). The safety profile of amycretin and CagriSema is overall consistent with that of glucagon-like peptide 1 receptor agonists (GLP-1RAs). Preliminary evidence suggests that eloralintide, as an AMY1R monoagonist, was associated with a distinct adverse events profile, including fatigue, headache and appetite loss.\nCONCLUSIONS: These agents hold therapeutic potential in the management of both T2DM and obesity, as shown by preliminary clinical trial outcomes. Further trials are now needed to validate them in clinical practice.",
-      "journal": "Diabetes therapy : research, treatment and education of diabetes and related disorders",
-      "authors": "Panou Theodoros, Gouveri Evanthia, Popovic Djordje S, Papanas Nikolaos",
-      "pub_date": "2026-09-28",
-      "doi": "10.1007/s13300-026-01921-0",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803913/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "ade0349e877c8a254b0dec30a6147ff96833952eec60520a2e0cc9aa001a8450",
-      "fetched_at_utc": "2026-09-29T00:57:38Z",
-      "updated_at_utc": "2026-09-29T00:57:38Z",
-      "summary_ja": "本論文は、肥満および2型糖尿病（T2DM）の治療におけるアミリンベースのagonist（zenagamtide、eloralintide、CagriSema）に関するナラティブレビューである。PubMed/MEDLINE、Scopus、Google Scholarを用いて2026年6月まで検索を実施した。zenagamtideは経口投与で最大13.1%（第1相、85日）、皮下投与で最大24.3%（第1b/2a相、36週間）の減量を達成し、eloralintideは最大20.1%（第2相、48週間）、CagriSemaは最大22.7%（第3a相、68週間）の減量を達成した。T2DMにおいてCagriSemaはHbA1cを最大2.0%低下させ（第3a相、68週間）、治療経験のないT2DM患者では約半数にT2DM寛解を達成し（第3a相、40週間）、基礎インスリン併用患者では対照群比でインスリン用量を20単位減少させた（第3a相、40週間）。",
-      "key_takeaway_ja": "アミリンベースのagonist（zenagamtide、eloralintide、CagriSema）は肥満およびT2DMの両方に治療的潜在力を持ち、特にCagriSemaはT2DMにおいて最も研究が進んでおり、治療経験のない患者では約半数に寛解を達成した。",
-      "why_matters_ja": "T2DMと肥満は世界的な主要な健康課題であり、アミリンベースのagonistはこれらの疾患管理において有望な治療選択肢を提供する可能性がある。",
-      "study_type_ja": "ナラティブレビュー",
-      "endpoints_ja": "減量率、BMI、腹囲、HbA1c、T2DM寛解、インスリン用量",
-      "endpoint_results_ja": "zenagamtide: 減量最大13.1%（第1相、85日、経口）、最大24.3%（第1b/2a相、36週間、皮下）。eloralintide: 減量最大20.1%（第2相、48週間）。CagriSema: 減量最大22.7%（第3a相、68週間）、HbA1c最大2.0%低下（第3a相、68週間）、T2DM寛解は約半数（第3a相、40週間）、インスリン用量は対照群比で20単位減少（第3a相、40週間）。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-29T00:58:50Z"
-    },
-    {
-      "pmid": "42803912",
-      "title": "Combined Semaglutide and Sodium-Glucose Cotransporter-2 Inhibitor Use and Metabolic Outcomes in Chinese Adults With Diabetes: Post Hoc Analysis.",
-      "abstract": "INTRODUCTION: Real-world use of once-weekly semaglutide in adults with type 2 diabetes in China has been shown in SCHOLAR. This post hoc analysis investigated the use of combination semaglutide-sodium-glucose cotransporter-2 inhibitor (SGLT2i) treatment, glycated hemoglobin (HbA1c) changes, and safety in a subset of SCHOLAR participants.\nMETHODS: Participants from SCHOLAR were included in this post hoc, single-arm analysis if they were prescribed once-weekly subcutaneous semaglutide and had ≥ 1 SGLT2i prescription within 6 months of initiating semaglutide. Participants were grouped according to whether semaglutide use was continuous or not and by baseline HbA1c (≥ 7%). We evaluated the proportion of SCHOLAR participants prescribed combined semaglutide-SGLT2i. Key endpoints were: change in HbA1c from baseline to month 6; proportion of participants achieving a HbA1c level  < 7% at month 6; change in lipid profile from baseline to month 6; and safety profile of combined semaglutide-SGLT2i.\nRESULTS: A total of 11,361 (42.3%) SCHOLAR participants were treated with combined semaglutide-SGLT2i. Mean change in HbA1c (95% confidence interval [CI]) from baseline to month 6 was - 0.64%-points (- 0.71, - 0.56) (p < 0.0001) for the overall combined semaglutide-SGLT2i group. The greatest change was seen in the continuous semaglutide group with baseline HbA1c ≥ 7% (- 1.20%-points [95% CI - 1.36, - 1.04]). The proportion of participants with HbA1c levels  < 7% increased from 37.8% at baseline to 55.1% at month 6 for the overall combined treatment group. There were significant reductions in mean total cholesterol (p < 0.0001), low-density lipoprotein cholesterol (p < 0.0001), and triglycerides (p = 0.0043) as well as a significant increase in high-density lipoprotein cholesterol (p < 0.0001). Gastrointestinal adverse events were most frequent.\nCONCLUSIONS: Combined semaglutide-SGLT2i treatment was prevalent in this subset of the SCHOLAR population and associated with significant reduction in HbA1c and changes in lipid profile. The safety profile of combined semaglutide-SGLT2i was similar to the overall SCHOLAR population.\nTRIAL REGISTRATION NUMBER: NCT06351748.",
-      "journal": "Diabetes therapy : research, treatment and education of diabetes and related disorders",
-      "authors": "Wang Shanshan, Dong Bixuan, Shen Zewei",
-      "pub_date": "2026-09-28",
-      "doi": "10.1007/s13300-026-01915-y",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803912/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "035f198c9ce766032b88c8a7be0a8d86b2bb7b45232496f69ee946e2c0991f75",
-      "fetched_at_utc": "2026-09-29T00:57:38Z",
-      "updated_at_utc": "2026-09-29T00:57:38Z",
-      "summary_ja": "SCHOLAR研究のサブセットを対象としたpost hoc単一アーム解析であり、中国の2型糖尿病患者における週1回皮下注射セマグルチドとSGLT2阻害薬の併用治療の割合、HbA1cの変化、脂質プロファイルの変化、および安全性を評価した。",
-      "key_takeaway_ja": "セマグルチドとSGLT2阻害薬の併用治療はHbA1cの有意な低下と脂質プロファイルの改善と関連し、安全性プロファイルはSCHOLAR全体集団と同様であった。",
-      "why_matters_ja": "中国の2型糖尿病患者におけるGLP-1受容体作動薬とSGLT2阻害薬という2つの主要な糖尿病治療薬クラスの併用に関する実世界のエビデンスを提供し、臨床実践における治療戦略の参考となる。",
-      "study_type_ja": "Post hoc解析（単一アーム、実世界研究、SCHOLAR研究のサブセット）",
-      "endpoints_ja": "①ベースラインから6ヶ月までのHbA1cの変化、②6ヶ月時点でHbA1c<7%を達成した参加者の割合、③ベースラインから6ヶ月までの脂質プロファイルの変化、④セマグルチド-SGLT2阻害薬併用の安全性プロファイル",
-      "endpoint_results_ja": "HbA1c平均変化（ベースラインから6ヶ月）：全体併用群で-0.64%-points（95%CI -0.71, -0.56）（p<0.0001）。セマグルチド継続使用かつベースラインHbA1c≥7%群で最大の変化（-1.20%-points、95%CI -1.36, -1.04）。HbA1c<7%の参加者割合：ベースライン37.8%から6ヶ月時55.1%へ増加。総コレステロール（p<0.0001）、LDLコレステロール（p<0.0001）、トリグリセリド（p=0.0043）の有意な低下、HDLコレステロールの有意な増加（p<0.0001）。消化管有害事象が最も頻発。",
-      "sample_size_ja": "11,361名（SCHOLAR参加者の42.3%）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-29T00:59:19Z"
-    },
-    {
-      "pmid": "42803855",
-      "title": "Risk factors for recurrent urinary tract infection after SGLT2 inhibitor reinitiation in type 2 diabetes.",
-      "abstract": "PURPOSE: To determine the risk of recurrent urinary tract infection (UTI) after early reinitiation of sodium-glucose cotransporter-2 inhibitors (SGLT2i) in adults with type 2 diabetes and to identify patient-level factors associated with recurrence.\nMETHODS: We conducted a retrospective cohort study. Adults with type 2 diabetes who discontinued an SGLT2i after an index UTI and were subsequently restarted were classified by reinitiation timing (early vs delayed). Recurrent UTI was defined as a new, clinically coded episode following reinitiation. Multivariable models assessed associations between recurrence and demographics, comorbidities, glycemic control, renal function, and psychiatric history.\nRESULTS: Among 316 patients who restarted SGLT2i within 21 days during or after the first UTI episode, recurrent UTI occurred in 43.99% after 14 days post-reinitiation. In the combined cohort (n = 395), early reinitiation (<21 days) showed a trend toward increased recurrence risk compared to delayed reinitiation (≥21 days) in unadjusted Cox regression (HR 1.348; 95% CI 0.948-1.915; p = 0.096) and logistic regression (OR 1.305; 95% CI 0.797-2.139; p = 0.290), though neither reached statistical significance. After adjusting for baseline covariates, the trend persisted (adjusted Cox HR 2.011; 95% CI 0.973-4.158; p = 0.0592). In univariable Cox regression analysis of the combined cohort, female sex (HR 0.649 for males; 95% CI 0.448-0.942), higher HbA1c (HR 1.09 per %; 95% CI 1.004-1.184), and reduced eGFR (HR 0.992 per ml/min/1.73 m²; 95% CI 0.987-0.998) were identified as factors significantly associated with recurrence.\nCONCLUSIONS: In this retrospective cohort of patients whose UTI was clinically coded and treated with antibiotics, recurrence was less frequent among men with preserved renal function and lower HbA1c, suggesting early SGLT2i reinitiation is a reasonable option in this subgroup. No conclusion could be drawn for higher-risk patients. The comparison of early versus delayed reinitiation remained inconclusive: the point estimate favored delayed reinitiation but did not reach significance (adjusted HR 2.011; 95% CI 0.973-4.158). In univariable analysis, female sex, older age, poor glycemic control, and impaired renal function were associated with recurrence. As ascertainment required a coded encounter and an antibiotic prescription, these findings apply only to clinically significant episodes. Randomized trials are needed to define optimal timing.",
-      "journal": "Endocrine",
-      "authors": "Hsueh Yu-Chu, Lin Chia-Hung, Liu Pi-Hua, Lin Yi-Hsuan",
-      "pub_date": "2026-09-28",
-      "doi": "10.1007/s12020-026-04777-3",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803855/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Diabetes Mellitus, Type 2",
-        "Female",
-        "Retrospective Studies",
-        "Male",
-        "Urinary Tract Infections",
-        "Risk Factors",
-        "Sodium-Glucose Transporter 2 Inhibitors",
-        "Recurrence",
-        "Middle Aged",
-        "Aged"
-      ],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "20579dd977920d200548acdec35198f53bae96d8d1cb849627dc337617443ac3",
-      "fetched_at_utc": "2026-09-29T00:57:38Z",
-      "updated_at_utc": "2026-09-29T00:57:38Z",
-      "summary_ja": "2型糖尿病においてSGLT2阻害薬（SGLT2i）を中断後に再開した成人を対象とした後方視的コホート研究。最初の尿路感染症（UTI）後にSGLT2iを再開した患者を再開タイミング（早期＜21日 vs 遅延≥21日）で分類し、再開後の再発UTIのリスクおよび関連する患者レベルの因子を多変量モデルで評価した。",
-      "key_takeaway_ja": "早期再開（＜21日）は再発リスク増加の傾向を示したが統計的有意差には達しなかった（調整後Cox HR 2.011; 95% CI 0.973-4.158; p=0.0592）。単変量解析では、女性、高齢、血糖コントロール不良（HbA1c上昇）、腎機能低下が再発と有意に関連した。",
-      "why_matters_ja": "SGLT2iはUTIリスクを高めることが知られており、UTI後の再開タイミングは臨床的に重要な判断事項である。本研究は、男性・腎機能保存・HbA1cが低い患者では早期再開が合理的な選択肢である可能性を示唆する一方、高リスク患者では結論が得られず、最適な再開タイミングを決定するためにはランダム化比較試験が必要であることを示している。",
-      "study_type_ja": "後方視的コホート研究",
-      "endpoints_ja": "SGLT2i再開後の再発尿路感染症（UTI）の発生",
-      "endpoint_results_ja": "21日以内にSGLT2iを再開した316例中、再開後14日で再発UTIが43.99%に発生。統合コホート（n=395）において、早期再開（＜21日）vs 遅延再開（≥21日）の比較：非調整Cox回帰 HR 1.348（95% CI 0.948-1.915; p=0.096）、ロジスティック回帰 OR 1.305（95% CI 0.797-2.139; p=0.290）、いずれも統計的有意差なし。ベースライン共変量調整後Cox HR 2.011（95% CI 0.973-4.158; p=0.0592）。単変量Cox回帰：男性（HR 0.649; 95% CI 0.448-0.942）、HbA1c上昇（HR 1.09 per %; 95% CI 1.004-1.184）、eGFR低下（HR 0.992 per ml/min/1.73m²; 95% CI 0.987-0.998）が再発と有意に関連。",
-      "sample_size_ja": "21日以内にSGLT2iを再開した患者316例、統合コホートn=395",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-29T00:59:54Z"
-    },
-    {
-      "pmid": "42803273",
-      "title": "Effectiveness of Finerenone in Slowing Chronic Kidney Disease Progression After Hospitalization for Heart Failure: A FIDELITY Subgroup Analysis.",
-      "abstract": "BACKGROUND: Finerenone, a nonsteroidal mineralocorticoid receptor antagonist, reduces risk of heart and kidney outcomes in people with chronic kidney disease (CKD) and type 2 diabetes (T2D). Heart failure is the leading cause of hospitalization in patients with CKD. Here we evaluated whether the reduction in estimated glomerular filtration rate (eGFR) decline (CKD progression) with finerenone persists after hospitalization for heart failure (HHF).\nMETHODS AND RESULTS: This post hoc analysis utilized the FIDELITY dataset pooled from the phase 3 FIDELIO-DKD (NCT02540993) and FIGARO-DKD (NCT02545049) trials, comprising adults with CKD and T2D on optimized renin-angiotensin system inhibitor treatment, randomized 1:1 to finerenone or placebo. Participants included experienced HHF between 4 months post randomization and study end. The key outcome was change in chronic eGFR slope (eGFR estimated from serum creatinine) before and after HHF. To avoid confounding from serum creatinine changes preceding and following HHF, eGFR values ±90 (primary analysis), ±120, and ±150 days from HHF were excluded. Baseline characteristics, medications, and mean hospital stay length were generally balanced between treatment groups. For the primary analysis, both the pre-HHF and post-HHF mean change in eGFR declined slower with finerenone versus placebo (between-group difference 2.68 mL/min/1.73 m2/year [95% confidence interval [CI], 0.87 to 4.49] pre-HHF and 0.96 mL/min/1.73 m2/year [95% CI, -0.99 to 2.91] post-HHF).\nCONCLUSION: Treatment with finerenone is associated with clinically meaningful attenuation of CKD progression in people with CKD and T2D before HHF, and persists post-HHF, suggesting that maintaining finerenone after HHF may continue to confer benefits in attenuating CKD progression.",
-      "journal": "European journal of heart failure",
-      "authors": "Shafi Tariq, Anker Stefan D, Pitt Bertram, Ruilope Luis M, Rossing Peter, Brinker Meike, Rohwedder Katja, Scott Charlie",
-      "pub_date": "2026-09-28",
-      "doi": "10.1093/ejhf/xuag299",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803273/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "finerenone"
-      ],
-      "matched_companies": [
-        "Bayer"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "dda5140753da24fd38f63d8171cdc06a37f9512c274b3d4dae8993de98b26c87",
-      "fetched_at_utc": "2026-09-29T00:57:38Z",
-      "updated_at_utc": "2026-09-29T00:57:38Z",
-      "summary_ja": "CKDと2型糖尿病（T2D）を有する患者において、非ステロイド性ミネラルコルチコイド受容体拮抗薬フィネレノンのeGFR低下速度の抑制（CKD進行の遅延）が、心不全による入院（HHF）後も持続するかを評価したFIDELITY（FIDELIO-DKDとFIGARO-DKDのプールデータ）のpost hoc解析。HHF前後のeGFRスロプの変化を主要アウトカムとし、HHF前後±90日（主要解析）、±120日、±150日のeGFR値を除外して解析を行った。",
-      "key_takeaway_ja": "フィネレノンによるCKD進行の抑制はHHF前に臨床的に有意な効果を示し、HHF後も持続した。HHF後もフィネレノンを継続することでCKD進行の抑制効果が得られる可能性が示唆された。",
-      "why_matters_ja": "心不全はCKD患者の入院の最も多い原因であり、HHF前後でCKD進行の速度が変化する可能性がある。本解析は、HHFという臨床的に重要なイベント後もフィネレノンの腎保護効果が持続することを示し、HHF後の治療継続の根拠を提供する。",
-      "study_type_ja": "第III相RCT（FIDELIO-DKDおよびFIGARO-DKD）のプールデータ（FIDELITY）を用いたpost hocサブグループ解析",
-      "endpoints_ja": "HHF前後の慢性eGFRスロプの変化（血清クレアチニンから推定したeGFR）",
-      "endpoint_results_ja": "HHF前：群間差 2.68 mL/min/1.73 m2/年（95% CI, 0.87〜4.49）；HHF後：群間差 0.96 mL/min/1.73 m2/年（95% CI, -0.99〜2.91）",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-29T01:00:14Z"
-    },
-    {
-      "pmid": "42802359",
-      "title": "Does higher kidney risk justify more finerenone? Reappraising absolute benefit against the safety window of FINEARTS-HF.",
-      "abstract": "Chronic kidney disease has long been viewed as a reason for caution when prescribing mineralocorticoid receptor antagonists (MRAs) in heart failure (HF), a doctrine rooted in the safety record of the steroidal agents: in TOPCAT, drug discontinuation for adverse events rose steeply as kidney function declined. The prespecified kidney-risk analysis of FINEARTS-HF, which reported consistent relative benefit of the non-steroidal MRA finerenone across KDIGO risk bands with a non-significant interaction on the primary endpoint, is widely read as a mandate to treat higher-risk patients more readily. We welcome this move away from reflexive under-treatment, but argue that a careful reading supports a more qualified conclusion than \"worse kidneys, therefore more finerenone.\" Two features deserve emphasis. First, the reassuring safety signal was generated within the trial's enrolment window, which excluded patients with an eGFR below 25 mL/min/1.73 m2 or a serum potassium above 5.0 mmol/L; extending \"no excess hyperkalaemia\" to the very-low-eGFR patients who most concern clinicians is an extrapolation, not a demonstrated finding. Second, absolute benefit did not increase smoothly with rising kidney risk: modelled absolute reductions were not largest in the highest-risk stratum, and a non-significant interaction test does not establish that the treatment effect is identical across strata. Earlier, larger falls in albuminuria among higher-risk patients are encouraging but remain a candidate intermediate endpoint rather than proof of durable cardiorenal gains. We therefore propose a proportionate strategy: allow a higher renal-risk band to prompt consideration of finerenone in suitable patients, resist equating a uniform relative risk with uniformly maximal absolute benefit or unchanged safety at very low eGFR, and escalate potassium monitoring in parallel with renal risk, especially at or beyond the trial's boundaries. The strongest inference is that finerenone is effective and well tolerated in patients with moderately advanced CKD, normal potassium, and close follow-up; its least secure inference is that the highest-risk patients are ipso facto the safest or most deserving recipients. Future work should define optimal monitoring for patients whose eGFR drifts very low during treatment.",
-      "journal": "ESC heart failure",
-      "authors": "Guo Song, Li Yu",
-      "pub_date": "2026-09-28",
-      "doi": "10.1093/eschf/xvag245",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42802359/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "finerenone"
-      ],
-      "matched_companies": [
-        "Bayer"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "64dd97834dc7c69d9b8a31e6fc2fd3b3eb03fef92f405a6fb2301c185d481b83",
-      "fetched_at_utc": "2026-09-29T00:57:38Z",
-      "updated_at_utc": "2026-09-29T00:57:38Z",
-      "summary_ja": "FINEARTS-HFの事前指定された腎リスク解析について、非ステロイド性MRAフィネレノンのKDIGOリスク帯域を通じた相対的効果の一貫性を再検討した論評。安全性シグナルはeGFR 25 mL/min/1.73 m2未満または血清カリウム5.0 mmol/L超の患者を除外した入選基準内で得られたものであり、絶対的効果は腎リスクの上昇に伴って滑らかに増加しなかったことを指摘し、「腎機能が悪いほどフィネレノンを積極的に」という単純な解釈には留保が必要と主張する。",
-      "key_takeaway_ja": "フィネレノンは中等度CKD・カリウム正常・近接フォローアップのもとで有効かつ良好な忍容性を示すが、最高リスク患者が最も安全かつ最も適応であるという推論は最も不確実である。",
-      "why_matters_ja": "FINEARTS-HFの腎リスク解析が「腎リスクが高いほどフィネレノンを積極的に投与すべき」と広く解釈されている現状に対し、安全性の一般化が試験の入選基準を超えた外挿であること、絶対的効果の層別分布が均一ではないことを指摘し、臨床現場での過剰な一般化を是正する意義を持つ。",
-      "study_type_ja": "論評（Perspective/Commentary）",
-      "endpoints_ja": "FINEARTS-HFの主要エンドポイント（腎リスク帯域間の交互作用が非有意）、アルブミン尿（中間エンドポイント候補）",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-09-29T01:00:39Z"
-    },
-    {
-      "pmid": "42802295",
-      "title": "Glucagon-Like Peptide-1 Receptor Agonists and Risk of Melanoma and Nonmelanoma Skin Cancer: A Propensity Score-Matched Cohort Study.",
-      "abstract": "",
-      "journal": "Diabetes, obesity & metabolism",
-      "authors": "Bahar Furkan, Karayol Emre, Lee Yu-Che, Chang Ko-Yun, Chiang Cho-Han",
-      "pub_date": "2026-09-27",
-      "doi": "10.1111/dom.71394",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42802295/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "e033a87e78feacf20b5bb82f2f0692deab1d84e96d138bfed2a295d4f085fd4c",
-      "fetched_at_utc": "2026-09-29T00:57:38Z",
-      "updated_at_utc": "2026-09-29T00:57:38Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-09-29T00:57:38Z"
     }
   ]
 }
