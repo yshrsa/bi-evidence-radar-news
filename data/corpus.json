@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-28T00:28:17Z",
+  "generated_at_utc": "2026-10-29T00:51:45Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,108 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42946972",
+      "title": "GLP-1-Based Therapy in Type 1 Diabetes: Balancing Efficacy, Safety, and Patient Selection.",
+      "abstract": "AIMS: To critically examine the evolving evidence on glucagon-like peptide-1 receptor agonists (GLP-1RAs) and the dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonist tirzepatide as adjuncts to insulin therapy in type 1 diabetes (T1D), with particular emphasis on their benefit-risk balance in individuals with overweight or obesity.\nMATERIALS AND METHODS: This narrative review examines evidence on liraglutide, semaglutide and tirzepatide in T1D, focusing on effects on body weight and insulin requirements, alongside hypoglycaemia, ketosis, diabetic ketoacidosis and gastrointestinal tolerability.\nRESULTS: Early trials with liraglutide demonstrated reductions in body weight and insulin requirements but raised concerns regarding hypoglycaemia and ketosis. More recently, semaglutide and tirzepatide have renewed interest in incretin-based therapy in T1D, particularly among individuals with obesity. Their greater effects on weight and insulin requirements introduce a clinically important safety challenge: insulin must be reduced sufficiently to prevent hypoglycaemia while maintaining adequate insulinization to suppress lipolysis and ketogenesis. Gastrointestinal adverse events may further destabilize this balance through reduced carbohydrate intake and dehydration.\nCONCLUSION: Current evidence supports a phenotype-directed approach centred primarily on adults with T1D and obesity, accompanied by careful patient selection, individualised insulin adjustment, glucose and ketone monitoring, and structured patient education. The clinical question has shifted from whether GLP-1-based therapies are effective in T1D to which patients are most likely to achieve a favourable benefit-risk balance and how these therapies can be used safely.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Rossatto Thales, de Andrade Oliveira Ricardo, Cardoso Andréia Machado",
+      "pub_date": "2026-10-27",
+      "doi": "10.1111/dom.71428",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946972/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5d6ad23ee066bf1adc7b3698ff1f07b734d04aca8d1605b5632ed263744dd9d1",
+      "fetched_at_utc": "2026-10-29T00:51:45Z",
+      "updated_at_utc": "2026-10-29T00:51:45Z",
+      "summary_ja": "本論文は、1型糖尿病（T1D）におけるインスリン療法へのGLP-1受容体作動薬（GLP-1RA）およびGIP/GLP-1二重受容体作動薬tirzepatideの併用に関する証拠を批判的に検討した叙述的レビューである。過体重または肥満を伴うT1D患者におけるベネフィット・リスクバランスに焦点を当て、liraglutide、semaglutide、tirzepatideの体重・インスリン用量への影響、低血糖、ケトシス、糖尿病性ケトアシドーシス、消化管耐容性を評価した。",
+      "key_takeaway_ja": "現在の証拠は、T1DにおけるGLP-1系療法の有効性よりも、どの患者が最も良好なベネフィット・リスクバランスを達成できるか、そしていかに安全に使用できるかが臨床的課題であるという認識の転換を示している。肥満を伴う成人T1D患者を主対象としたフェノタイプ指向のアプローチ、慎重な患者選定、個別化されたインスリン調整、血糖・ケトンモニタリング、構造化された患者教育が推奨される。",
+      "why_matters_ja": "T1Dにおけるインクリン系療法の臨床応用において、体重減少とインスリン用量減少がもたらす低血糖とケトシスのバランス調整が重要な安全性課題であり、本レビューは患者選定と安全使用の枠組みを提示することで、臨床実践への直接的な示唆を与える。",
+      "study_type_ja": "叙述的レビュー（Narrative Review）",
+      "endpoints_ja": "体重、インスリン用量、低血糖、ケトシス、糖尿病性ケトアシドーシス、消化管耐容性",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T00:52:04Z"
+    },
+    {
+      "pmid": "42946615",
+      "title": "Heart failure with preserved ejection fraction: From pathophysiology to a practical approach to diagnosis and treatment.",
+      "abstract": "Heart failure with preserved ejection fraction (HFpEF) is a heterogeneous syndrome with increasing prevalence, driven by aging and cardiometabolic comorbidities. It is better understood as a disorder of elevated filling pressures, impaired cardiovascular reserve, recurrent congestion, and systemic multiorgan dysfunction than as heart failure with normal systolic function. Diagnosis remains probabilistic and requires integration of symptoms, natriuretic peptides, echocardiographic structural and functional abnormalities, and, when resting findings are inconclusive, exercise or invasive hemodynamic testing. Treatment has evolved from symptom control toward phenotype-oriented care. Sodium-glucose cotransporter 2 inhibitors are foundational therapy, finerenone expands options for selected patients, and obesity is now a modifiable therapeutic target. This review summarizes current mechanisms, diagnostic pathways, and treatment strategies, with emphasis on practical clinical decision-making.",
+      "journal": "Medicina clinica",
+      "authors": "Fernández-Cisnal Agustín, Lorenzo Miguel, Palau Patricia, Núñez Julio",
+      "pub_date": "2026-10-27",
+      "doi": "10.1016/j.medcli.2026.107617",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946615/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "53c3a220812192c805972a4e4116dfa4f33b50e894ebaacfc27463e902516535",
+      "fetched_at_utc": "2026-10-29T00:51:45Z",
+      "updated_at_utc": "2026-10-29T00:51:45Z",
+      "summary_ja": "保存能型心不全(HFpEF)は加齢と心代謝性合併症に駆動される有病率が増加している異質症候群であり、正常収縮能を有する心不全ではなく、充満圧上昇、心血管予備能障害、反復性うっ血、全身多臓器障害として理解されるべきである。診断は確率的であり、症状、ナトリウム利尿ペプチド、心エコーによる構造・機能異常、安静時所見が不確定な場合は運動負荷または侵襲的血流力学的検査の統合を要する。治療は症状管理から表現型指向のケアへ進化しており、SGLT2阻害薬が基盤的治療、フィネレノンが選択的患者に選択肢を拡大、肥満が修正可能な治療標的となった。",
+      "key_takeaway_ja": "HFpEFは正常収縮能の心不全ではなく、充満圧上昇・心血管予備能障害・反復性うっ血・全身多臓器障害の複合障害として捉えるべきであり、SGLT2阻害薬を基盤とした表現型指向の治療が実践的臨床判断の中心となる。",
+      "why_matters_ja": "HFpEFは加齢と心代謝性合併症により有病率が増加し続けており、従来の収縮能中心の枠組みでは理解・治療が困難であるため、病理生理学的再定義と実践的な診断・治療アルゴリズムの整理が臨床現場で重要である。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T00:52:24Z"
+    },
+    {
+      "pmid": "42946163",
+      "title": "SGLT2 Inhibitors and risk of bacteriuria, candiduria, and UTI-related hospitalization: A Nationwide Cohort Study.",
+      "abstract": "OBJECTIVES: SGLT2 inhibitors induce glycosuria; however, pathogen-specific real-world data on UTI risk are scarce, particularly in individuals without diabetes. We compared positive urine cultures, UTI-related hospitalizations, and Gram-negative, Gram-positive, and yeast-positive cultures after the initiation of SGLT2 inhibitors vs. GLP-1 receptor agonists in adults with and without type 2 diabetes.\nMETHODS: We conducted parallel propensity score-matched, active-comparator, new-user cohort studies within Clalit Health Services, Israel (2015-2024). Matching and Poisson regression were performed separately in all patients and in the strata with and without documented UTI in the preceding two years.\nRESULTS: We analyzed 153,660 SGLT2 inhibitor initiators (134,060 with diabetes) and 172,262 GLP-1 receptor agonist initiators (93,086 with diabetes). Yeast-positive cultures were markedly more frequent with SGLT2 inhibitors (diabetes IRR 3.31, 95% CI 2.79-3.94; no diabetes 7.76, 2.34-47.99), as were Gram-positive uropathogens (1.34, 1.23-1.45; 1.53, 1.13-2.10), whereas Gram-negative uropathogens were not (0.74, 0.72-0.77; 1.05, 0.94-1.18). Overall culture positivity was lower with SGLT2 inhibitors in patients with diabetes (0.84, 0.81-0.86), but not in those without prior UTI (1.00, 0.96-1.04), and higher in patients without diabetes (1.14, 1.03-1.27). UTI-related hospitalization was uncommon (0.85, 0.74-0.97; 1.01, 0.58-1.83).\nCONCLUSIONS: Compared with GLP-1 receptor agonists, SGLT2 inhibitor initiation was associated with a marked increase in yeast-positive urine cultures irrespective of diabetes status, a smaller increase in Gram-positive uropathogens, and no increase in Gram-negative uropathogens. Culture positivity was higher in patients without diabetes, and UTI-related hospitalization remained uncommon. These findings support the continued use of SGLT2 inhibitors when indicated, with candiduria as a specific safety signal warranting further characterization.",
+      "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+      "authors": "Biham Oren, Burrack Nitzan, Hassan Lior, Nesher Lior",
+      "pub_date": "2026-10-27",
+      "doi": "10.1016/j.cmi.2026.10.021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946163/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f1291f5d91b9eeb4b56e87fab9e09073ef94282c8b7906d46806b39d05ce3ab2",
+      "fetched_at_utc": "2026-10-29T00:51:45Z",
+      "updated_at_utc": "2026-10-29T00:51:45Z",
+      "summary_ja": "イスラエルのClalit Health Services（2015-2024年）において、SGLT2阻害薬開始群とGLP-1受容体アゴニスト開始群を並行プロパティスコアマッチングで比較した全国コホート研究。糖尿病有無を層別化し、尿培養陽性（全培養、酵母、グラム陽性菌、グラム陰性菌）およびUTI関連入院を評価した。",
+      "key_takeaway_ja": "SGLT2阻害薬の開始は、糖尿病の有無にかかわらず酵母陽性尿培養の著明な増加と関連し、グラム陽性尿路病原体の軽度増加も認められたが、グラム陰性尿路病原体の増加は認められず、UTI関連入院は依然として稀であった。",
+      "why_matters_ja": "SGLT2阻害薬は尿糖を誘発するが、病原体別のUTIリスクに関する実世界データは特に糖尿病患者以外では乏しかった。本研究は、candiduria（酵母尿）を特定の安全性シグナルとして特定し、SGLT2阻害薬の適応下での継続使用を支持しつつ、さらなる特徴付けの必要性を示した。",
+      "study_type_ja": "全国コホート研究（並行プロパティスコアマッチング、アクティブコンパレーター、新規ユーザーコホート研究、観察研究）",
+      "endpoints_ja": "尿培養陽性（全培養陽性、酵母陽性培養、グラム陽性尿路病原体、グラム陰性尿路病原体）、UTI関連入院",
+      "endpoint_results_ja": "酵母陽性培養：糖尿病 IRR 3.31（95% CI 2.79-3.94）、非糖尿病 IRR 7.76（95% CI 2.34-47.99）。グラム陽性尿路病原体：糖尿病 IRR 1.34（95% CI 1.23-1.45）、非糖尿病 IRR 1.53（95% CI 1.13-2.10）。グラム陰性尿路病原体：糖尿病 IRR 0.74（95% CI 0.72-0.77）、非糖尿病 IRR 1.05（95% CI 0.94-1.18）。全培養陽性：糖尿病 IRR 0.84（95% CI 0.81-0.86）、過去2年間にUTIなし IRR 1.00（95% CI 0.96-1.04）、非糖尿病 IRR 1.14（95% CI 1.03-1.27）。UTI関連入院：糖尿病 IRR 0.85（95% CI 0.74-0.97）、非糖尿病 IRR 1.01（95% CI 0.58-1.83）。",
+      "sample_size_ja": "SGLT2阻害薬開始群 153,660例（うち糖尿病 134,060例）、GLP-1受容体アゴニスト開始群 172,262例（うち糖尿病 93,086例）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T00:52:54Z"
     },
     {
       "pmid": "42935458",
@@ -152,41 +254,42 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42934302/",
       "publication_types": [
         "Journal Article",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Observational Study"
       ],
       "mesh_terms": [
-        "Humans",
-        "Female",
-        "Middle Aged",
-        "Mastectomy",
-        "Glucagon-Like Peptide-1 Receptor Agonists",
-        "Retrospective Studies",
-        "Breast Neoplasms",
-        "Aged",
-        "Incidence",
-        "Cohort Studies",
-        "Cancer Survivors",
-        "Propensity Score",
         "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Breast Neoplasms",
+        "Cancer Survivors",
+        "Cohort Studies",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Incidence",
+        "Kaplan-Meier Estimate",
+        "Mastectomy",
+        "Propensity Score",
         "Proportional Hazards Models",
-        "Kaplan-Meier Estimate"
+        "Retrospective Studies"
       ],
       "matched_assets": [],
       "matched_companies": [],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "b3d7589ef4c5172d2617152b07543e0eed6c83b1ee89362e4f32e987bb29c6d9",
+      "content_sha256": "f897095d3b784aff4dd8887ad3a6f655208813aec22601982d977614f52e1a99",
       "fetched_at_utc": "2026-10-28T00:28:17Z",
-      "updated_at_utc": "2026-10-28T00:28:17Z",
-      "summary_ja": "TriNetX研究ネットワークの非識別化電子カルテデータを用いた多施設後方視コホート研究。乳癌で乳輪切術および/または腋窩手術のコード化曝露を受けた成人患者を、GLP-1受容体作動薬曝露群と非曝露群に分類し、1対1の傾向スコアマッチングによりベースライン特性を均衡させた。主評価項目はコード化された術後リンパ浮腫症候群の新規発生であり、インデックスイベント後1〜650日間でリスク推定、Kaplan-Meier解析、Cox比例ハザードモデルにより評価した。",
-      "key_takeaway_ja": "GLP-1受容体作動薬曝露は、コード化された術後リンパ浮腫の発生率低下と関連した（ハザード比0.373、95%CI 0.324-0.429、p<0.001）。ただし著者は本結果を仮説生成性とし、系統的リンパ浮腫評価を伴う前向き検証が必要と述べている。",
-      "why_matters_ja": "術後リンパ浮腫は乳癌治療後の慢性サバイバーシップ合併症であり、特に腋窩手術曝露患者に多い。GLP-1受容体作動薬がリンパ浮腫リスクを低減する可能性が示唆されれば、広範に使用されている薬剤の二次的有益性として臨床的に重要である。ただし本研究はコード化データに基づく後方視研究であり、仮説生成性である。",
-      "study_type_ja": "多施設後方視コホート研究（実世界データ）",
-      "endpoints_ja": "主評価項目：コード化された術後リンパ浮腫症候群の新規発生（インデックスイベント後1〜650日間）",
-      "endpoint_results_ja": "GLP-1受容体作動薬使用群：29,259例中258例（発生率0.88%）、非使用群：30,237例中779例（発生率2.58%）。ハザード比0.373（95%CI 0.324-0.429）、p<0.001。絶対リスク差-1.7%、NNT 59。",
+      "updated_at_utc": "2026-10-29T00:51:45Z",
+      "summary_ja": "TriNetX研究ネットワークの匿名化電子カルテデータを用いた後方視コホート研究。乳癌で乳輪切術および/または腋窩手術のコード化曝露を受けた成人患者を、GLP-1受容体作動薬曝露群と非曝露群に分類し、1対1の傾向スコアマッチングにより基線特性を均衡化した。主要アウトカムはコード化された術後リンパ浮腫症候群の新規発生であり、インデックスイベント後1〜650日間でリスク推定、Kaplan-Meier解析、Cox比例ハザードモデルにより評価した。マッチング後61,630例が解析対象となり、GLP-1受容体作動薬曝露群はコード化された術後リンパ浮腫の発生率が有意に低かった（ハザード比0.373、95%CI 0.324-0.429；p<0.001）。",
+      "key_takeaway_ja": "大規模な実世界乳癌手術コホートにおいて、GLP-1受容体作動薬曝露は650日間の追跡期間中にコード化された術後リンパ浮腫の発生率低下と関連した（HR 0.373、95%CI 0.324-0.429；p<0.001）。ただし、本結果は仮説生成であり、系統的リンパ浮腫評価とGLP-1受容体作動薬のタイミング・期間・用量・アドヒアランスの詳細な特徴付けを伴う前向き検証が必要である。",
+      "why_matters_ja": "術後リンパ浮腫は乳癌治療後の慢性サバイバーシップ合併症であり、特に腋窩手術曝露患者に多い。肥満と代謝性炎症はリンパ浮腫リスクの既知の寄与因子である。本結果はGLP-1受容体作動薬がリンパ浮腫に対して保護的効果を持つ可能性を示唆し、乳癌サバイバーのリンパ浮腫予防戦略に新たな視点を提供しうる。",
+      "study_type_ja": "多施設共同・実世界・観察研究（後方視コホート研究）",
+      "endpoints_ja": "主要アウトカム：コード化された術後リンパ浮腫症候群の新規発生（インデックスイベント後1〜650日間）",
+      "endpoint_results_ja": "コード化された術後リンパ浮腫はGLP-1受容体作動薬使用者29,259例中258例（発生率0.88%）、非使用者30,237例中779例（発生率2.58%）に発生。時間至イベント解析でハザード比0.373（95%CI 0.324-0.429；p<0.001）。絶対リスク差-1.7%、必要治療数（NNT）59。",
       "sample_size_ja": "傾向スコアマッチング後61,630例（各コホート30,815例）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-28T00:30:20Z"
+      "summary_generated_at_utc": "2026-10-29T00:53:57Z"
     },
     {
       "pmid": "42934184",
@@ -378,7 +481,16 @@
       "japan_relevant": false,
       "content_sha256": "b18547e8c78c1153673cd0ae6f8cce04085731843e0e9b15d3e22d92ccc67987",
       "fetched_at_utc": "2026-10-28T00:28:17Z",
-      "updated_at_utc": "2026-10-28T00:28:17Z"
+      "updated_at_utc": "2026-10-28T00:28:17Z",
+      "summary_ja": "UBT251はGLP-1、GIP、グルカゴン受容体のトリプルアゴニストであり、2型糖尿病を有する中国の成人211名（平均年齢48.4歳、男性131名）を対象に、週1回皮下投与のUBT251（2 mg、4 mg [初回0.5 mg]、4 mg [初回1 mg]、または6 mg）、セマグルチド1 mg、またはプラセボを24週間投与した多施設共同無作為化第2相試験。24週時点で、UBT251はHbA1cの最小二乗平均変化が-2.16%（95% CI, -2.39〜-1.92）から-1.98%（95% CI, -2.31〜-1.64）を達成し、セマグルチドは-1.77%（95% CI, -1.99〜-1.54）、プラセボは-0.66%（95% CI, -0.90〜-0.41）であった（プラセボ補正差：-1.50%〜-1.32%、すべてp < 0.001）。UBT251は空腹時血糖、食後2時間血糖、腹囲をプラセボと比較して有意に低減し（すべてp < 0.001）、体重減少はプラセボおよびセマグルチドの両方より有意に大きかった（すべてp < 0.05）。消化管イベントが最も多い治療関連有害事象であった。",
+      "key_takeaway_ja": "トリプルアゴニストUBT251は、24週間の第2相試験において、セマグルチド（デュアルアゴニスト）およびプラセボの両方と比較して、HbA1c低下および体重減少の両面で優越性を示した。",
+      "why_matters_ja": "GLP-1、GIP、グルカゴン受容体のトリプルアゴニストとして、既存のデュアルアゴニスト（セマグルチド）を上回る血糖コントロールと体重減少効果を示し、第3相試験への展開を支持する。",
+      "study_type_ja": "多施設共同、無作為化、第2相試験",
+      "endpoints_ja": "HbA1cのベースラインからの変化、空腹時血糖、食後2時間血糖、腹囲、体重減少、有害事象",
+      "endpoint_results_ja": "HbA1c：UBT251 -2.16%（95% CI, -2.39〜-1.92）から-1.98%（95% CI, -2.31〜-1.64）、セマグルチド -1.77%（95% CI, -1.99〜-1.54）、プラセボ -0.66%（95% CI, -0.90〜-0.41）、プラセボ補正差 -1.50%〜-1.32%（すべてp < 0.001）。空腹時血糖・食後2時間血糖・腹囲：プラセボと比較して有意に低減（すべてp < 0.001）。体重減少：プラセボおよびセマグルチドの両方より有意に大きい（すべてp < 0.05）。消化管イベントが最も多い治療関連有害事象。",
+      "sample_size_ja": "211名（中国の2型糖尿病患者、平均年齢48.4歳、男性131名）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T00:55:28Z"
     },
     {
       "pmid": "42932003",
@@ -668,6 +780,78 @@
       "sample_size_ja": "スクリーニング203例、除外後解析61例（中止群 n=21、継続群 n=40）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-25T23:13:39Z"
+    },
+    {
+      "pmid": "42948675",
+      "title": "The Impact of Incretin-Based Therapies on Anthropometric and Metabolic Parameters in Women with Polyendocrine Metabolic Ovarian Syndrome.",
+      "abstract": "Polycystic ovary syndrome (PCOS), recently renamed polyendocrine metabolic ovarian syndrome (PMOS), affects 170 million women globally and is often accompanied by obesity and various levels of insulin resistance. Incretin-based therapies, including the glucagon-like peptide-1 (GLP-1) receptor agonists liraglutide and semaglutide, and the dual GLP-1/glucose-dependent insulinotropic polypeptide (GIP) agonist tirzepatide, offer a biologically plausible mechanism for targeting metabolic dysfunction in PMOS. This review examines clinical trial evidence on the anthropometric and metabolic effects of incretin-based therapies in this population, including a focus on women of reproductive age, who face distinct challenges related to preconception planning, treatment duration, and post-discontinuation metabolic and weight management. Available literature shows that liraglutide, semaglutide and tirzepatide produce clinically meaningful reductions in body weight, body mass index (BMI), and waist circumference, with some studies also confirming preferential effects on visceral and ectopic fat compartments. Glycaemic and insulin resistance outcomes vary across studies, while lipid and blood pressure effects remain incompletely characterized. Although emerging data suggest that higher-potency agents may yield more consistent weight-loss benefits, available PMOS-specific evidence does not establish comparative metabolic superiority among agents. Interpretation of the available evidence is limited by the predominance of short-term trials at sub-obesity doses, frequent co-administration with metformin, and the absence of phenotype-stratified data, leaving the full metabolic potential of these agents in PMOS incompletely defined. Larger, longer, and higher-dose trials are needed to fully characterize the anthropometric and metabolic potential of these agents in PMOS.",
+      "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "authors": "Koceva Andrijana, Janež Andrej, Jensterle Mojca",
+      "pub_date": "2026-10-23",
+      "doi": "10.2147/DMSO.S620819",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948675/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "75bbda4e83d08af4889ed2d9c7e5353821a563ba5b2212f7313be562cd87a1ee",
+      "fetched_at_utc": "2026-10-29T00:51:45Z",
+      "updated_at_utc": "2026-10-29T00:51:45Z",
+      "summary_ja": "ポリエンドクリン代謝性卵巣症候群（PMOS、旧PCOS）女性におけるインクレチン系療法（GLP-1受容体作動薬のリラグルチド・セマグルチド、およびGLP-1/GIP二重作動薬のチルゼパチド）の人体計測学的・代謝的効果に関する臨床試験エビデンスをレビューした論文。生殖期女性のプレコンセプション計画、治療期間、中止後の代謝・体重管理に関する課題にも言及。",
+      "key_takeaway_ja": "リラグルチド、セマグルチド、チルゼパチドはPMOS女性において体重・BMI・腹囲の臨床的に有意な減少をもたらすが、薬剤間の比較代謝的優越性は確立されていない。また、短期間・非肥満域用量の試験が主体であり、メトホルミン併用が頻繁であり、フェノタイプ別データが欠如しているため、これらの薬剤のPMOSにおける完全な代謝的潜在力は未定義である。",
+      "why_matters_ja": "PMOSは世界中で1.7億人の女性に影響し、肥満やインスリン抵抗性を伴うことが多く、インクレチン系療法はPMOSにおける代謝異常を標的とする生物学的に妥当なメカニズムを提供する。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "体重、BMI、腹囲、内臓脂肪・異所性脂肪、血糖値、インスリン抵抗性、脂質、血圧",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T00:55:48Z"
+    },
+    {
+      "pmid": "42948670",
+      "title": "Pancreatic and Gallbladder Adverse Events Associated with Tirzepatide in Obesity Management: A Scoping Review.",
+      "abstract": "BACKGROUND: Obesity is a chronic and relapsing condition that affects all demographics and results in comorbidities, rising healthcare costs, and social challenges. Tirzepatide, a novel dual glucose-dependent insulinotropic polypeptide (GIP)/glucagon-like peptide-1 (GLP-1) receptor agonist, has emerged as a promising therapy offering significant weight reduction. However, uncertainty remains regarding its pancreatic and gallbladder safety profile across different populations and evidence sources.\nAIM: To systematically map existing evidence on the safety of tirzepatide in obesity management, with an emphasis on pancreatic- and gallbladder-related adverse events (AEs) across randomized controlled trials (RCTs), observational studies, case reports, and pharmacovigilance evidence.\nMETHODS: Following the methodological framework of Arksey and O'Malley (2005), expanded with Joanna Briggs Institute guidance, this scoping review included RCTs, observational studies, and post-marketing safety reports identified between December 2019 and September 2025. The searches were conducted across PubMed, EMBASE, the Cochrane Library, and the FDA Adverse Event Reporting System (FAERS), with additional evidence identified through gray literature, targeted journal searches, and published pharmacovigilance studies based on the EudraVigilance database. ClinicalTrials.gov was subsequently searched as an additional source to identify relevant clinical trials. Studies were eligible if they examined pancreatic or gallbladder AEs in the context of tirzepatide exposure among individuals with obesity. The review included 11 RCTs, 5 observational studies, 4 case reports, 1 EudraVigilance pharmacovigilance analysis, and 575 FAERS reports. Pancreatic and gallbladder AEs were systematically extracted and coded using MedDRA version 28.1, following the predetermined hierarchy. Findings were mapped descriptively across data sources without formal comparative statistical testing.\nRESULTS: Pancreatic and gallbladder AEs were reported infrequently in RCTs. Pancreatitis was reported in 11 participants across five RCTs, with study-specific frequencies ranging from 0.2% (3 of 1,896) to 3.7% (1 of 27), while cholelithiasis was reported in 73 participants across 11 RCTs, with frequencies ranging from 0.3% (1 of 335 and 1 of 364) to 3.7% (1 of 27). Among observational studies, pancreatitis was reported in three studies, with proportions of 0.6% (63/10,002), 0.9% (1/110), and 2.1% (5,882/280,094). One retrospective cohort study reported an incidence rate of 3.84 events per 1,000 person-years among 9,193 participants, while cholelithiasis was reported at 11.89 events per 1,000 person-years in the same cohort. In the EudraVigilance pharmacovigilance analysis, pancreatitis represented 363 reported AEs (6.3% of all AEs and 19.4% of gastrointestinal AEs). In the FAERS database, pancreatitis accounted for 155/288 pancreatic-related reports [53.8%] and cholelithiasis for 143/249 gallbladder-related reports [57.4%]. Four case reports described six distinct AEs: edematous pancreatitis, acute pancreatitis, pancreatitis necrotizing, acalculous cholecystitis, gallstones, and gallbladder wall thickening, each reported once. Female participants, White participants, adults aged 18-64 years, and participants from the United States (US) predominated among reported demographic characteristics; however, demographic characteristics and comorbidity profiles were inconsistently reported and varied across studies.\nCONCLUSION: Pancreatic and gallbladder AEs were reported across clinical trials, observational studies, case reports, and pharmacovigilance databases. RCTs generally reported low frequencies of pancreatobiliary AEs, whereas pharmacovigilance databases captured a broader spectrum of reported events. Variability in study populations, comorbidity profiles, reporting methods, and the absence of exposure denominators limited direct comparison across evidence sources. Vigilant monitoring and standardized AE reporting are needed to further characterize the pancreatobiliary safety profile of tirzepatide.",
+      "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "authors": "Kutsyba Tetiana, Raj Sonika, van der Berg Malisha",
+      "pub_date": "2026-10-23",
+      "doi": "10.2147/DMSO.S637243",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948670/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d2a7208055f259291bcead962d8b035b339bdf72be3f29cd0a86f346c829cadb",
+      "fetched_at_utc": "2026-10-29T00:51:45Z",
+      "updated_at_utc": "2026-10-29T00:51:45Z",
+      "summary_ja": "Tirzepatide（GIP/GLP-1二重受容体作動薬）の肥満治療における膵臓・胆嚢関連有害事象（AE）の安全性証拠を、RCT、観察研究、症例報告、薬物警戒データベース（FAERS、EudraVigilance）から体系的にマッピングしたスコーピングレビュー。Arksey and O'Malley（2005）の枠組みとJoanna Briggs Instituteのガイダンスに従い、2019年12月から2025年9月までに公開された文献を対象に検索・抽出を実施した。",
+      "key_takeaway_ja": "RCTでは膵臓・胆嚢AEは低頻度で報告されたが、薬物警戒データベースではより広範な事象が捕捉された。研究集団・併存疾患プロファイル・報告方法のばらつきと曝露分母の欠如により、証拠ソース間の直接比較は制限された。膵胆道安全性プロファイルのさらなる特徴付けには、警戒的なモニタリングと標準化されたAE報告が必要である。",
+      "why_matters_ja": "Tirzepatideは著しい減量効果を持つ有望な新規治療薬であるが、異なる集団や証拠ソースにおける膵臓・胆嚢の安全性プロファイルに関する不確実性が残っており、臨床開発・データ管理の観点から安全性シグナルの体系的評価が求められる。",
+      "study_type_ja": "スコーピングレビュー（Scoping Review）",
+      "endpoints_ja": "膵臓・胆嚢関連有害事象（膵炎、胆石症、その他の膵胆道AE）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "レビューに包含された研究数：RCT 11件、観察研究5件、症例報告4件、EudraVigilance薬物警戒解析1件、FAERS報告575件。全研究の合計被験者数は抄録に単一の数値として記載なし。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T00:56:19Z"
     },
     {
       "pmid": "42920871",
@@ -1265,7 +1449,16 @@
       "japan_relevant": false,
       "content_sha256": "223fbc8e1a1e6ef3e381680131d2081b4e5f7410a95da592ecc33fe93d44464b",
       "fetched_at_utc": "2026-10-28T00:28:17Z",
-      "updated_at_utc": "2026-10-28T00:28:17Z"
+      "updated_at_utc": "2026-10-28T00:28:17Z",
+      "summary_ja": "小児・思春期肥満は生物学的・行動的・心理的・家庭的・社会的経済的要因を伴う慢性多因子疾患であり、本叙述的レビューは、生活習慣・家族ベース・心理的・薬物療法の統合的アプローチを、治療エンゲージメント、摂食障害、ADHD、治療の持続性に焦点を当てて検討した。PubMed/MEDLINE、Scopus、Web of Scienceを用い、主に2010年から2026年8月までに発表された小児試験、観察研究、系統的レビュー、メタアナリシス、ガイドライン、公衆衛生報告を優先的に検索した。",
+      "key_takeaway_ja": "集約的家族ベースの多成分行動療法が最も根拠の強い基盤であるが、薬物療法（セマグルチド、リラグルチド、フェンテルミン/トピラマート）の追加はBMIのさらなる低下をもたらすものの、平均的には modest であり、行動的・心理的・家族的ケアを補完する位置づけであるべきである。",
+      "why_matters_ja": "小児肥満の管理において、BMI以外の代謝的・心理的・機能的・長期アウトカムを重視した、フェノタイプに基づく多職種・長期アプローチの必要性を明確にし、薬物療法の位置づけと限界（GLP-1受容体作動薬の消化管有害事象の頻発、中止後の部分的重増量、処方機会の不平等）を整理している。",
+      "study_type_ja": "叙述的レビュー（Narrative Review）",
+      "endpoints_ja": "BMI変化、摂食病理（eating psychopathology）、心理的アウトカム、治療エンゲージメント（受診率）、中止後の体重再増加、消化管有害事象",
+      "endpoint_results_ja": "抄録に記載なし（具体的な数値は提示されていない。行動療法に抗肥満薬を追加した際のBMI低下は「平均的には modest な追加的低下」とのみ記載され、セマグルチド・リラグルチド・フェンテルミン/トピラマートは旧薬より「より大きな数値的低下」を示したと記載されるが、具体的な数値は示されていない）",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-29T00:57:22Z"
     },
     {
       "pmid": "42942139",
@@ -3666,6 +3859,34 @@
       "content_sha256": "adfdaf7ec1bb774fc3ee6423babd7b68d75d5bc6d9bb65bb3988840c4bccb74d",
       "fetched_at_utc": "2026-10-14T23:53:41Z",
       "updated_at_utc": "2026-10-14T23:53:41Z"
+    },
+    {
+      "pmid": "42947668",
+      "title": "From pathophysiology to therapy: dual and triple agonists as a new frontier in metabolic dysfunction-associated steatotic liver disease.",
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) has emerged as the most prevalent chronic liver condition worldwide, reflecting the growing global burden of obesity and type 2 diabetes (T2D). The complex pathophysiology of MASLD, characterized by insulin resistance (IR), lipotoxicity, and chronic low-grade inflammation, necessitates therapeutic strategies that address systemic metabolic dysfunction rather than isolated hepatic markers. Current evidence highlights the synergistic potential of targeting multiple incretin and metabolic pathways. Dual agonists, most notably Tirzepatide (a GIP and GLP-1 receptor agonist), have demonstrated profound efficacy in clinical trials (SURPASS and SURMOUNT programs), achieving significant reductions in hemoglobin A1c, body weight, and liver fat content. Furthermore, dual GLP-1/glucagon receptor agonists like Survodutide and Cotadutide offer complementary benefits by enhancing energy expenditure and modulating hepatic lipid metabolism. The development of triple agonists, such as Retatrutide (targeting GIP, GLP-1, and glucagon receptors), represents a further escalation in potency, showing unprecedented results in liver fat reduction and weight loss. The integration of these multi-target agents, together with emerging pathways involving amylin analogues and pan-PPAR agonists like Chiglitazar, marks a paradigm shift toward holistic cardiometabolic management. These therapies not only target the resolution of metabolic dysfunction-associated steatohepatitis and fibrosis but also address the interconnected risks of cardiovascular and renal complications. This review aims to explore the evolving landscape of pharmacological interventions, focusing on the emergence of dual and triple receptor agonists as a transformative frontier in metabolic dysfunction and MASLD therapy.",
+      "journal": "Frontiers in pharmacology",
+      "authors": "Argano Christiano, Maggio Dalila, Pollicino Chiara, Cangialosi Virginia, Biscaglia Manno Stefania, Orlando Valentina, Monti Martina Lucia, Grutta Arianna",
+      "pub_date": "2026-10-13",
+      "doi": "10.3389/fphar.2026.1784959",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947668/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "survodutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim",
+        "Eli Lilly"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "f94e9943f32a2d77cc8daa2670688e86d1abf720ecfb701f0f86d0181c342036",
+      "fetched_at_utc": "2026-10-29T00:51:45Z",
+      "updated_at_utc": "2026-10-29T00:51:45Z"
     },
     {
       "pmid": "42941840",
@@ -26558,6 +26779,59 @@
       "updated_at_utc": "2026-09-01T23:16:30Z"
     },
     {
+      "pmid": "42947001",
+      "title": "Comparison of cardiac adverse event signal profiles for GLP-1 receptor agonists: an analysis of the FAERS database.",
+      "abstract": "PURPOSE: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are widely used in the management of type 2 diabetes owing to their effectiveness in glycemic control and weight reduction. Given the increasing use of GLP-1RAs, further research is warranted to better understand their cardiac effects.\nMETHODS: Individual Case Safety Reports from the U. S. Food and Drug Administration Adverse Event Reporting System database from July 6, 2007, to February 17, 2026, were evaluated for the post-marketing cardiac adverse events associated with dulaglutide, liraglutide, semaglutide, and tirzepatide. To detect signal differences among drugs, disproportionality analysis was conducted using the Proportional Reporting Ratio (PRR) and Reporting Odds Ratio (ROR) methods, along with standard statistical tests to evaluate categorical variables and to estimate odds ratios.\nRESULTS: A total of 7,023 cardiac adverse events were identified among 305,877 reports. GLP-1RAs were associated with a higher reporting frequency of tachyarrhythmias than bradyarrhythmias. In the 65-85-year age group, an increase in the signal for cardiac events was observed. Pairwise post hoc comparisons demonstrated no statistically significant differences in reporting frequency of cardiac events between semaglutide and liraglutide, whereas all other drug pairs demonstrated statistically significant differences.\nCONCLUSION: Semaglutide and liraglutide had higher relative reporting of cardiac events whereas tirzepatide had lower PRR and ROR values against the total background of reports. These findings suggest a lower reporting tendency of cardiac events for tirzepatide. This study may assist healthcare professionals in recognizing the frequency of cardiac events associated with GLP-1RA use and drive new hypotheses to clarify underlying mechanisms.",
+      "journal": "BMC cardiovascular disorders",
+      "authors": "Yildirim Burak Ogulcan, Sarkim Ibrahim Furkan, Yalman Gizem, Arslantas Bugra, Celik Can Berk, Yildirim Sahin",
+      "pub_date": "2026-07-31",
+      "doi": "10.1186/s12872-026-06387-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947001/",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Semaglutide",
+        "Tirzepatide",
+        "Glucagon-Like Peptides",
+        "Hypoglycemic Agents",
+        "Databases, Factual",
+        "United States",
+        "Glucagon-Like Peptide-1 Receptor",
+        "Diabetes Mellitus, Type 2",
+        "Risk Factors",
+        "Liraglutide",
+        "Risk Assessment",
+        "Adverse Drug Reaction Reporting Systems",
+        "Incretins",
+        "Product Surveillance, Postmarketing",
+        "Immunoglobulin Fc Fragments",
+        "Time Factors",
+        "Heart Diseases",
+        "Treatment Outcome",
+        "Cardiotoxicity",
+        "Female",
+        "Male",
+        "Recombinant Fusion Proteins"
+      ],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f03ded39f7dbf266d9c58bf056540f1f90d3c3045f7b866298176c96ed5f607d",
+      "fetched_at_utc": "2026-10-29T00:51:45Z",
+      "updated_at_utc": "2026-10-29T00:51:45Z"
+    },
+    {
       "pmid": "42840407",
       "title": "Tirzepatide and Glucagon-like Peptide-1/Glucose-dependent Insulinotropic Polypeptide Therapy: Quality of Life, Filipino Diet Culture, and Safe Access.",
       "abstract": "",
@@ -27987,6 +28261,52 @@
       "content_sha256": "4856712884208347b5b06512a066778b33cfdec172c2e3f154cc4730623a7f60",
       "fetched_at_utc": "2026-10-25T23:12:05Z",
       "updated_at_utc": "2026-10-25T23:12:05Z"
+    },
+    {
+      "pmid": "42946127",
+      "title": "Semaglutide and Panic Attacks: Active-Comparator Disproportionality Analysis, Temporal Assessment of Notoriety Bias and Evidence Triangulation in Post-Marketing Pharmacovigilance.",
+      "abstract": "PURPOSE: To evaluate how confounding by indication and notoriety bias shape the apparent semaglutide-panic attack signal in the FDA Adverse Event Reporting System (FAERS) and to interpret this signal using an evidence-triangulation framework integrating randomized and observational studies.\nMETHODS: We conducted an active-comparator restricted disproportionality analysis of FAERS (2018Q1-2024Q4), including individual case safety reports in which semaglutide, dulaglutide or empagliflozin was the primary suspect drug. Panic attack was identified using the MedDRA preferred term. Crude and adjusted reporting odds ratios (RORs, aRORs) with 95% confidence intervals (CIs) were estimated using logistic regression, adjusting for age, sex and indication (Type 2 diabetes, obesity/weight management). Notoriety bias was assessed using prespecified temporal analyses (analyses restricted to reports received before July 1, 2023 and a drug-by-period comparison of 2018-2022 with 2023-2024) and reporting proportions per 10 000 reports. A sensitivity analysis used all other primary-suspect drugs in FAERS as the reference set. In parallel, we conducted a systematic review (MEDLINE, Embase, CENTRAL to November 24, 2025) of randomized trials, cohort and cross-sectional studies, pharmacovigilance analyses and case reports reporting panic attacks or acute anxiety outcomes with semaglutide.\nRESULTS: Among 33 267 semaglutide, 54 282 dulaglutide and 25 380 empagliflozin reports, panic attacks were recorded in 87 (0.26%), 28 (0.05%) and 13 (0.05%) cases, respectively. Crude RORs were 5.08 (95% CI 3.32-7.78) versus dulaglutide and 5.12 (95% CI 2.86-9.17) versus empagliflozin, attenuating after adjustment to 2.82 (95% CI 1.74-4.56) and 2.75 (95% CI 1.41-5.36). In the pre-warning period crude RORs were 2.24 (95% CI 1.23-4.07) and 2.15 (95% CI 1.00-4.58), attenuating to 1.38 (95% CI 0.69-2.75) and 1.14 (95% CI 0.48-2.68) after adjustment. Panic-attack reports per 10 000 semaglutide reports rose from 6.7 in 2018-2022 to 42.0 in 2023-2024 (drug-by-period interaction p = 0.007). Against all other primary-suspect drugs, the aROR was 1.48 (95% CI 1.18-1.87) overall and 0.76 (95% CI 0.48-1.18) before July 1, 2023. Across 12 studies, randomized trials and active-comparator observational cohorts did not show a consistent increase in panic attacks or anxiety-related outcomes.\nCONCLUSIONS: Crude FAERS analyses suggested a semaglutide-panic attack signal that attenuated after adjustment was no longer significant before the July 2023 regulatory communication and rose sharply thereafter in a pattern consistent with notoriety bias. Triangulation with randomized trials and active-comparator observational studies does not support a consistent pharmacological association. Disproportionality analyses are hypothesis-generating and cannot estimate incidence or establish causality. This case study illustrates how active-comparator design, temporal assessment of notoriety bias and evidence triangulation can improve the interpretation of post-marketing safety signals.",
+      "journal": "Pharmacoepidemiology and drug safety",
+      "authors": "Melamed Ben, Parsi-Zahabi Mahak, Omrani Mohammad Ali, Baskaran Bala Swetha, Eddin Lujain Ez, Kermanshahi Nazgol, Chalabianloo Niaz, Muanda Flory Tsobo",
+      "pub_date": "2026-01-01",
+      "doi": "10.1002/pds.70517",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946127/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Semaglutide",
+        "Glucagon-Like Peptides",
+        "Humans",
+        "Adverse Drug Reaction Reporting Systems",
+        "Pharmacovigilance",
+        "Female",
+        "Hypoglycemic Agents",
+        "Panic Disorder",
+        "United States",
+        "Recombinant Fusion Proteins",
+        "Glucosides",
+        "Product Surveillance, Postmarketing",
+        "Male",
+        "Diabetes Mellitus, Type 2",
+        "Middle Aged",
+        "United States Food and Drug Administration",
+        "Benzhydryl Compounds",
+        "Immunoglobulin Fc Fragments"
+      ],
+      "matched_assets": [
+        "empagliflozin",
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim",
+        "Novo Nordisk"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "f83d7c11ef82b45284da1cacb74a35013f03848b8efa60a195332203e2732a60",
+      "fetched_at_utc": "2026-10-29T00:51:45Z",
+      "updated_at_utc": "2026-10-29T00:51:45Z"
     },
     {
       "pmid": "42937801",
