@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-30T00:53:36Z",
+  "generated_at_utc": "2026-10-31T00:42:52Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,206 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42961329",
+      "title": "Glucagon-Like Peptide-1 Analog-Type Amyloidosis: A Case Report and Review of the Literature.",
+      "abstract": "Amyloidosis is a heterogeneous group of diseases characterized by extracellular deposition of insoluble proteins. Glucagon-like peptide-1 analog (AGLP1)-type amyloidosis is a rare iatrogenic form of amyloidosis localized to areas of glucagon-like peptide-1 analog injections. In this study, we describe a case of AGLP1-type amyloidosis presenting as a subcutaneous mass on the abdomen of a 71-year-old woman with a history of liraglutide, semaglutide, and tirzepatide use. Biopsy, including Congo red stain, was consistent with an amyloid deposit. Amyloid protein identification by liquid chromatography tandem mass spectrometry showed a typical amyloid profile with low spectra for liraglutide. Immunohistochemistry, subsequently performed, showed that the amyloid deposits were positive for glucagon; there is an extensive peptide homology between liraglutide and glucagon. Only 3 cases of AGLP1-type amyloidosis have been previously reported. It is vital for clinicians and pathologists to be aware of AGLP1-type amyloidosis given the increasing worldwide use of GLP-1 agonists, as well as the potential for misdiagnosis of systemic amyloidosis, which has profound therapeutic and prognostic implications.",
+      "journal": "The American Journal of dermatopathology",
+      "authors": "Loggie John, McKay Robert C, Nasr Samih H, Stueck Ashley",
+      "pub_date": "2026-10-30",
+      "doi": "10.1097/DAD.0000000000003440",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961329/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "85c2a00318451df8a38e5f434edb4c6d306613578fcb512a3abbcc8c5ce729cd",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "71歳の女性で、リラグルチド、セマグルチド、チルゼパチドの既往があり、腹部の皮下腫瘤として発症したGLP-1アナログ型アミロイドーシス（AGLP1型アミロイドーシス）の症例を報告した。生検およびコンゴレッド染色でアミロイド沈着と一致し、LC-MS/MSではリラグルチドの低スペクトルを伴う典型的なアミロイドプロファイルが示された。免疫組織化学ではグルカゴン陽性であった（リラグルチドとグルカゴンの間で広範なペプチド相同性があるため）。",
+      "key_takeaway_ja": "AGLP1型アミロイドーシスはGLP-1アナログ注射部位に局在する希少な医原性アミロイドーシスであり、全身性アミロイドーシスとの誤診を避けるために臨床医・病理医の認識が重要である。",
+      "why_matters_ja": "GLP-1アゴニストの世界的な使用増加に伴い、AGLP1型アミロイドーシスの認識が重要であり、全身性アミロイドーシスとの誤診は治療および予後に関わる重大な影響を及ぼす可能性がある。",
+      "study_type_ja": "症例報告および文献レビュー",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "1例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:43:10Z"
+    },
+    {
+      "pmid": "42958899",
+      "title": "Combined time-restricted feeding and resistance training enhance tirzepatide-induced improvements in adiposity and whole-body insulin sensitivity in female mice.",
+      "abstract": "Tirzepatide is a dual agonist of glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors with potent effects on body weight regulation, glucose homeostasis and metabolic health. However, its interaction with dietary and exercise interventions as well as its impact on obesity and hepatic metabolic pathways, particularly in females, remain unclear. Here, we tested whether tirzepatide, alone or combined with time-restricted feeding (TRF) or resistance training, modulates energy balance, strength performance, adipose tissue remodelling, insulin sensitivity and hepatic lipid accumulation in female mice. Female Swiss mice after 10 weeks of obesity induction were treated with tirzepatide, TRF or resistance training for 8 weeks. Tirzepatide was administered subcutaneously using a dose-escalation protocol. TRF consisted of a 12 h feeding window, and resistance training was performed as stair climbing on alternating days. Body weight, caloric intake and feed efficiency were monitored longitudinally. Glucose homeostasis was assessed by intraperitoneal glucose and insulin tolerance tests. Adipose depots, skeletal muscle and liver mass were quantified, and hepatic lipid accumulation was evaluated by histology and RT-qPCR of lipogenic metabolism genes. Tirzepatide reduced body weight gain and feed efficiency, consistent with a negative energy balance. When combined with TRF and resistance training, tirzepatide accelerated weight loss, and the addition of resistance training further enhanced this effect, bringing body weight close to control levels. These effects were associated with reduced adipose mass and adipocyte hypertrophy, indicating improved adipose tissue remodelling. Resistance training improved strength performance and increased skeletal muscle mass. Tirzepatide combined with TRF, with or without resistance training, improved glucose tolerance in female mice. All interventions reduced hepatic lipid accumulation. Collectively, tirzepatide, particularly in combination with TRF and resistance training, exerts enhanced metabolic benefits on obesity, insulin sensitivity and metabolic regulation in female mice. KEY POINTS: Tirzepatide combined with time-restricted feeding and resistance training produced greater reductions in body weight and adiposity in obese female mice. Combined interventions improved whole-body insulin sensitivity more effectively than isolated strategies. Resistance training preserved skeletal muscle mass during tirzepatide-induced weight loss. All interventions similarly reduced hepatic lipid accumulation and lipogenic gene expression. Tirzepatide-based therapies enhanced systemic metabolic health without additional hepatic benefits from combined interventions.",
+      "journal": "The Journal of physiology",
+      "authors": "Macêdo Ana Paula Azevêdo, da Conceição de Mattis Luciana Renata, de Lima Robson Damasceno, Barbosa Louise Ailey, Pinotti Camila Barboza, Brisque Guilherme Domingos, Dias Larissa Moreira, Pitoli Beatriz de Souza",
+      "pub_date": "2026-10-30",
+      "doi": "10.1113/JP291770",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958899/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9b2fd84b582994360d82eb4a16355772262089e6786a3720cec781f7806a5233",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "肥満誘導後の雌性Swissマウスにおいて、tirzepatide単独、時間制限食事(TRF)、レジスタンストレーニングの単独または併用が、エネルギーバランス、筋力パフォーマンス、脂肪組織リモデリング、インスリン感受性、肝脂肪蓄積に与える影響を8週間評価した介入研究。",
+      "key_takeaway_ja": "TirzepatideをTRFおよびレジスタンストレーニングと併用することで、肥満雌性マウスにおける体重減少・脂肪量減少・インスリン感受性改善が単独介入よりもさらに増強された。",
+      "why_matters_ja": "TirzepatideはGIP/GLP-1二重作動薬として体重調節・グルコース恒常性・代謝健康に強力な効果を持つが、食事・運動介入との相互作用、特に雌性における肥満や肝代謝経路への影響は不明であった。本研究は、tirzepatideベースの療法に生活習慣介入を組み合わせることで代謝的利点を増強できる可能性を示した。",
+      "study_type_ja": "動物介入研究（雌性マウス、対照群を含む複数群比較）",
+      "endpoints_ja": "体重、カロリー摂取量、給餌効率、腹腔内グルコース耐性試験(IPGTT)、腹腔内インスリン耐性試験(IITT)、脂肪組織量、骨格筋量、肝臓重量、肝脂肪蓄積（組織学的評価および脂肪生成代謝遺伝子のRT-qPCR）、筋力パフォーマンス",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:43:47Z"
+    },
+    {
+      "pmid": "42957437",
+      "title": "Early Treatment Trajectory and Long-Term Persistence to Semaglutide for Obesity: A Population-Based Cohort Study.",
+      "abstract": "AIMS: To assess semaglutide persistence in obesity management, identify factors associated with discontinuation and examine early tirzepatide adoption.\nMATERIALS AND METHODS: This retrospective cohort study used Clalit Health Services records of adults without diabetes initiating Wegovy between January and May 2025. Discontinuation was defined as a gap exceeding 60 days after medication coverage ended. Multivariable Cox models, including a Day-90 landmark analysis, assessed discontinuation. Tirzepatide adoption was evaluated following its December 2025 coverage introduction.\nRESULTS: Among 34 309 participants (67.0% women; mean age 44.6 years), cumulative discontinuation reached 36.5% at 180 days and 67.6% at 365 days. Arab population sector (hazard ratio [HR] 1.65, 95% CI 1.59-1.72), low socioeconomic status (HR 1.13, 95% CI 1.09-1.17) and current smoking (HR 1.13, 95% CI 1.09-1.17) were associated with discontinuation. In the day-90 landmark cohort (n = 28 218), remaining on 0.25 versus 1.0 mg was associated with subsequent discontinuation (HR 1.88, 95% CI 1.72-2.06), substantially attenuated after adjustment for early refill adherence. Each percentage-point smaller BMI reduction was associated with 3% higher discontinuation hazard (HR 1.03, 95% CI 1.03-1.04). Following tirzepatide availability, 2908 of 33 936 eligible participants (8.6%) initiated treatment over a median 3.1-month observation period. Adoption was associated with higher socioeconomic status and baseline BMI.\nCONCLUSIONS: Semaglutide discontinuation was common and associated with sociodemographic and early treatment characteristics. Day-90 dose and early weight-loss response may help identify discontinuation risk. Socioeconomic differences suggest inequalities in sustained obesity pharmacotherapy access.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Winter Eitan, Wolff Sagy Yael, Reges Orna, Feldhamer Ilan, Abu Ahmad Wiessam, Arbel Ronen, Dicker Dror, Lavie Gil",
+      "pub_date": "2026-10-29",
+      "doi": "10.1111/dom.71488",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957437/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "6498652dc3a6f8153773be3067863ea97421517952e2fe7818113679f3ce4635",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "Clalit Health Servicesの記録を用いた後方視コホート研究。2025年1月から5月に糖尿病を有さない成人がWegovy（セマグルチド）を開始した34,309例を対象に、セマグルチドの継続率（persistence）、中止に関連する因子、およびtirzepatideの早期導入を評価した。中止は薬剤給付終了後60日を超えるギャップと定義し、Day-90ランドマーク解析を含む多変量Coxモデルで解析した。",
+      "key_takeaway_ja": "セマグルチドの中止は頻発し（180日時点で36.5%、365日時点で67.6%）、Day-90時点の投与量（0.25 mg vs 1.0 mg）および早期の体重減少反応が中止リスクの識別に有用である可能性が示された。また、社会経済的格差が持続的な肥満薬物療法へのアクセスの不平等を反映している。",
+      "why_matters_ja": "肥満薬物療法の長期継続は治療効果の維持に不可欠であり、早期に中止リスクを予測できる因子（Day-90の投与量・早期体重減少反応）を特定できれば、臨床現場での介入タイミングの最適化や患者選定に活用できる。さらに、社会経済的要因によるアクセス格差の存在は、公衆衛生上の公平性問題として政策提言の根拠となる。",
+      "study_type_ja": "後方視コホート研究（population-based）",
+      "endpoints_ja": "主要エンドポイント：セマグルチドの中止（persistence）。二次エンドポイント：中止に関連する因子の同定、tirzepatideの早期導入率。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:44:23Z"
+    },
+    {
+      "pmid": "42957436",
+      "title": "SGLT2 Inhibitors and Risk of Postmenopausal Bleeding in Women: An Active-Comparator, New-User Cohort Study.",
+      "abstract": "AIMS: A recent case report and pharmacovigilance reports have suggested a possible association between sodium-glucose cotransporter-2 (SGLT2) inhibitors and postmenopausal bleeding (PMB), but population-level evidence is lacking. We evaluated the risk of PMB among women aged 55-90 years initiating SGLT2 inhibitors versus dipeptidyl peptidase-4 (DPP-4) inhibitors.\nMATERIALS AND METHODS: We conducted an active-comparator, new-user cohort study using data from the All of Us Research Program. Women aged 55-90 years who newly initiated either an SGLT2 inhibitor or a DPP-4 inhibitor were included. The primary outcome was the first recorded PMB during follow-up. Propensity score (PS) matching, with exact matching on calendar period, was used to control for confounding. Hazard ratios (HRs) and incidence rate ratios (IRRs) with 95% confidence intervals (CIs) were estimated using Cox and Poisson regression models.\nRESULTS: Among 2603 women, 1328 initiated SGLT2 inhibitors and 1275 initiated DPP-4 inhibitors. After 1:1 PS matching, 650 pairs achieved good covariate balance. In the matched cohort, 37 and 34 PMB events occurred over 2248.2 and 2374.2 person-years, respectively. SGLT2 inhibitor initiation was not associated with increased PMB risk (HR 1.14, 95% CI 0.70-1.84; IRR 1.15, 95% CI 0.71-1.87). Sensitivity analyses were consistent with the primary findings.\nCONCLUSIONS: SGLT2 inhibitor initiation was not associated with a significantly increased PMB risk compared with DPP-4 inhibitor initiation. These findings did not provide evidence of increased PMB risk with SGLT2 inhibitor therapy, although wide confidence intervals and limited outcome events warrant confirmation in larger studies.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Choi Jung Yoon, Suh Sung Yun, Lee Hee Min, Lewis Susan J, Rhie Sandy Jeong",
+      "pub_date": "2026-10-29",
+      "doi": "10.1111/dom.71458",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957436/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "533c6290da1e76475d9e4cace04b1af6a6de35ad5b24c4ceb27d59ad50a9946e",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "All of Us Research Programのデータを用いたアクティブ・コンパレーター・ニューユーザーコホート研究。55〜90歳の女性において、SGLT2阻害薬の開始がDPP-4阻害薬の開始と比較して閉経後出血（PMB）のリスクを高めるかを評価した。2603例（SGLT2阻害薬1328例、DPP-4阻害薬1275例）を登録し、1:1の傾向スコアマッチングにより650対を解析対象とした。マッチング後コホートにおいて、SGLT2阻害薬群で37例、DPP-4阻害薬群で34例のPMB事象が観察された。SGLT2阻害薬の開始はPMBリスクの有意な増加とは関連しなかった（HR 1.14, 95% CI 0.70-1.84; IRR 1.15, 95% CI 0.71-1.87）。",
+      "key_takeaway_ja": "SGLT2阻害薬の開始は、DPP-4阻害薬の開始と比較して閉経後出血のリスクを有意に増加させなかった。ただし、信頼区間が広く、アウトカム事象数が限られているため、より大規模な研究での確認が必要である。",
+      "why_matters_ja": "SGLT2阻害薬と閉経後出血の関連を示唆する症例報告や薬物警戒報告が存在したが、集団レベルのエビデンスは不足していた。本研究は、この懸念に対する集団レベルのエビデンスを提供するものである。",
+      "study_type_ja": "アクティブ・コンパレーター・ニューユーザーコホート研究（観察研究）",
+      "endpoints_ja": "フォローアップ期間中に初めて記録された閉経後出血（PMB）",
+      "endpoint_results_ja": "SGLT2阻害薬群：37例のPMB事象（2248.2 person-years）、DPP-4阻害薬群：34例のPMB事象（2374.2 person-years）。HR 1.14（95% CI 0.70-1.84）、IRR 1.15（95% CI 0.71-1.87）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:44:55Z"
+    },
+    {
+      "pmid": "42957066",
+      "title": "GLP-1 Receptor Agonists Decrease the Rate of Rupture, Cardiac Events, and Death in Patients with Abdominal Aortic Aneurysms.",
+      "abstract": "OBJECTIVE: Abdominal aortic aneurysm (AAA) is a degenerative condition involving several processes including inflammation, matrix remodeling, disruptions of vascular smooth muscle cells, and thrombus formation all leading to progressive dilatation of the aorta and eventual rupture. Glucagon-like peptide-1 receptor agonists (GLP-1RA) are now considered part of the frontline therapeutic options to treat type 2 diabetes mellitus and have also been validated as having compelling anti-inflammatory and cardiovascular protective properties. Data is limited on the impact of GLP-1RA on outcomes of patients with AAA. The aim of this study is to examine the association and possible impact of GLP-1RA on patients with AAA.\nMETHODS: Data was sourced from the TriNetX research network, encompassing 123 health care organizations. Utilizing ICD-10 and CPT codes, we identified patients with AAA who received abdominal imaging every six months. Group 1 was comprised of patients who were treated with GLP-1RA while Group 2 patients were not. Propensity-score-matching (PSM) was used in a 1:1 fashion using age, sex, diabetes, metformin use, hypertension, cardiac disease, tobacco use, chronic kidney disease, and pulmonary disease as covariates. Primary outcomes were aneurysm rupture or repair. Secondary outcomes include mortality and major adverse cardiac events (MACE; myocardial infarction, stroke, and heart failure). Standard statistical methods were used as appropriate.\nRESULTS: We identified 412,490 patients with diagnosis of AAA who were undergoing 6-month surveillance between June 1, 2010 and April 16, 2024. After PSM, the GLP-1RA group (N=13,722) underwent fewer elective repairs at each timepoint (1.5% vs 2.3% at 2 years, 2.1% vs 3.0% at 5 years, P<.01) and had significantly fewer ruptures at two years (1.1% vs 1.8%, P<.01) and five years (1.6% vs 2.4%, P<.01) when compared to Group 2 (N=13,722). Group 1 also experienced significantly fewer MACE and all-cause mortality at two and five years. On multivariate analysis, GLP-1RA significantly reduced the risk of undergoing elective repair (HR 0.757, 95% CI [0.636-0.902], P<.01), rupture (HR 0.538, 95% CI [0.418-0.691], P<.01), all-cause mortality (HR 0.474, 95% CI [0.439-0.511], P<.001), and MACE (HR 0.825, 95% CI [0.794-0.857], P<.01) at 5 years.\nCONCLUSIONS: The use of GLP-1RA in patients with AAA is associated with fewer ruptures, elective repairs, and improved rates of MACE and death. A prospective analysis may further elucidate if GLP-1RA should be prescribed to reduce the rate of aneurysm growth.",
+      "journal": "Journal of vascular surgery",
+      "authors": "Go Catherine C, Alcantara Ana Clara Morellato, Annie Frank, Drabish Kerry, Eslami Mohammad H",
+      "pub_date": "2026-10-29",
+      "doi": "10.1016/j.jvs.2026.09.053",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957066/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a207f7b709a7c6a617bb21dcbaca7c468f0e42ed92881c36d90b17eae77d2115",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "TriNetX研究ネットワーク（123の医療機関）から、2010年6月1日から2024年4月16日までに6か月間隔で腹部画像検査を受けていた腹大動脈瘤（AAA）患者412,490例を同定した。傾向スコアマッチング（1:1、年齢・性別・糖尿病・メトホルミン使用・高血圧・心疾患・喫煙・慢性腎臓病・肺疾患を共変量として）後、GLP-1RA群（N=13,722）と非GLP-1RA群（N=13,722）を比較した。GLP-1RA群は、2年・5年時点での選択的修復術、破裂、主要不良心血管事象（MACE）、全死因死亡率が有意に低かった。多変量解析では、5年時点で選択的修復術（HR 0.757）、破裂（HR 0.538）、全死因死亡率（HR 0.474）、MACE（HR 0.825）のリスクが有意に低減した。",
+      "key_takeaway_ja": "腹大動脈瘤患者におけるGLP-1RAの使用は、破裂・選択的修復術・MACE・死亡の発生率の低減と関連していた。",
+      "why_matters_ja": "腹大動脈瘤は炎症・マトリクスリモデリング・血管平滑筋細胞の障害・血栓形成を伴う進行性疾患であり、破裂リスクの管理は臨床的に重要である。GLP-1RAは既に2型糖尿病の第一線治療として確立されており、抗炎症・心血管保護作用も示されているが、AAA患者への影響に関するデータは限られていた。本研究は、既存のGLP-1RAがAAAの予後改善に寄与する可能性を示唆し、AAA管理における新たな治療戦略の検討を促すものである。",
+      "study_type_ja": "大規模データベース（TriNetX）を用いた後向きコホート研究（傾向スコアマッチングによる1:1マッチング）",
+      "endpoints_ja": "主要エンドポイント：動脈瘤破裂または修復術。二次エンドポイント：全死因死亡率、主要不良心血管事象（MACE：心筋梗塞、脳卒中、心不全）。",
+      "endpoint_results_ja": "選択的修復術：2年時点 1.5% vs 2.3%（P<.01）、5年時点 2.1% vs 3.0%（P<.01）。破裂：2年時点 1.1% vs 1.8%（P<.01）、5年時点 1.6% vs 2.4%（P<.01）。MACE：2年・5年時点で有意に低かった（具体的な数値は記載なし）。全死因死亡率：2年・5年時点で有意に低かった（具体的な数値は記載なし）。多変量解析（5年時点）：選択的修復術 HR 0.757（95% CI 0.636-0.902, P<.01）、破裂 HR 0.538（95% CI 0.418-0.691, P<.01）、全死因死亡率 HR 0.474（95% CI 0.439-0.511, P<.001）、MACE HR 0.825（95% CI 0.794-0.857, P<.01）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:45:43Z"
+    },
+    {
+      "pmid": "42956842",
+      "title": "Semaglutide versus other GLP-1 RAs and cardiovascular risk in obesity-related cancer survivors.",
+      "abstract": "AIMS: Obesity-related cancer (ORCa) survivors are a unique population often excluded from landmark GLP-1 receptor agonist (GLP-1 RA) trials. Given their cardiovascular risks, we investigated whether semaglutide initiation, compared with other GLP-1 RA, was associated with modified 3-point major adverse cardiovascular events (MACE) among ORCa survivors with type 2 diabetes (T2D).\nMETHODS: We emulated a target trial using PCORnet-UTSW electronic health records (2016-2025). Adults with ORCa and T2D initiating semaglutide versus other GLP-1 RA were included. The primary outcome was modified 3-point MACE (myocardial infarction, stroke, or all-cause mortality). Cumulative incidence risk (CIR), risk difference (RD), and hazard ratio (HR) were estimated in 1:1 propensity score-matched cohort.\nRESULTS: Among 918 matched patients (semaglutide, n = 459; other GLP-1 RA, n = 459), 124 modified 3-point MACE occurred. The 5-year CIR% was 17.6 (95% CI, 12.3-22.9) for semaglutide and 26.6 (95% CI, 20.7-32.6) for other GLP-1 RA. Semaglutide was associated with lower modified 3-point MACE risk (RD%, -7.41 [95% CI, -11.83 to - 2.98];HR, 0.65 [95% CI, 0.44-0.94]) than other GLP-1 RA. Findings were largely consistent across high-risk subgroups.\nCONCLUSIONS: Semaglutide was associated with a lower modified 3-point MACE risk than other GLP-1 RA. These findings suggest potential heterogeneity in cardioprotective effects and warrant confirmation.",
+      "journal": "Diabetes research and clinical practice",
+      "authors": "Abdelgadir Omer, Hernández-Pérez Jesus Gibran, Hussain Maryam R, Mendoza Kenny, Mian Rabiya K, Albayyaa Mohanad, Hughes Amy, Almandoz Jaime P",
+      "pub_date": "2026-10-29",
+      "doi": "10.1016/j.diabres.2026.113618",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956842/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "779312cbd23698bf00b32c5cab7ec1b94d602c08108e4c1d2bb3850c24d86f2e",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "肥満関連がん（ORCa）生存者かつ2型糖尿病（T2D）の成人において、セマグルチド開始群と他のGLP-1受容体作動薬（GLP-1 RA）群を比較し、修正3点MACE（心筋梗塞、脳卒中、全死因死亡）のリスクを評価した。PCORnet-UTSW電子カルテ（2016-2025）を用いたターゲットトライアルエミュレーションであり、1:1プロパティスコアマッチングコホートで解析した。918名のマッチング患者（セマグルチド群459名、他のGLP-1 RA群459名）中、124例で修正3点MACEが発生した。5年累積発生リスク（CIR）はセマグルチド群17.6%（95% CI, 12.3-22.9）、他のGLP-1 RA群26.6%（95% CI, 20.7-32.6）であり、セマグルチド群で有意に低かった（RD, -7.41% [95% CI, -11.83 to -2.98]; HR, 0.65 [95% CI, 0.44-0.94]）。高リスクサブグループでも結果は概ね一致した。",
+      "key_takeaway_ja": "肥満関連がん生存者かつT2D患者において、セマグルチドは他のGLP-1 RAと比較して修正3点MACEリスクを有意に低減した（HR 0.65）。",
+      "why_matters_ja": "肥満関連がん生存者はランドマークGLP-1 RA試験からしばしば除外される独自の集団であり、心血管リスクが高いにもかかわらず、この集団におけるGLP-1 RA間の心血管保護効果の差に関するエビデンスが不足していた。本研究は、セマグルチドと他のGLP-1 RAの心血管保護効果に異質性が存在する可能性を示唆し、この未解決の臨床的ギャップに答えるものである。",
+      "study_type_ja": "ターゲットトライアルエミュレーション（電子カルテを用いた観察研究、1:1プロパティスコアマッチングコホート）",
+      "endpoints_ja": "修正3点MACE（心筋梗塞、脳卒中、全死因死亡）",
+      "endpoint_results_ja": "5年CIR: セマグルチド群 17.6%（95% CI, 12.3-22.9） vs 他のGLP-1 RA群 26.6%（95% CI, 20.7-32.6）; RD: -7.41%（95% CI, -11.83 to -2.98）; HR: 0.65（95% CI, 0.44-0.94）; MACE発生例数: 124例",
+      "sample_size_ja": "918名（セマグルチド群 n = 459; 他のGLP-1 RA群 n = 459）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:46:09Z"
     },
     {
       "pmid": "42955666",
@@ -414,7 +614,16 @@
       "japan_relevant": false,
       "content_sha256": "603196b4cb49b7606379bd927e027ec5b00007368cb4c3ac71f3feb62360ae61",
       "fetched_at_utc": "2026-10-30T00:53:36Z",
-      "updated_at_utc": "2026-10-30T00:53:36Z"
+      "updated_at_utc": "2026-10-30T00:53:36Z",
+      "summary_ja": "本研究は、Optum Market Clarityデータを用いた後ろ向き観察コホート研究であり、糖尿病を有さない商業保険加入者におけるtirzepatideのリアルワールド有効性を評価した。GLP-1 RA未使用群（230名）とGLP-1 RA使用経験群（123名）の2コホートで、tirzepatideを12ヶ月以上継続使用した対象者のベースラインからの変化（体重、BMI、心血管代謝リスク因子）を評価した。12ヶ月時点で、GLP-1 RA未使用群は平均体重減少19.3%、GLP-1 RA使用経験群は平均体重減少13.1%を達成した。",
+      "key_takeaway_ja": "tirzepatideの12ヶ月間の継続使用により、GLP-1 RA未使用群および使用経験群の双方で臨床的に有意な体重減少が得られ、臨床試験で報告された結果と同等の効果がリアルワールド環境でも確認された。",
+      "why_matters_ja": "糖尿病を有さない商業保険加入者というリアルワールド集団において、tirzepatideの有効性を後方視的に検証したことで、臨床試験環境とは異なる実際の診療現場での治療効果のエビデンスを提供する。",
+      "study_type_ja": "後ろ向き観察コホート研究（リアルワールド研究）",
+      "endpoints_ja": "ベースラインからの体重、BMI、心血管代謝リスク因子の変化",
+      "endpoint_results_ja": "12ヶ月時点で、GLP-1 RA未使用群の平均体重減少は19.3%、GLP-1 RA使用経験群の平均体重減少は13.1%。BMIおよび心血管代謝リスク因子の具体的数値は抄録に記載なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:46:31Z"
     },
     {
       "pmid": "42951207",
@@ -439,7 +648,16 @@
       "japan_relevant": false,
       "content_sha256": "9b33420f4370e9816490dba81642502a0813ff3aa59fbb9f424dd075370b8ff2",
       "fetched_at_utc": "2026-10-30T00:53:36Z",
-      "updated_at_utc": "2026-10-30T00:53:36Z"
+      "updated_at_utc": "2026-10-30T00:53:36Z",
+      "summary_ja": "CagriSema（CS；アミリン受容体作動薬cagrilintideとGLP-1受容体作動薬semaglutideの併用）は肥満および2型糖尿病の治療薬として開発されている。本研究では、食事誘発性肥満ラットを用い、間接熱量計法により、初期治療期（6週間）、体重維持期、および投与中止後（4週間）のエネルギーバランスへのCSの効果を定量化した。対照群として、vehicle群、CS群、CSの体重減少に合わせたカロリー制限群（WM）、CSの食物摂取量に合わせたpair-feeding群（PF）を設けた。",
+      "key_takeaway_ja": "CSはエネルギー摂取量の持続的な低下と代謝適応の軽減によりラットにおいて持続的な体重減少を可能にするが、投与中止後に過食と急速な体重再増加が認められ、体重維持には慢性薬物療法が必要である可能性が示唆された。",
+      "why_matters_ja": "肥満治療において、体重減少のメカニズム（エネルギー摂取量とエネルギー消費量の寄与比）を解明することは、治療戦略の最適化に重要である。CSが代謝適応を軽減しつつ体重減少を維持する機序を明らかにし、投与中止後の体重再増加のリスクを定量的に示すことで、慢性治療の必要性を裏付ける根拠を提供する。",
+      "study_type_ja": "前臨床動物実験（食事誘発性肥満ラット、間接熱量計法によるエネルギーバランス解析）",
+      "endpoints_ja": "エネルギー摂取量（EI）、エネルギー消費量（EE）、体重、呼吸交換比（RER）、安静時/睡眠時EE",
+      "endpoint_results_ja": "CSの体重減少効果のうち、エネルギー摂取量の低下が86%、総エネルギー消費量の維持が14%を説明した。投与中止後、代謝適応は約7日以内に逆転した。体重のプラトー到達は代謝恒常状態の達成に必要な時間の約半分であった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:47:01Z"
     },
     {
       "pmid": "42951118",
@@ -790,6 +1008,34 @@
       "sample_size_ja": "HT受容者T2DM患者734例（2011〜2021年）、うちGLP-1 RA投与群108例（14.7%）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-28T00:30:59Z"
+    },
+    {
+      "pmid": "42957176",
+      "title": "Neuropsychiatric Safety of GLP-1 Receptor Agonists and Tirzepatide in Adults with Type 2 Diabetes Mellitus or Obesity.",
+      "abstract": "OBJECTIVE: Neuropsychiatric safety concerns about glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and tirzepatide prompted regulatory review by the European Medicines Agency (EMA) and the US Food and Drug Administration (FDA). We synthesized the contemporary evidence in adults with type 2 diabetes mellitus or obesity, emphasizing study design, risk of bias, and the distinction between signal detection and causal inference.\nMETHODS: The PubMed/MEDLINE, Embase, Web of Science, and Scopus databases were searched without a lower date limit through March 15, 2026 (English, adults ≥18 years). The review was reported with reference to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020, and the PRISMA-S and PRISMA-Harms extensions. Evidence was grouped into prespecified categories: randomized syntheses, comparative observational studies and target-trial emulations, outlier non-active-comparator studies, pharmacovigilance analyses, and regulatory reviews. Risk of bias was appraised with the Cochrane Risk of Bias 2 tool and with Risk of Bias in Non-randomised Studies of Interventions; certainty was summarized using Grading of Recommendations Assessment, Development and Evaluation.\nRESULTS: Twenty studies and two regulatory reviews met the inclusion criteria. Randomized evidence, including two large 2025 meta-analyses and post hoc pooled analyses of semaglutide and tirzepatide, showed no increased risk of suicidality, depression, or anxiety, though psychiatric exclusion criteria limited generalizability. Active-comparator cohorts from the United States, Scandinavia, and the United Kingdom likewise showed no clear increase after confounding control. Passive-comparator and disproportionality analyses generated signals but could not separate drug effects from baseline psychiatric risk, obesity-related distress, or reporting bias. The EMA and FDA conclusions do not support a causal class-wide association between GLP-1 RAs and suicidal ideation or behavior.\nCONCLUSIONS: Evidence does not support a clinically meaningful increase in neuropsychiatric harm with GLP-1 RAs or tirzepatide in the populations studied. Surveillance remains warranted for patients with substantial psychiatric morbidity, for obesity-only populations, and for long-term rare outcomes.",
+      "journal": "Rambam Maimonides medical journal",
+      "authors": "Jani Het Tushar, Levine Helisse, Patel Abhiraj, Trivedi Richa, Patel Xitij Dineshkumar",
+      "pub_date": "2026-10-26",
+      "doi": "10.5041/RMMJ.10585",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957176/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "54983df0ea61469fba794e4e69b5febcbce704b1b0a3758b6e6afbd193a01142",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z"
     },
     {
       "pmid": "42934430",
@@ -7608,6 +7854,28 @@
       "summary_generated_at_utc": "2026-10-10T00:49:25Z"
     },
     {
+      "pmid": "42960088",
+      "title": "Perioperative management of patients taking GLP-1 receptor agonists: A comparative review of international clinical guidelines.",
+      "abstract": "GLP-1 receptor agonists (GLP-1 RAs) are now routinely encountered in preoperative assessment. Their effect on gastric emptying raises concern about pulmonary aspiration risk during anesthesia. Five major professional bodies have published perioperative guidance since 2023, reaching divergent conclusions on four clinically important questions. A systematic search of PubMed, MEDLINE, Embase, professional society websites, and grey literature was conducted for perioperative GLP-1 RA guidelines published between January 2023 and March 2026. Five documents met eligibility criteria. Each was independently appraised by two reviewers using the AGREE-REX framework, and primary studies underpinning the guidelines were reviewed for four pre-specified clinical questions. Four of five guidelines now recommend drug continuation with structured fasting modification, superseding the 2023 American Society of Anesthesiologists (ASA) cessation policy. Fasting protocols diverge substantially: SPAQI 2025 uniquely distinguishes high-calorie from low-calorie liquids. Three of five documents explicitly state that absence of gastrointestinal symptoms cannot be relied upon for risk stratification. All five guidelines endorse gastric ultrasound but none define validated decision thresholds. AGREE-REX appraisal identified the Anesthetists of Great Britain and Ireland (AAGBI)/Royal College of Anesthetists (RCoA) 2025 statement as having the broadest multidisciplinary representation and the most transparent process; Society for Perioperative Assessment and Quality Improvement (SPAQI) 2025 had the most rigorous evidence base but the most complex implementation requirements. Endocrinologist and obesity medicine representation is absent from most authoring groups, and the recommendations reflect this. International guidelines share a direction, to continue with modified fasting, but the operational details remain contested. The clinical risks of incomplete gastric emptying, hypoglycemia in insulin-dependent patients, and the absence of validated gastric ultrasound decision thresholds are not yet adequately reflected in most guidance. Prospective outcome data capturing aspiration events and glycemic complications remain urgently needed.",
+      "journal": "Saudi journal of anaesthesia",
+      "authors": "Moore Thomas, Ramsahoye Benjamin",
+      "pub_date": "2026-10-01",
+      "doi": "10.4103/sja.sja_314_26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960088/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5881ed96fde5705d7b8a787f59bc76ac8f4a85cf1c185058864b447fb66945db",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z"
+    },
+    {
       "pmid": "42891044",
       "title": "The investigational non-steroidal MRA balcinrenone in cardiorenal medicine: current evidence and future perspectives.",
       "abstract": "For almost two decades, renin-angiotensin-system (RAS) blockade was the basic pillar of therapy for cardiorenal protection in patients with chronic kidney disease (CKD) and albuminuria. Novel therapies, such as sodium-glucose co-transporter type 2 inhibitors (SGLT2is) and the non-steroidal mineralocorticoid receptor antagonist (MRA) finerenone, have been added to our therapeutic armamentarium in the last few years. Despite this substantial progress, there is still an unmet need for the development of additional therapies to mitigate the substantial residual risk of CKD patients. Balcinrenone is a novel, non-steroidal MRA that is currently under investigation for potential cardiorenal protective effects. In preclinical studies, balcinrenone was similarly effective with eplerenone in improving albuminuria and in reversing renal histopathology. Animal studies have shown a beneficial effect of balcinrenone on urinary sodium/potassium ratio that contrasts with the typical increase seen with traditional steroidal MRAs. The MIRO-CKD was a phase 2b trial showing that among 324 patients with albuminuric CKD, combination therapy with dapagliflozin and balcinrenone was safe and more effective than monotherapy with dapagliflozin in improving albuminuria over 3 months of follow-up. A large phase 3 clinical program is ongoing to investigate the long-term safety and efficacy of balcinrenone in a broad spectrum of patients with symptomatic heart failure and moderate-to-advanced CKD. In this article, we explore the tolerability, safety, and efficacy of the investigational non-steroidal MRA balcinrenone. We critically evaluate the design and key findings of the MIRO-CKD trial and provide directions for future research in this important area.",
@@ -8466,6 +8734,32 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-01T00:33:35Z"
+    },
+    {
+      "pmid": "42959996",
+      "title": "Treatment-Induced Neuropathy Presenting as Thoracic Radiculopathy and Abdominal Wall Protrusion After Marked Glycemic Improvement With Tirzepatide.",
+      "abstract": "Treatment-induced neuropathy of diabetes (TIND) is an uncommon acute neuropathic complication associated with marked improvement in glycemic control. It typically presents with severe neuropathic pain and may include autonomic dysfunction, although focal presentations have also been described. We report the case of a 67-year-old man with long-standing type 2 diabetes mellitus who developed severe thoracoabdominal neuropathic pain and abdominal wall protrusion following marked improvement in glycemic control after the initiation of tirzepatide. Hemoglobin A1c decreased from 11.0% to 6.6% over seven months, accompanied by a 17-pound weight loss. Several weeks after this metabolic improvement, he developed burning, stabbing, and electric shock-like thoracoabdominal pain with dysesthesia, hyperesthesia, and abdominal wall weakness. Extensive gastrointestinal, surgical, and structural evaluations were unrevealing. Electrodiagnostic testing demonstrated a generalized sensorimotor polyneuropathy, but needle electromyography of the thoracic or abdominal musculature was not performed. The clinical presentation was consistent with thoracic radiculoneuropathy occurring in the setting of marked glycemic improvement, although TIND could not be definitively established. This case highlights a focal truncal presentation temporally associated with glycemic improvement following tirzepatide therapy and emphasizes the diagnostic challenges in distinguishing TIND from spontaneous diabetic thoracic radiculoneuropathy.",
+      "journal": "Cureus",
+      "authors": "Bagheri Kian, Buck Erin, Muley Suraj",
+      "pub_date": "2026-09-29",
+      "doi": "10.7759/cureus.117153",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42959996/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "28e2840142e4d2e360ae45a73ef56596bd971fe325d31b9b39ef023c7be8f17e",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z"
     },
     {
       "pmid": "42930780",
@@ -17273,6 +17567,34 @@
       "summary_generated_at_utc": "2026-09-08T23:21:18Z"
     },
     {
+      "pmid": "42959190",
+      "title": "Single or multiple nutritional hormone receptor modulators for chronic kidney disease.",
+      "abstract": "The global rise in obesity and type 2 diabetes mellitus (T2DM) has contributed substantially to the increasing burden of chronic kidney disease (CKD), cardiovascular disease, and heart failure, highlighting the need for therapeutic strategies capable of addressing multiple components of the cardio-renal-metabolic axis. Incretin-based therapies have undergone an evolution from glucose-lowering agents to treatments with broad metabolic, cardiovascular, and renal effects. Glucagon-like peptide-1 (GLP-1) receptor agonists have demonstrated clinically meaningful reductions in cardiovascular events and have emerged as important therapies for kidney protection. Evidence from cardiovascular and kidney outcome trials, culminating in the FLOW study, has established semaglutide as a clinically relevant strategy for reducing kidney and cardiovascular risk in patients with T2DM and CKD. Beyond single-receptor agonism, the development of dual and triple incretin receptor agonists has expanded the therapeutic possibilities. Tirzepatide, a dual GLP-1/GIP receptor agonist, has demonstrated favourable kidney outcomes compared with dulaglutide, while early studies of the dual GLP-1/glucagon receptor agonist cotadutide suggest additional benefits on albuminuria and cardiorenal risk markers. Retatrutide, a triple GLP-1/GIP/glucagon receptor agonist, has shown promising effects on kidney-related parameters, although the mechanisms underlying observed increases in estimated glomerular filtration rate remain uncertain. Accumulating evidence suggests that incretin-based therapies may exert renoprotective effects through pathways extending beyond glycaemic control and weight reduction, including improvements in endothelial function, microvascular integrity, inflammation, fibrosis, and renal haemodynamics. Nevertheless, important questions remain regarding the mechanisms of kidney protection, the interpretation of kidney function changes in the setting of substantial weight loss, and the long-term renal benefits of multi-receptor modulators. Ongoing mechanistic studies and dedicated outcome trials will further define the role of incretin biology in the prevention and treatment of CKD.",
+      "journal": "Clinical kidney journal",
+      "authors": "Heerspink Hiddo J L",
+      "pub_date": "2026-09-07",
+      "doi": "10.1093/ckj/sfag311",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42959190/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "fed07f1abcd8d6a968557e4c6c64ab80cd2c7eb56da05f1213e37ab5a36c9353",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z"
+    },
+    {
       "pmid": "42907053",
       "title": "GLP-1 Receptor Agonists and Reproductive Health: Implications for Contraception, Fertility, and Pregnancy.",
       "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have rapidly expanded in use for the treatment of obesity and type 2 diabetes, including among women of reproductive age. Emerging evidence suggests that GLP-1 signaling may influence reproductive physiology through central effects on the hypothalamic-pituitary-ovarian axis and indirect metabolic pathways. In women with polyendocrine metabolic ovarian syndrome (PMOS), GLP-1 RAs improve insulin resistance and androgen profiles and may improve menstrual regularity. Most GLP-1 RAs do not significantly affect oral contraceptive pharmacokinetics, although tirzepatide may require temporary backup contraception. Evidence regarding fertility outcomes and pregnancy safety remains limited.",
@@ -17913,7 +18235,7 @@
     {
       "pmid": "42922752",
       "title": "Tirzepatide preserves hematopoietic stem and progenitor cycling while remodeling inflammatory monocytes in obese mice.",
-      "abstract": "UNLABELLED: Obesity expands myeloid progenitors, myelopoiesis and increases the production of monocytes. While weight loss (WL) alleviates aspects of this inflammatory dysregulation, it is not known whether GLP-1 receptor agonists or other traditional modalities of WL differentially modify hematopoietic stem/progenitor cells (HSPCs), hematopoiesis, or inflammatory cell production. To test this, we compared the hematopoietic compartment in lean, obese and weight-reduced mice from tirzepatide treatment and caloric restriction (CR) implemented to match the body weight in both groups. At equal WL, we found CR induced multilineage cytopenias, whereas tirzepatide preserved blood lineages while specifically reducing classical Ly6C hi CCR2 + monocytes. To define the mechanisms underlying these changes we performed single-cell mRNA sequencing of bone marrow HSPCs and mature mononuclear blood cells. CR-HSPCs suppressed gene sets associated with nutrient sensing, proliferation and oxidative phosphorylation (OXPHOS) and exhibited lower inferred cell cycle activity, whereas tirzepatide-HSPCs attenuated these changes. Unlike CR, we found that across progressively differentiated cells from HSPCs to mature blood monocytes, tirzepatide increasingly suppressed OXPHOS and simultaneously shifted the maturation spectrum away from classical monocytes. Following six weeks of tirzepatide withdrawal and weight regain, Ly6C hi CCR2 + monocytes rebounded to levels seen in obese mice. These findings suggest that tirzepatide uncouples WL from the broad hematopoietic suppression seen in CR by preserving progenitor activity but selectively remodeling inflammatory/classical monocytes. We demonstrate that WL modality differentially impacts hematopoietic adaptation and provide evidence that classical monocytes are an effector cell through which tirzepatide may dampen obesity-associated inflammation.\nKEY POINTS: At equivalent weight loss, calorie restriction causes cytopenias and suppresses HSPC cycling, while tirzepatide preserves these parametersTirzepatide reduces inflammatory monocytes, shifts maturation, decreases OXPHOS genes, and monocytes rebound after drug withdrawal.",
+      "abstract": "Obesity expands myeloid progenitors, myelopoiesis and increases the production of monocytes. While weight loss (WL) alleviates aspects of this inflammatory dysregulation, it is not known whether GLP-1 receptor agonists or other traditional modalities of WL differentially modify hematopoietic stem/progenitor cells (HSPCs), hematopoiesis, or inflammatory cell production. To test this, we compared the hematopoietic compartment in lean, obese and weight-reduced mice from tirzepatide treatment and caloric restriction (CR) implemented to match the body weight in both groups. At equal WL, we found CR induced multilineage cytopenias, whereas tirzepatide preserved blood lineages while specifically reducing classical Ly6Chi CCR2+ monocytes. To define the mechanisms underlying these changes we performed single-cell mRNA sequencing of bone marrow HSPCs and mature mononuclear blood cells. CR-HSPCs suppressed gene sets associated with nutrient sensing, proliferation and oxidative phosphorylation (OXPHOS) and exhibited lower inferred cell cycle activity, whereas tirzepatide-HSPCs attenuated these changes. Unlike CR, we found that across progressively differentiated cells from HSPCs to mature blood monocytes, tirzepatide increasingly suppressed OXPHOS and simultaneously shifted the maturation spectrum away from classical monocytes. Following six weeks of tirzepatide withdrawal and weight regain, Ly6Chi CCR2+ monocytes rebounded to levels seen in obese mice. These findings suggest that tirzepatide uncouples WL from the broad hematopoietic suppression seen in CR by preserving progenitor activity but selectively remodeling inflammatory/classical monocytes. We demonstrate that WL modality differentially impacts hematopoietic adaptation and provide evidence that classical monocytes are an effector cell through which tirzepatide may dampen obesity-associated inflammation.",
       "journal": "bioRxiv : the preprint server for biology",
       "authors": "Krah Nathan M, Gonzalez-Alvarado Elena, Urs Amog P, Goda Chinmayee, Bustos Yaphet, Marvin James, Weaver Bradley D, Gygi Spencer",
       "pub_date": "2026-09-04",
@@ -17932,9 +18254,9 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "e14eb39a5f18254d200438dc08252dc0166cdca7e38d5dcc25e6d33f53dd8959",
+      "content_sha256": "4ab58aaa30b7fbc4eacb78c64d45c6248307d610e70c6a4a855d9bc347a58722",
       "fetched_at_utc": "2026-10-25T23:12:05Z",
-      "updated_at_utc": "2026-10-25T23:12:05Z"
+      "updated_at_utc": "2026-10-31T00:42:52Z"
     },
     {
       "pmid": "42789287",
@@ -27163,6 +27485,45 @@
       "sample_size_ja": ""
     },
     {
+      "pmid": "42958020",
+      "title": "Glucagon-like peptide-1 receptor agonists and the risk of ventricular arrhythmia in patients with acute myocardial infarction and type 2 diabetes mellitus: a propensity score-matched cohort study.",
+      "abstract": "BACKGROUND: Ventricular arrhythmia (VA) substantially contributes to sudden cardiac death in patients with acute myocardial infarction (AMI) and type 2 diabetes mellitus (T2DM). Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated cardiovascular benefits; however, their influence on post-AMI ventricular arrhythmogenesis remains unclear.\nMETHODS: This retrospective cohort study included 1,873 patients with concurrent AMI and T2DM admitted between January 2018 and December 2022. Using propensity score matching (1:2, nearest-neighbor), 277 GLP-1RA users were matched with 554 controls. The primary endpoint was incident VA. Cox proportional hazards regression, inverse probability of treatment weighting (IPTW), Firth's penalized likelihood regression, and Fine-Gray competing risk analysis were performed.\nRESULTS: Over a median follow-up of 2.5 years, GLP-1RA use was associated with a reduced risk of VA (adjusted HR 0.61, 95% CI 0.37-0.98, P = 0.040), MACE (HR 0.66, 95% CI 0.45-0.96, P = 0.030), cardiovascular death (HR 0.52, 95% CI 0.32-0.86, P = 0.010), and heart failure rehospitalization (HR 0.42, 95% CI 0.26-0.68, P < 0.001). All-cause mortality showed a non-significant trend (HR 0.84, 95% CI 0.59-1.18, P = 0.310). Firth's penalized regression confirmed the primary finding (HR 0.58, 95% CI 0.36-0.95, P = 0.029). The Fine-Gray model yielded a subdistribution HR of 0.63 (95% CI 0.39-1.02, P = 0.058) after accounting for competing mortality risk. The 90-day landmark analysis (HR 0.65, 95% CI 0.39-1.06, P = 0.085) and the time-varying exposure Cox model (HR 0.66, 95% CI 0.40-1.08, P = 0.097) were directionally concordant but did not reach statistical significance.\nCONCLUSIONS: GLP-1RA therapy was associated with a lower risk of VA and improved cardiovascular outcomes in patients with AMI and T2DM. Because several sensitivity analyses, including the Fine-Gray competing-risk, landmark, and time-varying models, were borderline non-significant, these findings should be interpreted with caution and regarded as hypothesis-generating, warranting confirmation in prospective randomized trials.",
+      "journal": "BMC cardiovascular disorders",
+      "authors": "Hu Chunqin, Zhao Wenming, Xiao Shasha, Shi Jiujiu, Liang Wenhua, Guo Ruiwei",
+      "pub_date": "2026-08-03",
+      "doi": "10.1186/s12872-026-06354-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958020/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Myocardial Infarction",
+        "Retrospective Studies",
+        "Risk Assessment",
+        "Female",
+        "Risk Factors",
+        "Aged",
+        "Male",
+        "Time Factors",
+        "Middle Aged",
+        "Incretins",
+        "Glucagon-Like Peptide-1 Receptor",
+        "Incidence",
+        "Treatment Outcome",
+        "Propensity Score"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "cb56d69d39a2125e62bced167d837cd6b19749b481b0d6c043f3de2c90c2688b",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z"
+    },
+    {
       "pmid": "42694337",
       "title": "Suspected Biphasic Anaphylaxis Following the First Known Dose of Tirzepatide: A Case Report and Brief Review of Reported Hypersensitivity Reactions.",
       "abstract": "Tirzepatide is a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist increasingly used for type 2 diabetes mellitus and chronic weight management. Although generally well tolerated, serious systemic hypersensitivity reactions may occur. We report a 37-year-old woman who developed anaphylaxis shortly after administering her first known subcutaneous dose of tirzepatide. She presented with facial and periorbital angioedema, nasal congestion, generalized urticaria, bronchospasm, hypoxemia, and hypotension. She was treated with intravenous fluids, nebulized bronchodilators, and two doses of intramuscular epinephrine, resulting in complete clinical resolution. Approximately one hour later, she developed recurrent generalized urticaria, facial angioedema, and chest tightness without further exposure to the suspected trigger. Although no objective respiratory or hemodynamic compromise was documented during the recurrent episode, the recurrence was considered suggestive of a possible biphasic reaction. Her symptoms resolved following treatment with intravenous hydrocortisone and chlorphenamine. Acute and baseline serum tryptase levels were unavailable, and validated allergy testing for tirzepatide was not performed; therefore, the underlying immunological mechanism could not be established. This case highlights the importance of early recognition and prompt treatment of tirzepatide-associated anaphylaxis, as well as continued pharmacovigilance and detailed reporting of severe hypersensitivity reactions.",
@@ -27283,6 +27644,52 @@
       "content_sha256": "172dd7e2e4378ae82252a6b904944eb8a447fc795bcbbafa9ed98f3e38ad7f9c",
       "fetched_at_utc": "2026-09-02T23:17:23Z",
       "updated_at_utc": "2026-09-02T23:17:23Z"
+    },
+    {
+      "pmid": "42958056",
+      "title": "Association between finerenone use and risk of new-onset heart failure in chronic kidney disease: a propensity-matched cohort study using the TriNetX network.",
+      "abstract": "BACKGROUND: Finerenone improves cardiorenal outcomes in chronic kidney disease (CKD) with type 2 diabetes, but its effect on preventing new-onset heart failure (HF) in CKD is uncertain. We evaluated whether finerenone is associated with lower 1-year risk of incident HF and adverse cardiorenal events in CKD patients without prior HF.\nMETHODS: In the multi-institutional TriNetX research network, we identified adults with CKD between January 1, 2022, and September 30, 2025. New users of finerenone were compared with finerenone non-users. Propensity score matching (1:1) was performed based on demographics, comorbidities, medications, and key laboratory values. Follow-up began the day after the index date and continued for up to 1 year. The primary outcome was new-onset HF. HF was identified using diagnostic codes and treatment-based criteria; therefore, outcome misclassification cannot be completely excluded. Secondary outcomes were major adverse cardiovascular events (MACE: ischemic stroke, acute myocardial infarction, or death), major adverse kidney events (MAKE), and all-cause mortality. Cox models estimated hazard ratios (HRs) with 95% confidence intervals (CIs).\nRESULTS: After matching, 11,140 patients were included (mean age 67.5 years, 42.5% female). Finerenone use was associated with a lower 1-year risk of incident HF (4.9% vs. 8.0%; HR 0.68, 95% CI 0.59-0.79; P<.001). Finerenone use was also associated with lower risks of MACE (HR 0.67, 95% CI 0.56-0.81; P<.001), MAKE (HR 0.51, 95% CI 0.39-0.67), and all-cause mortality (HR 0.62, 95% CI 0.47-0.81; P<.001).\nCONCLUSIONS: In this large real-world CKD cohort without prior HF, finerenone use was associated with lower 1-year risks of incident HF, MACE, MAKE, and all-cause mortality compared with non-use. These findings suggest a potential association between finerenone use and a lower observed risk of HF among patients with CKD, although causal relationships cannot be established.",
+      "journal": "BMC cardiovascular disorders",
+      "authors": "Wu Jheng-Yan, Lee Keng-Wei, Huang Sheng-Chi, Chang Hsuan-Yuan, Lin Yu-Min",
+      "pub_date": "2026-08-01",
+      "doi": "10.1186/s12872-026-06384-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958056/",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Heart Failure",
+        "Male",
+        "Renal Insufficiency, Chronic",
+        "Risk Assessment",
+        "Aged",
+        "Naphthyridines",
+        "Time Factors",
+        "Middle Aged",
+        "Risk Factors",
+        "Incidence",
+        "Mineralocorticoid Receptor Antagonists",
+        "Treatment Outcome",
+        "United States",
+        "Protective Factors",
+        "Databases, Factual",
+        "Retrospective Studies",
+        "Aged, 80 and over"
+      ],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d39efae71297aed824832ac60c7872f99ab4408974aab95425e87424033e4dde",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z"
     },
     {
       "pmid": "42677221",
@@ -27717,6 +28124,31 @@
       "content_sha256": "4a65b95f849ef235ba282b190100ad4b98d4c0b7c109d8b0955e2f9c2b202284",
       "fetched_at_utc": "2026-08-31T15:48:02Z",
       "updated_at_utc": "2026-08-31T15:48:02Z"
+    },
+    {
+      "pmid": "42958583",
+      "title": "Preoperative empagliflozin and ventricular remodeling after coronary artery bypass grafting in type 2 diabetes: a prespecified analysis of the POST-CABGDM randomized trial.",
+      "abstract": "BACKGROUND: Type 2 diabetes mellitus (T2DM) and coronary artery disease (CAD) are associated with adverse ventricular remodeling. Coronary artery bypass grafting (CABG) with cardiopulmonary bypass (CPB) may further contribute to myocardial injury through inflammatory and ischemia-reperfusion mechanisms. Sodium-glucose cotransporter 2 inhibitors (SGLT2i) have demonstrated cardioprotective effects, including reduction in left ventricular mass, but their impact in the perioperative setting of cardiac surgery remains unclear.\nMETHODS: This study is a prespecified secondary analysis of the open-label randomized POST-CABGDM trial (NCT04523064). Patients with T2DM and multivessel CAD undergoing CABG with CPB were randomized to receive empagliflozin 25 mg once daily or standard antidiabetic therapy. SGLT2i were discontinued 3 days before surgery and were not protocol-mandated postoperatively. Transthoracic echocardiography was performed preoperatively and at 1-6 months postoperatively. The primary endpoint was the change in left ventricular mass index (ΔLVMI). Secondary endpoints included changes in left ventricular ejection fraction (ΔLVEF) and ventricular dimensions.\nRESULTS: A total of 118 patients were included (53 in the intervention group and 65 in the control group). Baseline characteristics were well balanced. No significant difference was observed in ΔLVMI between groups (- 1.39 ± 18.7 vs. -4.55 ± 16.8 g/m²; p = 0.337), and this finding remained unchanged after adjustment for baseline LVMI. Similarly, no differences were found in ΔLVEF or ventricular dimensions. Surgical characteristics and postoperative complications were comparable. In a separate exploratory, non-randomized multivariable analysis, continued use of SGLT2i during follow-up was associated with a higher likelihood of LVMI reduction (OR 4.69; 95% CI 1.20-18.40; p = 0.03).\nCONCLUSIONS: Preoperative empagliflozin use was not associated with significant short-term changes in LVMI, LVEF, or ventricular dimensions after CABG with CPB. Exploratory, non-randomized analyses suggested an association between continued SGLT2i use during follow-up and LVMI reduction, but these findings should be considered hypothesis-generating and require confirmation in prospective studies designed to evaluate sustained perioperative and postoperative therapy.\nTRIAL REGISTRATION: ClinicalTrials.gov NCT04523064.",
+      "journal": "Diabetology & metabolic syndrome",
+      "authors": "Popp Vinícius Oro, Pitta Fabio Grunspun, de Brito Giovanna Daneluz, Popp Júlia Oro, Carvalho Letícia Neves Solon, Sampaio Leon Pablo Cartaxo, Rached Fabiana Hanna, Mioto Bruno Mahler",
+      "pub_date": "2026-07-28",
+      "doi": "10.1186/s13098-026-02232-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958583/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "7c406e3f75913443cff310557c8d2435d6437e17b5b04c49f67eeef10826e1a5",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z"
     },
     {
       "pmid": "42919410",
@@ -28505,6 +28937,32 @@
       "endpoints_ja": "",
       "endpoint_results_ja": "",
       "sample_size_ja": ""
+    },
+    {
+      "pmid": "42959236",
+      "title": "Aldosterone synthase inhibition for treatment of people with chronic kidney disease.",
+      "abstract": "Aldosterone contributes to the progression of chronic kidney disease (CKD) not only through its effects on blood pressure (BP) but also by promoting inflammation and fibrosis in the kidney and cardiovascular system. Despite contemporary treatment with renin-angiotensin system inhibitors, mineralocorticoid receptor antagonists, and sodium-glucose cotransporter 2 (SGLT2) inhibitors, residual risk persists for adverse kidney and cardiovascular outcomes. Aldosterone synthase inhibition (ASI) has emerged as a potent strategy to directly suppress aldosterone production. Several selective inhibitors, including baxdrostat, lorundrostat, and vicadrostat, have been shown to lower aldosterone levels without affecting cortisol synthesis in a clinically meaningful manner. Clinical studies in hypertension consistently show a decrease in systolic BP with these agents. In a CKD population, vicadrostat dose-dependently reduced the urinary albumin-to-creatinine ratio with additional BP lowering, and possibly greater albuminuria reduction when combined with empagliflozin. Similar findings have been observed with lorundrostat and baxdrostat in patients with CKD and uncontrolled hypertension. Median increases in serum potassium of ∼0.3 mmol/l that have been observed with ASI were generally manageable in clinical trial populations. Emerging evidence from clinical trials and meta-analyses suggests that concomitant SGLT2 inhibitor therapy may mitigate the risk of clinically significant hyperkalaemia, also supporting the use of combination therapy. Overall, ASI provide a potentially beneficial approach to reduce residual risks of CKD. Several phase 3 trials testing vicadrostat or baxdrostat across different populations with CKD, hypertension, or cardiovascular disease will determine whether favourable effects on albuminuria translate into improved kidney and cardiovascular outcomes.",
+      "journal": "Clinical kidney journal",
+      "authors": "Tuttle Katherine R, Trbojevic-Stankovic Jasna B, Alicic Radica Z, Caramori Maria Luiza, Cherney David, Rotter Ricardo Correa, Herrington William G, Judge Parminder K",
+      "pub_date": "2026-07-10",
+      "doi": "10.1093/ckj/sfag229",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42959236/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "0306c82731131e487e0e7c4b587829460e1b4fd5543f808d5c5badfef5048976",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z"
     },
     {
       "pmid": "42730115",

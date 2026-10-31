@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-30T00:57:28Z",
+  "generated_at_utc": "2026-10-31T00:47:04Z",
   "items": [
     {
       "pmid": "42805503",
@@ -70,6 +70,206 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42961329",
+      "title": "Glucagon-Like Peptide-1 Analog-Type Amyloidosis: A Case Report and Review of the Literature.",
+      "abstract": "Amyloidosis is a heterogeneous group of diseases characterized by extracellular deposition of insoluble proteins. Glucagon-like peptide-1 analog (AGLP1)-type amyloidosis is a rare iatrogenic form of amyloidosis localized to areas of glucagon-like peptide-1 analog injections. In this study, we describe a case of AGLP1-type amyloidosis presenting as a subcutaneous mass on the abdomen of a 71-year-old woman with a history of liraglutide, semaglutide, and tirzepatide use. Biopsy, including Congo red stain, was consistent with an amyloid deposit. Amyloid protein identification by liquid chromatography tandem mass spectrometry showed a typical amyloid profile with low spectra for liraglutide. Immunohistochemistry, subsequently performed, showed that the amyloid deposits were positive for glucagon; there is an extensive peptide homology between liraglutide and glucagon. Only 3 cases of AGLP1-type amyloidosis have been previously reported. It is vital for clinicians and pathologists to be aware of AGLP1-type amyloidosis given the increasing worldwide use of GLP-1 agonists, as well as the potential for misdiagnosis of systemic amyloidosis, which has profound therapeutic and prognostic implications.",
+      "journal": "The American Journal of dermatopathology",
+      "authors": "Loggie John, McKay Robert C, Nasr Samih H, Stueck Ashley",
+      "pub_date": "2026-10-30",
+      "doi": "10.1097/DAD.0000000000003440",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961329/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "85c2a00318451df8a38e5f434edb4c6d306613578fcb512a3abbcc8c5ce729cd",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "71歳の女性で、リラグルチド、セマグルチド、チルゼパチドの既往があり、腹部の皮下腫瘤として発症したGLP-1アナログ型アミロイドーシス（AGLP1型アミロイドーシス）の症例を報告した。生検およびコンゴレッド染色でアミロイド沈着と一致し、LC-MS/MSではリラグルチドの低スペクトルを伴う典型的なアミロイドプロファイルが示された。免疫組織化学ではグルカゴン陽性であった（リラグルチドとグルカゴンの間で広範なペプチド相同性があるため）。",
+      "key_takeaway_ja": "AGLP1型アミロイドーシスはGLP-1アナログ注射部位に局在する希少な医原性アミロイドーシスであり、全身性アミロイドーシスとの誤診を避けるために臨床医・病理医の認識が重要である。",
+      "why_matters_ja": "GLP-1アゴニストの世界的な使用増加に伴い、AGLP1型アミロイドーシスの認識が重要であり、全身性アミロイドーシスとの誤診は治療および予後に関わる重大な影響を及ぼす可能性がある。",
+      "study_type_ja": "症例報告および文献レビュー",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "1例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:43:10Z"
+    },
+    {
+      "pmid": "42958899",
+      "title": "Combined time-restricted feeding and resistance training enhance tirzepatide-induced improvements in adiposity and whole-body insulin sensitivity in female mice.",
+      "abstract": "Tirzepatide is a dual agonist of glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors with potent effects on body weight regulation, glucose homeostasis and metabolic health. However, its interaction with dietary and exercise interventions as well as its impact on obesity and hepatic metabolic pathways, particularly in females, remain unclear. Here, we tested whether tirzepatide, alone or combined with time-restricted feeding (TRF) or resistance training, modulates energy balance, strength performance, adipose tissue remodelling, insulin sensitivity and hepatic lipid accumulation in female mice. Female Swiss mice after 10 weeks of obesity induction were treated with tirzepatide, TRF or resistance training for 8 weeks. Tirzepatide was administered subcutaneously using a dose-escalation protocol. TRF consisted of a 12 h feeding window, and resistance training was performed as stair climbing on alternating days. Body weight, caloric intake and feed efficiency were monitored longitudinally. Glucose homeostasis was assessed by intraperitoneal glucose and insulin tolerance tests. Adipose depots, skeletal muscle and liver mass were quantified, and hepatic lipid accumulation was evaluated by histology and RT-qPCR of lipogenic metabolism genes. Tirzepatide reduced body weight gain and feed efficiency, consistent with a negative energy balance. When combined with TRF and resistance training, tirzepatide accelerated weight loss, and the addition of resistance training further enhanced this effect, bringing body weight close to control levels. These effects were associated with reduced adipose mass and adipocyte hypertrophy, indicating improved adipose tissue remodelling. Resistance training improved strength performance and increased skeletal muscle mass. Tirzepatide combined with TRF, with or without resistance training, improved glucose tolerance in female mice. All interventions reduced hepatic lipid accumulation. Collectively, tirzepatide, particularly in combination with TRF and resistance training, exerts enhanced metabolic benefits on obesity, insulin sensitivity and metabolic regulation in female mice. KEY POINTS: Tirzepatide combined with time-restricted feeding and resistance training produced greater reductions in body weight and adiposity in obese female mice. Combined interventions improved whole-body insulin sensitivity more effectively than isolated strategies. Resistance training preserved skeletal muscle mass during tirzepatide-induced weight loss. All interventions similarly reduced hepatic lipid accumulation and lipogenic gene expression. Tirzepatide-based therapies enhanced systemic metabolic health without additional hepatic benefits from combined interventions.",
+      "journal": "The Journal of physiology",
+      "authors": "Macêdo Ana Paula Azevêdo, da Conceição de Mattis Luciana Renata, de Lima Robson Damasceno, Barbosa Louise Ailey, Pinotti Camila Barboza, Brisque Guilherme Domingos, Dias Larissa Moreira, Pitoli Beatriz de Souza",
+      "pub_date": "2026-10-30",
+      "doi": "10.1113/JP291770",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958899/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9b2fd84b582994360d82eb4a16355772262089e6786a3720cec781f7806a5233",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "肥満誘導後の雌性Swissマウスにおいて、tirzepatide単独、時間制限食事(TRF)、レジスタンストレーニングの単独または併用が、エネルギーバランス、筋力パフォーマンス、脂肪組織リモデリング、インスリン感受性、肝脂肪蓄積に与える影響を8週間評価した介入研究。",
+      "key_takeaway_ja": "TirzepatideをTRFおよびレジスタンストレーニングと併用することで、肥満雌性マウスにおける体重減少・脂肪量減少・インスリン感受性改善が単独介入よりもさらに増強された。",
+      "why_matters_ja": "TirzepatideはGIP/GLP-1二重作動薬として体重調節・グルコース恒常性・代謝健康に強力な効果を持つが、食事・運動介入との相互作用、特に雌性における肥満や肝代謝経路への影響は不明であった。本研究は、tirzepatideベースの療法に生活習慣介入を組み合わせることで代謝的利点を増強できる可能性を示した。",
+      "study_type_ja": "動物介入研究（雌性マウス、対照群を含む複数群比較）",
+      "endpoints_ja": "体重、カロリー摂取量、給餌効率、腹腔内グルコース耐性試験(IPGTT)、腹腔内インスリン耐性試験(IITT)、脂肪組織量、骨格筋量、肝臓重量、肝脂肪蓄積（組織学的評価および脂肪生成代謝遺伝子のRT-qPCR）、筋力パフォーマンス",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:43:47Z"
+    },
+    {
+      "pmid": "42957437",
+      "title": "Early Treatment Trajectory and Long-Term Persistence to Semaglutide for Obesity: A Population-Based Cohort Study.",
+      "abstract": "AIMS: To assess semaglutide persistence in obesity management, identify factors associated with discontinuation and examine early tirzepatide adoption.\nMATERIALS AND METHODS: This retrospective cohort study used Clalit Health Services records of adults without diabetes initiating Wegovy between January and May 2025. Discontinuation was defined as a gap exceeding 60 days after medication coverage ended. Multivariable Cox models, including a Day-90 landmark analysis, assessed discontinuation. Tirzepatide adoption was evaluated following its December 2025 coverage introduction.\nRESULTS: Among 34 309 participants (67.0% women; mean age 44.6 years), cumulative discontinuation reached 36.5% at 180 days and 67.6% at 365 days. Arab population sector (hazard ratio [HR] 1.65, 95% CI 1.59-1.72), low socioeconomic status (HR 1.13, 95% CI 1.09-1.17) and current smoking (HR 1.13, 95% CI 1.09-1.17) were associated with discontinuation. In the day-90 landmark cohort (n = 28 218), remaining on 0.25 versus 1.0 mg was associated with subsequent discontinuation (HR 1.88, 95% CI 1.72-2.06), substantially attenuated after adjustment for early refill adherence. Each percentage-point smaller BMI reduction was associated with 3% higher discontinuation hazard (HR 1.03, 95% CI 1.03-1.04). Following tirzepatide availability, 2908 of 33 936 eligible participants (8.6%) initiated treatment over a median 3.1-month observation period. Adoption was associated with higher socioeconomic status and baseline BMI.\nCONCLUSIONS: Semaglutide discontinuation was common and associated with sociodemographic and early treatment characteristics. Day-90 dose and early weight-loss response may help identify discontinuation risk. Socioeconomic differences suggest inequalities in sustained obesity pharmacotherapy access.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Winter Eitan, Wolff Sagy Yael, Reges Orna, Feldhamer Ilan, Abu Ahmad Wiessam, Arbel Ronen, Dicker Dror, Lavie Gil",
+      "pub_date": "2026-10-29",
+      "doi": "10.1111/dom.71488",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957437/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "6498652dc3a6f8153773be3067863ea97421517952e2fe7818113679f3ce4635",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "Clalit Health Servicesの記録を用いた後方視コホート研究。2025年1月から5月に糖尿病を有さない成人がWegovy（セマグルチド）を開始した34,309例を対象に、セマグルチドの継続率（persistence）、中止に関連する因子、およびtirzepatideの早期導入を評価した。中止は薬剤給付終了後60日を超えるギャップと定義し、Day-90ランドマーク解析を含む多変量Coxモデルで解析した。",
+      "key_takeaway_ja": "セマグルチドの中止は頻発し（180日時点で36.5%、365日時点で67.6%）、Day-90時点の投与量（0.25 mg vs 1.0 mg）および早期の体重減少反応が中止リスクの識別に有用である可能性が示された。また、社会経済的格差が持続的な肥満薬物療法へのアクセスの不平等を反映している。",
+      "why_matters_ja": "肥満薬物療法の長期継続は治療効果の維持に不可欠であり、早期に中止リスクを予測できる因子（Day-90の投与量・早期体重減少反応）を特定できれば、臨床現場での介入タイミングの最適化や患者選定に活用できる。さらに、社会経済的要因によるアクセス格差の存在は、公衆衛生上の公平性問題として政策提言の根拠となる。",
+      "study_type_ja": "後方視コホート研究（population-based）",
+      "endpoints_ja": "主要エンドポイント：セマグルチドの中止（persistence）。二次エンドポイント：中止に関連する因子の同定、tirzepatideの早期導入率。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:44:23Z"
+    },
+    {
+      "pmid": "42957436",
+      "title": "SGLT2 Inhibitors and Risk of Postmenopausal Bleeding in Women: An Active-Comparator, New-User Cohort Study.",
+      "abstract": "AIMS: A recent case report and pharmacovigilance reports have suggested a possible association between sodium-glucose cotransporter-2 (SGLT2) inhibitors and postmenopausal bleeding (PMB), but population-level evidence is lacking. We evaluated the risk of PMB among women aged 55-90 years initiating SGLT2 inhibitors versus dipeptidyl peptidase-4 (DPP-4) inhibitors.\nMATERIALS AND METHODS: We conducted an active-comparator, new-user cohort study using data from the All of Us Research Program. Women aged 55-90 years who newly initiated either an SGLT2 inhibitor or a DPP-4 inhibitor were included. The primary outcome was the first recorded PMB during follow-up. Propensity score (PS) matching, with exact matching on calendar period, was used to control for confounding. Hazard ratios (HRs) and incidence rate ratios (IRRs) with 95% confidence intervals (CIs) were estimated using Cox and Poisson regression models.\nRESULTS: Among 2603 women, 1328 initiated SGLT2 inhibitors and 1275 initiated DPP-4 inhibitors. After 1:1 PS matching, 650 pairs achieved good covariate balance. In the matched cohort, 37 and 34 PMB events occurred over 2248.2 and 2374.2 person-years, respectively. SGLT2 inhibitor initiation was not associated with increased PMB risk (HR 1.14, 95% CI 0.70-1.84; IRR 1.15, 95% CI 0.71-1.87). Sensitivity analyses were consistent with the primary findings.\nCONCLUSIONS: SGLT2 inhibitor initiation was not associated with a significantly increased PMB risk compared with DPP-4 inhibitor initiation. These findings did not provide evidence of increased PMB risk with SGLT2 inhibitor therapy, although wide confidence intervals and limited outcome events warrant confirmation in larger studies.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Choi Jung Yoon, Suh Sung Yun, Lee Hee Min, Lewis Susan J, Rhie Sandy Jeong",
+      "pub_date": "2026-10-29",
+      "doi": "10.1111/dom.71458",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957436/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "533c6290da1e76475d9e4cace04b1af6a6de35ad5b24c4ceb27d59ad50a9946e",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "All of Us Research Programのデータを用いたアクティブ・コンパレーター・ニューユーザーコホート研究。55〜90歳の女性において、SGLT2阻害薬の開始がDPP-4阻害薬の開始と比較して閉経後出血（PMB）のリスクを高めるかを評価した。2603例（SGLT2阻害薬1328例、DPP-4阻害薬1275例）を登録し、1:1の傾向スコアマッチングにより650対を解析対象とした。マッチング後コホートにおいて、SGLT2阻害薬群で37例、DPP-4阻害薬群で34例のPMB事象が観察された。SGLT2阻害薬の開始はPMBリスクの有意な増加とは関連しなかった（HR 1.14, 95% CI 0.70-1.84; IRR 1.15, 95% CI 0.71-1.87）。",
+      "key_takeaway_ja": "SGLT2阻害薬の開始は、DPP-4阻害薬の開始と比較して閉経後出血のリスクを有意に増加させなかった。ただし、信頼区間が広く、アウトカム事象数が限られているため、より大規模な研究での確認が必要である。",
+      "why_matters_ja": "SGLT2阻害薬と閉経後出血の関連を示唆する症例報告や薬物警戒報告が存在したが、集団レベルのエビデンスは不足していた。本研究は、この懸念に対する集団レベルのエビデンスを提供するものである。",
+      "study_type_ja": "アクティブ・コンパレーター・ニューユーザーコホート研究（観察研究）",
+      "endpoints_ja": "フォローアップ期間中に初めて記録された閉経後出血（PMB）",
+      "endpoint_results_ja": "SGLT2阻害薬群：37例のPMB事象（2248.2 person-years）、DPP-4阻害薬群：34例のPMB事象（2374.2 person-years）。HR 1.14（95% CI 0.70-1.84）、IRR 1.15（95% CI 0.71-1.87）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:44:55Z"
+    },
+    {
+      "pmid": "42957066",
+      "title": "GLP-1 Receptor Agonists Decrease the Rate of Rupture, Cardiac Events, and Death in Patients with Abdominal Aortic Aneurysms.",
+      "abstract": "OBJECTIVE: Abdominal aortic aneurysm (AAA) is a degenerative condition involving several processes including inflammation, matrix remodeling, disruptions of vascular smooth muscle cells, and thrombus formation all leading to progressive dilatation of the aorta and eventual rupture. Glucagon-like peptide-1 receptor agonists (GLP-1RA) are now considered part of the frontline therapeutic options to treat type 2 diabetes mellitus and have also been validated as having compelling anti-inflammatory and cardiovascular protective properties. Data is limited on the impact of GLP-1RA on outcomes of patients with AAA. The aim of this study is to examine the association and possible impact of GLP-1RA on patients with AAA.\nMETHODS: Data was sourced from the TriNetX research network, encompassing 123 health care organizations. Utilizing ICD-10 and CPT codes, we identified patients with AAA who received abdominal imaging every six months. Group 1 was comprised of patients who were treated with GLP-1RA while Group 2 patients were not. Propensity-score-matching (PSM) was used in a 1:1 fashion using age, sex, diabetes, metformin use, hypertension, cardiac disease, tobacco use, chronic kidney disease, and pulmonary disease as covariates. Primary outcomes were aneurysm rupture or repair. Secondary outcomes include mortality and major adverse cardiac events (MACE; myocardial infarction, stroke, and heart failure). Standard statistical methods were used as appropriate.\nRESULTS: We identified 412,490 patients with diagnosis of AAA who were undergoing 6-month surveillance between June 1, 2010 and April 16, 2024. After PSM, the GLP-1RA group (N=13,722) underwent fewer elective repairs at each timepoint (1.5% vs 2.3% at 2 years, 2.1% vs 3.0% at 5 years, P<.01) and had significantly fewer ruptures at two years (1.1% vs 1.8%, P<.01) and five years (1.6% vs 2.4%, P<.01) when compared to Group 2 (N=13,722). Group 1 also experienced significantly fewer MACE and all-cause mortality at two and five years. On multivariate analysis, GLP-1RA significantly reduced the risk of undergoing elective repair (HR 0.757, 95% CI [0.636-0.902], P<.01), rupture (HR 0.538, 95% CI [0.418-0.691], P<.01), all-cause mortality (HR 0.474, 95% CI [0.439-0.511], P<.001), and MACE (HR 0.825, 95% CI [0.794-0.857], P<.01) at 5 years.\nCONCLUSIONS: The use of GLP-1RA in patients with AAA is associated with fewer ruptures, elective repairs, and improved rates of MACE and death. A prospective analysis may further elucidate if GLP-1RA should be prescribed to reduce the rate of aneurysm growth.",
+      "journal": "Journal of vascular surgery",
+      "authors": "Go Catherine C, Alcantara Ana Clara Morellato, Annie Frank, Drabish Kerry, Eslami Mohammad H",
+      "pub_date": "2026-10-29",
+      "doi": "10.1016/j.jvs.2026.09.053",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957066/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a207f7b709a7c6a617bb21dcbaca7c468f0e42ed92881c36d90b17eae77d2115",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "TriNetX研究ネットワーク（123の医療機関）から、2010年6月1日から2024年4月16日までに6か月間隔で腹部画像検査を受けていた腹大動脈瘤（AAA）患者412,490例を同定した。傾向スコアマッチング（1:1、年齢・性別・糖尿病・メトホルミン使用・高血圧・心疾患・喫煙・慢性腎臓病・肺疾患を共変量として）後、GLP-1RA群（N=13,722）と非GLP-1RA群（N=13,722）を比較した。GLP-1RA群は、2年・5年時点での選択的修復術、破裂、主要不良心血管事象（MACE）、全死因死亡率が有意に低かった。多変量解析では、5年時点で選択的修復術（HR 0.757）、破裂（HR 0.538）、全死因死亡率（HR 0.474）、MACE（HR 0.825）のリスクが有意に低減した。",
+      "key_takeaway_ja": "腹大動脈瘤患者におけるGLP-1RAの使用は、破裂・選択的修復術・MACE・死亡の発生率の低減と関連していた。",
+      "why_matters_ja": "腹大動脈瘤は炎症・マトリクスリモデリング・血管平滑筋細胞の障害・血栓形成を伴う進行性疾患であり、破裂リスクの管理は臨床的に重要である。GLP-1RAは既に2型糖尿病の第一線治療として確立されており、抗炎症・心血管保護作用も示されているが、AAA患者への影響に関するデータは限られていた。本研究は、既存のGLP-1RAがAAAの予後改善に寄与する可能性を示唆し、AAA管理における新たな治療戦略の検討を促すものである。",
+      "study_type_ja": "大規模データベース（TriNetX）を用いた後向きコホート研究（傾向スコアマッチングによる1:1マッチング）",
+      "endpoints_ja": "主要エンドポイント：動脈瘤破裂または修復術。二次エンドポイント：全死因死亡率、主要不良心血管事象（MACE：心筋梗塞、脳卒中、心不全）。",
+      "endpoint_results_ja": "選択的修復術：2年時点 1.5% vs 2.3%（P<.01）、5年時点 2.1% vs 3.0%（P<.01）。破裂：2年時点 1.1% vs 1.8%（P<.01）、5年時点 1.6% vs 2.4%（P<.01）。MACE：2年・5年時点で有意に低かった（具体的な数値は記載なし）。全死因死亡率：2年・5年時点で有意に低かった（具体的な数値は記載なし）。多変量解析（5年時点）：選択的修復術 HR 0.757（95% CI 0.636-0.902, P<.01）、破裂 HR 0.538（95% CI 0.418-0.691, P<.01）、全死因死亡率 HR 0.474（95% CI 0.439-0.511, P<.001）、MACE HR 0.825（95% CI 0.794-0.857, P<.01）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:45:43Z"
+    },
+    {
+      "pmid": "42956842",
+      "title": "Semaglutide versus other GLP-1 RAs and cardiovascular risk in obesity-related cancer survivors.",
+      "abstract": "AIMS: Obesity-related cancer (ORCa) survivors are a unique population often excluded from landmark GLP-1 receptor agonist (GLP-1 RA) trials. Given their cardiovascular risks, we investigated whether semaglutide initiation, compared with other GLP-1 RA, was associated with modified 3-point major adverse cardiovascular events (MACE) among ORCa survivors with type 2 diabetes (T2D).\nMETHODS: We emulated a target trial using PCORnet-UTSW electronic health records (2016-2025). Adults with ORCa and T2D initiating semaglutide versus other GLP-1 RA were included. The primary outcome was modified 3-point MACE (myocardial infarction, stroke, or all-cause mortality). Cumulative incidence risk (CIR), risk difference (RD), and hazard ratio (HR) were estimated in 1:1 propensity score-matched cohort.\nRESULTS: Among 918 matched patients (semaglutide, n = 459; other GLP-1 RA, n = 459), 124 modified 3-point MACE occurred. The 5-year CIR% was 17.6 (95% CI, 12.3-22.9) for semaglutide and 26.6 (95% CI, 20.7-32.6) for other GLP-1 RA. Semaglutide was associated with lower modified 3-point MACE risk (RD%, -7.41 [95% CI, -11.83 to - 2.98];HR, 0.65 [95% CI, 0.44-0.94]) than other GLP-1 RA. Findings were largely consistent across high-risk subgroups.\nCONCLUSIONS: Semaglutide was associated with a lower modified 3-point MACE risk than other GLP-1 RA. These findings suggest potential heterogeneity in cardioprotective effects and warrant confirmation.",
+      "journal": "Diabetes research and clinical practice",
+      "authors": "Abdelgadir Omer, Hernández-Pérez Jesus Gibran, Hussain Maryam R, Mendoza Kenny, Mian Rabiya K, Albayyaa Mohanad, Hughes Amy, Almandoz Jaime P",
+      "pub_date": "2026-10-29",
+      "doi": "10.1016/j.diabres.2026.113618",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956842/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "779312cbd23698bf00b32c5cab7ec1b94d602c08108e4c1d2bb3850c24d86f2e",
+      "fetched_at_utc": "2026-10-31T00:42:52Z",
+      "updated_at_utc": "2026-10-31T00:42:52Z",
+      "summary_ja": "肥満関連がん（ORCa）生存者かつ2型糖尿病（T2D）の成人において、セマグルチド開始群と他のGLP-1受容体作動薬（GLP-1 RA）群を比較し、修正3点MACE（心筋梗塞、脳卒中、全死因死亡）のリスクを評価した。PCORnet-UTSW電子カルテ（2016-2025）を用いたターゲットトライアルエミュレーションであり、1:1プロパティスコアマッチングコホートで解析した。918名のマッチング患者（セマグルチド群459名、他のGLP-1 RA群459名）中、124例で修正3点MACEが発生した。5年累積発生リスク（CIR）はセマグルチド群17.6%（95% CI, 12.3-22.9）、他のGLP-1 RA群26.6%（95% CI, 20.7-32.6）であり、セマグルチド群で有意に低かった（RD, -7.41% [95% CI, -11.83 to -2.98]; HR, 0.65 [95% CI, 0.44-0.94]）。高リスクサブグループでも結果は概ね一致した。",
+      "key_takeaway_ja": "肥満関連がん生存者かつT2D患者において、セマグルチドは他のGLP-1 RAと比較して修正3点MACEリスクを有意に低減した（HR 0.65）。",
+      "why_matters_ja": "肥満関連がん生存者はランドマークGLP-1 RA試験からしばしば除外される独自の集団であり、心血管リスクが高いにもかかわらず、この集団におけるGLP-1 RA間の心血管保護効果の差に関するエビデンスが不足していた。本研究は、セマグルチドと他のGLP-1 RAの心血管保護効果に異質性が存在する可能性を示唆し、この未解決の臨床的ギャップに答えるものである。",
+      "study_type_ja": "ターゲットトライアルエミュレーション（電子カルテを用いた観察研究、1:1プロパティスコアマッチングコホート）",
+      "endpoints_ja": "修正3点MACE（心筋梗塞、脳卒中、全死因死亡）",
+      "endpoint_results_ja": "5年CIR: セマグルチド群 17.6%（95% CI, 12.3-22.9） vs 他のGLP-1 RA群 26.6%（95% CI, 20.7-32.6）; RD: -7.41%（95% CI, -11.83 to -2.98）; HR: 0.65（95% CI, 0.44-0.94）; MACE発生例数: 124例",
+      "sample_size_ja": "918名（セマグルチド群 n = 459; 他のGLP-1 RA群 n = 459）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:46:09Z"
     },
     {
       "pmid": "42955666",
@@ -390,6 +590,74 @@
       "sample_size_ja": "Safety Set：8796例。フルアナリシスセット：8704例（Enavo群：7046例、EnavoMet群：1658例）。24週時評価：Enavo群 n=7003、EnavoMet群 n=1648。",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-30T00:57:24Z"
+    },
+    {
+      "pmid": "42951303",
+      "title": "Tirzepatide Use Resulted in Clinically Meaningful Weight Reduction in Individuals With Obesity or Overweight: 12-Month Real-World Results.",
+      "abstract": "AIMS: This study assessed the real-world effectiveness of tirzepatide in commercially insured individuals without diabetes, eligible for obesity medications (OMs), including glucagon like-peptide-1 receptor agonist (GLP-1 RA)-naïve individuals (i.e., no GLP-1 RA prescription during the 12-month pre-index period) and GLP-1 RA-experienced individuals.\nMETHODS: This retrospective, observational cohort study used Optum's de-identified Market Clarity Data (Optum Market Clarity). Adults with ≥ 1 prescription claim for tirzepatide between November 2023 and March 2024, with continuous medical/pharmacy enrollment for ≥ 12 months pre-index and post-index and available pre- and post-index data were included. Baseline demographics, clinical characteristics, and treatment effectiveness (change from baseline in weight, body mass index, and cardiometabolic risk factors) were assessed among OM-eligible individuals who were persistent on tirzepatide for ≥ 12 months.\nRESULTS: The GLP-1 RA-naïve and experienced cohorts included 230 individuals (mean age: 49.5 years, 72.2% female) and 123 individuals (mean age: 48.9 years, 81.3% female), respectively, who were persistent on tirzepatide for 12 months with documented pre- and post-index weight measurements. At baseline, more than 85% of individuals in each cohort had ≥ 1 obesity-related complication, most commonly dyslipidemia, hypertension, and prediabetes. At 12 months post-index, the GLP-1 RA-naïve cohort achieved a mean weight reduction of 19.3%, while the GLP-1 RA-experienced cohort achieved a mean weight reduction of 13.1%.\nCONCLUSIONS: After 12 months of persistent tirzepatide use, individuals experienced clinically meaningful weight reduction, comparable to outcomes reported in clinical trials. These real-world findings were observed both in GLP-1 RA-naïve and experienced individuals.",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Chinthammit Chanadda, Gibble Theresa Hunter, Dehghan Melody, Mojdami Donna, Huang Ahong, Schapiro David, Bays Harold",
+      "pub_date": "2026-10-28",
+      "doi": "10.1111/dom.71480",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951303/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "603196b4cb49b7606379bd927e027ec5b00007368cb4c3ac71f3feb62360ae61",
+      "fetched_at_utc": "2026-10-30T00:53:36Z",
+      "updated_at_utc": "2026-10-30T00:53:36Z",
+      "summary_ja": "本研究は、Optum Market Clarityデータを用いた後ろ向き観察コホート研究であり、糖尿病を有さない商業保険加入者におけるtirzepatideのリアルワールド有効性を評価した。GLP-1 RA未使用群（230名）とGLP-1 RA使用経験群（123名）の2コホートで、tirzepatideを12ヶ月以上継続使用した対象者のベースラインからの変化（体重、BMI、心血管代謝リスク因子）を評価した。12ヶ月時点で、GLP-1 RA未使用群は平均体重減少19.3%、GLP-1 RA使用経験群は平均体重減少13.1%を達成した。",
+      "key_takeaway_ja": "tirzepatideの12ヶ月間の継続使用により、GLP-1 RA未使用群および使用経験群の双方で臨床的に有意な体重減少が得られ、臨床試験で報告された結果と同等の効果がリアルワールド環境でも確認された。",
+      "why_matters_ja": "糖尿病を有さない商業保険加入者というリアルワールド集団において、tirzepatideの有効性を後方視的に検証したことで、臨床試験環境とは異なる実際の診療現場での治療効果のエビデンスを提供する。",
+      "study_type_ja": "後ろ向き観察コホート研究（リアルワールド研究）",
+      "endpoints_ja": "ベースラインからの体重、BMI、心血管代謝リスク因子の変化",
+      "endpoint_results_ja": "12ヶ月時点で、GLP-1 RA未使用群の平均体重減少は19.3%、GLP-1 RA使用経験群の平均体重減少は13.1%。BMIおよび心血管代謝リスク因子の具体的数値は抄録に記載なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:46:31Z"
+    },
+    {
+      "pmid": "42951207",
+      "title": "Continued CagriSema treatment preserves weight loss by reducing energy intake and maintaining energy expenditure in rats.",
+      "abstract": "PURPOSE: CagriSema (CS), combining the amylin receptor agonist cagrilintide with the glucagon-like peptide 1 receptor agonist semaglutide, is being developed for obesity and type 2 diabetes. We quantified CS effects on energy balance during initial treatment, weight maintenance, and after discontinuation.\nMETHODS: Male diet-induced obese rats underwent indirect calorimetry during 6 weeks of treatment and for 4 weeks after discontinuation. Treatments were a) vehicle, b) CS, c) calorie-restriction to match CS body weight loss (weight matched, WM), and d) calorie-restriction to match CS food intake (pair-feeding, PF).\nRESULTS: CS effects occurred in four phases. During days 1-10 (Phase I), CS induced rapid weight loss mainly through reduced energy intake (EI), while energy expenditure (EE) was relatively preserved. EE was significantly lower in WM rats, consistent with metabolic adaptation. During days 11-42 (Phase II), reduced body weight was maintained in the CS, WM, and PF groups, and respiratory exchange ratio converged across groups, indicating metabolic steady state had been reached. Reduced EI and preserved total EE respectively explained 86% and 14% of CS weight loss efficacy. Maintained resting/sleeping EE contributed to the total EE preservation. Treatment discontinuation (days 43-52, Phase III) caused hyperphagia and rapid weight regain. During days 53-68 (Phase IV), all groups reached metabolic steady state and weight gain returned to pretreatment rates. Body weight plateaued in approximately half the time needed to reach metabolic steady state, and metabolic adaptation reversed within ∼7 days after discontinuation.\nCONCLUSIONS: By persistently lowering EI and attenuating metabolic adaptation, CS enables sustained weight loss in rats; however, the reversal after treatment cessation suggests that chronic pharmacological therapy may be required to maintain weight loss.",
+      "journal": "Molecular metabolism",
+      "authors": "Petersen Lisbeth M, Knop Filip K, le Roux Carel W, Raun Kirsten, Reitman Marc L, Kuhre Rune E",
+      "pub_date": "2026-10-28",
+      "doi": "10.1016/j.molmet.2026.102464",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951207/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9b33420f4370e9816490dba81642502a0813ff3aa59fbb9f424dd075370b8ff2",
+      "fetched_at_utc": "2026-10-30T00:53:36Z",
+      "updated_at_utc": "2026-10-30T00:53:36Z",
+      "summary_ja": "CagriSema（CS；アミリン受容体作動薬cagrilintideとGLP-1受容体作動薬semaglutideの併用）は肥満および2型糖尿病の治療薬として開発されている。本研究では、食事誘発性肥満ラットを用い、間接熱量計法により、初期治療期（6週間）、体重維持期、および投与中止後（4週間）のエネルギーバランスへのCSの効果を定量化した。対照群として、vehicle群、CS群、CSの体重減少に合わせたカロリー制限群（WM）、CSの食物摂取量に合わせたpair-feeding群（PF）を設けた。",
+      "key_takeaway_ja": "CSはエネルギー摂取量の持続的な低下と代謝適応の軽減によりラットにおいて持続的な体重減少を可能にするが、投与中止後に過食と急速な体重再増加が認められ、体重維持には慢性薬物療法が必要である可能性が示唆された。",
+      "why_matters_ja": "肥満治療において、体重減少のメカニズム（エネルギー摂取量とエネルギー消費量の寄与比）を解明することは、治療戦略の最適化に重要である。CSが代謝適応を軽減しつつ体重減少を維持する機序を明らかにし、投与中止後の体重再増加のリスクを定量的に示すことで、慢性治療の必要性を裏付ける根拠を提供する。",
+      "study_type_ja": "前臨床動物実験（食事誘発性肥満ラット、間接熱量計法によるエネルギーバランス解析）",
+      "endpoints_ja": "エネルギー摂取量（EI）、エネルギー消費量（EE）、体重、呼吸交換比（RER）、安静時/睡眠時EE",
+      "endpoint_results_ja": "CSの体重減少効果のうち、エネルギー摂取量の低下が86%、総エネルギー消費量の維持が14%を説明した。投与中止後、代謝適応は約7日以内に逆転した。体重のプラトー到達は代謝恒常状態の達成に必要な時間の約半分であった。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-10-31T00:47:01Z"
     },
     {
       "pmid": "42946972",
@@ -4996,288 +5264,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
       "summary_generated_at_utc": "2026-10-07T00:38:39Z"
-    },
-    {
-      "pmid": "42837024",
-      "title": "GLP-1 receptor agonists for obstructive sleep apnea: a meta-analysis of randomized controlled trials.",
-      "abstract": "PURPOSE: Weight reduction is recommended in all overweight and obese patients with obstructive sleep apnea (OSA). Glucagon-like peptide-1 (GLP-1) receptor agonists-based therapies have demonstrated clinical benefits in reducing weight and could potentially improve OSA outcomes. We aim to analyze the efficacy and safety of GLP-1 receptor agonists-based therapies in patients with moderate-to-severe OSA.\nMETHODS: We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) that compared GLP-1 receptor agonists-based therapies versus control in adults with moderate-to-severe OSA. We systematically searched electronic databases and registries up to February 10, 2025. Outcomes assessed included apnea-hypopnea index (AHI), body weight, oxygen desaturation index (ODI), minimum oxygen saturation, systolic blood pressure (SBP), diastolic blood pressure (DBP), and adverse events.\nRESULTS: A total of 6 RCTs involving 1,069 participants were included, four evaluating liraglutide and two tirzepatide. Compared with control, GLP-1 receptor agonist-based therapies reduced AHI by - 9.99 events/hour (95% CI, - 16.47 to - 3.50; p < 0.01; I2 = 87%) and body weight by - 9.68 kg (95% CI, - 15.84 to - 3.51; p < 0.01; I2 = 98%). These therapies also reduced SBP by -4.77 mmHg (95% CI, -7.04 to -2.51; p < 0.01), and DBP by -1.41 mmHg (95% CI, -2.71 to -0.11; p = 0.03). No significant differences were observed in ODI or minimum oxygen saturation. GLP-1 receptor agonists-based therapies did not increase the risk of adverse events.\nCONCLUSION: GLP-1 receptor agonist-based therapies reduced AHI and body weight in the populations studied. Substantial heterogeneity limits interpretation of the pooled effect magnitude. These findings support their potential role within comprehensive OSA management but do not establish them as substitutes for CPAP.\nREGISTRY: International Prospective Register of Systematic Reviews; No.: CRD42024564018; URL: https://www.crd.york.ac.uk/prospero/ .",
-      "journal": "Sleep & breathing = Schlaf & Atmung",
-      "authors": "Carvalhal Giulia, Mora Maria Meritxell Roca, Peralta-Jiménez Gonzalo Alberto, Ayasa Laith, Barrera Vivian, Advani Kavita, Aljazeeri Jafar",
-      "pub_date": "2026-10-06",
-      "doi": "10.1007/s11325-026-03826-5",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42837024/",
-      "publication_types": [
-        "Journal Article",
-        "Meta-Analysis",
-        "Systematic Review"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Sleep Apnea, Obstructive",
-        "Randomized Controlled Trials as Topic",
-        "Glucagon-Like Peptide-1 Receptor Agonists",
-        "Tirzepatide",
-        "Liraglutide"
-      ],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "e08f5ba330770c172bc7bf36e268d450a2607eb698fc932ee27a69422e0ba0e8",
-      "fetched_at_utc": "2026-10-07T00:38:39Z",
-      "updated_at_utc": "2026-10-07T00:38:39Z",
-      "summary_ja": "中等症〜重症OSAの成人を対象に、GLP-1受容体作動薬（リラグルチド4試験、tirzepatide 2試験）と対照を比較した6件のRCT（被験者1,069名）を含む系統的レビューおよびメタ解析。AHI、体重、ODI、最低酸素飽和度、収縮期血圧、拡張期血圧、有害事象を評価した。",
-      "key_takeaway_ja": "GLP-1受容体作動薬はAHIと体重を有意に減少させたが、高い異質性（AHI: I²=87%, 体重: I²=98%）により pooled effect の解釈には限界がある。CPAPの代替とはならないが、OSAの包括的治療における潜在的役割を支持する。",
-      "why_matters_ja": "過体重・肥満のOSA患者には減量が推奨されており、GLP-1受容体作動薬は減量効果を示しているため、OSAの転帰改善に寄与する可能性がある。",
-      "study_type_ja": "メタ解析（系統的レビュー）",
-      "endpoints_ja": "AHI（無呼吸低呼吸指数）、体重、ODI（酸素脱飽和指数）、最低酸素飽和度、収縮期血圧（SBP）、拡張期血圧（DBP）、有害事象",
-      "endpoint_results_ja": "AHI: -9.99 events/hour（95% CI, -16.47 to -3.50; p < 0.01; I² = 87%）；体重: -9.68 kg（95% CI, -15.84 to -3.51; p < 0.01; I² = 98%）；SBP: -4.77 mmHg（95% CI, -7.04 to -2.51; p < 0.01）；DBP: -1.41 mmHg（95% CI, -2.71 to -0.11; p = 0.03）；ODI: 有意差なし；最低酸素飽和度: 有意差なし；有害事象: リスク増加なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-07T00:39:09Z"
-    },
-    {
-      "pmid": "42836768",
-      "title": "Association between frailty status and eGFR slope change after initiation of finerenone in chronic kidney disease.",
-      "abstract": "",
-      "journal": "Journal of nephrology",
-      "authors": "Mori Daisuke, Tamai Shinjiro, Nomi Hiroki, Nagatoya Katsuyuki, Yamauchi Atsushi",
-      "pub_date": "2026-10-06",
-      "doi": "10.1093/joneph/aajag190",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42836768/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "finerenone"
-      ],
-      "matched_companies": [
-        "Bayer"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "44471a731b4bb957cea5f87971904f540abfe2f6a1ddfb04cb560eac8e0b7ee5",
-      "fetched_at_utc": "2026-10-07T00:38:39Z",
-      "updated_at_utc": "2026-10-07T00:38:39Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-10-07T00:38:39Z"
-    },
-    {
-      "pmid": "42834642",
-      "title": "Kidney function decline, heart failure hospitalization, and the effect of empagliflozin in heart failure: an EMPEROR-pooled analysis.",
-      "abstract": "BACKGROUND: Kidney function decline in heart failure (HF) may accelerate during periods surrounding HF-related events, while sodium-glucose cotransporter 2 inhibitors slow kidney function decline. However, the temporal relationship between kidney function changes, HF-related events, and treatment effects has not been well characterized.\nAIMS: We aimed to explore kidney function trajectories around HF-related events and to assess whether empagliflozin modifies these changes.\nMETHODS AND RESULTS: In a pooled analysis of the EMPEROR-Reduced and EMPEROR-Preserved trials, we examined longitudinal changes in estimated glomerular filtration rate (eGFR) before and after HF-related events, defined as HF hospitalization or HF-related death. In the EMPEROR-Pooled analysis, HF-related events occurred in 12.7% of 9554 patients during a median follow-up of 20.9 months (14.7-28.6). Patients who experienced HF-related events had a steeper eGFR decline during the 12 months before the event than those without HF-related events: average -5.01 ml/min/1.73 m2/year vs -1.93 ml/min/1.73 m2/year; P < .001. During the 12 months after HF-related events, eGFR decline persisted at an average rate of -4.73 ml/min/1.73 m2/year. These trajectories were not materially altered after adjustment for concurrent NYHA class or natriuretic peptide levels. Compared with placebo, empagliflozin slowed eGFR decline in patients without events (between-group difference, 0.94 ml/min/1.73 m2/year) and before events (1.09 ml/min/1.73 m2/year). The post-event difference was smaller (0.29 ml/min/1.73 m2/year), without significant heterogeneity across periods (P > .10). Findings were consistent across trials and irrespective of prior HF hospitalization.\nCONCLUSION: Across the LVEF spectrum, kidney function decline accelerated before HF-related events and remained rapid thereafter. Empagliflozin attenuated eGFR decline without evidence of heterogeneity across periods.",
-      "journal": "European journal of heart failure",
-      "authors": "Kobayashi Masatake, Duarte Kevin, Baudry Guillaume, Ferreira João Pedro, Monzo Luca, Butler Javed, Zannad Faiez, Girerd Nicolas",
-      "pub_date": "2026-10-06",
-      "doi": "10.1093/ejhf/xuag295",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42834642/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "empagliflozin"
-      ],
-      "matched_companies": [
-        "Boehringer Ingelheim"
-      ],
-      "bi_related": true,
-      "japan_relevant": false,
-      "content_sha256": "d344ea708af906a702291d864ea801d953e1215f9e953deb080e28359b6bb0aa",
-      "fetched_at_utc": "2026-10-07T00:38:39Z",
-      "updated_at_utc": "2026-10-07T00:38:39Z",
-      "summary_ja": "EMPEROR-ReducedとEMPEROR-Preserved試験のプール解析において、心不全関連イベント（心不全入院または心不全関連死亡）前後のeGFRの経時的変化を評価し、エンパグリフロジンがこれらの変化を修正するかを検討した。心不全関連イベントを経験した患者は、イベント前の12ヶ月間でeGFRがより急峻に低下しており（平均-5.01 vs -1.93 ml/min/1.73 m2/年、P<.001）、イベント後も-4.73 ml/min/1.73 m2/年の低下が持続した。エンパグリフロジンはプラセボと比較して、イベントなし患者（0.94）、イベント前（1.09）、イベント後（0.29）のeGFR低下を抑制し、期間間の異質性は有意ではなかった（P>.10）。",
-      "key_takeaway_ja": "LVEFスペクトラム全体で、腎機能の低下は心不全関連イベント前に加速し、イベント後も速い低下が持続した。エンパグリフロジンは期間間の異質性の証拠なしにeGFR低下を抑制した。",
-      "why_matters_ja": "腎機能変化、心不全関連イベント、治療効果の間の時間的関係は十分に特徴づけられていなかった。本解析は、心不全患者における腎機能低下の時間的パターンとSGLT2阻害薬の腎保護効果の期間依存性を明らかにし、臨床的なモニタリングや治療判断に示唆を与える。",
-      "study_type_ja": "ランダム化比較試験（EMPEROR-ReducedおよびEMPEROR-Preserved）のプール解析（post-hoc解析）",
-      "endpoints_ja": "心不全関連イベント（心不全入院または心不全関連死亡）前後のeGFRの経時的変化（イベント前12ヶ月、イベント後12ヶ月のeGFR低下速度）、エンパグリフロジンとプラセボ間のeGFR低下速度の差",
-      "endpoint_results_ja": "心不全関連イベントは9554例中12.7%で発生（中央値フォローアップ20.9ヶ月、14.7-28.6）。イベント前12ヶ月のeGFR低下：イベントあり群 -5.01 ml/min/1.73 m2/年 vs イベントなし群 -1.93 ml/min/1.73 m2/年（P<.001）。イベント後12ヶ月のeGFR低下：平均 -4.73 ml/min/1.73 m2/年。エンパグリフロジン vs プラセボのeGFR低下速度差：イベントなし 0.94 ml/min/1.73 m2/年、イベント前 1.09 ml/min/1.73 m2/年、イベント後 0.29 ml/min/1.73 m2/年。期間間の異質性は有意でない（P>.10）。",
-      "sample_size_ja": "9554例",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-07T00:40:32Z"
-    },
-    {
-      "pmid": "42832795",
-      "title": "Annals On Call - Tirzepatide Versus Intensified Conventional Care for Poorly Controlled Type 2 Diabetes.",
-      "abstract": "",
-      "journal": "Annals of internal medicine",
-      "authors": "Centor Robert M, Batch Bryan C",
-      "pub_date": "2026-10-06",
-      "doi": "10.7326/ANNALS-26-03906-OC",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42832795/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "06f375474f5dce3f250d3b70ddf58737e2af2c4fa3ae6423028339ee9097431f",
-      "fetched_at_utc": "2026-10-07T00:38:39Z",
-      "updated_at_utc": "2026-10-07T00:38:39Z",
-      "summary_ja": "抄録に記載なし",
-      "key_takeaway_ja": "抄録に記載なし",
-      "why_matters_ja": "抄録に記載なし",
-      "study_type_ja": "抄録に記載なし",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "deterministic/missing-abstract",
-      "summary_generated_at_utc": "2026-10-07T00:38:39Z"
-    },
-    {
-      "pmid": "42857284",
-      "title": "Effects of Evogliptin and Dapagliflozin on Bone and Glucose Metabolism in Postmenopausal Women with Type 2 Diabetes: A Multicenter Randomized Exploratory Clinical Trial.",
-      "abstract": "BACKGROUND: Postmenopausal women with type 2 diabetes mellitus (T2DM) are at increased risk of fragility fractures, emphasizing the importance of selecting antidiabetic agents that support glycemic control and bone health. Most dipeptidyl peptidase-4 inhibitors have shown neutral or favorable effects on bone metabolism; however, data specifically on evogliptin remain limited. This study evaluated the effects of evogliptin and dapagliflozin on bone metabolism and glycemic parameters in postmenopausal women with T2DM.\nMETHODS: This multicenter, randomized clinical trial enrolled postmenopausal women with T2DM assigned to receive evogliptin or dapagliflozin for 48 weeks. The primary outcome was change in bone mineral density (BMD). Glycemic indices were the secondary endpoints.\nRESULTS: Sixty participants were included in the final analysis, with 30 in each group. After 48 weeks, the change in BMD at the L1-L4 spine and total hip did not differ significantly between groups. Femoral neck BMD decreased significantly in the dapagliflozin group compared with the evogliptin group, although the absolute between-group difference was small (0.00 ± 0.02 vs -0.02 ± 0.04 g/cm2, p = 0.0402). After adjustment for baseline femoral neck BMD and 25OHD, the between-group difference was attenuated (p = 0.0763). The body mass index (BMI) decreased more in the dapagliflozin group than in the evogliptin group. In analyses of factors associated with femoral neck BMD change, no statistically significant predictors were identified, although decreasing BMI showed a trend toward association. Glycemic indices did not differ significantly between the groups.\nCONCLUSION: In postmenopausal women with T2DM, BMD remained stable with evogliptin, whereas dapagliflozin was associated with a small reduction in femoral neck BMD, although this finding was weakened after adjustment. These findings provide preliminary evidence regarding the skeletal effects of evogliptin and dapagliflozin and warrant confirmation in larger studies.\nCLINICAL TRIAL REGISTRATION: ClinicalTrials.gov (NCT04706637).",
-      "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
-      "authors": "Ryu Hyun Jin, Park So Young, Kim Ha-Young, Byun Dong Won, Song Kee-Ho, Hong Seongbin, Lee Jungbok, Baek Ki-Hyun",
-      "pub_date": "2026-10-05",
-      "doi": "10.2147/DMSO.S618336",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42857284/",
-      "publication_types": [
-        "Case Reports",
-        "Clinical Trial",
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "dapagliflozin"
-      ],
-      "matched_companies": [
-        "AstraZeneca"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "00d099dd94f4c5f334d6e1947a1b119d72250ea1884386d91d4d4df32a323335",
-      "fetched_at_utc": "2026-10-12T00:29:32Z",
-      "updated_at_utc": "2026-10-12T00:29:32Z",
-      "summary_ja": "閉経後の2型糖尿病女性を対象とした多施設ランダム化探索的臨床試験。エボグリプチン群とダパグリフロジン群の各30名（計60名）に48週間投与し、主評価項目である骨密度（BMD）の変化を比較した。L1-L4脊椎および大腿骨頭全体のBMD変化は群間差が有意でなかった。大腿骨頚部BMDはダパグリフロジン群で有意に低下した（0.00 ± 0.02 vs -0.02 ± 0.04 g/cm2, p = 0.0402）が、ベースライン大腿骨頚部BMDおよび25OHDで調整すると有意性が弱まった（p = 0.0763）。BMIはダパグリフロジン群でより大きく低下した。血糖指標は群間差が有意でなかった。",
-      "key_takeaway_ja": "閉経後の2型糖尿病女性において、エボグリプチンはBMDを安定させ、ダパグリフロジンは大腿骨頚部BMDの軽度低下と関連したが、調整後には有意性が弱まった。",
-      "why_matters_ja": "閉経後の2型糖尿病女性は脆弱性骨折のリスクが高く、血糖管理と骨健康の両方を支持する降糖薬の選択が重要である。DPP-4阻害薬の多くは骨代謝に中立または好影響を示すが、エボグリプチンに関するデータは限られていた。",
-      "study_type_ja": "多施設ランダム化探索的臨床試験",
-      "endpoints_ja": "主評価項目：骨密度（BMD）の変化。副次評価項目：血糖指標。",
-      "endpoint_results_ja": "L1-L4脊椎および大腿骨頭全体のBMD変化：群間差は有意でなかった。大腿骨頚部BMD変化：エボグリプチン群 0.00 ± 0.02 g/cm2 vs ダパグリフロジン群 -0.02 ± 0.04 g/cm2, p = 0.0402。ベースライン大腿骨頚部BMDおよび25OHDで調整後：p = 0.0763。BMI：ダパグリフロジン群でより大きく低下（具体的な数値は記載なし）。血糖指標：群間差は有意でなかった。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-12T00:33:43Z"
-    },
-    {
-      "pmid": "42840232",
-      "title": "Cardiovascular outcomes with tirzepatide versus semaglutide in type 2 diabetes.",
-      "abstract": "PURPOSE: tirzepatide is associated with greater glycemic control and weight reduction compared to semaglutide in patients with T2D. Tirzepatide has also been recently shown to be non-inferior to dulaglutide in cardiovascular risk reduction among patients with T2D. Whether tirzepatide is more or less effective than semaglutide for cardioprotection is underexplored.\nMETHODS: The Research Collaborative Network of the TriNetX platform was accessed to collect de-identified, real world data on patients with T2D and compare the incidence of a composite of cardiovascular outcomes including acute myocardial infarction, stroke and acute heart failure, as well as all-cause mortality between patients who used tirzepatide and patients who used semaglutide during the period May 13, 2022 to Aug 11, 2026. One-to-one propensity score matching was applied to control for possible confounding covariates.\nRESULTS: two well-matched cohorts (N = 271,685 for each) were analyzed. Compared to the semaglutide group, the tirzepatide group had lower incidences of the primary composite outcome (4.6% vs. 5.5%; absolute risk difference [ARD] -0.9%, 95% confidence interval [CI] -1.01 to -0.77; hazard ratio [HR] 0.9, 95% CI 0.92─0.96) and all-cause mortality (0.6% vs. 0.9%; ARD - 0.3%, 95% CI -0.33 to -0.24; HR 0.8, 95% CI 0.74─0.84).\nCONCLUSION: Tirzepatide was associated with lower risk of a composite of outcome of cardiovascular events as well as all-cause mortality compared to semaglutide in patients with T2D.\nCLINICAL TRIAL REGISTRATION: Clinical trial number: not applicable.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40200-026-02087-z.",
-      "journal": "Journal of diabetes and metabolic disorders",
-      "authors": "Al-Nusair Mohammed, Khurana Shriya, Eysha Mostafa, Elchouemi Mohanad, Zaki Islam H",
-      "pub_date": "2026-10-05",
-      "doi": "10.1007/s40200-026-02087-z",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42840232/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "c003ff4fb63b6ba3fe218237d8f1c7c33f494aef802d9c440e55fbb8d992a74c",
-      "fetched_at_utc": "2026-10-08T00:56:53Z",
-      "updated_at_utc": "2026-10-08T00:56:53Z",
-      "summary_ja": "TriNetXプラットフォームの匿名化リアルワールドデータを用い、2型糖尿病患者においてtirzepatide群とsemaglutide群の心血管アウトカム（急性心筋梗塞、脳卒中、急性心不全の複合）および全死因死亡率を比較した後ろ向き観察研究。1対1の傾向スコアマッチングを適用し、2022年5月13日から2026年8月11日までの期間で解析を行った。",
-      "key_takeaway_ja": "2型糖尿病患者において、tirzepatideはsemaglutideと比較して心血管イベントの複合アウトカムおよび全死因死亡率のリスクが有意に低かった。",
-      "why_matters_ja": "tirzepatideとsemaglutideの心保護効果の優劣は未解明であったが、本リアルワールド研究は両薬剤の心血管アウトカムにおける相対的優位性を示す証拠を提供する。",
-      "study_type_ja": "後ろ向き観察研究（リアルワールドデータ、TriNetXプラットフォーム、1対1傾向スコアマッチング）",
-      "endpoints_ja": "主要エンドポイント：心血管アウトカムの複合（急性心筋梗塞、脳卒中、急性心不全）；副次エンドポイント：全死因死亡率",
-      "endpoint_results_ja": "主要複合アウトカム：tirzepatide群 4.6% vs semaglutide群 5.5%；絶対リスク差（ARD）-0.9%（95%CI -1.01〜-0.77）；ハザード比（HR）0.9（95%CI 0.92〜0.96）。全死因死亡率：tirzepatide群 0.6% vs semaglutide群 0.9%；ARD -0.3%（95%CI -0.33〜-0.24）；HR 0.8（95%CI 0.74〜0.84）。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-08T01:00:14Z"
-    },
-    {
-      "pmid": "42834385",
-      "title": "Cost-effectiveness of early empagliflozin initiation after acute myocardial infarction: a German statutory health insurance perspective.",
-      "abstract": "BACKGROUND AND OBJECTIVE: Empagliflozin reduced heart failure (HF) hospitalizations after acute myocardial infarction (MI) in EMPACT-MI without a mortality benefit. We assessed whether HF morbidity prevention generates long-term economic value from the German statutory health insurance perspective.\nMETHODS: We developed a monthly cohort Markov model over a lifetime horizon comparing early empagliflozin plus standard care with standard care in post-MI patients at increased HF risk. The base case applied the EMPACT-MI hazard ratio of 0.77 for first HF hospitalization, assumed no direct mortality benefit, and modelled 24 months of treatment. Costs were in 2026 euros. The primary analysis covered 17.9 months; exploratory lifetime outcomes included quality-adjusted life-years (QALYs) and incremental cost-effectiveness ratios (ICERs).\nRESULTS: Early empagliflozin gained 0.0315 QALYs at €1,418 incremental cost (ICER €45,100/QALY) and avoided 52.0 lifetime HF hospitalizations per 1000 patients. The probability of cost-effectiveness was 16.2%, 55.2%, and 79.7% at €30,000, €50,000, and €80,000/QALY, respectively. Price reductions of 25% and 50% lowered the ICER to €32,300/QALY and €19,500/QALY. The maximum annual price compatible with €30,000/QALY was €607. Results were most sensitive to the HF hospitalization effect, drug price, and baseline HF risk. A trial-anchored analysis using the EMPACT-MI placebo event and mortality rates yielded a similar ICER (€47,200/QALY).\nCONCLUSIONS: Early empagliflozin generated modest projected QALY gains, predominantly through modelled indirect survival gains, at higher lifetime costs.Economic value was conditional, depending on willingness-to-pay, net price, and absolute HF risk, with the most favorable profile at lower net prices and in HF-risk-enriched patients.",
-      "journal": "Cost effectiveness and resource allocation : C/E",
-      "authors": "Boettger Priyanka, Nakou Eleni, Kinsley Thomas, Buerke Michael, Wild Eva-Maria, Sossalla Samuel",
-      "pub_date": "2026-10-05",
-      "doi": "10.1186/s12962-026-00830-0",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42834385/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "empagliflozin"
-      ],
-      "matched_companies": [
-        "Boehringer Ingelheim"
-      ],
-      "bi_related": true,
-      "japan_relevant": false,
-      "content_sha256": "ae7e26026a24f98f7e8a529cddfd71752fe905cc0140dd99dcc2dadca3b5d433",
-      "fetched_at_utc": "2026-10-07T00:38:39Z",
-      "updated_at_utc": "2026-10-07T00:38:39Z",
-      "summary_ja": "急性心筋梗塞（MI）後の心不全（HF）リスク増大患者において、早期エンパグリフロジン開始の費用対効果をドイツ法定健康保険の視点から評価したMarkovモデルによる健康経済学的分析である。EMPACT-MI試験のハザード比（初回HF入院HR 0.77、死亡率への直接効果なし）を基に、エンパグリフロジン＋標準治療と標準治療を生涯ホライズンで比較した。ベースケースでは24ヶ月間の治療をモデル化し、2026年ユーロでコストを算出した。",
-      "key_takeaway_ja": "早期エンパグリフロジンは0.0315 QALYの増益と€1,418の増加分コスト（ICER €45,100/QALY）を示し、€30,000/QALYのWTP閾値では費用対効果の確率が16.2%と低かった。価格25%・50%引き下げでICERはそれぞれ€32,300/QALY・€19,500/QALYに低下し、低価格かつHFリスクが高い患者群で最も有利なプロファイルを示した。",
-      "why_matters_ja": "EMPACT-MIでHF入院減少が示されたものの死亡率効果は認められなかったエンパグリフロジンのMI後使用について、ドイツの保険者視点から経済的価値を定量的に評価した。WTP閾値、実質価格、絶対HFリスクに依存する条件付きの経済的価値を示し、薬価設定や適応拡大の意思決定に直接的な根拠を提供する。",
-      "study_type_ja": "Markovモデルを用いた費用対効果分析（健康経済学モデリング研究）",
-      "endpoints_ja": "QALY（品質調整生命年）、ICER（増分費用対効果比）、生涯HF入院回数（1,000患者あたり）、WTP閾値における費用対効果の確率",
-      "endpoint_results_ja": "QALY増益 0.0315、増加分コスト €1,418、ICER €45,100/QALY、1,000患者あたり生涯HF入院回避 52.0回、費用対効果の確率：€30,000/QALYで16.2%、€50,000/QALYで55.2%、€80,000/QALYで79.7%、価格25%引き下げ時ICER €32,300/QALY、価格50%引き下げ時ICER €19,500/QALY、€30,000/QALYに適合する最大年間価格 €607、試験アンカー解析ICER €47,200/QALY",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-07T00:41:01Z"
-    },
-    {
-      "pmid": "42833987",
-      "title": "Innovative holistic treatment for CKM: what lies ahead?",
-      "abstract": "Cardiovascular-kidney-metabolic (CKM) syndrome, as defined by the American Heart Association, encompasses interrelated metabolic, kidney, and cardiovascular disorders that mutually reinforce one another along a shared risk continuum. Its five-stage model, supported by the PREVENT risk equations, guides stage-specific prevention and treatment. Albuminuria, alongside eGFR, plays a central role not only as a marker of kidney damage but as an independent cardiovascular risk factor. Visceral adiposity and insulin resistance promote cardiovascular and kidney injury through interconnected inflammatory, oxidative, hemodynamic, and neurohormonal pathways. The metabolic dysfunction-associated steatotic liver disease (MASLD) as part of the proposed cardiovascular-kidney-liver-metaolic (CKLM) framework further highlights the role of the liver as another key contributor in this multiorgan disease. Effective management requires coordinated interventions, including lifestyle modification, weight management, renin-angiotensin system inhibitors, SGLT2 inhibitors, GLP-1 receptor agonist, non-steroidal mineralocorticoid receptor antagonists (nsMRAs), as consolidated by the AHA/ACC/ADA/ASN and ESC guidelines. However, fragmented care, limited awereness and socioeconomic inequalities - including a persistent risk treatment paradox - continue to limit implementation. Improved preclinical models and more inclusive clinical studies incorporating multiorgan outcomes may facilitate the translation of mechanistic findings, while multimodal imaging and artificial intelligence may improve risk prediction and diagnostic algorithms. Further validation of disease trajectories and broad implementation of interdisciplinary care are needed to improve outcomes across the CKM continuum.",
-      "journal": "European journal of internal medicine",
-      "authors": "Balfanz Paul, Marx Nikolaus",
-      "pub_date": "2026-10-05",
-      "doi": "10.1016/j.ejim.2026.107222",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42833987/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [],
-      "matched_companies": [],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "273a1e785938d9f0d408d005c880928b304e9f59c62d0bde3e0b5e131308697f",
-      "fetched_at_utc": "2026-10-07T00:38:39Z",
-      "updated_at_utc": "2026-10-07T00:38:39Z",
-      "summary_ja": "本レビューは、米心臓協会（AHA）が定義した心血管・腎・代謝（CKM）症候群について概説する。CKM症候群は相互に増強し合う代謝性・腎性・心血管性の疾患を包含し、PREVENTリスク方程式に基づく5段階モデルで段階別の予防・治療を導く。アルブミン尿は腎障害のマーカーであるだけでなく独立した心血管リスク因子として中心的な役割を果たす。内臓脂肪とインスリン抵抗性は、炎症・酸化・血流動態・神経内分泌経路を通じて心血管・腎障害を促進する。MASLDを含むCKLMフレームワークは肝臓の役割をさらに強調する。有効な管理には、生活習慣改善、体重管理、レニン・アンギオテンシン系阻害薬、SGLT2阻害薬、GLP-1受容体作動薬、非ステロイド性ミネラルコルチコイド受容体拮抗薬（nsMRA）を含む協調的介入が必要であり、AHA/ACC/ADA/ASNおよびESCガイドラインに統合されている。しかし、断片的なケア、認識不足、社会経済的不平等（持続的なリスク治療パラドックスを含む）が実施を妨げている。前臨床モデルの改善、多臓器アウトカムを含むより包括的な臨床研究、多モード画像診断や人工知能によるリスク予測の向上が期待される。",
-      "key_takeaway_ja": "CKM症候群の管理には多臓器を横断した協調的・学際的アプローチが必要であるが、断片的なケア体制、認識不足、社会経済的不平等が実施を妨げており、疾患軌跡のさらなる検証と学際的ケアの広範な導入が課題である。",
-      "why_matters_ja": "CKM症候群は単一臓器疾患ではなく、代謝・腎・心血管（および肝臓）が相互に増強し合う多臓器疾患連続体であり、従来の臓器別・断片的なアプローチでは十分に対処できない。本レビューは、現在の治療ギャップと今後の方向性を示すことで、臨床実践と研究の優先順位付けに寄与する。",
-      "study_type_ja": "レビュー",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-07T00:43:06Z"
     }
   ]
 }
