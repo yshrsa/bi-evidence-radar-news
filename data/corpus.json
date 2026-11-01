@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-31T00:42:52Z",
+  "generated_at_utc": "2026-11-01T00:04:06Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,208 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42963793",
+      "title": "Empagliflozin's role in cardiometabolic disease treatment: an Egyptian expert's view.",
+      "abstract": "BACKGROUND: Given the expanding therapeutic indications of empagliflozin (EMPA) beyond glycemic control and the growing burden of cardiometabolic diseases, this review evaluated its efficacy, safety, and cost-effectiveness in the Egyptian population within the global context.\nMETHODS: A comprehensive literature review of PubMed and Google Scholar identified clinical trials, systematic reviews, meta-analyses, and clinical guidelines published in English up to July 2025. We included studies reporting EMPA's pharmacological profile, mechanisms of action, and clinical outcomes on diabetes mellitus, cardiometabolic diseases, renal and hepatic functions, safety during Ramadan fasting, and cost-effectiveness.\nRESULTS: EMPA, as monotherapy or combination therapy, improves glycemic control in type 2 diabetes through Sodium-glucose co-transporter-2 (SGLT-2) inhibition. For type 1 diabetes mellitus, despite improving glycemic control as an adjunct therapy, it is not recommended due to the increased risk of diabetic ketoacidosis. EMPA reduces major cardiovascular events, heart failure hospitalization, and chronic kidney disease progression, with modest weight loss and blood pressure reduction, in patients with or without diabetes. Emerging evidence suggests benefits in metabolic dysfunction-associated steatotic liver disease (MASLD), although it is not approved for this indication. EMPA demonstrates a favorable safety profile and low hypoglycemia risk during Ramadan fasting. It enhances patients' quality of life and is considered cost-effective.\nCONCLUSIONS: EMPA extends beyond glucose-lowering by reducing cardiorenal morbidity and mortality in patients with or without diabetes. It shows a favorable safety profile, even during Ramadan fasting, supporting its suitability for the large Muslim population. Further research should evaluate its role in MASLD and assess cost-effectiveness in Egypt.",
+      "journal": "Diabetology & metabolic syndrome",
+      "authors": "Assaad-Khalil Samir H, Elmessallamy Fawzy, Elhadidy Khaled Elsayed, El Hefnawy Mohamed Hesham, Halawa Mohamed Reda, Zeitoun Mohamed, Hussein Shady, Elebrashy Ibrahim",
+      "pub_date": "2026-10-30",
+      "doi": "10.1186/s13098-026-02312-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963793/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "c9da00f67e3c95932050e7a20c6bf39be91252c93f3d24ff19cf6b42d97b8e7d",
+      "fetched_at_utc": "2026-11-01T00:04:06Z",
+      "updated_at_utc": "2026-11-01T00:04:06Z",
+      "summary_ja": "エムパグリフロジン（EMPA）の血糖管理以外の治療適応が拡大し、心代謝疾患の負担が増大する中、本レビューはエジプト人口におけるEMPAの有効性、安全性、費用対効果をグローバルな文脈で評価した。PubMedおよびGoogle Scholarから2025年7月までに英語で出版された臨床試験、系統的レビュー、メタアナリシス、臨床ガイドラインを包括的に検索し、糖尿病、心代謝疾患、腎・肝機能、ラマダン断食中の安全性、費用対効果に関する臨床アウトカムを網羅的に検討した。",
+      "key_takeaway_ja": "EMPAは降血糖作用を超え、糖尿病の有無を問わず心腎臓の有病率および死亡率を低下させる。ラマダン断食中においても良好な安全性プロファイルを示し、大規模なムスリム人口への適用を支持する。",
+      "why_matters_ja": "心代謝疾患の負担が増大し、EMPAの適応が血糖管理以外に拡大する中、エジプトという特定の地域・文化的文脈（特にラマダン断食）における有用性を評価した点に意義がある。MASLDへの効果やエジプトにおける費用対効果のさらなる評価が今後の課題として示されている。",
+      "study_type_ja": "包括的文献レビュー（comprehensive literature review）",
+      "endpoints_ja": "血糖コントロール、主要心血管イベント、心不全入院、慢性腎臓病の進行、体重減少、血圧低下、ラマダン断食中の安全性（低血糖リスク）、生活の質（QOL）、費用対効果",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-01T00:04:25Z"
+    },
+    {
+      "pmid": "42963299",
+      "title": "Activities of daily living and health status benefits of semaglutide in very old patients with heart failure, type 2 diabetes, and obesity: Real-world practice study.",
+      "abstract": "INTRODUCTION AND OBJECTIVES: The role of glucagon-like peptide-1 receptor agonists in patients with heart failure has not been widely described. We aimed to analyze the efficacy of once-weekly semaglutide in very old patients with type 2 diabetes, obesity, and heart failure in terms of activities of daily living performance and health status.\nPATIENTS AND METHODS: This real-world observational study included patients ≥80 years with heart failure, diabetes, and obesity treated with semaglutide (Sema-Old Group) and patients not treated with glucagon-like peptide 1 receptor agonists (Control-Old Group). The co-primary outcomes were improvement in activities of daily living performance (measured using the Barthel Index) and health status (measured using the Kansas City Cardiomyopathy Questionnaire) at 24 months.\nRESULTS: After propensity score matching, 232 patients were included in each group. The use of once-weekly semaglutide was associated with greater improvement in activities of daily living performance and health status in the Sema-Old Group compared to the Control-Old Group (Odds Ratio: 4.03; 95% Confidence Interval: 1.82-7.31; p<.01; Odds Ratio: 4.65; 95% Confidence Interval: 1.92-7.71; p<.01; respectively). There were also reductions in heart failure and all-cause hospitalizations, and cardiovascular death. Semaglutide use was associated with improved glycemic control and reduced body weight. Negative correlations were observed between activities of daily living performance and heart failure health status with the body weight and NT-proBNP levels.\nCONCLUSIONS: Once-weekly semaglutide use was associated with improvements in activities of daily living performance and heart failure health status in very old patients with type 2 diabetes, obesity, and heart failure.",
+      "journal": "Medicina clinica",
+      "authors": "Pérez-Velasco Miguel A, Trenas Alicia, Padilla-Leiva Claudia, Pérez-Ruiz José M, Ruíz-Rodríguez Fátima I, Gómez-Huelgas Ricardo, Bernal-López Maria Rosa, Pérez-Belmonte Luis M",
+      "pub_date": "2026-10-30",
+      "doi": "10.1016/j.medcli.2026.107663",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963299/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "381c902f1729dff2df497fb863a33cf2c0849e6478797481d75752e271bda759",
+      "fetched_at_utc": "2026-11-01T00:04:06Z",
+      "updated_at_utc": "2026-11-01T00:04:06Z",
+      "summary_ja": "80歳以上の心不全・2型糖尿病・肥満を有する高齢患者において、週1回セマグルチドの日常生活動作（ADL）遂行能力および健康状態への影響を、実世界観察研究として検討した。プロパティスコアマッチングによりセマグルチド群（Sema-Old Group）とGLP-1受容体作動薬未使用群（Control-Old Group）を比較し、24か月時点のADL遂行能力（Barthel Index）および健康状態（Kansas City Cardiomyopathy Questionnaire）を共同主要評価項目として評価した。",
+      "key_takeaway_ja": "80歳以上の心不全・2型糖尿病・肥満患者において、週1回セマグルチドの使用は、GLP-1受容体作動薬未使用群と比較してADL遂行能力および心不全の健康状態の改善と関連していた。",
+      "why_matters_ja": "GLP-1受容体作動薬が心不全患者において果たす役割は十分に報告されておらず、特に80歳以上の超高齢患者における実世界での有効性データは限られている。本研究は、この脆弱な集団におけるセマグルチドのADLおよび健康状態への有益性を示す実世界エビデンスを提供する。",
+      "study_type_ja": "実世界観察研究（プロパティスコアマッチング適用）",
+      "endpoints_ja": "共同主要評価項目：24か月時点のADL遂行能力（Barthel Index）および健康状態（Kansas City Cardiomyopathy Questionnaire）の改善。その他：心不全入院、全原因入院、心血管死亡、血糖コントロール、体重。",
+      "endpoint_results_ja": "ADL遂行能力の改善：Odds Ratio 4.03（95% CI 1.82-7.31、p<.01）。健康状態の改善：Odds Ratio 4.65（95% CI 1.92-7.71、p<.01）。心不全入院・全原因入院・心血管死亡の減少が認められたが、具体的な数値は抄録に記載なし。血糖コントロールの改善および体重減少が認められたが、具体的な数値は抄録に記載なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-01T00:04:49Z"
+    },
+    {
+      "pmid": "42962966",
+      "title": "The metabolic-brain axis: GLP-1 signaling, insulin resistance, and obesity pharmacotherapy in neurodegeneration.",
+      "abstract": "The intersection of metabolic disease and neurodegeneration represents one of the most consequential frontiers in translational neuroscience. Converging epidemiological, mechanistic, and pharmacological evidence supports a bidirectional metabolic-brain axis in which systemic insulin resistance, obesity, and chronic metabolic inflammation are associated with and may contribute to alterations in neuronal survival, synaptic plasticity, and neuroimmune homeostasis. GLP-1 receptor agonists, originally developed for glycemic control and weight management, have therefore been investigated as potential disease-modifying therapies across Alzheimer's disease, Parkinson's disease, and related neurodegenerative conditions through mechanisms including neuronal PKA activation, microglial NLRP3 suppression, mitochondrial biogenesis, and restoration of AQP4 perivascular localization that may contribute to glymphatic waste clearance. Direct human evidence for these CNS mechanisms remains limited or absent, with current support derived primarily from preclinical models and indirect human data, as detailed in Table 1, warranting dedicated investigation in the context of GLP-1 receptor agonism. Importantly, the two pivotal phase 3 programs designed to test this hypothesis in humans - EVOKE/EVOKE+ in early Alzheimer's disease and Exenatide-PD3 in Parkinson's disease - have both now reported, and neither demonstrated a statistically significant benefit on its primary clinical endpoint, despite favorable biomarker and epidemiological signals preceding these results. This review synthesizes current knowledge on brain insulin signaling, GLP-1 neurobiology, obesity-driven neuroinflammation, and the translational evidence for metabolic therapeutics in neurodegeneration, and uses the dissociation between mechanistic plausibility, epidemiological association, and null confirmatory trial results to identify critical knowledge gaps and translational barriers related to CNS target engagement, optimal dosing, and disease-modifying efficacy of GLP-1 receptor agonists. The review is organized into four major themes: brain insulin signaling, central GLP-1 biology, obesity-associated neuroinflammation, and the translational evidence supporting metabolic therapies for neurodegenerative disease.",
+      "journal": "Metabolism: clinical and experimental",
+      "authors": "Santerre Maryline, Shcherbik Natalia, Sawaya Bassel E",
+      "pub_date": "2026-10-30",
+      "doi": "10.1016/j.metabol.2026.156810",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962966/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f62168d8992a6307b1bd52e40b76546e384b6ea1833039705f75107a4e04f2e9",
+      "fetched_at_utc": "2026-11-01T00:04:06Z",
+      "updated_at_utc": "2026-11-01T00:04:06Z",
+      "summary_ja": "代謝性疾患と神経変性の交差に関する総説。全身性インスリン抵抗性、肥満、慢性代謝性炎症が神経細胞生存、シナプス可塑性、神経免疫恒常性に影響を与える双方向性の代謝-脳軸について、疫学的・機能的・薬理学的証拠を統合した。GLP-1受容体作動薬がアルツハイマー病、パーキンソン病などの神経変性疾患に対する疾患修飾療法として検討されてきたが、2つの主要な第III相試験（EVOKE/EVOKE+：早期アルツハイマー病、Exenatide-PD3：パーキンソン病）はいずれも主要臨床エンドポイントにおいて統計的に有意な有益性を示さなかった。機能的妥当性、疫学的関連、陰性の確認試験結果の乖離から、CNSターゲットエンゲージメント、最適用量、疾患修飾効果に関する重要な知識ギャップと翻訳的障壁を特定した。",
+      "key_takeaway_ja": "GLP-1受容体作動薬は前臨床モデルと疫学的シグナルで有望とされたが、2つの主要な第III相試験（EVOKE/EVOKE+、Exenatide-PD3）はいずれも主要臨床エンドポイントで統計的に有意な有益性を示さず、機能的妥当性と臨床的有効性の間に乖離があることが示された。",
+      "why_matters_ja": "前臨床・疫学的証拠と確認試験の陰性結果の乖離を明らかにすることで、GLP-1受容体作動薬の神経変性疾患への応用におけるCNSターゲットエンゲージメント、最適用量、疾患修飾効果に関する翻訳的障壁の特定に寄与し、今後の臨床開発戦略の方向性を示唆する。",
+      "study_type_ja": "総説（Review）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "EVOKE/EVOKE+（早期アルツハイマー病）およびExenatide-PD3（パーキンソン病）のいずれも主要臨床エンドポイントにおいて統計的に有意な有益性を示さなかった（neither demonstrated a statistically significant benefit on its primary clinical endpoint）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-01T00:05:19Z"
+    },
+    {
+      "pmid": "42962687",
+      "title": "Efficacy and safety of oral orforglipron in Japanese participants with obesity disease (ATTAIN-J): a double-blind, randomised, placebo-controlled, parallel-group, phase 3 trial.",
+      "abstract": "BACKGROUND: Orforglipron, a small-molecule, non-peptide, oral GLP-1 receptor agonist, has shown bodyweight reduction and cardiometabolic benefits in adults with obesity across phase 3 trials globally. We aimed to assess the efficacy and safety of orforglipron versus placebo for treating obesity disease in Japanese adults.\nMETHODS: ATTAIN-J was a double-blind, randomised, placebo-controlled, parallel-group, phase 3 trial conducted across 16 medical research centres and hospitals in Japan and included adults aged 18 years or older with a BMI between 27 kg/m2 and less than 35 kg/m2 and two or more obesity-related health disorders, or a BMI of 35 kg/m2 or higher and one or more obesity-related health disorder, with one or more of the obesity-related health disorders being hypertension, dyslipidaemia, or type 2 diabetes (targeted at about 25% of participants), consistent with Japanese indications for tirzepatide and semaglutide for obesity disease; and at least one unsuccessful dietary attempt to lose weight. Participants were randomly assigned (1:1:1:1) via a computer-generated sequence to once-daily oral orforglipron (6 mg, 12 mg, or 36 mg) or placebo. Co-primary endpoints were mean percentage change in bodyweight and percentage of participants with at least 5% bodyweight reduction from baseline to week 72. Efficacy endpoints were primarily evaluated by the treatment regimen estimand in all randomly assigned participants. Safety was assessed in participants who received at least one dose of study treatment. This trial is registered with ClinicalTrials.gov, NCT05931380 (completed).\nFINDINGS: Between July 31, 2023, and June 19, 2025, 291 participants were screened, of whom 238 (144 [61%] males and 94 [39%] females; mean age 54·1 years [SD 11·2]) were randomly assigned to receive orforglipron 6 mg (n=61), 12 mg (n=57), or 36 mg (n=60), or placebo (n=60); 214 (90%) participants completed the study. At week 72, mean percentage change in bodyweight was -5·9% (95% CI -7·6 to -4·2) with orforglipron 6 mg, -8·7% (-10·9 to -6·5) with 12 mg, and -7·9% (-10·0 to -5·8) with 36 mg, compared with -0·6% (-2·1 to 0·8) with placebo (all p<0·0001 vs placebo). At week 72, a bodyweight reduction of at least 5% was seen in 15·2% (SE 4·8; nine of 60) of participants in the placebo group compared with 45·6% (6·1; 28 of 61; p=0·0001) of participants in the orforglipron 6 mg group, 60·8% (6·4; 35 of 57; p<0·0001) of participants in the orforglipron 12 mg group, and 58·8% (6·5; 35 of 60; p<0·0001) of participants in the orforglipron 36 mg group. Adverse events with orforglipron were mostly mild-to-moderate gastrointestinal symptoms. Across all orforglipron groups, treatment-emergent adverse events that most frequently led to study treatment discontinuation were nausea (one [2%] of 61 in the 6 mg group, one [2%] of 57 in the 12 mg group, and five [8%] of 60 in the 36 mg group vs none with placebo) and vomiting (none in the 6 mg group, two [4%] in the 12 mg group, and one [2%] in the 36 mg group vs none in the placebo group).\nINTERPRETATION: In Japanese adults with obesity disease, once-daily orforglipron resulted in statistically superior reductions in bodyweight versus placebo, with a safety profile consistent with that of other GLP-1 receptor agonists.\nFUNDING: Eli Lilly and Company.\nTRANSLATION: For the Japanese translation of the abstract see Supplementary Materials section.",
+      "journal": "The lancet. Diabetes & endocrinology",
+      "authors": "Yokote Koutaro, Yamauchi Toshimasa, Shingaki Tomotaka, Chin Rina, Oura Tomonori, Nagai Yukiko, Shimomura Iichiro, Kadowaki Takashi",
+      "pub_date": "2026-10-30",
+      "doi": "10.1016/S2213-8587(26)00232-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962687/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "6a60bc69c83b9864ade4bd79b429e6a4326b0a1ef0f46accbed14171d4a929b0",
+      "fetched_at_utc": "2026-11-01T00:04:06Z",
+      "updated_at_utc": "2026-11-01T00:04:06Z",
+      "summary_ja": "ATTAIN-Jは、日本の肥満症患者における経口orforglipron（小分子・非ペプチド型GLP-1受容体作動薬）の有効性と安全性をプラセボ対照で評価した第III相二重盲検ランダム化並行群間試験である。日本国内16施設で238例がランダム化され（orforglipron 6 mg: n=61、12 mg: n=57、36 mg: n=60、プラセボ: n=60）、72週時点でorforglipron全用量群でプラセボ統計的に優越した体重減少が示された。有害事象は主に軽〜中等度の消化器症状であった。",
+      "key_takeaway_ja": "日本の肥満症患者において、1日1回の経口orforglipronはプラセボと比較して統計的に優越した体重減少を示し、安全性プロファイルは他のGLP-1受容体作動薬と一致した。",
+      "why_matters_ja": "経口型の非ペプチドGLP-1受容体作動薬として、日本における肥満症治療の新たな選択肢を提供する可能性がある。全球の第III相試験で体重減少および心代謝上の利益が示されてきたorforglipronの日本人群での有効性を確認した。",
+      "study_type_ja": "二重盲検、ランダム化、プラセボ対照、並行群間、第III相試験",
+      "endpoints_ja": "共同一次エンドポイント：(1) 体重の平均変化率（ベースラインから72週）、(2) 体重減少が5%以上の被験者の割合（ベースラインから72週）。有効性は治療レジメンestimandにより全ランダム化被験者で評価。安全性は試験治療を少なくとも1回受けた被験者で評価。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-01T00:05:59Z"
+    },
+    {
+      "pmid": "42962685",
+      "title": "Oral small-molecule GLP-1 receptor agonist for obesity in people from Japan.",
+      "abstract": "",
+      "journal": "The lancet. Diabetes & endocrinology",
+      "authors": "Tanday Neil, Miras Alexander Dimitri",
+      "pub_date": "2026-10-30",
+      "doi": "10.1016/S2213-8587(26)00253-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962685/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "084e6707d0cdf7aff9d02e830d03e88818b5ce241d31f063d5f4a8378fbddc87",
+      "fetched_at_utc": "2026-11-01T00:04:06Z",
+      "updated_at_utc": "2026-11-01T00:04:06Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-01T00:04:06Z"
+    },
+    {
+      "pmid": "42962309",
+      "title": "Urinary tract and genital infections with dapagliflozin and empagliflozin across type 2 diabetes, heart failure, and chronic kidney disease: An indication- and sex-stratified disproportionality analysis of eudravigilance reports.",
+      "abstract": "Sodium-glucose cotransporter-2 (SGLT2) inhibitors are widely used in type 2 diabetes mellitus (T2DM), chronic heart failure (CHF), and chronic kidney disease (CKD). Although their cardiovascular and renal benefits are well established, urogenital infections remain a relevant safety concern. Comparative post-marketing data on dapagliflozin (DAPA) and empagliflozin (EMPA) across therapeutic indications are limited. A retrospective pharmacovigilance analysis of the EudraVigilance database (January 2021-July 2025) was conducted using a case/non-case approach. Cases were defined as individual case safety reports (ICSRs) containing at least one urogenital infection-coded reaction and a confirmed indication (T2DM, CHF, or CKD). The primary analysis was restricted to reports originating from the European Economic Area (EEA), where reporting rules are identical for both drugs; reports with unspecified patient age were excluded. Among 16,102 EEA ICSRs, 8156 adult reports with a confirmed indication were analyzed, of which 1109 met the case definition. Non-EEA reports were analyzed separately as a sensitivity analysis. Urogenital infection reporting did not differ between DAPA and EMPA, overall (ROR 0.91; 95% CI 0.80-1.03) or within any indication (T2DM: 13.9% vs 14.9%, ROR 0.92; 95% CI 0.79-1.07; CHF: 11.5% vs 12.6%, ROR 0.90; 95% CI 0.69-1.18; CKD: 11.0% vs 6.7%, ROR 1.73; 95% CI 0.75-3.99). For both drugs, reporting was higher in T2DM than in CHF (DAPA ROR 1.25; 95% CI 1.00-1.56; EMPA ROR 1.22; 95% CI 0.99-1.51), a difference confined to female patients (DAPA 1.38; EMPA 1.56) and, in the endpoint disaggregation, to genital mycotic infections (DAPA 2.24; EMPA 1.79) rather than non-mycotic urogenital infections. Female sex was the strongest determinant of urogenital infection reporting for both drugs (ROR female/male 1.85 for DAPA and 1.58 for EMPA). In non-EEA reports, an apparent excess of urogenital infection reporting with DAPA over EMPA (ROR 1.85; 95% CI 1.59-2.16) was explained by a different composition of the reports forwarded for the two drugs rather than by a drug effect. Urogenital infection reporting with SGLT2 inhibitors depends on indication and sex rather than on the molecule, and between-drug comparisons in EudraVigilance are sensitive to the geographic origin of reports.",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "authors": "Graziosi Agnese, Riemma Maria Antonietta, Gurgone Danila, Schianchi Alice, Morroni Fabiana, Sita Giulia, Baratta Francesco, Veronese Chiara",
+      "pub_date": "2026-10-30",
+      "doi": "10.1016/j.biopha.2026.119976",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962309/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "0ec2d695ed8e04e46bb455e97be1d09269c6f750ee2049c6f586c80d1e08ef2e",
+      "fetched_at_utc": "2026-11-01T00:04:06Z",
+      "updated_at_utc": "2026-11-01T00:04:06Z",
+      "summary_ja": "EudraVigilanceデータベース（2021年1月〜2025年7月）を用いた後方視的薬物警戒分析であり、case/non-caseアプローチによる不均衡分析で、DAPAとEMPAの泌尿生殖器感染症報告をT2DM・CHF・CKDの適応別および性別に層別比較した。EEA由来のICSR 16,102件中、適応が確認された成人報告8,156件を解析し、うち1,109件がcase定義を満たした。",
+      "key_takeaway_ja": "SGLT2阻害薬の泌尿生殖器感染症報告は分子（DAPA vs EMPA）ではなく適応と性別に依存する。EEA報告ではDAPAとEMPA間で有意な差は認められず、女性性が最も強い決定因子であった（DAPA ROR 1.85、EMPA ROR 1.58）。",
+      "why_matters_ja": "SGLT2阻害薬はT2DM・CHF・CKDの複数適応で広く使用されているが、泌尿生殖器感染症は依然として関連する安全性懸念であり、適応別・性別に層別した比較的事後市場データは限られていた。本解析は、EudraVigilanceにおける薬剤間比較が報告の地理的由来に敏感であることを示し、安全性シグナルの解釈に重要な示唆を与える。",
+      "study_type_ja": "後方視的薬物警戒分析（EudraVigilanceデータベースを用いたcase/non-case不均衡分析）",
+      "endpoints_ja": "泌尿生殖器感染症の報告不均衡比（ROR）：DAPA vs EMPA（全体・適応別・性別）、T2DM vs CHF間の報告差、生殖器真菌感染症への分解分析",
+      "endpoint_results_ja": "全体: ROR 0.91; 95% CI 0.80-1.03。T2DM: 13.9% vs 14.9%, ROR 0.92; 95% CI 0.79-1.07。CHF: 11.5% vs 12.6%, ROR 0.90; 95% CI 0.69-1.18。CKD: 11.0% vs 6.7%, ROR 1.73; 95% CI 0.75-3.99。T2DM vs CHF: DAPA ROR 1.25; 95% CI 1.00-1.56, EMPA ROR 1.22; 95% CI 0.99-1.51。女性限定: DAPA 1.38, EMPA 1.56。生殖器真菌感染症: DAPA 2.24, EMPA 1.79。女性/男性: DAPA ROR 1.85, EMPA ROR 1.58。非EEA: DAPA vs EMPA ROR 1.85; 95% CI 1.59-2.16。",
+      "sample_size_ja": "EEA由来ICSR 16,102件中、適応が確認された成人報告8,156件を解析（うちcase定義を満たした1,109件）。非EEA報告は感度分析として別途解析。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-01T00:06:43Z"
     },
     {
       "pmid": "42961329",
@@ -678,7 +880,16 @@
       "japan_relevant": false,
       "content_sha256": "4b03974b63eda579c81da6888d5c7cd3365fd2c913c62d9e7de4007d793fe876",
       "fetched_at_utc": "2026-10-30T00:53:36Z",
-      "updated_at_utc": "2026-10-30T00:53:36Z"
+      "updated_at_utc": "2026-10-30T00:53:36Z",
+      "summary_ja": "本レビューは、GLP-1受容体作動薬（GLP-1RA）療法と糖尿病足潰瘍（DFU）の発生・治癒・下肢アウトカムとの関連に関する機能的および臨床的証拠を考察した。実験研究では抗炎症・抗酸化作用、内皮機能改善・血管新生促進、細胞修復の増強、神経保護効果が示された。臨床研究では、新規DFU、下肢切断、創傷関連合併症、死亡率に対して好ましい関連が示唆されたが、結果は一貫しておらず、大半の証拠は観察研究である。また、糖尿病足・下肢手術後のアウトカムに対しても好ましい影響が示唆されている。一方、GLP-1RA関連の体重減少に伴う筋量減少や栄養摂取量の低下が、末梢神経障害・創傷治癒・足部バイオメカニクスに与える懸念も指摘されている。",
+      "key_takeaway_ja": "GLP-1RAは糖尿病足健康に関連する利点を提供する可能性があるが、これらの療法がDFU治癒を直接改善するかを決定し、糖尿病足管理における役割を明確にするには、検証済みの創傷治癒エンドポイントを用いた前向き研究が必要である。",
+      "why_matters_ja": "糖尿病足潰瘍は糖尿病の重大な合併症であり、治癒障害、下肢切断、大きな有病率・死亡率と関連する。GLP-1RAは2型糖尿病・肥満の管理にますます使用されており、血糖管理を超えた糖尿病足健康への影響が注目されているため、その機序と臨床的証拠の整理が臨床実践に重要である。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "新規糖尿病足潰瘍（incident DFU）、下肢切断、創傷関連合併症、死亡率、糖尿病足・下肢手術後のアウトカム、DFU治癒",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-01T00:07:00Z"
     },
     {
       "pmid": "42951023",
@@ -699,7 +910,16 @@
       "japan_relevant": false,
       "content_sha256": "4012ff6b49738e7ad18e0fe18355f8def743319ed04dbfc992595ec32333d307",
       "fetched_at_utc": "2026-10-30T00:53:36Z",
-      "updated_at_utc": "2026-10-30T00:53:36Z"
+      "updated_at_utc": "2026-10-30T00:53:36Z",
+      "summary_ja": "インクレチン系治療薬において、受容体アーキテクチャ（生物学的ポテンシャル）と患者関連アウトカムのエビデンス成熟度を分離する臨床的に利用可能なフレームワークを提案するコメンタリー。心血管、腎、心不全、末梢動脈疾患、肝臓、および新興ポリアゴニストのエビデンスを基に、アウトカム成熟度を5つの領域（エンドポイントの直接性と臨床的関連性、試験デザインとエビデンスの信頼性、比較薬と対象集団の文脈、フォローアップ期間・持続性・安全性、分子・用量・適応症固有の適用性）で定義し、4つの定性的状態（preliminary, emerging, established, mature）を提案した。",
+      "key_takeaway_ja": "受容体アーキテクチャは生物学的ポテンシャルを定義するが、アウトカム成熟度は臨床エビデンスの直接性、堅牢性、持続性、適用性を特徴づける。臨床的ポジショニングはフェノタイプ固有のエビデンスに比例すべきであり、非整合な試験間の差をクロス試験のエフィカシーランキングに変換すべきではない。",
+      "why_matters_ja": "インクレチン系治療薬の多臓器エビデンスが急速に蓄積する中、異なる試験間の比較を誤ってエフィカシーランキングとして解釈するリスクを回避し、フェノタイプ固有のエビデンス成熟度に比例した臨床的ポジショニングを可能にするフレームワークを提供する点で意義がある。",
+      "study_type_ja": "コメンタリー（Commentary）",
+      "endpoints_ja": "心血管、腎、心不全、末梢動脈疾患、肝臓のアウトカム領域が言及されているが、特定の試験エンドポイントの定義は記載されていない。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-01T00:07:20Z"
     },
     {
       "pmid": "42951018",
@@ -726,7 +946,16 @@
       "japan_relevant": false,
       "content_sha256": "80ea493908b30479a93ff6bc40605c1cb30abc51565ea17b8f626293236962ec",
       "fetched_at_utc": "2026-10-30T00:53:36Z",
-      "updated_at_utc": "2026-10-30T00:53:36Z"
+      "updated_at_utc": "2026-10-30T00:53:36Z",
+      "summary_ja": "2型糖尿病（T2D）で中等度心血管リスクがあり、ベースラインでインスリン未使用かつステージ3以上の慢性腎臓病（CKD）を有しない成人において、カナグリフロジン、ダパグリフロジン、エンパグリフロジンの主要悪性腎イベント（MAKE）発生率を比較したターゲットトライアルエミュレーション研究。米国の保険請求データ（商業保険、Medicare Advantage、Traditional Medicare）を用い、2014年1月1日から2021年12月31日までに治療を開始した対象者を対象に、スーパーラーナーアンサンブルによる傾向スコアを逆確率重みとしてCoxモデルに組み込み、2022年12月31日までのintention-to-treat解析を行った。",
+      "key_takeaway_ja": "ダパグリフロジンとエンパグリフロジンはカナグリフロジンと比較してMAKEリスクが有意に低く（HR 0.91および0.93）、ダパグリフロジンとエンパグリフロジン間には差が認められなかった。",
+      "why_matters_ja": "T2D患者においてCKDリスクを低減するためのSGLT2阻害薬の選択を支援する臨床的に有用なエビデンスを提供する。中等度心血管リスクでステージ3以上のCKDを有しないという高頻度のサブセットにおけるSGLT2阻害薬間の腎保護効果の差を明らかにした点に意義がある。",
+      "study_type_ja": "ターゲットトライアルエミュレーション（観察研究、米国の保険請求データを用いたコホート研究）",
+      "endpoints_ja": "主要悪性腎イベント（MAKE：ステージ3以上のCKD、腎不全、腎代替療法開始）、全死因死亡",
+      "endpoint_results_ja": "MAKE発生率：1年後、ダパグリフロジン群3.2%、エンパグリフロジン群3.2%、カナグリフロジン群3.5%。3年後、ダパグリフロジン群8.4%、エンパグリフロジン群8.5%、カナグリフロジン群9.1%。カナグリフロジンに対するハザード比：ダパグリフロジン HR 0.91（95%CI 0.85-0.97）、エンパグリフロジン HR 0.93（95%CI 0.88-0.97）。ダパグリフロジンとエンパグリフロジン間には差なし。全死因死亡の結果は抄録に報告なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-01T00:07:44Z"
     },
     {
       "pmid": "42950887",
