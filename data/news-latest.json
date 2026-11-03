@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-02T00:42:41Z",
+  "generated_at_utc": "2026-11-03T02:58:20Z",
   "items": [
     {
       "pmid": "42805503",
@@ -70,6 +70,284 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42970163",
+      "title": "Efficacy and Safety of Dapagliflozin, Glimepiride, and Metformin Fixed-Dose Combination Tablet in Type 2 Diabetes: A Phase III Trial.",
+      "abstract": "INTRODUCTION: The global burden of type 2 diabetes mellitus (T2DM) is rapidly increasing, with India contributing significantly to the disease prevalence and associated economic burden. Despite metformin being the first-line therapy, many patients require combination treatment due to the progressive and multifactorial nature of T2DM. Fixed-dose combinations (FDCs) of drugs with complementary mechanisms may improve glycemic control, adherence, and treatment outcomes. This study has evaluated efficacy and safety of FDC of dapagliflozin (DAPA), glimepiride (GLIM), and metformin (MET) immediate release (IR) tablet versus co-administration of GLIM and MET tablets in patients with T2DM.\nMETHODS: This phase 3, randomized, open-label study included 536 Indian patients with T2DM [glycated hemoglobin (HbA1c) ≥ 8.0% and ≤ 11%], randomized (1:1:1:1) into four arms in primary treatment period (up to Week 16): FDC of DAPA + GLIM + MET [5 mg+1 mg+500 mg (Test 1)] or [5 mg+1 mg+1000 mg (Test 2)] twice-daily, or co-administration of GLIM and MET (1 mg and 500 mg) (Comparator 1) or GLIM and MET (1 mg and 1000 mg) (Comparator 2) twice-daily. Patients with HbA1c ≥ 7.0% at week 16 entered an uptitration period (increased GLIM dose to 2 mg; Weeks 16-28). Change in HbA1c from baseline to Week 16 was the primary endpoint.\nRESULTS: At Week 16, least-square mean HbA1c reduction was significantly greater with Test 1 (- 2.17%) versus Comparator 1 (- 1.64%, p = 0.0047) and Test 2 (- 2.25%) versus Comparator 2 (- 1.72%, p < 0.0001). Similarly, the proportion of patients achieving HbA1c < 7.0% at Week 16 was significantly greater in Test 1 versus Comparator 1 and Test 2 versus Comparator 2 (p < 0.0002 and p < 0.0001, respectively). Reduction in HbA1c, fasting, and postprandial blood glucose from baseline to Weeks 12, 16, and 28 was significant in all arms. Overall, treatments were well tolerated.\nCONCLUSIONS: The FDC of DAPA + GLIM + MET IR tablet demonstrated superior glycemic control over co-administration of glimepiride and metformin and acceptable safety profile, making it an effective therapeutic option for T2DM management.\nTRIAL REGISTRATION: Clinical Trials Registry India, CTRI/2022/06/043249.",
+      "journal": "Advances in therapy",
+      "authors": "Kurmi Prakash, Singh Manish Kumar, Gupta Vishal, Siddegowda Chikkalingaiah, Shukla Jitendra, Gofne Sandip, Lomte Nilesh, Shendkar Kaustubh",
+      "pub_date": "2026-11-02",
+      "doi": "10.1007/s12325-026-03791-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970163/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "f5c83228acd69e80885e90a7cb417b0d0f04f22fec87c5f698eea010e63c3d04",
+      "fetched_at_utc": "2026-11-03T02:53:13Z",
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "第III相、無作為化、オープンラベル試験として、インスリン抵抗性のある2型糖尿病患者536例（HbA1c ≥ 8.0%かつ≤ 11%）を対象に、ダパグリフロジン＋グリメピリド＋メトホルミンIR錠の固定用量配合（FDC）（Test 1: 5 mg+1 mg+500 mg、Test 2: 5 mg+1 mg+1000 mg、1日2回）とグリメピリド＋メトホルミンの併用（Comparator 1: 1 mg+500 mg、Comparator 2: 1 mg+1000 mg、1日2回）を比較した。主要評価項目はベースラインから16週までのHbA1c変化量であった。16週時点でHbA1c ≥ 7.0%の患者はグリメピリド増量（2 mg）による増量期間（16〜28週）に入った。",
+      "key_takeaway_ja": "ダパグリフロジン＋グリメピリド＋メトホルミンIR錠のFDCは、グリメピリド＋メトホルミンの併用と比較して血糖コントロールの優越性を示し、安全性も許容可能であった。",
+      "why_matters_ja": "2型糖尿病の世界的な有病率増加に伴い、メトホルミン単剤では不十分な患者に併用療法が求められる。補完的機序を持つ薬剤の固定用量配合は、血糖コントロール、アドヒアランス、治療成績の改善に寄与する可能性がある。",
+      "study_type_ja": "第III相、無作為化、オープンラベル、対照試験（優越性試験）",
+      "endpoints_ja": "主要評価項目：ベースラインから16週までのHbA1c変化量。副次評価項目：16週時点でHbA1c < 7.0%を達成した患者の割合、ベースラインから12週・16週・28週までのHbA1c・空腹時血糖・食後血糖の変化。",
+      "endpoint_results_ja": "16週時点の最小二乗平均HbA1c減少量：Test 1 −2.17% vs Comparator 1 −1.64%（p = 0.0047）、Test 2 −2.25% vs Comparator 2 −1.72%（p < 0.0001）。16週時点でHbA1c < 7.0%を達成した患者の割合：Test 1 vs Comparator 1（p < 0.0002）、Test 2 vs Comparator 2（p < 0.0001）で有意に高かった。全群でベースラインから12週・16週・28週までのHbA1c・空腹時血糖・食後血糖の減少が有意であった。",
+      "sample_size_ja": "536例（インドの2型糖尿病患者）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T02:53:42Z"
+    },
+    {
+      "pmid": "42969999",
+      "title": "Tirzepatide-associated severe euvolemic hyponatremia with syndrome of inappropriate antidiuretic hormone secretion-compatible biochemical features.",
+      "abstract": "Tirzepatide is a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist that is being increasingly used for the management of type 2 diabetes mellitus and obesity. Gastrointestinal adverse effects associated with incretin-based therapies can influence water balance through nonosmotic vasopressin release and reduced oral solute intake. In this case report, we report a patient who developed severe symptomatic hyponatremia with biochemical features compatible with the syndrome of inappropriate antidiuretic hormone secretion temporally associated with tirzepatide therapy. A woman with type 2 diabetes mellitus and morbid obesity on regular insulin and chronic torsemide therapy presented with anorexia, weakness, and drowsiness 10 days after tirzepatide administration. Serum sodium was 104 mmol/L, and she was clinically euvolemic. Renal, hepatic, hematologic, acid-base, and other endocrine parameters were normal. The calculated serum osmolality was 224 mOsm/kg. Urinary sodium remained elevated after withdrawal of the diuretic. The patient was managed with fluid restriction and hypertonic saline, and this resulted in progressive correction of sodium and clinical improvement. This case suggests a potential association between tirzepatide therapy and severe euvolemic hyponatremia. Clinicians should consider electrolyte monitoring in patients receiving incretin-based therapy who develop significant gastrointestinal symptoms or reduced oral intake.",
+      "journal": "Indian journal of pharmacology",
+      "authors": "Prasad Nithin Tumkur",
+      "pub_date": "2026-11-02",
+      "doi": "10.4103/ijp.ijp_205_26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969999/",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tirzepatide",
+        "Female",
+        "Hyponatremia",
+        "Inappropriate ADH Syndrome",
+        "Diabetes Mellitus, Type 2",
+        "Hypoglycemic Agents"
+      ],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "575db00cd3828e62dab4a137825fe74579f19bbff9b27afddce223de1dba7a3e",
+      "fetched_at_utc": "2026-11-03T02:53:13Z",
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "2型糖尿病および肥満症の女性患者が、チルゼパチド投与10日後に食欲不振、脱力感、意識混濁を呈し、血清ナトリウム104 mmol/Lの重度の症状を伴う等容性低ナトリウム血症を発症した。臨床的に等容性であり、腎・肝・血液・酸塩基・内分泌パラメータは正常であった。計算血清浸透圧は224 mOsm/kg、利尿薬中止後も尿ナトリウムは高値を維持し、不適切な抗利尿ホルモン分泌症候群（SIADH）に一致する生化学的特徴を呈した。水分制限と高張食塩水による管理でナトリウムの漸進的修正と臨床的改善が得られた。",
+      "key_takeaway_ja": "チルゼパチド治療と重度の等容性低ナトリウム血症（SIADHに一致する生化学的特徴を伴う）との関連が示唆された。インクリン系治療を受けており、著明な消化器症状や経口摂取減少を呈する患者では電解質モニタリングを検討すべきである。",
+      "why_matters_ja": "チルゼパチドは2型糖尿病および肥満症の治療にますます使用されているが、インクリン系療法に伴う消化器系有害事象が非浸透圧性バソプレシン放出や経口溶質摂取の減少を介して水分バランスに影響を与える可能性があり、本症例は重度の低ナトリウム血症という重大な有害事象の可能性を臨床医に示している。",
+      "study_type_ja": "症例報告",
+      "endpoints_ja": "チルゼパチド投与と時間的関連を有するSIADHに一致する生化学的特徴を伴う重度の等容性低ナトリウム血症の発症",
+      "endpoint_results_ja": "血清ナトリウム 104 mmol/L、計算血清浸透圧 224 mOsm/kg、利尿薬中止後も尿ナトリウムは高値を維持、水分制限と高張食塩水によりナトリウムの漸進的修正と臨床的改善",
+      "sample_size_ja": "1例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T02:54:10Z"
+    },
+    {
+      "pmid": "42969445",
+      "title": "Semaglutide and Cardiovascular Death: a Systematic Review and Meta-Analysis Cardioprotective Efficacy of Semaglutide.",
+      "abstract": "BACKGROUND: Cardiovascular death (CVD) remains a leading cause of global mortality. Although semaglutide reduces major adverse cardiovascular events (MACE), the consistency and exact magnitude of its standalone effect on CVD across various patient phenotypes require comprehensive evaluation. This meta-analysis systematically evaluated the clinical efficacy of semaglutide on CVD risk across randomized controlled trials (RCTs).\nMETHODS: PubMed, Embase, and ClinicalTrials.gov were searched up to July 2026 to identify RCTs comparing semaglutide with placebo in adults with type 2 diabetes mellitus (T2DM), overweight or obesity, heart failure with preserved ejection fraction (HFpEF) or chronic kidney disease, reporting CVD as a primary, secondary or exploratory outcome. Pooled hazard ratio (HR) and 95% confidence intervals (CI) were calculated using a random-effects restricted maximum likelihood (REML) model. Publication bias and study robustness were assessed via Egger's test, Begg's test, and trim-and-fill analysis.\nRESULTS: Seven high-quality RCTs comprising 38412 patients were included. Semaglutide significantly reduced the risk of CVD by 17% compared with placebo (pooled HR = 0.83, 95% CI: 0.72-0.95; P = 0.01). Inter-study heterogeneity was low-to-moderate (I 2= 27.44%, P = 0.18). Subgroup analyses confirmed uniform benefits across different clinical phenotypes (T2DM; overweight or obesity without diabetes; and obesity-related HFpEF, with or without T2DM; P = 0.63) and administration routes (oral versus subcutaneous; P = 0.74). Meta-regression identified trial duration as a key moderator (R 2 = 85.27%, P = 0.089), whereas sex, age, BMI, HbA1c and concomitant SGLT2i therapy did not modify the treatment effect. Publication bias tests were non-significant, and trim-and-fill simulations confirmed the stability of the primary pooled estimate.\nCONCLUSION: Semaglutide delivers a robust and consistent 17% reduction in CVD across diverse cardiometabolic populations, including patients with T2DM, overweight or obesity without diabetes, and obesity-related HFpEF. These findings strongly support its role as a foundational cardioprotective intervention, independent of baseline glycemic status or the administration route.",
+      "journal": "Critical pathways in cardiology",
+      "authors": "Marino Gaetano, Aquilani Stefano, Di Fusco Stefania Angela, Concistrè Antonio, Nardi Federico, Gabrielli Domenico, Imperoli Giuseppe, Colivicchi Furio",
+      "pub_date": "2026-11-02",
+      "doi": "10.1097/HPC.0000000000000445",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969445/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "43facb40c2de6bd49fd4b83165b25fda277c82b09ac6ee980c452a2df73c85b3",
+      "fetched_at_utc": "2026-11-03T02:53:13Z",
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "セマグルチドの心血管死（CVD）リスクに対する臨床的有効性を、無作為化比較試験（RCT）を横断して体系的に評価したメタ解析。PubMed、Embase、ClinicalTrials.govを2026年7月まで検索し、2型糖尿病（T2DM）、過体重または肥満、保存型心不全（HFpEF）、慢性腎臓病を有する成人において、セマグルチドとプラセボを比較しCVDを主要・副次・探索的アウトカムとして報告したRCTを抽出した。7件の高品質RCT（38,412例）が対象となり、ランダム効果REMLモデルによりプールハザード比（HR）と95%信頼区間（CI）を算出した。",
+      "key_takeaway_ja": "セマグルチドは、T2DM、糖尿病を伴わない過体重または肥満、肥満関連HFpEFを含む多様な心代謝性集団において、CVDリスクを17%一貫して有意に低減した（プールHR = 0.83, 95% CI: 0.72-0.95; P = 0.01）。この効果はベースラインの血糖状態や投与経路（経口 vs 皮下）に依存しない。",
+      "why_matters_ja": "心血管死は依然として世界的な主要な死因であり、セマグルチドがMACEを低減することは知られているが、CVD単独への効果の一貫性と正確な大きさについては包括的評価が必要であった。本メタ解析は、セマグルチドが血糖状態や投与経路に依存しない基盤的な心保護介入として機能することを強く支持する。",
+      "study_type_ja": "系統的レビューおよびメタ解析",
+      "endpoints_ja": "心血管死（CVD）（主要、副次、または探索的アウトカムとして報告されたもの）",
+      "endpoint_results_ja": "プールHR = 0.83, 95% CI: 0.72-0.95; P = 0.01。研究間異質性：I² = 27.44%, P = 0.18。サブグループ解析（臨床表現型間）：P = 0.63。サブグループ解析（投与経路間）：P = 0.74。メタ回帰（試験期間）：R² = 85.27%, P = 0.089。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T02:55:27Z"
+    },
+    {
+      "pmid": "42969364",
+      "title": "Changes in liver steatosis and liver stiffness following Empagliflozin treatment in patients with MASLD and type 2 diabetes: A single-arm pre-post study.",
+      "abstract": "BACKGROUND: Metabolic dysfunction-associated steatotic liver disease (MASLD) is common in subjects with type 2 diabetes mellitus (T2DM), being linked to a higher risk for the development of liver-related and cardiovascular diseases. Sodium-glucose cotransporter 2 (SGLT2) inhibitors such as empagliflozin have demonstrated possible hepatoprotective effects in previous research. The purpose of this study was to evaluate changes in liver enzymes, hepatic steatosis, and liver stiffness following 12 weeks of empagliflozin treatment in patients with T2DM and MASLD.\nMETHODS: In this nonrandomized, single-arm interventional study, 30 patients with T2DM and MASLD were treated simultaneously with empagliflozin 25 mg/day for 12 weeks in addition to the ongoing management. Liver function tests (ALT and AST), hepatic fat content (CAP score), and liver stiffness (LSM) were assessed at baseline and after 12 weeks treatment.\nRESULTS: There were significant decreases in mean AST (80.27 ± 10.51 vs. 45.20 ± 3.20 U/L, P < 0.001) and ALT (86.33 ± 9.11 vs. 44.63 ± 3.62 U/L, P < 0.001) levels after treatment. The CAP score decreased from 321.83 ± 49.36 to 261.33 ± 35.14 (P < 0.001), and the LSM value decreased from 7.22 ± 1.04 to 6.24 ± 0.41 (P < 0.001).\nCONCLUSION: In this single-arm pre-post study, 12 weeks of empagliflozin treatment was associated with significant reductions in liver enzyme levels, hepatic steatosis, and liver stiffness in patients with T2DM and MASLD. Larger controlled studies are required to determine whether these changes are attributable to empagliflozin and to assess their durability.",
+      "journal": "Journal of diabetes investigation",
+      "authors": "Shieh Mobina, Dalil Davood, Arefzadeh Alireza, Shiehmorteza Maryam",
+      "pub_date": "2026-11-02",
+      "doi": "10.1111/jdi.70484",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969364/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "b8bc3e2a38924c4dde9d227e5ba55fec3323170804072042f1887a84de009ed9",
+      "fetched_at_utc": "2026-11-03T02:53:13Z",
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "T2DMを合併したMASLD患者30名を対象に、empagliflozin 25 mg/dayを12週間投与し、肝酵素（ALT・AST）、肝脂肪含量（CAP score）、肝硬度（LSM）をベースラインと12週後に評価した非ランダム化単一アーム介入試験。",
+      "key_takeaway_ja": "T2DMを合併したMASLD患者において、12週間のempagliflozin投与は肝酵素値、肝脂肪症、肝硬度の有意な低下と関連した。",
+      "why_matters_ja": "MASLDはT2DM患者に多く、肝関連疾患および心血管疾患のリスク上昇と関連する。SGLT2阻害薬の肝保護効果の解明は、MASLD治療戦略の選択肢を広げる可能性がある。",
+      "study_type_ja": "非ランダム化単一アーム介入試験（pre-post study）",
+      "endpoints_ja": "肝機能検査（ALT・AST）、肝脂肪含量（CAP score）、肝硬度（LSM）",
+      "endpoint_results_ja": "AST: 80.27 ± 10.51 vs. 45.20 ± 3.20 U/L, P < 0.001; ALT: 86.33 ± 9.11 vs. 44.63 ± 3.62 U/L, P < 0.001; CAP score: 321.83 ± 49.36 → 261.33 ± 35.14, P < 0.001; LSM: 7.22 ± 1.04 → 6.24 ± 0.41, P < 0.001",
+      "sample_size_ja": "30名",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T02:55:51Z"
+    },
+    {
+      "pmid": "42969253",
+      "title": "SGLT2 inhibitors in chronic kidney disease.",
+      "abstract": "Sodium-glucose co-transporter 2 inhibitors (SGLT2i) are a cornerstone therapy for kidney protection in individuals with both diabetic and nondiabetic kidney disease. Because many individuals with chronic kidney disease (CKD) are managed primarily or collaboratively by primary care providers, it is essential that these clinicians feel confident initiating and managing SGLT2i therapy to optimize kidney care. This review highlights landmark clinical trials demonstrating the renal benefits of SGLT2i and discusses practical considerations for their clinical use. It also explores emerging evidence supporting the potential role of SGLT2i therapy in patients with end-stage kidney disease receiving dialysis, kidney transplant recipients, autoimmune kidney diseases, autosomal dominant polycystic kidney disease, electrolyte disorders, and nephrolithiasis.",
+      "journal": "Postgraduate medicine",
+      "authors": "Yau Amy A, Bajaj Arrsh, Rizvi Ali, Li Jane, Kaur Tripta",
+      "pub_date": "2026-11-02",
+      "doi": "10.1080/00325481.2026.2715891",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969253/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Renal Insufficiency, Chronic",
+        "Diabetes Mellitus, Type 2",
+        "Kidney Failure, Chronic",
+        "Polycystic Kidney, Autosomal Dominant",
+        "Renal Dialysis",
+        "Kidney Transplantation"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "a74aa9e18d9f37da75fdc7af9d771dc5500ed0c3ce772cda4f4f87082b743cfa",
+      "fetched_at_utc": "2026-11-03T02:53:13Z",
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "SGLT2阻害薬（SGLT2i）は糖尿病性および非糖尿病性の腎疾患における腎保護の基幹治療である。本レビューは、SGLT2iの腎保護効果を示したランドマーク臨床試験を概観し、臨床使用上の実践的考慮事項を議論するとともに、透析中の末期腎不全患者、腎移植受者、自己免疫性腎疾患、常染色体優性多囊胞腎、電解質異常、腎結石症におけるSGLT2iの潜在的役割に関する新興エビデンスを考察している。",
+      "key_takeaway_ja": "SGLT2iは糖尿病性および非糖尿病性の腎疾患における腎保護の基幹治療であり、プライマリケア医がSGLT2i治療の開始と管理に自信を持てるよう支援することが腎ケアの最適化に不可欠である。",
+      "why_matters_ja": "慢性腎疾患（CKD）の多くはプライマリケア医が主たるまたは共同で管理しており、これらの臨床医がSGLT2i治療の開始と管理に自信を持てることは腎ケアの最適化に不可欠である。",
+      "study_type_ja": "レビュー（Review）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T02:56:58Z"
+    },
+    {
+      "pmid": "42969252",
+      "title": "Recent evidence for reducing cardiometabolic risk in chronic kidney disease.",
+      "abstract": "Chronic kidney disease (CKD) and cardiovascular disease (CVD) frequently coexist, with an increasing risk of CVD as kidney function declines. Therefore, effective cardiovascular risk management is an essential part of the clinical care of patients with CKD. This article summarizes recent evidence of cardiovascular risk reduction in clinical trials of patients with CKD, focusing on sodium-glucose cotransporter-2 inhibitors (SGLT2i), in addition to mineralocorticoid receptor antagonists (MRAs) and glucagon-like peptide-1 receptor agonists (GLP-1 RAs). On the basis of current evidence, practice guidelines from 'Kidney Disease: Improving Global Outcomes (KDIGO 2024)' recommend the use of SGLT2i for patients with estimated glomerular filtration rate (eGFR) >20 mL/min/1.73 m2. The 2025 guidelines from the American Diabetes Association (ADA) also recommend SGLT2i for people with T2D and CKD (eGFR ≥20 mL/min/1.73 m2) to reduce the risk of CKD progression and cardiovascular events. At present, finerenone is the only nonsteroidal MRA with evidence of cardiovascular and renal benefits in patients with CKD and T2D, and the use of this agent is recommended for patients with T2D at high risk of CKD progression and cardiovascular events. Cardiorenal protective effects have been observed with GLP-1 RAs. The ADA recommends a GLP-1 RA with demonstrated benefit in reducing cardiovascular risk and kidney disease progression for patients with CKD and T2D. A combination of SGLT2i, GLP-1 RAs, and nonsteroidal MRA may be considered for management of patients with CKD and T2D. Overall, a holistic, multidisciplinary approach to the care of people with CKD is recommended. This may involve multiple disease specialists, including cardiologists, nephrologists, endocrinologists, primary care physicians, and other healthcare professionals in the medical team. Clinicians have a key role in ensuring the implementation of evidence-based therapies for patients with CKD, with the ultimate aim of slowing progression of CKD, reducing metabolic complications, and improving cardiovascular outcomes.",
+      "journal": "Postgraduate medicine",
+      "authors": "Arora Nayan, Ryan Eric",
+      "pub_date": "2026-11-02",
+      "doi": "10.1080/00325481.2026.2715890",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969252/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Renal Insufficiency, Chronic",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Cardiovascular Diseases",
+        "Mineralocorticoid Receptor Antagonists",
+        "Diabetes Mellitus, Type 2",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Naphthyridines"
+      ],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "0d73303ec8e149b75f0b5bc03e2b5fa212983851e55ab55106af18dbc03a44b3",
+      "fetched_at_utc": "2026-11-03T02:53:13Z",
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "慢性腎臓病（CKD）と心血管疾患（CVD）は頻繁に併存し、腎機能の低下に伴いCVDリスクが増加する。本レビューは、CKD患者における心血管リスク低減に関する最近の臨床試験のエビデンスを総括し、SGLT2阻害薬（SGLT2i）、鉱質コルチコイド受容体拮抗薬（MRA）、グルカゴン様ペプチド-1受容体作動薬（GLP-1 RA）に焦点を当てている。KDIGO 2024ガイドラインはeGFR>20 mL/min/1.73m²のCKD患者へのSGLT2i使用を推奨し、ADA 2025ガイドラインもT2D合併CKD（eGFR≥20）患者へのSGLT2i使用を推奨している。フィネレノンはCKD合併T2D患者で心血管・腎保護効果のエビデンスを持つ唯一の非ステロイド性MRAであり、GLP-1 RAにも心腎保護効果が認められている。SGLT2i、GLP-1 RA、非ステロイド性MRAの併用がCKD合併T2D患者の管理に考慮され得るとされている。",
+      "key_takeaway_ja": "CKD合併T2D患者において、SGLT2i、非ステロイド性MRA（フィネレノン）、GLP-1 RAのいずれも心腎保護効果のエビデンスがあり、これらを組み合わせた多面的なアプローチが推奨される。",
+      "why_matters_ja": "CKDとCVDは頻繁に併存し、腎機能の低下に伴いCVDリスクが増加するため、CKD患者の臨床管理において効果的な心血管リスク管理が不可欠である。",
+      "study_type_ja": "レビュー（総説）",
+      "endpoints_ja": "心血管イベント、CKDの進行、心血管アウトカム",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T02:57:28Z"
+    },
+    {
+      "pmid": "42969229",
+      "title": "Dapagliflozin attenuates progression from prefrailty to frailty in patients with hypertension and chronic kidney disease.",
+      "abstract": "BACKGROUNDChronic kidney disease (CKD) and hypertension share common pathophysiological pathways contributing to vascular damage, endothelial dysfunction, and physical decline, particularly in older adults with prefrailty. To evaluate the relationship among renal injury, physical performance, and frailty progression in hypertensive older adults with CKD and assess whether dapagliflozin associates with reduced frailty progression, we designed the study DAPA-FORTRESS (DAPAgliflozin and Frailty prOgression in hypeRTension and chRonic kidnEy diSeaSe).METHODSWe enrolled 135 prefrail hypertensive patients with CKD aged >65 years and followed them for 1 year. After coarsened exact matching, our balanced cohort had 105 patients (52 dapagliflozin). Associations between albuminuria, estimated glomerular filtration rate (eGFR), and physical performance were analyzed using correlation and regression models. Effect of dapagliflozin on frailty progression was evaluated using multivariable logistic regression.RESULTSA significant inverse association between gait speed and albuminuria (r2 = 0.48, P < 0.0001) and significant positive linear association between gait speed and eGFR (r2 = 0.18; P < 0.0001) were observed. Patients with eGFR <60 mL/min/1.73 m2 exhibited significantly worse physical performance than those with higher eGFR (P = 0.0003). In adjusted analyses, receiving dapagliflozin was independently associated with lower odds of progressing to frailty at 1 year (OR = 0.130; CI 0.045-0.381; P < 0.001).CONCLUSIONIn older hypertensive patients with CKD, greater renal injury is associated with worse physical performance, while dapagliflozin use reduces the risk of frailty progression. These findings indicate a potential protective role of sodium-glucose cotransporter 2 inhibition in mitigating functional decline in this high-risk population.FUNDINGNIH: National Heart, Lung, and Blood Institute (R01-HL146691), National Institute of Diabetes and Digestive and Kidney Diseases (R01-DK123259); American Heart Association (AHA- 24IPA1268813, AHA-22-915561, AHA-24-1195524).",
+      "journal": "The Journal of clinical investigation",
+      "authors": "Mone Pasquale, Viggiano Davide, Pansini Antonella, Soldovieri Maria Virginia, Sabatelli Giada, Visco Valeria, Macina Gaetano, Boccalone Eugenio",
+      "pub_date": "2026-11-02",
+      "doi": "10.1172/JCI205416",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969229/",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Aged",
+        "Male",
+        "Hypertension",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Renal Insufficiency, Chronic",
+        "Disease Progression",
+        "Frailty",
+        "Aged, 80 and over",
+        "Glomerular Filtration Rate",
+        "Albuminuria"
+      ],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "1aa84758ca9bb93352de1c0f0c83fc62e8820d34b16a5be3dfac9ad12468fb40",
+      "fetched_at_utc": "2026-11-03T02:53:13Z",
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "DAPA-FORTRESS研究は、65歳以上の前虚弱（prefrailty）を有する高血圧性慢性腎臓病（CKD）患者135名を1年間追跡した前向きコホート研究である。粗い完全マッチング（coarsened exact matching）後、均衡化コホートは105名（ダパグリフロジン群52名）となった。腎障害（アルブミン尿、eGFR）と身体機能（歩行速度）の関連、およびダパグリフロジン使用と虚弱化進行の関連を相関・回帰モデルおよび多変量ロジスティック回帰で解析した。",
+      "key_takeaway_ja": "高血圧性CKDを有する高齢前虚弱患者において、腎障害の程度が大きいほど身体機能（歩行速度）は低下しており、ダパグリフロジンの使用は1年後の虚弱化進行のオッズを有意に低減した（OR = 0.130; 95% CI 0.045-0.381; P < 0.001）。",
+      "why_matters_ja": "SGLT2阻害薬が、高血圧・CKDを合併する高齢前虚弱患者という高リスク集団において、機能低下（虚弱化進行）を軽減する保護的役割を持つ可能性を示唆しており、CKD患者の身体機能維持におけるSGLT2阻害薬の新たな適応可能性を提示する。",
+      "study_type_ja": "前向きコホート研究（観察研究）。粗い完全マッチングを用いたダパグリフロジン使用者と非使用者の比較。",
+      "endpoints_ja": "主要エンドポイント：1年後の虚弱化進行（前虚弱から虚弱への移行）。探索的解析：歩行速度とアルブミン尿の関連、歩行速度とeGFRの関連、eGFR <60 mL/min/1.73 m²群とそれ以外群の身体機能比較。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "登録135名（65歳以上の前虚弱を有する高血圧性CKD患者）。粗い完全マッチング後、解析対象105名（ダパグリフロジン群52名）。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-03T02:58:17Z"
     },
     {
       "pmid": "42966404",
@@ -4993,248 +5271,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-12T00:31:04Z"
-    },
-    {
-      "pmid": "42857939",
-      "title": "Preconception incretin therapy reduces pregnancy and cardiometabolic outcomes in polycystic ovary syndrome.",
-      "abstract": "BACKGROUND: Polycystic ovary syndrome (PCOS), now polyendocrine metabolic ovarian syndrome (PMOS), is associated with reproductive and cardiometabolic complications. Glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic peptide (GIP) receptor agonists (RAs) improve obesity-related outcomes, but their impact on pregnancy outcomes in PMOS remains unclear.\nMETHODS: We conducted a target trial emulation using the TriNetX global federated health research network. Women ≥18 years with PCOS/PMOS receiving pre-conception GLP-1/dual GLP-1/GIP RA therapy (liraglutide, semaglutide or tirzepatide) were compared with metformin. Propensity score matching (1:1) accounted for demographics, anthropometrics, comorbidities and medications. The primary outcome was a composite of adverse pregnancy outcomes (hypertensive, glycaemic, placental, delivery, labour, foetal growth, preterm and early pregnancy complications) over two years. Individual pregnancy endpoints, major adverse cardiovascular events (MACE) and type 2 diabetes (T2D) were exploratory secondary outcomes. Cox regression generated hazard ratios (HRs) and 95% confidence intervals (CIs).\nRESULTS: After matching, 48,126 patients were included per group. Pre-conception GLP-1/GIP RA use was associated with lower risk of the composite pregnancy outcome (HR 0.38; 95% CI 0.34-0.41). Exploratory analyses also demonstrated lower risks of individual pregnancy endpoints, MACE (HR 0.88; 95% CI 0.81-0.95) and T2D (HR 0.31; 95% CI 0.30-0.33). Associations varied across some sensitivity analyses.\nCONCLUSION: Pre-conception GLP-1/GIP RA use in women with PCOS/PMOS was associated with lower risks of adverse pregnancy outcomes and cardiometabolic disease compared with metformin, consistent with potential benefits of pre-conception metabolic optimisation. This study cannot evaluate in-pregnancy safety or efficacy, and these findings do not support GLP-1/GIP RA use during gestation.",
-      "journal": "The Journal of clinical endocrinology and metabolism",
-      "authors": "Henney Alex E, Holmes Phoebe J, Riley David, Heague Megan, Hapangama Dharani K, Alam Uazman, Cuthbertson Daniel J",
-      "pub_date": "2026-10-10",
-      "doi": "10.1210/clinem/dgag423",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42857939/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "6ea92ca001ddc61fd0c9527e833766c4a7cf35d71c90635fcc6600e8a4d29a40",
-      "fetched_at_utc": "2026-10-12T00:29:32Z",
-      "updated_at_utc": "2026-10-12T00:29:32Z",
-      "summary_ja": "PCOS/PMOSを有する女性において、妊娠前のGLP-1/デュアルGLP-1/GIP受容体作動薬（リラグルチド、セマグルチド、チルゼパチド）とメトホルミンを比較したターゲットトライアルエミュレーション。TriNetXグローバルフェデレーション型医療研究ネットワークを用い、1:1の傾向スコアマッチングを実施。主要評価項目は2年間の妊娠不良転帰複合エンドポイント（高血圧性、糖代謝性、胎盤性、分娩、陣痛、胎児成長、早産、早期妊娠合併症）であり、探索的二次評価項目として個別妊娠エンドポイント、主要心血管不良事象（MACE）、2型糖尿病（T2D）を評価した。",
-      "key_takeaway_ja": "PCOS/PMOS女性における妊娠前のGLP-1/GIP RA使用は、メトホルミンと比較して妊娠不良転帰複合エンドポイント（HR 0.38; 95% CI 0.34-0.41）、MACE（HR 0.88; 95% CI 0.81-0.95）、T2D（HR 0.31; 95% CI 0.30-0.33）のリスクが有意に低かった。ただし、妊娠中の安全性・有効性は評価できない。",
-      "why_matters_ja": "PCOSは生殖および心血管代謝合併症と関連しており、GLP-1/GIP RAは肥満関連アウトカムを改善するが、妊娠転帰への影響は不明であった。本研究は妊娠前の代謝最適化の潜在的な利点を示唆するが、妊娠中の使用を支持するものではない。",
-      "study_type_ja": "ターゲットトライアルエミュレーション（観察研究、傾向スコアマッチング）",
-      "endpoints_ja": "主要評価項目：2年間の妊娠不良転帰複合エンドポイント（高血圧性、糖代謝性、胎盤性、分娩、陣痛、胎児成長、早産、早期妊娠合併症）。探索的二次評価項目：個別妊娠エンドポイント、主要心血管不良事象（MACE）、2型糖尿病（T2D）。",
-      "endpoint_results_ja": "妊娠不良転帰複合エンドポイント：HR 0.38; 95% CI 0.34-0.41。MACE：HR 0.88; 95% CI 0.81-0.95。T2D：HR 0.31; 95% CI 0.30-0.33。個別妊娠エンドポイント：リスク低下（具体的な数値は抄録に記載なし）。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-12T00:31:30Z"
-    },
-    {
-      "pmid": "42858539",
-      "title": "Cardiovascular Risk in SELECT-Eligible MI Patients With Overweight or Obesity: The Western Denmark Heart Registry.",
-      "abstract": "BACKGROUND: In the SELECT (Semaglutide Effects on Cardiovascular Outcomes in People with Overweight or Obesity) trial, treatment with semaglutide reduced the risk of major adverse cardiovascular events (MACE) in patients with cardiovascular disease, overweight or obesity, and no diabetes.\nOBJECTIVES: The purpose of this study was to estimate cardiovascular risk in first-time myocardial infarction (MI) patients meeting the SELECT-eligibility criteria and the preventive potential for treatment with semaglutide.\nMETHODS: We conducted an observational cohort study applying the SELECT trial's inclusion and exclusion criteria to patients with first-time MI recorded between 2010 and 2021 in the Western Denmark Heart Registry. Five-year incidence of second MI, MACE, and all-cause death was estimated for SELECT-eligible patients with a body mass index (BMI) ≥27 kg/m2. In an assumption-dependent scenario analysis the preventive potential for semaglutide was estimated as the postponement of MACE incidence.\nRESULTS: In 21,777 first-time MI patients without diabetes, 10,768 patients were SELECT-eligible with BMI ≥27 kg/m2. Median age at first-time MI was 65 years for the SELECT-eligible MI patients and 69 years for normal-weight (BMI 20-26 kg/m2) comparisons. Five-year incidence of second MI (n = 544), MACE (n = 975), and all-cause death (n = 914) was 5.9% (95% CI: 5.4%-6.4%), 10.7% (95% CI: 10.1%-11.4%), and 10.3% (95% CI: 9.7%-11.0%) in SELECT-eligible MI patients, respectively. Among these, treatment with semaglutide was estimated to postpone a 5% MACE incidence by 12 months.\nCONCLUSIONS: In SELECT-eligible first-time MI patients with overweight or obesity and no diabetes, the cardiovascular risk was substantial with 1 in 10 having a MACE event within 5 years after first-time MI. Based on the SELECT trial results, semaglutide may markedly postpone MACE incidence in these patients.",
-      "journal": "JACC. Advances",
-      "authors": "Hansen Malene K, Olesen Kevin K W, Gyldenkerne Christine, Stødkilde-Jørgensen Nina, Andersen Malene H, Sattar Naveed, Maeng Michael",
-      "pub_date": "2026-10-09",
-      "doi": "10.1016/j.jacadv.2026.103311",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858539/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "541d7bb1fcbd02c09c5f0ebb859ad8a5cae7487be89560271fe64b63095e3a9c",
-      "fetched_at_utc": "2026-10-12T00:29:32Z",
-      "updated_at_utc": "2026-10-12T00:29:32Z",
-      "summary_ja": "西デンマーク心臓レジストリに登録された2010〜2021年の初回心筋梗塞（MI）患者にSELECT試験の適格基準を適用し、BMI≥27 kg/m²のSELECT適格患者における5年間の再発MI、MACE、全死因死亡の発生率を推定した観察コホート研究。さらにシナリオ分析によりセマグルチドのMACE発生遅延効果を推定した。",
-      "key_takeaway_ja": "SELECT適格の初回MI患者（過体重・肥満、糖尿病なし）では、5年以内に10人に1人がMACEイベントを経験するほど心血管リスクが有意に高く、SELECT試験の結果に基づくとセマグルチドはこれらの患者のMACE発生を大幅に遅延させる可能性がある。",
-      "why_matters_ja": "SELECT試験の適格基準を満たす初回MI患者という特定の高リスク集団の心血管リスクを定量化し、セマグルチドによる予防治療の潜在的利益をレジストリデータで裏付けたことで、この集団におけるセマグルチドの臨床的意義を支持するエビデンスを提供する。",
-      "study_type_ja": "観察コホート研究（レジストリベース）",
-      "endpoints_ja": "['5年間の再発MI発生率', '5年間のMACE発生率', '5年間の全死因死亡発生率', 'セマグルチドによるMACE発生遅延（シナリオ分析）']",
-      "endpoint_results_ja": "['再発MI: n = 544, 5.9% (95% CI: 5.4%-6.4%)', 'MACE: n = 975, 10.7% (95% CI: 10.1%-11.4%)', '全死因死亡: n = 914, 10.3% (95% CI: 9.7%-11.0%)', 'セマグルチドによる5% MACE発生率の遅延: 12ヶ月']",
-      "sample_size_ja": "初回MIで糖尿病なしの患者21,777名中、BMI≥27 kg/m²のSELECT適格患者10,768名",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-12T00:31:53Z"
-    },
-    {
-      "pmid": "42855133",
-      "title": "Weight Management in Obesity-Associated Sleep-Disordered Breathing: Mechanisms, Clinical Management, and Emerging Therapies.",
-      "abstract": "OBJECTIVE: To review the mechanistic links between obesity and sleep-disordered breathing (SDB) and summarize practical approaches to weight-directed, sleep-directed, and phenotype-informed management.\nMETHODS: We conducted a focused narrative review of clinical trials, systematic reviews, meta-analyses, guidelines, and mechanistic studies identified through PubMed/MEDLINE, Embase, and Google Scholar. Search terms included obesity, obstructive sleep apnea, obesity hypoventilation syndrome, weight loss, positive airway pressure, bariatric surgery, incretin-based pharmacotherapy, endotypes, and circadian disruption.\nRESULTS: Obesity promotes sleep-disordered breathing through upper airway mechanical loading, reduced lung volumes, inflammation, altered ventilatory control, and sleep behavior pathways. Positive airway pressure remains a core therapy for many patients with obstructive sleep apnea and obesity hypoventilation syndrome. Sustained weight loss provides complementary disease modification. Lifestyle intervention, metabolic and bariatric surgery, and incretin based pharmacotherapy can improve obstructive sleep apnea, although residual disease is common. Tirzepatide has shown clinically meaningful reductions in apnea-hypopnea index in adults with obesity and moderate to severe obstructive sleep apnea, largely in association with weight reduction. In obesity hypoventilation syndrome, stable ambulatory patients generally require positive airway pressure. Durable weight loss of approximately 25% to 30% may be needed to resolve hypoventilation. Therapies targeting endotypes and device based options may help selected patients, but they remain adjunctive, investigational, or directed by specialists.\nCONCLUSION: Obesity associated sleep-disordered breathing is best managed as a heterogeneous cardiometabolic and sleep breathing condition. Treatment should integrate positive airway pressure or other sleep specific therapy with individualized weight management. Ongoing reassessment is needed for residual disease, obesity hypoventilation syndrome, and atypical phenotypes.",
-      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
-      "authors": "Varghese Ron T, Sharifi Isabella, Akurati Sneha",
-      "pub_date": "2026-10-09",
-      "doi": "10.1016/j.eprac.2026.09.120",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855133/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "8bf8ec954cf78bc6037cea3c352ec813197a17a4bbe79b91eacd8440547ada4e",
-      "fetched_at_utc": "2026-10-11T00:13:05Z",
-      "updated_at_utc": "2026-10-11T00:13:05Z",
-      "summary_ja": "肥満関連睡眠時呼吸障害（SDB）における肥満とSDBの機能的関連をレビューし、体重指向・睡眠指向・表現型に基づく管理の実践的アプローチを要約した叙述的レビュー。PubMed/MEDLINE、Embase、Google Scholarから臨床試験、系統的レビュー、メタアナリシス、ガイドライン、機能的研究を収集した。",
-      "key_takeaway_ja": "肥満関連SDBは異質性の高い心代謝・睡眠呼吸疾患として管理すべきであり、CPAP等の睡眠特異的治療と個別化された体重管理を統合し、残存疾患・OHS・非定型表現型に対する継続的再評価が必要である。",
-      "why_matters_ja": "生活習慣介入、代謝・肥満外科手術、インクレチン系薬物療法はOSAを改善しうるが残存疾患が一般的であり、OHSでは約25〜30%の持続的体重減少が換気障害の解決に必要とされる可能性がある。Tirzepatideは肥満を伴う中等症〜重症OSAの成人においてAHIの臨床的に有意な減少を示したが、主に体重減少に伴うものと考えられる。",
-      "study_type_ja": "叙述的レビュー（narrative review）",
-      "endpoints_ja": "無呼吸低呼吸指数（AHI）、体重減少率、換気障害の解決",
-      "endpoint_results_ja": "OHSにおいて、換気障害の解決には約25〜30%の持続的体重減少が必要とされる可能性がある。Tirzepatideは肥満を伴う中等症〜重症OSAの成人においてAHIの臨床的に有意な減少を示したが、具体的な数値は抄録に記載なし。",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-11T00:13:58Z"
-    },
-    {
-      "pmid": "42854961",
-      "title": "Tirzepatide persistence, adherence, and dose escalation in a real-world setting with high out-of-pocket costs: a Polish cohort study.",
-      "abstract": "PURPOSE: Tirzepatide is effective in clinical trials, but its real-world use where obesity pharmacotherapy is self-funded remains poorly characterized. We aimed to characterize tirzepatide persistence, adherence, and dose escalation in a high out-of-pocket-cost setting.\nPATIENTS AND METHODS: We retrospectively analyzed nationwide electronic health records from a large Polish private healthcare provider. We included 3,030 adults with a first recorded tirzepatide prescription between November 2023 and February 2025. The primary endpoint was time to observed treatment discontinuation. Multivariable Cox regression identified persistence predictors, while adherence was assessed using proportion of days covered (PDC). Successful titration was escalation from 2.5 or 5 mg to ≥10 mg.\nRESULTS: The cohort included 69.0% women; 83.3% had obesity and 20.0% had type 2 diabetes. Higher first recorded dose was associated with earlier loss of observed treatment. Compared with 2.5 mg initiators, the hazard ratio for discontinuation was 1.44 (95%CI 1.26-1.64, p<0.001) for 15 mg and 1.24 (95%CI 1.12-1.39, p<0.001) for 10 mg doses. Traditional comorbidities did not independently predict persistence (all p>0.10). Among385 patients persistent for ≥180 days, median PDC was 0.86 (IQR 0.73-0.95), with 68% classified as adherent (PDC ≥80%). Of 2,194 eligible low-dose patients, 565 (25.8%) escalated to ≥10 mg, corresponding to 18.6% of the full cohort.\nCONCLUSIONS: Real-world tirzepatide persistence was suboptimal and associated with recorded starting dose. Traditional clinical comorbidities had limited impact on discontinuation timing. Nonclinical factors, including affordability, tolerability, and patient expectations, may contribute to early loss of observed treatment; although these were not directly measured.",
-      "journal": "Advances in medical sciences",
-      "authors": "Dziewierz Artur, Krawczyk-Ożóg Agata, Szarpak Łukasz, Kowalska-Bobko Iwona, Siudak Zbigniew",
-      "pub_date": "2026-10-09",
-      "doi": "10.1016/j.advms.2026.10.005",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854961/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "1ee70228c0b68396591453c7278b0d74696e5484d27bbe2e35c4d8f8829f54b6",
-      "fetched_at_utc": "2026-10-11T00:13:05Z",
-      "updated_at_utc": "2026-10-11T00:13:05Z",
-      "summary_ja": "ポーランドの大手民間医療プロバイダーの全国電子健康記録を後ろ向きに分析したコホート研究。2023年11月から2025年2月に初めてtirzepatide処方を受けた3,030人の成人を対象に、治療継続性（persistence）、アドヒアランス（PDC）、および用量エスカレーションを評価した。主評価項目は観察下での治療中止までの時間であり、多変量Cox回帰で継続性の予測因子を同定した。",
-      "key_takeaway_ja": "実世界におけるtirzepatideの継続性は不十分であり、記録された開始用量と関連していた。2.5 mg開始群と比較して、15 mg開始群の中止ハザード比は1.44（95%CI 1.26-1.64）、10 mg開始群は1.24（95%CI 1.12-1.39）であり、高い開始用量ほど早期の観察下での治療中止と関連した。従来の臨床的合併症は中止時期に独立して影響しなかった。",
-      "why_matters_ja": "肥満薬物療法が自己負担（self-funded）となる高自己負担コスト環境におけるtirzepatideの実世界使用は十分に特徴づけられていなかった。本研究は、臨床試験とは異なる実世界環境での継続性・アドヒアランス・用量エスカレーションのデータを提供し、非臨床的要因（経済的負担、耐容性、患者の期待）が早期治療中止に寄与する可能性を示唆する。",
-      "study_type_ja": "後ろ向きコホート研究（実世界研究）",
-      "endpoints_ja": "主評価項目：観察下での治療中止までの時間。副次評価項目：アドヒアランス（PDC：proportion of days covered）、用量エスカレーション（2.5 mgまたは5 mgから≥10 mgへの増量）。",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "3,030人",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-11T00:14:39Z"
-    },
-    {
-      "pmid": "42853778",
-      "title": "Renal Candidal Bezoar in an SGLT2 Inhibitor User with an Indwelling Ureteral Stent: A Case Report and Review of Literatures.",
-      "abstract": "Renal candidal bezoar is a rare cause of obstructive pyonephrosis and usually occurs in patients with diabetes mellitus, immunosuppression, urinary obstruction, or indwelling urinary devices. We report an 88-year-old man with type 2 diabetes treated with dapagliflozin, stage 3 chronic kidney disease, and a history of ureteral stricture managed with ureteral stenting who developed recurrent candidal pyonephrosis and extensive fungal bezoar involving the ureter and renal pelvis. Initial treatment at a referring hospital included percutaneous nephrostomy drainage, fluconazole therapy, ureteroscopic ureterotomy, and ureteral stent placement. The patient re-presented with fever and pyonephrosis and was presented to our emergency department. Dapagliflozin was discontinued, the ureteral stent was exchanged, and fluconazole with short course flucytosine was administered pending susceptibility testing. Cultures confirmed fluconazole-susceptible Candida albicans. Staged ureteroscopic debridement using forceps and aspiration achieved complete clearance, followed by renal functional recovery and clinical resolution. This case highlights the need to reassess medication-associated glycosuria, indwelling stent exposure, and mechanical source control in refractory upper-tract candidal bezoar. A review of reported cases suggests that drainage and antifungal therapy are essential, but active endoscopic, percutaneous, or surgical removal is frequently required when organized fungal material persists.",
-      "journal": "Urologia internationalis",
-      "authors": "Chen Wei-An, Chen Hao Xiang",
-      "pub_date": "2026-10-09",
-      "doi": "10.1159/uin/aewag035",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42853778/",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "dapagliflozin"
-      ],
-      "matched_companies": [
-        "AstraZeneca"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "852a61a1a6462b24f7dcb33a4d0ba8430bcbec42099a9c3c6b535343e989066e",
-      "fetched_at_utc": "2026-10-10T00:45:07Z",
-      "updated_at_utc": "2026-10-10T00:45:07Z",
-      "summary_ja": "88歳の2型糖尿病（ダパグリフロジン使用）、慢性腎臓病ステージ3、尿管狭窄による尿管ステント留置歴を有する男性において、反復性カンジダ属腎盂腎炎および尿管・腎盂に及ぶ広範な真菌性 bezoar が発生した症例。初期治療として経皮的腎ドレナージ、フルコナゾール、尿管鏡下尿管切開、ステント留置が行われたが、発熱と腎盂腎炎を再発し、当院救急外来を受診。ダパグリフロジンの中止、ステント交換、フルコナゾールと短期間のフルシトシン併用、段階的尿管鏡下デブリードマンにより完全除去を達成し、腎機能回復と臨床的解決を得た。",
-      "key_takeaway_ja": "SGLT2阻害薬による尿糖排出、留置ステント曝露、および機械的感染源管理の再評価が、難治性上尿路カンジダ属bezoarにおいて重要である。文献レビューでは、ドレナージと抗真菌療法が必須であるが、組織化された真菌物質が持続する場合は能動的な内視鏡的・経皮的・外科的除去が頻回に必要とされる。",
-      "why_matters_ja": "SGLT2阻害薬は尿糖排出を介して尿路真菌感染のリスクを高めうるが、留置尿管ステントとの相互作用による難治性真菌性bezoarの発生は報告が稀であり、薬剤関連の尿糖排出と留置デバイスの管理を再評価する臨床的示唆を与える。",
-      "study_type_ja": "症例報告および文献レビュー",
-      "endpoints_ja": "真菌性bezoarの完全除去、腎機能回復、臨床的解決（発熱・腎盂腎炎の消退）",
-      "endpoint_results_ja": "抄録に記載なし（定量的数値は報告されていない。段階的尿管鏡下デブリードマンにより完全除去を達成し、腎機能回復と臨床的解決が得られたと記載されているのみ）",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-10T00:45:28Z"
-    },
-    {
-      "pmid": "42860337",
-      "title": "Combined empagliflozin and liraglutide therapy protects against tacrolimus-induced pancreatic and renal injury associated with oxidative stress reduction.",
-      "abstract": "BACKGROUND: Sodium-glucose cotransporter-2 inhibitors (SGLT2is) and glucagon-like peptide-1 receptor agonists (GLP-1RAs) are widely used in type 2 diabetes mellitus for glycemic control and organ protection. This study investigated whether the combined use of empagliflozin (EMPA) and liraglutide (LIRA) could protect against pancreatic and renal damage caused by tacrolimus (TAC).\nMETHODS: Male Sprague-Dawley rats received TAC for 4 weeks, either alone, or in combination with EMPA, LIRA, or both. Metabolic, histologic, and molecular parameters were assessed in vivo and in vitro. TAC caused hyperglycemia, reduced creatinine clearance, pancreatic β-cell loss, renal tubulointerstitial fibrosis, and increased oxidative stress and apoptosis.\nRESULTS: Either EMPA or LIRA alone partially attenuated these changes, whereas their combination provided enhanced protection- improving kidney function, preserving islet integrity, and reducing fibrosis and cell death. In the kidney and pancreas, dual therapy restored antiapoptotic and antioxidant signaling while suppressing profibrotic pathways, thereby mitigating oxidative stress and injury. Cell-based experiments further confirmed that EMPA plus LIRA enhanced cell viability and reduced reactive oxygen species generation in TAC-injured HK-2 and INS-1 cells.\nCONCLUSION: These findings indicate that combined SGLT2i and GLP-1RA therapy confers additive metabolic protection associated with attenuation of oxidative stress in tacrolimus-induced pancreatic and renal damage in this preclinical model, warranting further investigation of its potential as an adjunct strategy for posttransplant diabetes mellitus and nephrotoxicity.",
-      "journal": "Kidney research and clinical practice",
-      "authors": "Na Do Hyun, Fang Xianying, Lee Hanbi, Eum Sang Hun, Ko Eun Jeong, Yoon Hye Eun, Shin Yoo Jin, Lim Sun Woo",
-      "pub_date": "2026-10-08",
-      "doi": "10.23876/j.krcp.26.147",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42860337/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "empagliflozin"
-      ],
-      "matched_companies": [
-        "Boehringer Ingelheim"
-      ],
-      "bi_related": true,
-      "japan_relevant": false,
-      "content_sha256": "d8c49a3fc5dd7118bf24a6916989ec88666a040f1fb4e358077d7f245744ea7f",
-      "fetched_at_utc": "2026-10-13T02:33:01Z",
-      "updated_at_utc": "2026-10-13T02:33:01Z",
-      "summary_ja": "本研究は、タクロリムス（TAC）による膵臓・腎臓損傷に対して、エンパグリフロジン（EMPA）とリラグチド（LIRA）の併用が保護効果を発揮するかを、雄性Sprague-Dawleyラットを用いて検討した前臨床研究である。TAC投与により高血糖、クレアチニンクリアランスの低下、膵島β細胞の喪失、腎尿細間質線維化、酸化ストレスおよびアポトーシスの増加が誘発された。EMPA単独またはLIRA単独ではこれらの変化を部分的に軽減したが、併用により腎機能の改善、膵島構造の維持、線維化および細胞死の軽減がより強く認められた。腎臓および膵臓において、併用療法は抗アポトーシス・抗酸化シグナルを回復させ、線維化促進経路を抑制した。細胞実験でも、TAC損傷を受けたHK-2細胞およびINS-1細胞において併用が細胞生存率を向上させ、活性酸素種（ROS）産生を減少させた。",
-      "key_takeaway_ja": "SGLT2阻害薬とGLP-1受容体作動薬の併用療法は、タクロリムス誘発性の膵臓・腎臓損傷において酸化ストレスの軽減を伴う相加的な代謝保護効果を前臨床モデルで示した。",
-      "why_matters_ja": "タクロリムスは移植後の標準的免疫抑制薬であり、移植後糖尿病（PTDM）および腎毒性は重要な臨床課題である。本結果は、SGLT2阻害薬とGLP-1受容体作動薬の併用がPTDMおよび腎毒性に対する補助戦略としてさらなる検討を要することを示唆している。",
-      "study_type_ja": "前臨床研究（雄性Sprague-Dawleyラットを用いたin vivo実験およびHK-2細胞・INS-1細胞を用いたin vitro細胞実験）",
-      "endpoints_ja": "高血糖、クレアチニンクリアランス、膵島β細胞の喪失（膵島構造）、腎尿細間質線維化、酸化ストレス、アポトーシス、細胞生存率（in vitro）、活性酸素種（ROS）産生（in vitro）",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-13T02:37:47Z"
-    },
-    {
-      "pmid": "42850299",
-      "title": "The impact of semaglutide initiated six months after laparoscopic sleeve gastrectomy on long-term weight loss and metabolic outcomes: single-center preliminary study.",
-      "abstract": "BACKGROUND: Although laparoscopic sleeve gastrectomy (LSG) is an effective treatment for severe obesity, some patients experience suboptimal weight loss or an early weight-loss plateau during postoperative follow-up. Semaglutide has emerged as an effective pharmacological option for obesity management; however, evidence regarding its use after bariatric surgery remains limited. This study evaluated the impact of adjunctive semaglutide therapy initiated six months after LSG on long-term weight loss and metabolic outcomes.\nMATERIALS AND METHODS: This retrospective single-center study included 88 patients who underwent primary LSG. Patients were divided into two groups: 45 patients underwent standard postoperative follow-up after LSG, whereas 43 patients received adjunctive semaglutide therapy initiated six months after surgery because of suboptimal weight loss or weight-loss plateau. Anthropometric and metabolic parameters, including body weight, body mass index (BMI), percentage of total weight loss (%TWL), percentage of excess weight loss (%EWL), glycated hemoglobin (HbA1c), lipid profile, and blood pressure, were evaluated at baseline and at 6, 12, and 24 months after surgery.\nRESULTS: No significant differences were observed between the groups six months after surgery, immediately before semaglutide initiation. At 12 months, patients receiving semaglutide achieved significantly lower BMI, lower body weight, and greater %TWL and %EWL. These benefits persisted at 24 months, with significantly greater weight loss and a more favorable metabolic profile, including higher HDL cholesterol and lower total cholesterol and triglyceride concentrations.\nCONCLUSIONS: Adjunctive semaglutide therapy initiated six months after laparoscopic sleeve gastrectomy was associated with significantly greater long-term weight loss and improved cardiometabolic outcomes compared with surgery alone. These findings suggest that postoperative semaglutide may represent an effective and safe strategy for patients experiencing suboptimal weight loss following sleeve gastrectomy.",
-      "journal": "Surgical endoscopy",
-      "authors": "Jeske Pamela, Roleder Julia, Zastawna Kinga, Krokowicz Łukasz, Szmyt Krzysztof",
-      "pub_date": "2026-10-08",
-      "doi": "10.1007/s00464-026-13505-x",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42850299/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide"
-      ],
-      "matched_companies": [
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "e919a3575f0598463039fb1cd18ed26b896a12907010fb5cc6df940ed2c10d67",
-      "fetched_at_utc": "2026-10-10T00:45:07Z",
-      "updated_at_utc": "2026-10-10T00:45:07Z",
-      "summary_ja": "後方視的単一施設研究として、初回腹腔鏡下スリーブ胃切除術（LSG）を受けた88例を対象に、術後6か月からセマグルチド併用療法を開始した群（43例）と標準術後フォローアップ群（45例）で、術前および術後6・12・24か月時点の身体計測・代謝パラメータを比較した。術後6か月時点では両群間に有意差は認められなかったが、12か月時点でセマグルチド群は有意に低いBMI・体重、高い%TWL・%EWLを示し、24か月時点でもこれらの優位性が持続し、HDLコレステロールの上昇、総コレステロールおよびトリグリセリドの低下を含むより良好な代謝プロファイルが認められた。",
-      "key_takeaway_ja": "腹腔鏡下スリーブ胃切除術後6か月から開始したセマグルチド併用療法は、手術単独と比較して有意に大きな長期減量効果と改善した心代謝アウトカムと関連した。",
-      "why_matters_ja": "LSG後でも減量不十分や早期減量プラトーを経験する患者が存在し、肥満治療薬としてのセマグルチドの術後使用に関するエビデンスは限られていた。本研究は、スリーブ胃切除術後に減量不十分な患者に対して術後セマグルチドが有効かつ安全な戦略となり得ることを示唆する予備的エビデンスを提供する。",
-      "study_type_ja": "後方視的単一施設研究（予備的）",
-      "endpoints_ja": "体重、BMI、%TWL、%EWL、HbA1c、脂質プロファイル（HDLコレステロール、総コレステロール、トリグリセリド）、血圧",
-      "endpoint_results_ja": "抄録に具体的な数値は記載されていない。定性的な記述のみ：12か月時点でセマグルチド群は有意に低いBMI・体重、高い%TWL・%EWL；24か月時点で有意に大きな減量、より良好な代謝プロファイル（HDLコレステロール上昇、総コレステロール・トリグリセリド低下）。",
-      "sample_size_ja": "88例（標準術後フォローアップ群45例、セマグルチド併用群43例）",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-10T00:47:26Z"
     }
   ]
 }
