@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-03T02:53:13Z",
+  "generated_at_utc": "2026-11-04T01:17:27Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,275 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42975136",
+      "title": "Bexagliflozin: pharmacological profile and clinical applications of a sodium-glucose cotransporter 2 inhibitor.",
+      "abstract": "Bexagliflozin, approved in the United States in 2023, is the fifth selective sodium-glucose cotransporter 2 (SGLT2) inhibitor for type 2 diabetes mellitus (T2DM). Unlike other class members, it lacks an event-driven cardiovascular outcomes trial (CVOT) and trials with hard kidney or heart failure endpoints. This narrative mini-review separates bexagliflozin-specific evidence from class benefits. PubMed and Google Scholar were searched for English-language articles (January 2009-June 2026) using \"bexagliflozin,\" \"Brenzavvy,\" and \"SGLT2 inhibitor,\" plus prescribing information and pivotal class trials. Randomized trials and meta-analyses were prioritized. Bexagliflozin reduced glycated hemoglobin (HbA1c), body weight, and systolic blood pressure vs. placebo and was noninferior to sitagliptin, glimepiride, and, in one 24-week trial, dapagliflozin for HbA1c. In stage 3a/3b chronic kidney disease, it reduced albuminuria by 20.1 % vs. placebo, a surrogate finding. A cardiovascular safety trial and meta-analysis excluded excess cardiovascular risk but were not powered for benefit. Adverse events were consistent with the class. Bexagliflozin is an effective glucose-lowering drug, but its cardiovascular, kidney, and heart failure benefits remain unproven and cannot be assumed from class data. Outcome-proven agents are preferred for cardiorenal protection. An adequately powered CVOT and hard kidney endpoint trials are the key research priorities.",
+      "journal": "Journal of basic and clinical physiology and pharmacology",
+      "authors": "Gars Arsaniouss, Khan Abeeha, Kim Sophia, Dodge Caleigh, Tinna Harmandeep, Li Zhao, Gupta Anisha",
+      "pub_date": "2026-11-04",
+      "doi": "10.1515/jbcpp-2026-0265",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975136/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "dapagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "cb7f774f6f0527ebd2904e00ffdff04449650b8ca3d718c715ab2ac4698a3f77",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z",
+      "summary_ja": "2023年に米国で承認された第5の選択的SGLT2阻害薬ベザグリフロジンの薬理学的プロファイルと臨床応用を扱ったナラティブ・ミニレビュー。PubMedおよびGoogle Scholarで2009年1月から2026年6月までの英語文献を検索し、ランダム化試験とメタアナリシスを優先的に抽出した。ベザグリフロジンはプラセボ比でHbA1c、体重、収縮期血圧を低下させ、HbA1cにおいてシタグリプチン、グリメピリド、および1つの24週試験ではダパグリフロジンに非劣性を示した。ステージ3a/3b慢性腎臓病ではプラセボ比でアルブミン尿を20.1%低下させた（サロゲートエンドポイント）。心血管安全性試験とメタアナリシスでは心血管リスクの過剰を排除したが、有益性の検出力はなかった。有害事象はクラス全体と一致した。心血管・腎・心不全への有益性は未証明であり、クラスデータから推定することはできないと結論している。",
+      "key_takeaway_ja": "ベザグリフロジンは有効な血糖降下薬であるが、心血管・腎・心不全への有益性は未証明であり、クラスデータから推定することはできない。心腎保護にはアウトカム証明済みの薬剤が優先されるべきである。",
+      "why_matters_ja": "ベザグリフロジンはイベント駆動型CVOTや硬い腎・心不全エンドポイントの試験を欠いており、臨床現場ではクラス効果から心腎保護効果を推定して使用される可能性がある。本レビューは、ベザグリフロジン固有のエビデンスとクラス全体の効果を明確に区別し、心腎保護目的での使用にはアウトカム証明済みの薬剤が優先されるべきであることを示すことで、臨床判断の誤りを防ぐ意義がある。",
+      "study_type_ja": "ナラティブ・ミニレビュー",
+      "endpoints_ja": "HbA1c、体重、収縮期血圧、アルブミン尿、心血管安全性",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-04T01:18:02Z"
+    },
+    {
+      "pmid": "42976342",
+      "title": "Digital Augmentation of Glucagon-Like Peptide-1 for Obesity Management: Retrospective Study.",
+      "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), including semaglutide and tirzepatide, are highly effective for weight management; however, long-term outcomes depend on sustained behavioral engagement. Digital health tools may enhance these behavioral components, but evidence regarding their real-world benefit alongside pharmacotherapy remains limited.\nOBJECTIVE: This study aims to evaluate whether augmenting a direct-to-consumer GLP-1 RA program with a behavioral support smartphone app improves weight-loss outcomes compared with medication alone, and to identify which app features are associated with weight loss over time.\nMETHODS: A retrospective observational cohort study was conducted using data from 6113 adults (older than 18 years) in Australia who self-enrolled into the Mosh direct-to-consumer weight-loss program between July 1, 2024, and August 13, 2025, with their weight data recorded at baseline and at least 1 other timepoint. Participants received semaglutide or tirzepatide, with optional access to a smartphone app and clinician support. Logistic regression models examined achievement of ≥5%, ≥10%, and ≥15% weight-loss thresholds at 60, 120, and 180 days. Linear mixed-effects models interacting with app feature use, with linear and quadratic time terms, assessed the association of different features with percentage weight loss trajectories over time. Both models adjusted for medication type, gender, ethnicity, age, and baseline BMI.\nRESULTS: Participants using the program plus medication had higher odds of achieving clinically significant weight loss than those using medication only. Adjusted odds ratio point estimates for day 60, 120, and 180 (±10) days indicated they were 1.38 (95% CI 1.09-1.75) times to 2.22 (95% CI 1.40-3.45) times more likely to achieve ≥5% weight loss across timepoints, 1.67 (95% CI 1.33-2.10) times to 1.97 (95% CI 1.35-2.90) times more likely to achieve ≥10% weight loss by day 120 and 180, and 1.99 (95% CI 1.26-3.29) times more likely to achieve ≥15% weight loss by 180 days. Mixed-effects modeling demonstrated that progress logging was associated with more rapid weight loss over time (β=.26 percentage-point additional weight lost per 30 days, SE 0.06; t4336=4.46; 95% CI 0.14-0.38; P<.001). No other app features were consistently associated with changes in weight-loss trajectories.\nCONCLUSIONS: Augmenting GLP-1 RA treatment with a behavioral smartphone app was associated with a higher likelihood of achieving clinically significant weight loss, although differences in overall weight-loss trajectories were modest. Progress logging emerged as the primary behavioral predictor of improved outcomes. While not causal effects, these findings are consistent with the positive value of integrating digital tools with pharmacotherapy for weight loss.",
+      "journal": "Journal of medical Internet research",
+      "authors": "Davey Belinda, Dabash Omar, Khanna Rahul, Cornell Portia Y, Huckvale Kit",
+      "pub_date": "2026-11-03",
+      "doi": "10.2196/100728",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976342/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": true,
+      "content_sha256": "cfc5e99b54d5c8f0b6e529170e33e9dbc493fddee1806114e28bf380ea06c281",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z",
+      "summary_ja": "オーストラリアの6113名の成人を対象に、GLP-1 RA（セマグルチドまたはtirzepatide）単独投与と、行動支援スマートフォンアプリ（Mosh）を追加した群で、体重減少アウトカムの差を評価した後ろ向き観察コホート研究。ロジスティック回帰モデルで60日・120日・180日における≥5%、≥10%、≥15%の体重減少達成率を比較し、線形混合効果モデルでアプリ機能利用と体重減少軌跡の関連を評価した。",
+      "key_takeaway_ja": "アプリ併用群は薬物単独群と比較し、≥5%（OR 1.38〜2.22）、≥10%（OR 1.67〜1.97）、≥15%（OR 1.99）の体重減少達成オッズが有意に高かった。アプリ機能の中で体重減少軌跡の改善と一貫して関連したのはprogress loggingのみ（β=.26、30日あたり0.26ポイントの追加体重減少、P<.001）であった。",
+      "why_matters_ja": "GLP-1 RAは体重管理に高効率であるが、長期アウトカムは持続的な行動的エンゲージメントに依存する。本研究は、実世界データにおいてデジタル行動支援ツールが薬物療法を補完し、臨床的に有意な体重減少の達成率を向上させる可能性を示し、特にprogress loggingが主要な行動的予測因子であることを明らかにした。",
+      "study_type_ja": "後ろ向き観察コホート研究",
+      "endpoints_ja": "60日・120日・180日における≥5%、≥10%、≥15%の体重減少達成（ロジスティック回帰）；アプリ機能利用と体重減少軌跡（%体重減少）の関連（線形混合効果モデル）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "6113名（18歳以上の成人、オーストラリア）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-04T01:18:34Z"
+    },
+    {
+      "pmid": "42975978",
+      "title": "GLP-1 Receptor Agonists in Metabolic Dysfunction-Associated Steatotic Liver Disease and Cardiovascular Disease: A Review.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists have transformed the treatment of type 2 diabetes and obesity and have more recently demonstrated clinically important effects across the cardiometabolic spectrum, including metabolic dysfunction-associated steatotic liver disease, metabolic dysfunction-associated steatohepatitis, and atherosclerotic cardiovascular disease. Earlier cardiovascular outcome trials established reductions in major adverse cardiovascular events by way of injectable forms in patients with diabetes, while newer evidence has expanded these findings to oral semaglutide and to other patient populations. This review summarizes the hepatic, cardiovascular, and heart-failure evidence for glucagon-like peptide-1 receptor agonists-based therapies and discusses remaining clinical uncertainties and future directions.",
+      "journal": "Cardiology in review",
+      "authors": "Rahni Sarah, Lebovics Edward, Frishman William H, Aronow Wilbert S",
+      "pub_date": "2026-11-03",
+      "doi": "10.1097/CRD.0000000000001527",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975978/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "e29ef32b3b8e46db1a039cdc5c1bb5932cc1a183c77111fb6e37ed67f3bf5136",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z",
+      "summary_ja": "GLP-1受容体作動薬が代謝機能異常関連脂肪肝疾患（MASLD）、代謝機能異常関連脂肪性肝炎（MASH）、および動脈硬化性心血管疾患（ASCVD）に対して臨床的に重要な効果を示していることを、肝臓・心血管・心不全のエビデンスの観点から総説したレビュー記事。",
+      "key_takeaway_ja": "GLP-1受容体作動薬は、注射製剤による糖尿病患者での主要心血管不良事象（MACE）減少に加え、経口セマグルチドや他の患者集団にもその効果が拡大しており、MASLD・MASH・ASCVDにまたがる心代謝スペクトラム全体で臨床的に重要な効果を示している。",
+      "why_matters_ja": "GLP-1受容体作動薬の糖尿病・肥満治療からの応用拡大を背景に、肝疾患および心血管領域におけるエビデンスを統合的に整理し、残存する臨床的不確実性と今後の方向性を議論している点で、臨床開発・データ管理の観点から治療戦略の方向性を把握する上で有用である。",
+      "study_type_ja": "総説（Review）",
+      "endpoints_ja": "主要心血管不良事象（MACE）、肝臓関連アウトカム、心血管アウトカム、心不全アウトカム",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-04T01:19:01Z"
+    },
+    {
+      "pmid": "42975004",
+      "title": "Cardiometabolic benefits of glucagon-like peptide-1 receptor agonists and dual agonists: from obesity and diabetes to heart failure with preserved ejection fraction.",
+      "abstract": "INTRODUCTION: Heart failure with preserved ejection fraction (HFpEF) accounts for over half of all heart failure hospitalisations and is increasing in prevalence, largely driven by obesity and Type 2 Diabetes Mellitus (T2DM). Glucagon-like-peptide receptor agonists (GLP-1 RAs) and the dual GLP-1/GIP agonist, tirzepatide, have been shown to be safe and effective medications in the treatment of T2DM and obesity as well as in obesity-related HFpEF.\nAREAS COVERED: This review summarises the pathophysiology of obesity-related HFpEF, mechanisms by which GLP-1 RAs and tirzepatide may improve symptoms and outcomes, and summarise evidence from recent randomised controlled and observational trials across the disease spectrum they have been studied in. Therapeutic implications and future research directions are also discussed. A structured literature search was performed using PubMed/MEDLINE and Cochrane Central Register of Controlled Trials (CENTRAL) up to August 2025.\nEXPERT OPINION: GLP-1 receptor agonists and tirzepatide represent a promising therapeutic advance for obesity-related HFpEF. Benefits are likely mediated through weight loss dependent and weight-loss independent mechanisms. Important uncertainties remain regarding their role in non-obese HFpEF, optimal patient selection, and their safety in HFrEF.",
+      "journal": "Expert review of cardiovascular therapy",
+      "authors": "Chotalia Ravi, Ghias Owais, Shah Muhammad Usman, Hills Claire Elizabeth, Ward Joanna Kate, Squires Paul Edward, Andrews Richard, Venugopal Vinod",
+      "pub_date": "2026-11-03",
+      "doi": "10.1080/14779072.2026.2757946",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975004/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "47297ba909d7738049f553c2c2370f0f9b180168b6f10cf625b8d3637a6ca2d0",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z",
+      "summary_ja": "肥満関連HFpEF（保存型左室機能不全）の病態生理、GLP-1受容体作動薬（GLP-1 RA）およびtirzepatide（GLP-1/GIP二重作動薬）が症状・転帰を改善しうるメカニズム、および近年のランダム化比較試験・観察研究のエビデンスを概説したレビュー論文。PubMed/MEDLINEおよびCochrane CENTRALを用いて2025年8月までの構造化文献検索を実施した。",
+      "key_takeaway_ja": "GLP-1受容体作動薬およびtirzepatideは肥満関連HFpEFに対する有望な治療的進歩であり、体重減少依存性および体重減少非依存性のメカニズムを介して利益をもたらすと考えられる。ただし、非肥満HFpEFにおける役割、最適な患者選定、HFrEFにおける安全性については重要な不確実性が残る。",
+      "why_matters_ja": "HFpEFは心不全入院の半数以上を占め、肥満および2型糖尿病に牽引されて有病率が増加している。GLP-1 RAおよびtirzepatideはT2DM・肥満の治療薬として安全性・有効性が示されており、肥満関連HFpEFへの応用が期待される。",
+      "study_type_ja": "レビュー（Expert Opinion）",
+      "endpoints_ja": "抄録に具体的なエンドポイントの記載なし（「symptoms and outcomes」の一般論のみ言及）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-04T01:19:30Z"
+    },
+    {
+      "pmid": "42972633",
+      "title": "Bariatric Surgery as a Rescue Strategy After Semaglutide or Tirzepatide.",
+      "abstract": "OBJECTIVE: To evaluate 2-year weight loss after bariatric surgery among adults with intolerable adverse effects or inadequate weight loss with semaglutide or tirzepatide.\nSUMMARY BACKGROUND DATA: Semaglutide and tirzepatide are effective obesity medications, but intolerance and inadequate weight loss are common, creating uncertainty about next-step therapy.\nMETHODS: This retrospective cohort included adults with BMI ≥35 kg/m² undergoing Roux-en-Y gastric bypass (RYGB) or sleeve gastrectomy (SG) at Cleveland Clinic hospitals from 2018 to 2024. Electronic health record and dispensing data classified preoperative semaglutide or tirzepatide exposure and response. The primary outcome was estimated 2-year total body weight loss (TBWL), stratified by procedure and type 2 diabetes (T2DM) status.\nRESULTS: Among 4929 patients, 4661 had no prior exposure (comparator group), 61 discontinued semaglutide or tirzepatide because of intolerable adverse effects, and 207 had inadequate weight-loss response. Before surgery, estimated 2-year medication-associated weight change was a 1.4% gain in the intolerance group and 1.5% TBWL in the inadequate-response group. After surgery, 2-year TBWL in the intolerance group was 27.9% and 22.7% after RYGB and 20.1% and 21.6% after SG among patients without and with T2DM, respectively. Corresponding estimates in the inadequate-response group were 35.8%, 27.4%, 14.3%, and 14.2%. For comparison, corresponding 2-year TBWL estimates in the comparator group were 33.3%, 28.7%, 23.6%, and 19.9%. In adjusted analysis of the inadequate-response group, RYGB was associated with greater 2-year TBWL than SG (32.7% vs. 17.8%; difference, 14.9 percentage points [95% CI, 13.1%-16.7%]).\nCONCLUSIONS: Bariatric surgery was associated with clinically meaningful 2-year weight loss after semaglutide or tirzepatide intolerance or inadequate response, with RYGB potentially offering greater benefit after inadequate response.",
+      "journal": "Annals of surgery",
+      "authors": "Aminian Ali, Hammad Awwab F, Sadeghmousavi Shaghayegh, Daftari Ghazal, Ferguson Luke, Tu Chao, Gasoyan Hamlet, Nissen Steven E",
+      "pub_date": "2026-11-03",
+      "doi": "10.1097/SLA.0000000000007251",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972633/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "9cd8d92fa32d6a10d1b5b0be65510a428eb0bc5f6f12e7837fbe8a93a149d175",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z"
+    },
+    {
+      "pmid": "42972868",
+      "title": "Semaglutide or Tirzepatide Added to Psychological Support in Binge Eating Disorder With Overweight or Obesity: The LEAP-BED Prospective Pilot Study.",
+      "abstract": "",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Spoltore Maria Elena, Masi Davide, Massetti Chandra, Glaser Krzysztof, Moretti Marta, Angeloni Antonio, Gianfrilli Daniele, Watanabe Mikiko",
+      "pub_date": "2026-11-02",
+      "doi": "10.1111/dom.71510",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972868/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "1f91f2f9e4e8520a078952b4061fd2810f1fc978d694078d489e59ad2f1c429e",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-04T01:17:27Z"
+    },
+    {
+      "pmid": "42972865",
+      "title": "Renal Effects of Dual GLP-1/Glucagon Receptor Agonism: How Should We SYNCHRONIZE With Emerging Evidence in Type 2 Diabetes and Obesity?",
+      "abstract": "",
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": "Patoulias Dimitrios, Karakasis Paschalis, Koufakis Theocharis",
+      "pub_date": "2026-11-02",
+      "doi": "10.1111/dom.71507",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972865/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "8adce4e88ccd6d29b08df599aef89440409a6e24367249db634f38b22cf81185",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-04T01:17:27Z"
+    },
+    {
+      "pmid": "42971377",
+      "title": "The effect of glucagon-like peptide-1 receptor agonists on bone metabolism: A systematic review and meta-analysis of randomized placebo-controlled trials of predominantly first-generation agents.",
+      "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) improve cardiometabolic outcomes, but their isolated effects on human bone remodeling remain uncertain because prior syntheses pooled heterogeneous study designs and active antidiabetic comparators. This systematic review and meta-analysis quantified the effects of GLP-1RAs versus placebo on densitometric, biochemical, and inflammatory markers of bone metabolism in randomized controlled trials (RCTs).\nMETHODS: Scopus, Web of Science, Embase, and PubMed/MEDLINE were searched from inception through May 12, 2026 for randomized placebo-controlled trials of GLP-1RAs or dual incretin agonists administered for 12 to 52 weeks. Eleven trials provided compatible data for random-effects meta-analysis and one additional trial was synthesized narratively, comprising 11 trials of first-generation agents (exenatide, dulaglutide, liraglutide) and one trial of second-generation semaglutide (1.0 mg/week), with zero eligible placebo-controlled trials identified for semaglutide 2.4 mg/week or tirzepatide. Weighted mean differences (WMDs) with 95% confidence intervals (CIs) were calculated for dual-energy X-ray absorptiometry (DXA) bone mineral density (BMD), bone turnover markers, and high-sensitivity C-reactive protein (hs-CRP), and evidence certainty was rated using GRADE.\nRESULTS: Compared with placebo, GLP-1RA treatment reduced lumbar spine BMD (WMD: -0.02 g/cm2, 95% CI: -0.03 to -0.00, I2 = 0.0%; 3 trials, N = 222; Moderate certainty) and increased the bone resorption marker C-terminal telopeptide (CTX) (WMD: 0.05 μg/L, 95% CI: 0.01 to 0.08, I2 = 72.5%; 6 trials, N = 439; Low certainty), while reducing serum hs-CRP (WMD: -0.49 mg/L, 95% CI: -0.97 to -0.00, I2 = 0.0%; 4 trials [5 arms], N = 340; Low certainty). No significant differences were observed for femoral neck BMD (WMD: 0.01 g/cm2, 95% CI: -0.02 to 0.04, I2 = 68.9%; 5 trials [6 arms], N = 323; Very Low certainty), total hip BMD (WMD: 0.00 g/cm2, 95% CI: -0.02 to 0.03, I2 = 70.8%; 5 trials [6 arms], N = 382; Low certainty), or procollagen type 1 N-terminal propeptide (P1NP) (WMD: -1.24 μg/L, 95% CI: -3.61 to 1.13, I2 = 0.0%; 5 trials, N = 399; Moderate certainty), and leave-one-out exclusion of the single semaglutide trial did not alter the direction or significance of any pooled estimate.\nCONCLUSIONS: Treatment with predominantly first-generation GLP-1RAs over 12 to 52 weeks increases osteoclastic bone resorption and induces a small, borderline reduction in lumbar spine BMD while preserving hip BMD and lowering systemic inflammation. Because existing placebo-controlled RCTs largely reflect earlier-generation agents with moderate weight loss, these findings cannot be extrapolated to higher-potency anti-obesity therapies such as semaglutide 2.4 mg/week or tirzepatide, which require dedicated long-term skeletal safety trials.",
+      "journal": "Bone",
+      "authors": "Safargar Mohammad, Ahmadi Navid, Prabahar Kousalya, Zandi Reza, Varkaneh Hamed Kord",
+      "pub_date": "2026-11-02",
+      "doi": "10.1016/j.bone.2026.118160",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42971377/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "56c38c95142bbbc6b33167695b4112ce581a2681ed07adff23433c3e8e00c82a",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z",
+      "summary_ja": "GLP-1受容体作動薬（GLP-1RA）が骨代謝に及ぼす影響を、プラセボ対照無作為化試験（RCT）の系統的レビューおよびメタアナリシスにより定量化した研究。12〜52週間の投与期間を持つ、主に第1世代薬剤（エクセナチド、デュラグルチド、リラグルチド）および第2世代セマグルチド（1.0 mg/週）の11試験（メタアナリシス対象11試験＋叙述的統合1試験）を対象とし、DXAによる骨密度（BMD）、骨代謝マーカー、hs-CRPを評価した。",
+      "key_takeaway_ja": "主に第1世代GLP-1RAの12〜52週間の投与は、破骨細胞由来の骨吸収（CTX上昇）を増加させ、腰椎BMDにわずかな境界的な低下を誘発する一方、股関節BMDは維持され、全身性炎症（hs-CRP）は低下した。",
+      "why_matters_ja": "GLP-1RAは心代謝アウトカムを改善するが、骨リモデリングに対する単独効果は既往の異質な研究デザインや活性対照薬を含む統合により不確実であった。本研究はプラセボ対照RCTに限定して骨安全性の証拠を明確にし、さらにセマグルチド2.4 mg/週やtirzepatideのような高ポテンシーな抗肥満療法には外挿できないことを示し、専用の長期骨安全性試験の必要性を指摘している。",
+      "study_type_ja": "系統的レビューおよびメタアナリシス（無作為化プラセボ対照試験）",
+      "endpoints_ja": "腰椎BMD（DXA）、大腿骨頸部BMD（DXA）、大腿骨全体BMD（DXA）、骨吸収マーカーCTX、骨形成マーカーP1NP、高感度C反応性蛋白（hs-CRP）",
+      "endpoint_results_ja": "腰椎BMD: WMD -0.02 g/cm², 95% CI -0.03 to -0.00, I²=0.0%, 3試験, N=222, 中等度の確実性。CTX: WMD 0.05 μg/L, 95% CI 0.01 to 0.08, I²=72.5%, 6試験, N=439, 低確実性。hs-CRP: WMD -0.49 mg/L, 95% CI -0.97 to -0.00, I²=0.0%, 4試験（5アーム）, N=340, 低確実性。大腿骨頸部BMD: WMD 0.01 g/cm², 95% CI -0.02 to 0.04, I²=68.9%, 5試験（6アーム）, N=323, 非常に低確実性。大腿骨全体BMD: WMD 0.00 g/cm², 95% CI -0.02 to 0.03, I²=70.8%, 5試験（6アーム）, N=382, 低確実性。P1NP: WMD -1.24 μg/L, 95% CI -3.61 to 1.13, I²=0.0%, 5試験, N=399, 中等度の確実性。",
+      "sample_size_ja": "メタアナリシス対象11試験＋叙述的統合1試験。各エンドポイント別の対象者数：腰椎BMD N=222、CTX N=439、hs-CRP N=340、大腿骨頸部BMD N=323、大腿骨全体BMD N=382、P1NP N=399。全体としての総サンプルサイズは抄録に記載なし。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-04T01:21:21Z"
     },
     {
       "pmid": "42970163",
@@ -175,7 +444,16 @@
       "japan_relevant": false,
       "content_sha256": "cf0d579df09ec886baca3c67812f726c4176a8e69f64318fd73076917acabfd1",
       "fetched_at_utc": "2026-11-03T02:53:13Z",
-      "updated_at_utc": "2026-11-03T02:53:13Z"
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "MASLD（代謝機能異常関連脂肪肝疾患）と心不全（HF）を併せ持つ成人において、GLP-1受容体作動薬（セマグルチド、リラグルチド、デュラグルチド）とSGLT2阻害薬（エンパグリフロジン、ダパグリフロジン）の記録されたアウトカムを比較する、後方視的・開始基準・活性比較コホート研究（探索的）。TriNetX US Collaborative Networkを用い、1:1プロパensityスコアマッチングにより8,550例/群を比較し、1〜1825日間のアウトカムを評価した。",
+      "key_takeaway_ja": "GLP-1 RA曝露は複数のアウトカムで低い観察ハザードと関連したが、急性HFとの関連は90日以降に弱まった。早期の集中と関連の大きさは治療チャネリング（treatment channeling）を妥当な説明として示唆するが、本分析ではその説明を確立できない。これらの探索的所見は因果推論や治療優先の結論を支持しない。",
+      "why_matters_ja": "MASLD-HF表現型において、治療選択がGLP-1 RAとSGLT2iの観察的比較を交絡させる可能性がある。本結果は観察研究における治療チャネリングバイアスの重要性を示し、SGLT2iのHFにおける使用を支持するランダム化エビデンスには挑戦しない。",
+      "study_type_ja": "後方視的・開始基準・活性比較コホート研究（探索的、1:1プロパensityスコアマッチング、new-user design未検証）",
+      "endpoints_ja": "死亡、コード化された急性HF診断、急性腎障害、ケトアシドーシス、急性膵炎",
+      "endpoint_results_ja": "死亡: 599/8,514 (7.0%) vs 861/8,509 (10.1%); HR 0.607 (95% CI, 0.546-0.673)。コード化急性HF: 1,217/8,550 (14.2%) vs 2,525/8,550 (29.5%); HR 0.398 (95% CI, 0.372-0.427)、非比例ハザードの証拠あり。1〜90日: HR 0.262 (95% CI, 0.236-0.291)。91〜1825日: HR 0.507 (95% CI, 0.469-0.548)。91〜1825日急性腎障害: HR 0.740 (95% CI, 0.650-0.842)。T2Dサブグループ（5,709対）急性HF: HR 0.431 (95% CI, 0.397-0.468)。T2Dサブグループケトアシドーシス: HR 0.683 (95% CI, 0.455-1.025)。急性膵炎: いずれの分析でも優位性なし。既往急性HF除外分析: HR 0.421 (95% CI, 0.362-0.489)、非比例ハザードの証拠あり。",
+      "sample_size_ja": "主要分析: マッチング後8,550例/群。区間分析: 8,489例/群。T2Dサブグループ: 5,709マッチ対。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-04T01:22:44Z"
     },
     {
       "pmid": "42969445",
@@ -398,7 +676,16 @@
       "japan_relevant": false,
       "content_sha256": "a92d49fdb5f06c8d3d730b52a2972f7abffa06f0bddc8f8078b585da5dfffc0c",
       "fetched_at_utc": "2026-11-03T02:53:13Z",
-      "updated_at_utc": "2026-11-03T02:53:13Z"
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "GLP-1受容体作動薬（GLP-1RA）が食物関連認知に及ぼす影響を、認知神経科学の枠組みから検討したレビューである。食物関連情報処理の複数のレベル（(1)初期知覚処理、(2)注意捕捉と動機づけ的顕著性、(3)意味的組織化、(4)意思決定と実行機能制御）を特定し、各レベルを分離するための理論モデルと実験パラダイムを統合した枠組みを提案している。",
+      "key_takeaway_ja": "GLP-1RAは食物関連情報処理の各レベル（知覚、注意、動機づけ、意味処理、実行機能）を差別的に調節する可能性があり、認知神経科学に基づく枠組みを用いることで、GLP-1RAが知覚・動機づけ・食物決定に影響を与えるメカニズムを特定できる。",
+      "why_matters_ja": "記述的な測定を超えてGLP-1RAの認知効果のメカニズムを特定し、将来の研究を導き、認知効果の解釈を改善し、よりターゲットを絞った介入の開発に貢献できる。",
+      "study_type_ja": "レビュー（理論的・概念的枠組みの提案）",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-04T01:23:10Z"
     },
     {
       "pmid": "42967552",
@@ -826,6 +1113,33 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-31T00:43:47Z"
+    },
+    {
+      "pmid": "42974480",
+      "title": "Management of Obesity in Special Populations and Limited-Resource Settings: An Egyptian Medical Position Statement.",
+      "abstract": "BACKGROUND: Obesity/adiposity-based chronic disease is a chronic progressive relapsing disease linked to several comorbidities, with rising prevalence in Egypt. Limited local guidelines and healthcare challenges necessitate evidence-based, culturally adapted strategies.\nMETHODS: The Egyptian Medical Association for the Study of Obesity convened a clinical multidisciplinary panel to develop consensus recommendations. Evidence was synthesized from literature, prioritizing resource-limited settings and special situations.\nRESULT: Assessment: Move beyond Body Mass Index to include waist circumference, waist/height ratio, body composition, and screening for obesity-related complications and diseases. Lifestyle Interventions: a-Nutrition: Mediterranean/dietary approach to stop hypertension diets, slow eating, and supervised fasting (eg Ramadan and Christian). b-Activity: Culturally tailored approaches (eg prayer-time movement and Arabic apps). c-Behavior: Cognitive-behavioral therapy and family-inclusive support. Pharmacotherapy: Use of approved agents (orlistat, naltrexone/bupropion, liraglutide, semaglutide, and tirzepatide) according to obesity-related complications and diseases and age group. Avoid GLP-1, GLP-1/GIP analogues in patients with medullary thyroid cancer, and all agents during pregnancy. Bariatric Surgery: Indicated for body mass index ≥40 kg/m2 (or ≥35 with obesity-related complications and diseases), with lifelong micronutrient supplementation. Special Populations: a-Adolescents: Focus on growth, not only weight-loss; consider pharmacotherapy in different age groups. b-Elderly: Prioritize muscle preservation; avoid weight loss unless obesity-related complications and diseases exist. c-Pregnancy: No weight loss; delay postpartum interventions until lactation is established. Policy Actions: Mandate food labeling, tax sugar-sweetened beverages, and integrate obesity services into primary healthcare.\nCONCLUSION: These recommendations provide a pragmatic framework for obesity/adiposity-based chronic disease management in Egypt, emphasizing affordable, patient-centered care, and clinical multidisciplinary collaboration and policy support.",
+      "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "authors": "Hegazy Mona A, Mattar Amr, Shawky Maissa Mohamed, Soliman Dina, Mowafy Maha, NourEldin Yasmine Mohamed, Noweir Ahmed Madbouli, Aboulghate Mohamed Kamal",
+      "pub_date": "2026-10-29",
+      "doi": "10.2147/DMSO.S629991",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42974480/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "79d1bce06e742165178c5d972c125411dadb61bc825d183db677a031e8960b71",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z"
     },
     {
       "pmid": "42957437",
@@ -3576,6 +3890,31 @@
       "summary_generated_at_utc": "2026-10-22T00:01:43Z"
     },
     {
+      "pmid": "42973695",
+      "title": "Longitudinal kidney outcomes and safety after finerenone initiation in patients with non-diabetic chronic kidney disease: a single-center retrospective cohort study.",
+      "abstract": "BACKGROUND: Finerenone, a non-steroidal mineralocorticoid receptor antagonist, has demonstrated renoprotective effects in randomized controlled trials. However, real-world evidence, particularly in heterogeneous and non-diabetic chronic kidney disease (CKD) populations, remains limited.\nMETHODS: This was a single-center, retrospective, real-world cohort study of adults with non-diabetic CKD who initiated finerenone. Longitudinal changes in urinary albumin-to-creatinine ratio (UACR) and 24 h urinary protein (24 hUP) were analyzed using covariate-adjusted gamma-log generalized estimating equation (GEE) models with an autoregressive correlation structure of order 1 [AR(1)] and robust standard errors, whereas eGFR trajectories were evaluated using a covariate-adjusted segmented linear mixed-effects model. The UACR and 24 hUP models were adjusted for age, sex, RASi use, SGLT-2i use, and immunosuppressant use; the eGFR model additionally included baseline UACR category. Subgroup heterogeneity was assessed using interaction tests, with Benjamini-Hochberg false discovery rate correction.\nRESULTS: Among 121 patients, finerenone initiation was associated with reductions in UACR and 24 hUP. The adjusted changes in UACR were -48.6% at Month 12 (95% CI, -60.1% to -33.8%; P < 0.001) and -35.4% at Month 24 (95% CI, -63.4% to 14.0%; P = 0.132). The corresponding adjusted changes in 24 hUP were -34.5% (95% CI, -47.3% to -18.6%; P < 0.001) and -34.9% (95% CI, -56.6% to -2.4%; P = 0.038), respectively. The annualized eGFR slope attenuated from -6.51 mL/min/1.73 m2/year (95% CI, -9.70 to -3.31) before finerenone initiation to -1.44 mL/min/1.73 m2/year (95% CI, -3.52 to 0.64) after initiation, corresponding to a slope improvement of 5.07 mL/min/1.73 m2/year (95% CI, 1.86 to 8.27; P = 0.002). No serious adverse events were documented during follow-up; hyperkalemia occurred in 4.96% of patients, and neither hyperkalemia nor hypotension prompted treatment discontinuation.\nCONCLUSION: In this real-world cohort, finerenone was associated with reductions in UACR and 24 hUP and attenuation of eGFR decline, with infrequent observed hyperkalemia and hypotension during the available follow-up.",
+      "journal": "Frontiers in medicine",
+      "authors": "Sun Xuejuan, Pei Juan, Chen Xing, Wang Zhi, Yao Lijing, Bai Peijin, Yan Zhiwen, Li Yinan",
+      "pub_date": "2026-10-19",
+      "doi": "10.3389/fmed.2026.1959259",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42973695/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2f3fc11001481acc5c496e76754de6f1c8c589871bb1cf49fc95f97e20712a0b",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z"
+    },
+    {
       "pmid": "42953646",
       "title": "Estimating the population eligible for Medicare's obesity-coverage demonstration.",
       "abstract": "",
@@ -5817,6 +6156,34 @@
       "sample_size_ja": "65例（HFrEF患者）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-14T00:18:00Z"
+    },
+    {
+      "pmid": "42973414",
+      "title": "From Lifestyle Advice to GLP-1 Agonists: The Transformation of Pediatric Obesity Care.",
+      "abstract": "Pediatric obesity now affects nearly 1 in 5 children and adolescents in the United States, and its consequences reach well into adult life. For years, clinicians offered little beyond brief advice and a plan to recheck later, an approach that quietly allowed a treatable disease to progress. The 2023 American Academy of Pediatrics guideline broke with that tradition. It treats obesity as a chronic disease and calls for early, intensive treatment that may include medication from age 12 years and metabolic and bariatric surgery from age 13 years. This narrative review summarizes what the authors know about the epidemiology, biology, assessment, and management of pediatric obesity, with a focus on the rapidly changing place of drug therapy. Four medications carry US Food and Drug Administration approval for adolescents: orlistat, phentermine/topiramate extended-release, liraglutide, and once-weekly semaglutide. Of these, semaglutide has shown the greatest effect in randomized trials to date, lowering body mass index by roughly 16% in the STEP TEENS study. Intensive lifestyle treatment remains the foundation at every age, and surgery offers benefit for adolescents with severe obesity. Optimal care also means addressing weight stigma and the social conditions that concentrate risk in disadvantaged communities. The hardest problem now is access: the treatments exist, but they reach children unevenly. Tirzepatide and other newer agents are likely to broaden the options in the near future.",
+      "journal": "Turkish archives of pediatrics",
+      "authors": "Gupta Surendra, Lal Purushottam",
+      "pub_date": "2026-10-12",
+      "doi": "10.65717/TurkArchPediatr.2026.26339",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42973414/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "0ab88f186c8c8fec4e1201b1ce48d2c0e66289e92aa7267bb25b222d4e241b3e",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z"
     },
     {
       "pmid": "42935489",
@@ -28667,28 +29034,29 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42958056/",
       "publication_types": [
         "Journal Article",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Observational Study"
       ],
       "mesh_terms": [
-        "Humans",
-        "Female",
-        "Heart Failure",
-        "Male",
-        "Renal Insufficiency, Chronic",
-        "Risk Assessment",
         "Aged",
-        "Naphthyridines",
-        "Time Factors",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
         "Middle Aged",
-        "Risk Factors",
+        "Databases, Factual",
+        "Heart Failure",
         "Incidence",
         "Mineralocorticoid Receptor Antagonists",
-        "Treatment Outcome",
-        "United States",
+        "Naphthyridines",
         "Protective Factors",
-        "Databases, Factual",
+        "Renal Insufficiency, Chronic",
         "Retrospective Studies",
-        "Aged, 80 and over"
+        "Risk Assessment",
+        "Risk Factors",
+        "Time Factors",
+        "Treatment Outcome",
+        "United States"
       ],
       "matched_assets": [
         "finerenone"
@@ -28698,9 +29066,9 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "d39efae71297aed824832ac60c7872f99ab4408974aab95425e87424033e4dde",
+      "content_sha256": "917912bb078853026a5852083867a726c63bbcb8e710eab92e74c596be0f4414",
       "fetched_at_utc": "2026-10-31T00:42:52Z",
-      "updated_at_utc": "2026-10-31T00:42:52Z"
+      "updated_at_utc": "2026-11-04T01:17:27Z"
     },
     {
       "pmid": "42677221",
@@ -30264,6 +30632,36 @@
       "content_sha256": "4856712884208347b5b06512a066778b33cfdec172c2e3f154cc4730623a7f60",
       "fetched_at_utc": "2026-10-25T23:12:05Z",
       "updated_at_utc": "2026-10-25T23:12:05Z"
+    },
+    {
+      "pmid": "42971710",
+      "title": "Identifying High-Risk Patients: Using the HFpEF-ABA Score for Clinical Trial Enrichment and EMR Screening.",
+      "abstract": "",
+      "journal": "JACC. Heart failure",
+      "authors": "Borlaug Barry A, Starling Randall C",
+      "pub_date": "2026-01-01",
+      "doi": "10.1016/j.jchf.2026.103314",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42971710/",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2b49dec5fe3429aaa6d4957d2f46a712f8499a71f1a732b168282717213cfb03",
+      "fetched_at_utc": "2026-11-04T01:17:27Z",
+      "updated_at_utc": "2026-11-04T01:17:27Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-04T01:17:27Z"
     },
     {
       "pmid": "42969740",
