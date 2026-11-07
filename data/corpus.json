@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-06T01:29:52Z",
+  "generated_at_utc": "2026-11-07T00:52:21Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,356 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42993255",
+      "title": "Clinical pharmacology of antidiabetic drugs: an update.",
+      "abstract": "PURPOSE: This review describes the updated pharmacology of antidiabetic drugs and its translation into clinical applications.\nMETHODS: English language literature published from January 1, 1998 to July 25, 2026 was collected using PubMed, ScienceDirect, and Ovid. Research articles, reviews, and clinical practice guidelines were included for discussion.\nRESULTS: Currently, ultra-long-acting basal insulins are emerging, allowing less frequent injections. Glucagon-like peptide 1 receptor agonists (GLP-1RAs), tirzepatide, and sodium-glucose cotransporter-2 inhibitors (SGLT2is) have novel pharmacodynamic properties and clinical evidence of cardiorenal and metabolic benefits, supporting their important roles in individuals with type 2 diabetes (T2D) who have high cardiorenal risk. Because of their effects on weight reduction, GLP-1RAs (semaglutide, liraglutide, and orforglipron) and tirzepatide are approved for the treatment of obesity. Furthermore, SGLT2is (empagliflozin, dapagliflozin, and sotagliflozin) provide cardiorenal benefits, with supporting potential mechanisms, in individuals with heart failure and chronic kidney disease. Conventional oral drugs (e.g., metformin, thiazolidinediones, dipeptidyl peptidase-4 inhibitors, sulfonylureas, meglitinides, and α-glucosidase inhibitors) lack sufficient pharmacologic and clinical data on cardiorenal benefits, suggesting their roles as adjunctive therapies. Novel candidates, including triple incretin hormone agonists (acting on GLP-1, glucose-dependent insulinotropic polypeptide [GIP], and glucagon receptors), GLP-1RA-GIP antagonism-based therapies, amylin analogues, and new dual SGLT1/2 inhibitors, show promising results for glycemic control and weight loss.\nCONCLUSION: Overall, a comprehensive understanding of the pharmacologic characteristics of antidiabetic drugs promotes appropriate drug use for the management of T2D and cardiometabolic diseases and helps avoid undesirable events. Ongoing investigations of novel approaches may contribute to improved patient care in the future.",
+      "journal": "European journal of clinical pharmacology",
+      "authors": "Wichaiyo Surasak",
+      "pub_date": "2026-11-06",
+      "doi": "10.1007/s00228-026-04219-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993255/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hypoglycemic Agents",
+        "Diabetes Mellitus, Type 2",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Tirzepatide"
+      ],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin",
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim",
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "da6818af80d83880536e824ec995004ba5d2e532bd7d8a2a6f5ba5214714547b",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z",
+      "summary_ja": "本レビューは、抗糖尿病薬の最新の薬理学とその臨床応用への転換を記述する。超長時間作用型ベースアルインスリンの登場、GLP-1受容体作動薬（GLP-1RA）、tirzepatide、SGLT2阻害薬（SGLT2i）の新たな薬力学的特性と心腎・代謝への有益性の臨床エビデンス、GLP-1RA（semaglutide、liraglutide、orforglipron）とtirzepatideの肥満治療への承認、SGLT2i（empagliflozin、dapagliflozin、sotagliflozin）の心不全・慢性腎臓病における心腎保護効果、従来の経口薬（metformin、TZDs、DPP-4阻害薬、スルホニルウレア、meglitinide、α-グルコシダーゼ阻害薬）の心腎保護データ的不十分性、および新規候補薬（トリプルインクレチンホルモン作動薬、GLP-1RA-GIP拮抗ベース療法、amylinアナログ、新規SGLT1/2二重阻害薬）の有望な結果を概観する。",
+      "key_takeaway_ja": "抗糖尿病薬の薬理学的特性を包括的に理解することは、2型糖尿病および心代謝疾患の適切な薬物管理を促進し、望ましくない事象を回避するのに役立つ。",
+      "why_matters_ja": "GLP-1RA、tirzepatide、SGLT2iが心腎・代謝への有益性を示し、高心腎リスクの2型糖尿病患者における重要な役割を支持していること、および従来の経口薬は心腎保護の十分な薬理学的・臨床的データを欠いていることが示されており、治療選択の根拠となる。",
+      "study_type_ja": "レビュー",
+      "endpoints_ja": "血糖コントロール、体重減少、心腎保護効果（心不全・慢性腎臓病における有益性）、代謝への有益性",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:52:37Z"
+    },
+    {
+      "pmid": "42993217",
+      "title": "Disproportionality analysis of ventricular extrasystoles reported with semaglutide in VigiBase and the FDA Adverse Event Monitoring System.",
+      "abstract": "Semaglutide is widely used to treat type 2 diabetes and obesity and to reduce cardiovascular risk. However, its association with cardiac rhythm-related adverse-event reporting in routine clinical practice remains incompletely characterized. To investigate cardiovascular and rhythm-related adverse-event reporting associated with semaglutide, with a focus on ventricular extrasystoles, we conducted a disproportionality analysis of individual case safety reports from VigiBase and the FDA Adverse Event Monitoring System (AEMS; formerly the FDA Adverse Event Reporting System [FAERS]). Reports were included when semaglutide was recorded as a suspected drug, according to database-specific criteria. Cardiovascular outcomes were identified using Medical Dictionary for Regulatory Activities Preferred Terms. Reporting odds ratios (RORs) and 95% confidence intervals (CIs) were calculated. A cross-database reporting signal was defined as at least three semaglutide-associated reports and a lower 95% CI bound exceeding 1 in each database. After deduplication and application of the predefined inclusion criteria, 1980 semaglutide-associated cardiovascular reports from VigiBase and 1754 from AEMS were included. Among the screened cardiovascular and rhythm-related preferred terms, ventricular extrasystoles was the only term that met the prespecified signal criterion in both databases. Ventricular extrasystoles, clinically corresponding to premature ventricular contractions, showed disproportionate reporting in VigiBase (ROR 1.77, 95% CI 1.31-2.40) and AEMS (ROR 1.37, 95% CI 1.00-1.88; unrounded lower CI bound > 1). Ventricular extrasystoles showed a consistent disproportionality signal across VigiBase and AEMS. Although spontaneous reporting data cannot establish incidence, causality, or prognostic significance, this finding warrants prospective investigation using systematic electrocardiographic assessment and ambulatory rhythm monitoring.",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "authors": "Wu Daobin, Yang Rongying, Zeng Jun, Bai Zhou, Zhang Chunda, Fan Xinrong, Zhou Xiangyu, Wu Lin",
+      "pub_date": "2026-11-06",
+      "doi": "10.1007/s00210-026-06025-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993217/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ef5b939d592fd4437cbbb077fad37652c7be1983b3283678f8682c9a270479bc",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z",
+      "summary_ja": "セマグルチドと心室期外収縮（ventricular extrasystoles）の関連を調査するため、VigiBaseとFDA AEMS（旧FAERS）の個人症例安全性報告を用いて不均衡分析（disproportionality analysis）を行った。心血管系好ましくない事象の報告をMedDRA好む語（Preferred Term）で特定し、報告オッズ比（ROR）および95%信頼区間（CI）を算出した。2つのデータベースで少なくとも3件のセマグルチド関連報告があり、かつ95%CIの下限が1を超えることをシグナル基準とした。重複排除および事前定義された包含基準を適用後、VigiBaseから1980件、AEMSから1754件のセマグルチド関連心血管系報告が包含された。",
+      "key_takeaway_ja": "心室期外収縮は、VigiBase（ROR 1.77, 95% CI 1.31-2.40）とAEMS（ROR 1.37, 95% CI 1.00-1.88）の両方で事前定義されたシグナル基準を満たした唯一の好む語であり、セマグルチドとの関連で一貫した不均衡報告シグナルが示された。",
+      "why_matters_ja": "セマグルチドは2型糖尿病・肥満・心血管リスク低減に広く使用されているが、臨床実務における心拍律関連有害事象の報告との関連は十分に特徴付けられていない。自発報告データは発生率・因果関係・予後的重要性を確立できないものの、本シグナルは体系的な心電図評価および外来心拍律モニタリングを用いた前向き調査を要する。",
+      "study_type_ja": "不均衡分析（disproportionality analysis）／薬物警戒シグナル検出研究（VigiBaseおよびFDA AEMSの個人症例安全性報告を用いた横断的データベース分析）",
+      "endpoints_ja": "セマグルチド関連の心室期外収縮（ventricular extrasystoles）の報告オッズ比（ROR）および95%信頼区間（CI）",
+      "endpoint_results_ja": "VigiBase: ROR 1.77, 95% CI 1.31-2.40。AEMS: ROR 1.37, 95% CI 1.00-1.88（丸め前の95%CI下限 > 1）。",
+      "sample_size_ja": "VigiBase: 1980件（セマグルチド関連心血管系報告）、AEMS: 1754件（セマグルチド関連心血管系報告）。心室期外収縮の個別件数は抄録に記載なし。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:53:12Z"
+    },
+    {
+      "pmid": "42993181",
+      "title": "Dipeptidyl Peptidase-4 Inhibitors and Bullous Pemphigoid: A Danish Nationwide Case-Control Study.",
+      "abstract": "INTRODUCTION: Anti-diabetic dipeptidyl peptidase-4 inhibitors (DPP-4i) are associated with an increased risk of bullous pemphigoid (BP), but Danish population-based data, including product specific estimates, are lacking.\nMETHODS: We conducted a nationwide matched case-control study in Denmark of incident BP cases diagnosed between 2007 and 2024. BP cases were matched 1:100 to population controls using risk set sampling based on age, sex, and index date. DPP-4i exposure was defined as at least one redeemed prescription before the index date (ever use) or during the preceding three months (current use). In a specificity analysis, we compared DPP-4i users and users of other type 2 antidiabetics without DPP-4i use with non-users of type 2 diabetes medications. Odds ratios (ORs) with 95% CIs were estimated using conditional logistic regression.\nRESULTS: We identified 2,497 incident BP cases and 249,700 controls (median age 78 years). DPP-4i exposure was more common among BP cases for both ever use (OR: 3.81, 95% CI: 3.31-4.40) and current use (OR: 5.59, 95% CI: 4.70-6.63). For current use, the highest odds ratios were observed for vildagliptin (OR: 10.82, 95% CI: 6.73-17.41) and linagliptin (OR: 9.86, 95% CI: 7.33-13.25), whereas the estimate for sitagliptin was lower (OR: 2.46, 95% CI: 1.65-3.66). In the specificity analysis, other antidiabetic therapies did not show a similarly increased risk of BP.\nCONCLUSION: In the Danish population there was a strong association between DPP-4i use and incident BP. This was most pronounced for vildagliptin and linagliptin while the signal was weaker for sitagliptin.",
+      "journal": "Dermatology (Basel, Switzerland)",
+      "authors": "Ahle Erichsen Philip, Heerfordt Ida M, Huan Olsen Rasmus, Mogensen Mette, Dalhoff Kim Peder, Horwitz Henrik",
+      "pub_date": "2026-11-06",
+      "doi": "10.1159/drm/ackag032",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993181/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "linagliptin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "47bb9e4b1b250318203cb466ce465f0dde1cefba4d4685079faffe3b77314383",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z",
+      "summary_ja": "デンマーク全国規模のマッチング型ケースコントロール研究であり、2007年から2024年までに新規診断された水疱性類天疱瘡（BP）症例2,497例を、年齢・性別・インデックス日に基づきリスクセットサンプリングで1:100にマッチングした対照群249,700例と比較した。DPP-4阻害薬曝露はインデックス日以前の少なくとも1回の処方（ever use）または直近3ヶ月以内の処方（current use）と定義し、条件付きロジスティック回帰でオッズ比（OR）と95%信頼区間を推定した。特異性解析では、DPP-4阻害薬使用者と他の2型糖尿病薬（DPP-4阻害薬非使用）使用者を非使用者と比較した。",
+      "key_takeaway_ja": "DPP-4阻害薬の使用と新規BP発症の間には強い関連が認められた。特にビルダグリプチン（OR 10.82）とリナグリプチン（OR 9.86）で最も高く、シタグリプチン（OR 2.46）では相対的に弱いシグナルであった。他の抗糖尿病薬では同様のリスク上昇は認められなかった。",
+      "why_matters_ja": "DPP-4阻害薬とBPの関連は既知であったが、デンマークの人口ベースデータ、特に製品別の推定値は不足していた。本研究は全国規模のデータを用いて製品別のリスク差を明らかにし、特定のDPP-4阻害薬（ビルダグリプチン、リナグリプチン）がより高いBPリスクを有する可能性を示唆した。",
+      "study_type_ja": "全国規模マッチング型ケースコントロール研究（人口ベース）",
+      "endpoints_ja": "主要エンドポイント：新規水疱性類天疱瘡（BP）の発症。曝露：DPP-4阻害薬のever useおよびcurrent use。副次的な特異性解析：DPP-4阻害薬使用者 vs 他の2型糖尿病薬使用者 vs 非使用者。",
+      "endpoint_results_ja": "Ever use: OR 3.81 (95% CI: 3.31-4.40)。Current use: OR 5.59 (95% CI: 4.70-6.63)。Current useによる製品別：ビルダグリプチン OR 10.82 (95% CI: 6.73-17.41)、リナグリプチン OR 9.86 (95% CI: 7.33-13.25)、シタグリプチン OR 2.46 (95% CI: 1.65-3.66)。特異性解析：他の抗糖尿病療法では同様のリスク上昇は認められなかった。",
+      "sample_size_ja": "BP症例2,497例、対照群249,700例（中央値年齢78歳）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:53:45Z"
+    },
+    {
+      "pmid": "42989974",
+      "title": "SGLT2 inhibitor and fibrosis progression in MASLD: Correspondence to letter to the editor on \"Comparative risk of fibrosis progression with sodium-glucose cotransporter-2 vs. dipeptidyl peptidase-4 inhibitors in metabolic dysfunction-associated steatotic liver disease and type 2 diabetes mellitus with low-to-intermediate fibrosis\".",
+      "abstract": "",
+      "journal": "Clinical and molecular hepatology",
+      "authors": "Choi Jonggi, Chung Raymond T",
+      "pub_date": "2026-11-06",
+      "doi": "10.3350/cmh.2026.0363",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989974/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "3e0a4e1fa21b8bb1b91c511e1c23b1c056c81ec60de2ab7a5da46c1f0c36096d",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-07T00:52:21Z"
+    },
+    {
+      "pmid": "42989960",
+      "title": "A Nature-Derived Peptide Promotes Satiety Hormone Response and Weight Loss In Vivo.",
+      "abstract": "The global rise of obesity highlights the critical need for effective weight-management strategies. GLP-1 receptor agonists have transformed obesity care, yet gastrointestinal intolerance, high cost, and weight regain after discontinuation highlight the need for complementary, orally available options. An alternative is to stimulate the body's own GLP-1 release through the nutrient-sensing GPCRs on enteroendocrine L cells that a meal engages. Using an AI-guided screen of common food proteins, we identified nature-derived peptides (NDPs): sequences native to edible proteins that were reproduced synthetically and engage these receptors. Unlike peptide drugs engineered for systemic exposure, NDPs are intended to act locally at the gut epithelium. Our lead, NDP-35 (from Coffea arabica), is a potent, selective GPR40 agonist (EC50 = 32.7 nM); in mice, it raised plasma GLP-1, GIP, and PYY while lowering hunger hormones, reproducing the coordinated satiety hormone response of a meal at minimal caloric cost. Over 28 days of oral dosing in diet-induced obese rats, NDP-35 reduced food intake and lowered body weight by ∼5%, versus a 3% gain in vehicle-treated animals; a subcutaneous semaglutide arm was included as a reference comparator and endpoint values were of similar magnitude to NDP-35. Terminal clinical chemistry and organ-weight markers showed no treatment-related changes over the dosing period. A structurally distinct peptide, NDP-45 (from banana), reproduced these effects. NDP-35 and NDP-45 are promising preclinical food-protein-derived peptide candidates that stimulate enteroendocrine hormone responses and reduce food intake and body weight in rodent models, warranting further evaluation as an oral approach to appetite and body-weight control.",
+      "journal": "Journal of dietary supplements",
+      "authors": "Abramov Marina, Goldfarb Eden, Haham Dikla, Akiva Eyal, van Klinken Jan-Willem, Barbash Zohar",
+      "pub_date": "2026-11-06",
+      "doi": "10.1080/19390211.2026.2752609",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989960/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "58a58fe3a4cc37c134a3b597f9c8138796c8ea1c1e38f068ca93d715003a96ad",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z",
+      "summary_ja": "AIガイドスクリーニングにより食品タンパク質から天然由来ペプチド（NDP）を同定した。リード化合物NDP-35（Coffea arabica由来）はGPR40の強力かつ選択的なアゴニスト（EC50 = 32.7 nM）であり、マウスでは血漿GLP-1、GIP、PYYを上昇させ、空腹ホルモンを低下させた。食事誘発性肥満ラットにおける28日間の経口投与により、NDP-35は食事摂取量を減少させ、体重を約5%低下させた（対照群は3%増加）。皮下セマグルチド群を参照比較として含めた。剖出時の臨床化学および臓器重量マーカーに治療関連の変化は認められなかった。構造の異なるNDP-45（バナナ由来）も同様の効果を示した。",
+      "key_takeaway_ja": "食品タンパク質由来の天然ペプチドがGPR40を活性化し、腸内分泌ホルモン応答を刺激してラットモデルにおいて食事摂取量と体重を減少させることを示した。経口による食欲・体重管理の新たなアプローチとして前臨床段階で有望な候補である。",
+      "why_matters_ja": "GLP-1受容体アゴニストは消化管不耐性、高コスト、中止後の体重リバウンドという課題があり、補完的な経口選択肢の必要性が指摘されている。NDPは全身曝露を目的としたペプチド薬とは異なり、腸上皮で局所的に作用し、食事によって活性化される腸内分泌L細胞の栄養感知GPCRを刺激することで、体内のGLP-1放出を促進する。",
+      "study_type_ja": "前臨床（in vivo動物実験）",
+      "endpoints_ja": "血漿GLP-1、GIP、PYY濃度、空腹ホルモン、食事摂取量、体重、剖出時臨床化学、臓器重量",
+      "endpoint_results_ja": "NDP-35のGPR40 EC50 = 32.7 nM。28日間経口投与でNDP-35群は体重を約5%低下、vehicle群は3%増加。皮下セマグルチド群のendpoint値はNDP-35と同程度のmagnitude。剖出時臨床化学および臓器重量マーカーに治療関連の変化なし。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:54:14Z"
+    },
+    {
+      "pmid": "42952336",
+      "title": "Switching between semaglutide and tirzepatide in obesity management: an expert-consensus framework for approximate clinical efficacy-matched switching doses.",
+      "abstract": "INTRODUCTION: Currently, there are no available guidelines for switching from semaglutide to tirzepatide, since the mechanisms of action and pharmacokinetics differ, thus posing a challenge for continuous treatment of obesity.\nAREAS COVERED: A narrative review of PubMed, Embase, and ClinicalTrials.gov (to May 2026) evaluated trials and cohorts comparing semaglutide (0.25-7.2 mg) and tirzepatide (2.5-15 mg). We synthesized indirect treatment comparisons to outline dose-response relationships and develop approximate efficacy‑matched switching dose bands.\nEXPERT OPINION: Estimation of clinical efficacy-matched switching doses is more practical than mandatory lowest-dose initiation, which naturally risks a 'therapeutic gap' and subsequent weight regain. Until prospective switching trials validate exact conversions, clinicians should utilize the proposed equivalence bands and the five-step clinical decision algorithm to guide seamless transitions, titrating doses every 4-8 weeks based on individual tolerability and metabolic outcomes.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "authors": "Schwartzberg Eyal, Berman Erez, Shani Segev, Azran Carmil, Hagoel Raz, Diker-Cohen Talia, Dotan Idit",
+      "pub_date": "2026-11-06",
+      "doi": "10.1080/14656566.2026.2756017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952336/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "7ed69d9c6ecd216e7172c533422007d4719f470f4a90c5676e0f67c32d670b3c",
+      "fetched_at_utc": "2026-10-30T00:53:36Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z",
+      "summary_ja": "セマグルチド（0.25〜7.2 mg）とtirzepatide（2.5〜15 mg）を比較した試験・コホートをPubMed、Embase、ClinicalTrials.gov（2026年5月まで）から検索し、間接治療比較を統合して用量-反応関係を整理し、臨床的有効性等価の切り替え用量帯を提案した叙述的レビュー。",
+      "key_takeaway_ja": "臨床的有効性等価の切り替え用量の推定は、必ずしも最低用量からの開始よりも実用的であり、最低用量からの開始は「治療ギャップ」と体重再増加のリスクを伴う。前向き切り替え試験による正確な換算が検証されるまで、提案された等価帯と5ステップの臨床判断アルゴリズムを用いて、4〜8週間ごとに用量を調整することが推奨される。",
+      "why_matters_ja": "セマグルチドからtirzepatideへの切り替えに関するガイドラインは現在存在せず、両薬剤の作用機序と薬物動態が異なるため、肥満の継続的治療において課題となっている。",
+      "study_type_ja": "叙述的レビュー",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:54:41Z"
+    },
+    {
+      "pmid": "42989940",
+      "title": "Outcomes of SGLT2-inhibitor-induced euglycaemic diabetic ketoacidosis in a North Queensland intensive care unit: A retrospective cohort study.",
+      "abstract": "Evidence on sodium-glucose co-transporter-2 inhibitors (SGLT2i)-associated euglycaemic diabetic ketoacidosis (EuDKA) in the intensive care unit (ICU) and its comparison with type 1 diabetes mellitus (T1DM) diabetic ketoacidosis (DKA) is limited. This study aims to describe ICU characteristics, management and outcomes of SGLT2i-associated EuDKA, identify predictors of poorer outcomes and compare findings with T1DM-DKA. Single-centre retrospective cohort (2017-2023) of adults admitted to a Northern Queensland ICU. EuDKA was defined by plasma glucose <13.9 mmol/L plus ⩾1 of acidaemia, low bicarbonate, raised anion gap or ketonaemia, in patients with T2DM on SGLT2i. A comparator cohort comprised ICU admissions with T1DM-DKA. Demographics, precipitants, biochemistry, insulin therapy, and outcomes were extracted and analysed with non-parametric tests. Fourteen EuDKA and 31 T1DM-DKA admissions were included. EuDKA patients were older with more frequent comorbidities; First Nations Australians were over-represented. Presenting features were heterogeneous, with overlapping precipitants (commonly caloric restriction/fasting or intercurrent illness). Compared with T1DM-DKA, EuDKA had milder biochemical derangement and lower 24-h insulin dose but required longer insulin therapy and longer ICU length of stay; time to acidosis resolution was similar. In exploratory analyses, end-organ complications in type 2 diabetes were associated with longer ICU stay, while obesity and pre-admission insulin therapy were associated with prolonged acidosis duration. ICU-admitted SGLT2i-associated EuDKA differs clinically and in management from classical T1DM-DKA. Findings highlight diagnostic challenges, potential high-risk subgroups, and the need for prospective, multicentre studies to inform risk-based management in critical care.",
+      "journal": "Anaesthesia and intensive care",
+      "authors": "Perez Castillo Dennis M, Hall Leanne, Senthuran Siva, Dash Sananta K, Heal Clare F",
+      "pub_date": "2026-11-05",
+      "doi": "10.1177/0310057X261501159",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989940/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "0efb8948f88299ea9bc9c8ec752a3aab41e63ee7b57df452a8e9f8d24cf70dd5",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z",
+      "summary_ja": "北オーストラリア・ノースクイーンズランドの単一ICUにおける2017〜2023年の後方視的コホート研究。SGLT2阻害薬関連の正常血糖性糖尿病ケトアシドーシス（EuDKA）14例と1型糖尿病DKA 31例を比較した。EuDKA群は高齢で合併症が多く、先住民オーストラリア人が過剰代表されていた。T1DM-DKAと比較して、EuDKAは生化学的異常が軽度で24時間インスリン投与量が低かったが、インスリン治療期間とICU在院日数は長く、アシドーシス解消時間は同程度であった。探索的解析では、2型糖尿病の末梢臓器合併症がICU在院日数の延長と関連し、肥満と入院前インスリン治療がアシドーシス持続時間の延長と関連した。",
+      "key_takeaway_ja": "ICUに入院したSGLT2阻害薬関連EuDKAは、古典的な1型糖尿病DKAと臨床像および管理において異なり、生化学的異常は軽度であるもののインスリン治療期間とICU在院日数が長い。",
+      "why_matters_ja": "SGLT2阻害薬関連EuDKAのICUにおけるエビデンスは限られており、本結果は診断上の困難さ、潜在的な高リスクサブグループ、およびクリティカルケアにおけるリスクベース管理のための前向き多施設研究の必要性を浮き彫りにしている。",
+      "study_type_ja": "単一施設 後方視的コホート研究",
+      "endpoints_ja": "ICU特性、管理、転帰（人口統計、誘因、生化学所見、インスリン療法、24時間インスリン投与量、インスリン治療期間、ICU在院日数、アシドーシス解消時間、末梢臓器合併症）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:55:20Z"
+    },
+    {
+      "pmid": "42988439",
+      "title": "Marked reduction in serum uric acid levels after empagliflozin initiation in a patient with heart failure.",
+      "abstract": "",
+      "journal": "BMJ case reports",
+      "authors": "Otani Naoyuki, Sugiyama Takushi, Maejima Yasuhiro",
+      "pub_date": "2026-11-05",
+      "doi": "10.1136/bcr-2026-275554",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988439/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "34ec87f9c1bbf4495138856b6cb050e1535928990c5709c822ec19c118ada092",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-07T00:52:21Z"
+    },
+    {
+      "pmid": "42988221",
+      "title": "Semaglutide Versus Diet-Based Weight Loss in Obesity and Heart Failure with Reduced Ejection Fraction (FIT-HF): Protocol for a Randomized Controlled Trial.",
+      "abstract": "BACKGROUND & AIMS: Obesity is common in heart failure with reduced ejection fraction (HFrEF), but the functional, mechanistic, and safety consequences of intentional weight loss remain uncertain. Incretin-based therapies improve symptoms and functional capacity in obesity-related heart failure with preserved ejection fraction, whereas evidence in HFrEF is limited, and prior glucagon-like peptide-1 receptor agonist trials have raised safety concerns. The FIT-HF trial tests whether semaglutide-based weight loss is superior to intensive diet-based weight loss for improving exercise capacity in adults with obesity and stable HFrEF.\nMETHODS: FIT-HF is an investigator-initiated, randomized, parallel-group, open-label, assessor-blinded, active-comparator superiority trial enrolling 100 adults with body mass index ≥30 kg/m2, left ventricular ejection fraction ≤40%, New York Heart Association class I-III symptoms, and stable guideline-directed heart failure therapy. Participants are randomized 1:1 to once-weekly subcutaneous semaglutide, titrated to a target dose of 2.4 mg, or low-calorie total dietary replacement of approximately 800 kcal/day for 8 weeks followed by a dietitian-led weight-maintenance program. Both groups receive lifestyle counseling, heart failure care, and structured physical training from week 16. Follow-up is 52 weeks. The primary endpoint is the adjusted between-group difference in change in weight-indexed peak oxygen uptake (VO2peak) from baseline to week 52, assessed by cardiopulmonary exercise testing. Supportive secondary endpoints include Kansas City Cardiomyopathy Questionnaire score, 6-minute walk distance, left ventricular end-systolic volume assessed by cardiovascular magnetic resonance, high-sensitivity C-reactive protein, and N-terminal pro-B-type natriuretic peptide. Exploratory work packages assess safety, cardiac/pulmonary physiology, body composition, physical activity, and metabolic/biomarker responses.\nDISCUSSION: FIT-HF is the first direct comparison of these weight-loss strategies in obesity and HFrEF, integrating VO2peak with multimodal phenotyping to interpret physiological profiles alongside achieved weight loss and body composition.\nCLINICAL TRIAL REGISTRATION: European Clinical Trials Information System: European Union trial number: CT-2023-503753-35-01; ClinicalTrials.gov identifier: NCT06423599.",
+      "journal": "Clinical nutrition ESPEN",
+      "authors": "El-Sheikh Mohammed, Bandholm Thomas, Jørgensen Nils Bruun, Ulrik Charlotte Suppli, Barløse Mads, Møller Søren, Siebner Hartwig Roman, Grand Johannes",
+      "pub_date": "2026-11-05",
+      "doi": "10.1016/j.clnesp.2026.105216",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988221/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "4e51053d13e3aeb5037111ff7e856a912adb943c72e54e255502b31d3d5a78bd",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z",
+      "summary_ja": "FIT-HF試験は、肥満（BMI≥30 kg/m²）を伴う安定した心不全（HFrEF、LVEF≤40%、NYHA class I-III）の成人100名を対象に、週1回皮下投与のセマグルチド（目標用量2.4 mg）と、約800 kcal/日の低カロリー完全食事代替（8週間）＋栄養士主導の体重維持プログラムの効果を比較する、研究者主導のランダム化並行群オープンラベル評価者盲検活性対照優越性試験のプロトコルである。フォローアップ期間は52週であり、主要エンドポイントは体重指数化VO2peakのベースラインから52週までの変化の群間調整差（心肺運動負荷試験による）である。",
+      "key_takeaway_ja": "FIT-HF試験は、肥満を伴うHFrEF患者においてセマグルチドによる減量と食事による減量を直接比較する初の試験であり、VO2peakと多角的なフェノタイピングを統合して、達成された減量と体組成とともに生理学的プロファイルを解釈することを目的としている。",
+      "why_matters_ja": "肥満はHFrEFに頻繁にみられるが、意図的な減量の機能的・機能的・安全性への影響は不確実である。インクレチン系薬剤は肥満関連のHFpEFでは症状と機能的能力を改善するが、HFrEFにおけるエビデンスは限られており、過去のGLP-1受容体アゴニスト試験では安全性への懸念が示されている。",
+      "study_type_ja": "ランダム化比較試験（RCT）のプロトコル（研究者主導、並行群、オープンラベル、評価者盲検、活性対照、優越性試験）",
+      "endpoints_ja": "主要エンドポイント：体重指数化VO2peakのベースラインから52週までの変化の群間調整差（心肺運動負荷試験）。二次エンドポイント：Kansas City Cardiomyopathy Questionnaireスコア、6分間歩行距離、心血管磁気共鳴による左室収縮期末容積、高感度C反応性蛋白、N末端プロB型ナトリウム利尿ペプチド。探索的ワークパッケージ：安全性、心臓/肺生理、体組成、身体活動、代謝/バイオマーカー応答。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:55:52Z"
+    },
+    {
+      "pmid": "42987980",
+      "title": "The effect of subcutaneous semaglutide injection on blood pressure: a systematic review and meta-analysis of randomized controlled trials.",
+      "abstract": "Hypertension remains a leading contributor to cardiovascular disease globally. Semaglutide, a glucagon-like peptide-1 receptor agonist (GLP-1 RA), reduces blood pressure in clinical trials, but the consistency and magnitude of this effect across populations is unclear. We conducted a systematic review and meta-analysis of placebo-controlled randomized trials reporting blood pressure changes in patients receiving subcutaneous semaglutide. MEDLINE, Web of Science, and Embase were searched through December 2025. Pooled weighted mean differences with 95% confidence intervals were calculated using random-effects inverse-variance models. Cochrane's RoB 2.0 assessed risk of bias, and the Grading of recommendations Assessment Development and Evaluation (GRADE) approach was used to evaluate the certainty of the evidence. Our meta-analysis included seven trials with approximately 20,000 patients. Semaglutide reduced systolic blood pressure (SBP) significantly compared with placebo across 11 arms (20,011 participants): weighted mean difference -3.46 mmHg (95% CI: -4.44 to -2.49; I2 = 29.5%; high certainty of evidence). A modest reduction in diastolic blood pressure (DBP) was also observed (-0.56 mmHg, 95% CI: -0.82 to -0.29; I2 = 0.0%; moderate certainty of evidence). However, sensitivity analysis revealed that the DBP effect was dependent on a single large study, with loss of significance upon its exclusion. Subcutaneous semaglutide produces meaningful SBP reduction across diverse patient populations, with minimal DBP changes. Blood pressure improvement represents one component of semaglutide's cardiometabolic benefits.",
+      "journal": "Diabetes research and clinical practice",
+      "authors": "Ahmadi Navid, Zandi Reza, Norouzi Mahdiyeh, Prabahar Kousalya, Kashi Amirhossein, Basiri Abbas, Varkaneh Hamed Kord",
+      "pub_date": "2026-11-05",
+      "doi": "10.1016/j.diabres.2026.113646",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987980/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "42d7428cdf57872b9edc4bf48b0ccb13c9d22223a75d60d00d0ff228394d6e22",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z",
+      "summary_ja": "皮下注射セマグルチドの血圧への影響を評価したプラセボ対照ランダム化比較試験の系統的レビューおよびメタ解析。MEDLINE、Web of Science、Embaseを2025年12月まで検索し、7試験（11アーム、20,011例）を含む。ランダム効果逆分散モデルによりプールされた加重平均差（WMD）を算出。Cochrane RoB 2.0でバイアスリスクを評価し、GRADEアプローチで証拠の確実性を評価した。",
+      "key_takeaway_ja": "皮下注射セマグルチドはプラセボと比較して収縮期血圧（SBP）を有意に低下させた（WMD -3.46 mmHg、95% CI: -4.44 to -2.49、I² = 29.5%、高確実性）。拡張期血圧（DBP）の低下は modest であり（-0.56 mmHg、95% CI: -0.82 to -0.29、I² = 0.0%、中確実性）、感度解析によりDBPの効果は単一の大型試験に依存し、その除外時に有意性が消失した。",
+      "why_matters_ja": "高血圧は世界的に心血管疾患の主要な寄与因子であり、セマグルチドの血圧改善は同薬の心代謝上の利益の一部を構成する。SBPの有意な低下は多様な患者集団で一貫して観察された。",
+      "study_type_ja": "系統的レビューおよびメタ解析",
+      "endpoints_ja": "収縮期血圧（SBP）、拡張期血圧（DBP）",
+      "endpoint_results_ja": "SBP: WMD -3.46 mmHg (95% CI: -4.44 to -2.49; I² = 29.5%; 高確実性)。DBP: -0.56 mmHg (95% CI: -0.82 to -0.29; I² = 0.0%; 中確実性)。DBPの効果は単一の大型試験に依存し、除外時に有意性が消失。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-07T00:56:18Z"
     },
     {
       "pmid": "42987129",
@@ -352,6 +702,27 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-11-04T01:18:02Z"
+    },
+    {
+      "pmid": "42992376",
+      "title": "Evaluation of a population health strategy to improve albuminuria detection among primary care patients with hypertension.",
+      "abstract": "OBJECTIVE: To study the impact of an electronic health record (EHR) alert implemented in September 2022 that prompts annual orders for urine albumin-creatinine ratio (UACR) testing for adults with hypertension (HTN).\nMETHODS: Using segmented interrupted time-series analyses and comparative interrupted time-series analyses stratified by diabetes status, we evaluated changes in annual UACR testing rates among adults with hypertension from 1 January 2021 through 30 June 2025.\nRESULTS: Among 26 048 hypertensive adults (mean age, 61 years; 38.5% with diabetes), annual UACR testing rates increased from 23.8% preintervention to 37.1% postintervention. Implementation was associated with an immediate 4.05-fold increase in the odds of monthly UACR testing [odds ratio (OR) 4.05, 95% confidence interval (CI) 3.84-4.28]. Patients without diabetes experienced a larger immediate increase than patients with diabetes (OR 2.62, 95% CI 2.45-2.80). Patients with UACR at least 30 mg/g were more likely to receive angiotensin-converting enzyme (ACE) inhibitor/angiotensin receptor blockers and SGLT2 inhibitor therapy than patients with UACR less than 30 mg/g or those never tested (P < 0.001).\nCONCLUSION: Implementation of an EHR-integrated UACR alert increased annual UACR testing among adults with HTN. Irrespective of the EHR alert, UACR testing was associated with greater use of guideline-concordant medications.\nPOLICY IMPLICATIONS: This easily implemented intervention has the potential to improve guideline-concordant care for patients with HTN in primary care.",
+      "journal": "Journal of hypertension",
+      "authors": "Hamdan Hiba, Evans Jennifer L, Plantinga Laura C, Ghazaryan Sofiya, Nwosu Uchenna A, Rosenthal Anne, Day Kirsten Y, Tuot Delphine S",
+      "pub_date": "2026-11-03",
+      "doi": "10.1097/HJH.0000000000004459",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992376/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "0ba4b5572fc14f4c8111163fb6152bdadb9bb88d12695af670f58e7f0941cfe2",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z"
     },
     {
       "pmid": "42981987",
@@ -2153,43 +2524,6 @@
       "summary_generated_at_utc": "2026-10-30T00:56:11Z"
     },
     {
-      "pmid": "42952336",
-      "title": "Switching between semaglutide and tirzepatide in obesity Management: an expert-consensus framework for approximate clinical Efficacy-matched switching doses.",
-      "abstract": "INTRODUCTION: Currently, there are no available guidelines for switching from semaglutide to tirzepatide, since the mechanisms of action and pharmacokinetics differ, thus posing a challenge for continuous treatment of obesity.\nAREAS COVERED: A narrative review of PubMed, Embase, and ClinicalTrials.gov (to May 2026) evaluated trials and cohorts comparing semaglutide (0.25-7.2 mg) and tirzepatide (2.5-15 mg). We synthesized indirect treatment comparisons to outline dose-response relationships and develop approximate Efficacy-matched switching doses bands.\nEXPERT OPINION: Estimation of clinical Efficacy-matched switching doses is more practical than mandatory lowest-dose initiation, which naturally risks a 'therapeutic gap' and subsequent weight regain. Until prospective switching trials validate exact conversions, clinicians should utilize the proposed equivalence bands and the 5-step clinical decision algorithm to guide seamless transitions, titrating doses every 4-8 weeks based on individual tolerability and metabolic outcomes.",
-      "journal": "Expert opinion on pharmacotherapy",
-      "authors": "Schwartzberg Eyal, Berman Erez, Shani Segev, Azran Carmil, Hagoel Raz, Diker-Cohen Talia, Dotan Idit",
-      "pub_date": "2026-10-29",
-      "doi": "10.1080/14656566.2026.2756017",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42952336/",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "semaglutide",
-        "tirzepatide"
-      ],
-      "matched_companies": [
-        "Eli Lilly",
-        "Novo Nordisk"
-      ],
-      "bi_related": false,
-      "japan_relevant": false,
-      "content_sha256": "4c38099f75b4202a88f54e273eaefefd97d6ae83fdb08e033ef155a062abdc71",
-      "fetched_at_utc": "2026-10-30T00:53:36Z",
-      "updated_at_utc": "2026-10-30T00:53:36Z",
-      "summary_ja": "セマグルチド（0.25〜7.2 mg）とtirzepatide（2.5〜15 mg）を比較した試験・コホートをPubMed、Embase、ClinicalTrials.gov（2026年5月まで）から検索したナラティブレビューであり、間接治療比較を統合して用量-反応関係を整理し、臨床的有効性等価の切り替え用量帯を提案した。さらに、5段階の臨床判断アルゴリズムを用いて4〜8週間ごとに用量を調整するシームレスな移行を提唱している。",
-      "key_takeaway_ja": "臨床的有効性等価の切り替え用量の推定は、必ずしも最低用量から開始する方法よりも実用的であり、後者は「治療ギャップ」や体重再増加のリスクを伴うためである。前向きな切り替え試験が正確な換算を検証するまで、提案された等価帯と5段階アルゴリズムを用いるべきである。",
-      "why_matters_ja": "セマグルチドからtirzepatideへの切り替えに関するガイドラインは現在存在せず、両薬剤の作用機序と薬物動態の違いが肥満の継続的治療において課題を呈している。",
-      "study_type_ja": "ナラティブレビュー",
-      "endpoints_ja": "抄録に記載なし",
-      "endpoint_results_ja": "抄録に記載なし",
-      "sample_size_ja": "抄録に記載なし",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-10-30T00:56:29Z"
-    },
-    {
       "pmid": "42955596",
       "title": "Effects of SGLT2 inhibition on cardiac remodeling and heart failure development in aortic stenosis rats.",
       "abstract": "Aortic stenosis (AS) is increasingly prevalent in ageing populations, yet no pharmacological therapy has been shown to modify its progression to heart failure (HF). Sodium glucose cotransporter 2 (SGLT2) inhibitors improve outcomes in HF, but their effects in pressure overload-induced cardiac remodeling remain unclear. Here, we show that rats with long-term AS develop HF features, left ventricular dilation, and systolic and diastolic dysfunction, accompanied by increased oxidative stress, impaired antioxidant defenses, myocardial fibrosis, and transcriptional remodeling. Empagliflozin (10 mg/kg/day for 8 weeks) attenuated cardiac dysfunction and reduced HF features. At molecular level, empagliflozin prevented increase in lipid peroxidation, and decreased interstitial collagen deposition, while increasing glutathione peroxidase and matrix metalloproteinase-2 activity. Transcriptomic analysis identified 1,078 differentially expressed genes and revealed enrichment of pathways associated with extracellular matrix organization and signal transduction in AS. Empagliflozin predominantly regulated genes involved in cardiac contraction, mitochondrial membrane organization, apoptosis, and cell survival. Profibrotic and remodeling-associated genes were upregulated in AS, while empagliflozin induced a distinct transcriptional program associated with improved myocardial homeostasis. AS was associated with reduced activity of energy metabolism enzymes, which was not restored by empagliflozin. Collectively, these findings identify oxidative stress, extracellular matrix remodeling, and transcriptional reprogramming as mechanisms underlying cardiac dysfunction in AS. Empagliflozin mitigates cardiac remodeling and HF progression and modulates fibrosis and gene networks regulating cardiac function. These data highlight SGLT2 inhibition as a potential therapeutic strategy in pressure overload-induced heart failure.",
@@ -3692,6 +4026,44 @@
       "sample_size_ja": "2例",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-23T23:51:14Z"
+    },
+    {
+      "pmid": "42991001",
+      "title": "Case Report: GADA-positive type 1 diabetes with diabetic ketoacidosis in a young adult with obesity temporally associated with unsupervised tirzepatide use for weight reduction.",
+      "abstract": "BACKGROUND: Tirzepatide, a dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 (GIP/GLP-1) receptor agonist, is widely used as an anti-obesity medication. Its safety in individuals with unrecognized type 1 diabetes (T1D) remains uncertain.\nCASE DESCRIPTION: We describe a 28-year-old man with obesity and no previously documented hyperglycemia who self-administered tirzepatide, lost 15 kg over about 3 months, and was later diagnosed with GADA-positive T1D presenting as diabetic ketoacidosis (DKA) in temporal association with drug use and discontinuation. At admission, fasting blood glucose (FBG) was 13.99 mmol/L, glycated hemoglobin (HbA1c) 10.8% (95 mmol/mol), serum β-hydroxybutyrate 4.44 mmol/L, urine ketones (+++), serum bicarbonate 16.9 mmol/L, glutamic acid decarboxylase antibody (GADA) >2000 IU/mL, and fasting C-peptide 0.798 ng/mL. Admission arterial blood gas was not obtained. Insulin therapy was initiated; HbA1c was 6.7% (50 mmol/mol) at 3 months.\nCONCLUSIONS: This single case cannot establish causality between tirzepatide exposure or discontinuation and autoimmune diabetes. It illustrates that adult-onset GADA-positive T1D with DKA may be recognized during or after unsupervised incretin-based weight reduction. Markedly elevated HbA1c indicated that hyperglycemia likely preceded the short symptomatic phase. The main clinical message is that autoimmune diabetes should be considered when unexplained hyperglycemia, ongoing weight loss, or ketoacidosis develops in this setting.",
+      "journal": "Frontiers in endocrinology",
+      "authors": "Lei Mengyun, Liu Fang, Sun Li, Li Shuting, Liu Juan, Wang Yonge, Tang Jun",
+      "pub_date": "2026-10-22",
+      "doi": "10.3389/fendo.2026.1995854",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991001/",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tirzepatide",
+        "Male",
+        "Diabetes Mellitus, Type 1",
+        "Adult",
+        "Diabetic Ketoacidosis",
+        "Obesity",
+        "Weight Loss",
+        "Glutamate Decarboxylase",
+        "Diabesity",
+        "Hypoglycemic Agents"
+      ],
+      "matched_assets": [
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "dc2f3c952422fbfdeb48d9a99e379b3104082eef4bde25025ee2adf2da5d27d5",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z"
     },
     {
       "pmid": "42923696",
@@ -31525,6 +31897,32 @@
       "sample_size_ja": ""
     },
     {
+      "pmid": "42991855",
+      "title": "Recent Advances in the Management of Heart Failure, Including the Role of AI and Advances in Gene Therapy.",
+      "abstract": "Heart failure (HF) remains a major cause of morbidity and mortality despite significant advances in its management. This study aimed to synthesize recent advances in HF management, including the role of artificial intelligence (AI) and advances in gene therapy. PubMed, Embase, Web of Science, and Google Scholar were searched for original research (2020-January 2026) on recent advances in HF management, including AI and gene-based therapies. While guideline-directed management and therapy (GDMT) substantially reduce mortality and hospitalization in heart failure with reduced ejection fraction (HFrEF), utilization of such therapies is frequently constrained by delayed initiation, incomplete titration, noncompliance, and cost. Beyond foundational therapy, finerenone, sodium glucose cotransporter-2 inhibitors (SGLT2i) across the ejection fraction (EF) spectrum, and glucagon-like peptide-1 receptor agonist (GLP-1 RA) for obesity-related heart failure with preserved ejection fraction (HFpEF) extend phenotype-directed options. Transcatheter mitral and tricuspid repair/replacement has shifted mitral and tricuspid regurgitation from a bystander lesion to a treatable contributor to improvement of symptoms and quality of life. Adjunctive transcatheter mitral interventions have expanded treatment options for selected symptomatic HFrEF patients with secondary mitral regurgitation (MR) despite optimized GDMT, improving MR severity, functional status, and reducing HF hospitalizations. Donor-derived cell-free DNA rejection surveillance, donation after circulatory death to expand donor supply, and refinement of left ventricular assist device (LVAD) antithrombotic strategies are evolving in advanced HF. AI tools and gene therapies are showing promising results but require further large-scale studies for validation and clinical adoption. Contemporary HF management is increasingly phenotype- and trajectory-guided, but its clinical adoption is limited by optimal implementation and access barriers. Future research should focus on outcomes-based validation with a clear patient-selection framework to enable durable real-world implementation to improve outcomes further.",
+      "journal": "The International journal of angiology : official publication of the International College of Angiology, Inc",
+      "authors": "Kattamuri Lakshmi, Sharma Kunal, Mukherjee Debabrata",
+      "pub_date": "2026-07-13",
+      "doi": "10.1055/a-2904-8847",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991855/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "finerenone"
+      ],
+      "matched_companies": [
+        "Bayer"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "c0773f37e174c6aef83404755d73ac8e3fa1f564f3269a279f9551d1ba4bb8db",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z"
+    },
+    {
       "pmid": "42959236",
       "title": "Aldosterone synthase inhibition for treatment of people with chronic kidney disease.",
       "abstract": "Aldosterone contributes to the progression of chronic kidney disease (CKD) not only through its effects on blood pressure (BP) but also by promoting inflammation and fibrosis in the kidney and cardiovascular system. Despite contemporary treatment with renin-angiotensin system inhibitors, mineralocorticoid receptor antagonists, and sodium-glucose cotransporter 2 (SGLT2) inhibitors, residual risk persists for adverse kidney and cardiovascular outcomes. Aldosterone synthase inhibition (ASI) has emerged as a potent strategy to directly suppress aldosterone production. Several selective inhibitors, including baxdrostat, lorundrostat, and vicadrostat, have been shown to lower aldosterone levels without affecting cortisol synthesis in a clinically meaningful manner. Clinical studies in hypertension consistently show a decrease in systolic BP with these agents. In a CKD population, vicadrostat dose-dependently reduced the urinary albumin-to-creatinine ratio with additional BP lowering, and possibly greater albuminuria reduction when combined with empagliflozin. Similar findings have been observed with lorundrostat and baxdrostat in patients with CKD and uncontrolled hypertension. Median increases in serum potassium of ∼0.3 mmol/l that have been observed with ASI were generally manageable in clinical trial populations. Emerging evidence from clinical trials and meta-analyses suggests that concomitant SGLT2 inhibitor therapy may mitigate the risk of clinically significant hyperkalaemia, also supporting the use of combination therapy. Overall, ASI provide a potentially beneficial approach to reduce residual risks of CKD. Several phase 3 trials testing vicadrostat or baxdrostat across different populations with CKD, hypertension, or cardiovascular disease will determine whether favourable effects on albuminuria translate into improved kidney and cardiovascular outcomes.",
@@ -31938,6 +32336,79 @@
       "content_sha256": "4856712884208347b5b06512a066778b33cfdec172c2e3f154cc4730623a7f60",
       "fetched_at_utc": "2026-10-25T23:12:05Z",
       "updated_at_utc": "2026-10-25T23:12:05Z"
+    },
+    {
+      "pmid": "42989673",
+      "title": "The prodigal peptides.",
+      "abstract": "The identification and isolation of newer hormones and transmitters has helped establish and expand the field of gastrointestinal endocrinology.1 Our understanding of these molecules, and their receptors, has allowed us to unlock their therapeutic potential as well. Agonists of these peptides are now used as treatment for type 2 diabetes and obesity, as well as prophylaxis to reduce adverse cardiovascular and metabolic outcomes.2 Their development has enhanced the relevance of peptide pharmacology from an insulin-centric industry to a dynamic multipeptidic discipline. Various peptides, discovered over the past few decades, are now being evaluated for their diagnostic and therapeutic potential. We term these the prodigal peptides. Based upon the Biblical parable of the prodigal son, we use this description to highlight the \"coming of age\" of these hormones.",
+      "journal": "JPMA. The Journal of the Pakistan Medical Association",
+      "authors": "Kalra Sanjay, Dhingra Atul, Verma Suneet Kumar, Kapoor Nitin",
+      "pub_date": "2026-01-01",
+      "doi": "10.47391/JPMA.26-72",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989673/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptides",
+        "Gastric Inhibitory Polypeptide",
+        "Glucagon",
+        "Tirzepatide",
+        "Semaglutide",
+        "Gastrointestinal Hormones",
+        "Diabetes Mellitus, Type 2",
+        "Peptides"
+      ],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "bc7c01dac99cfa73b9a96c2b971cd2c2b8816b472828b4d29412a2b67cc6529e",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z"
+    },
+    {
+      "pmid": "42989430",
+      "title": "Similar Tolerance of Glucagon-Like PEPTIDE-1 Agonist Therapy in Patients With Delayed and Normal Gastric Emptying.",
+      "abstract": "INTRODUCTION: Gastroparesis is considered a relative contraindication to glucagon-like peptide-1 receptor agonist (GLP-1RA) prescription. We examined outcomes of patients who underwent gastric scintigraphy to determine if emptying delays adversely affected tolerance of subsequent GLP-1RA therapy.\nMETHODS: Patients with delayed (DGE) and normal (NGE) gastric emptying who were subsequently prescribed GLP-1RAs were identified. GLP-1RA prescribing profiles, gastrointestinal (GI) symptoms and treatments, and GLP-1RA discontinuation were compared between patients with DGE versus NGE.\nKEY RESULTS: Eighty-one patients were prescribed GLP-1RAs after scintigraphy; 14/81 (17%) with DGE and 67/81 (83%) with NGE. Injectable semaglutide was most often prescribed and was taken at similar doses for DGE (11/14, 79%) and NGE (40/67, 60%) (p = 0.23). GLP-1RAs were initiated a median of 386 days (IQR 190, 474) after scintigraphy with DGE versus 315 days (IQR 157, 613) with NGE (p = 0.86). GI symptoms developed in 5/14 (36%) with DGE versus 35/67 (52%) with NGE (p = 0.38) and antiemetic (p = 0.75) and prokinetic (p = 1.00) use was similar between groups. GLP-1RAs were discontinued in 45/81 (56%) patients including 14/45 (31%) for GI symptoms, which occurred similarly for DGE (3/8, 38%) and NGE (11/37, 30%) (p = 0.70). Treatment durations were similar with DGE (318 days [IQR 223, 464]) versus NGE (193 days [IQR 83, 363]) (p = 0.31).\nCONCLUSIONS AND INFERENCES: GLP-1RAs are taken at similar doses for similar durations, elicit similar symptoms, and are discontinued for similar reasons in patients with prior delayed versus normal gastric emptying. These observations do not support strictly avoiding GlP-1RAs in gastroparesis and suggest they may be safely prescribed in many cases.",
+      "journal": "Neurogastroenterology and motility",
+      "authors": "Rolak Stacey C, Lunsford Tisha N, Frazier Rosita D, Harris Lucinda A, Yang Ming, Hasler William L",
+      "pub_date": "2026-01-01",
+      "doi": "10.1111/nmo.70448",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989430/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Gastric Emptying",
+        "Male",
+        "Gastroparesis",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Middle Aged",
+        "Semaglutide",
+        "Radionuclide Imaging",
+        "Glucagon-Like Peptides",
+        "Adult",
+        "Aged",
+        "Retrospective Studies",
+        "Hypoglycemic Agents",
+        "Drug Tolerance"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "e4fe28ea089b0795905dd2c59dda67fe9ffeefc0a4ecc4823dcd3b585533f814",
+      "fetched_at_utc": "2026-11-07T00:52:21Z",
+      "updated_at_utc": "2026-11-07T00:52:21Z"
     },
     {
       "pmid": "42986000",
