@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-07T00:52:21Z",
+  "generated_at_utc": "2026-11-08T00:30:26Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,130 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42994978",
+      "title": "Semaglutide (Wegovy) for secondary cardiovascular prevention in adults with an elevated BMI.",
+      "abstract": "",
+      "journal": "Drug and therapeutics bulletin",
+      "authors": "",
+      "pub_date": "2026-11-06",
+      "doi": "10.1136/dtb.2026.000032",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994978/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2cc66d39e348251f930dd14007a1141519ac8f1eb8eb6aa9cc0284f8105d60e3",
+      "fetched_at_utc": "2026-11-08T00:30:26Z",
+      "updated_at_utc": "2026-11-08T00:30:26Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-08T00:30:27Z"
+    },
+    {
+      "pmid": "42994787",
+      "title": "Association of pre-existing sodium-glucose cotransporter-2 inhibitor therapy with outcomes in cardiogenic shock: a multicentre cohort study.",
+      "abstract": "",
+      "journal": "Journal of cardiac failure",
+      "authors": "Kunz Michael, Tjeerdsma Marnix, Wiedenhofer Julia Maria, Volken Lea Alexandra, Wenger Seraina Alexandra, Beer Benedikt N, Durak Koray, Dettling Angela",
+      "pub_date": "2026-11-06",
+      "doi": "10.1016/j.cardfail.2026.11.004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994787/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d7c35a2162d99fa67cc7dd5a5abdb64aefe5ba97b1ed4061231f8b365267e01f",
+      "fetched_at_utc": "2026-11-08T00:30:26Z",
+      "updated_at_utc": "2026-11-08T00:30:26Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-08T00:30:27Z"
+    },
+    {
+      "pmid": "42994786",
+      "title": "Sudden Death in Patients with Heart Failure with Mildly Reduced or Preserved Ejection Fraction: A Pooled Analysis of Five Randomized Trials.",
+      "abstract": "",
+      "journal": "Journal of cardiac failure",
+      "authors": "Ariss Robert W, Hamatani Yasuhiro, Claggett Brian L, Vaduganathan Muthiah, Desai Akshay S, Solbes Ana S Cruz, Shen Li, Jhund Pardeep S",
+      "pub_date": "2026-11-06",
+      "doi": "10.1016/j.cardfail.2026.11.006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994786/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "5a3df9c88ae26e15f86e1778b18dabec1917bfec0ba3937dfc73915a9b0c59ce",
+      "fetched_at_utc": "2026-11-08T00:30:26Z",
+      "updated_at_utc": "2026-11-08T00:30:26Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-08T00:30:27Z"
+    },
+    {
+      "pmid": "42994524",
+      "title": "Efficacy and safety of the dual SGLT1 and SGLT2 inhibitor JP-2266 in Type 2 Diabetes: a randomized, double-blind, placebo-controlled, phase 2 study (Diabetes Metab J, published online July 29, 2026).",
+      "abstract": "",
+      "journal": "Diabetes & metabolism",
+      "authors": "Zhang Chan",
+      "pub_date": "2026-11-06",
+      "doi": "10.1016/j.diabet.2026.101804",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994524/",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "625f37d70628e1bad21d56cdfd2fe15129a92f00e8e6a54c31c2faea84850be6",
+      "fetched_at_utc": "2026-11-08T00:30:26Z",
+      "updated_at_utc": "2026-11-08T00:30:26Z",
+      "summary_ja": "抄録に記載なし",
+      "key_takeaway_ja": "抄録に記載なし",
+      "why_matters_ja": "抄録に記載なし",
+      "study_type_ja": "抄録に記載なし",
+      "endpoints_ja": "抄録に記載なし",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "deterministic/missing-abstract",
+      "summary_generated_at_utc": "2026-11-08T00:30:27Z"
     },
     {
       "pmid": "42993255",
@@ -602,6 +726,42 @@
       "summary_generated_at_utc": "2026-11-06T01:32:41Z"
     },
     {
+      "pmid": "42994195",
+      "title": "Psychiatric symptoms, psychological well-being and quality of life after metabolic and bariatric surgery versus incretin-based therapy in obesity: The role of weight loss.",
+      "abstract": "BACKGROUND: Metabolic and bariatric surgery (MBS) and incretin-based pharmacotherapy (GLP-1 receptor agonists) cause substantial weight loss, but whether the accompanying psychological improvement is associated with the degree of weight loss or with treatment-specific mechanisms is unclear.\nOBJECTIVE: To compare changes in psychiatric symptoms, psychological well-being and quality of life after MBS and incretin-based therapy, and to examine the role of weight loss.\nMETHODS: In this prospective, non-randomized cohort study, 207 adults with obesity (MBS, n = 97; incretin-based pharmacotherapy, n = 110 [tirzepatide 87, semaglutide 19, liraglutide 4]) completed 16 psychiatric and quality-of-life scales before treatment and at 6 months.\nRESULTS: Weight loss was 33.2 ± 9.9 kg with MBS and 16.8 ± 11.5 kg with pharmacotherapy. Both groups improved significantly on all 16 scales (r = 0.28-0.84; all p ≤ 0.02). With pharmacotherapy, improvement correlated with weight loss on all scales (all p ≤ 0.04; |r| = 0.20-0.45); after MBS, no association was observed (all p > 0.5). Crude between-group differences favoring MBS (5/16 scales) disappeared after adjustment for weight loss. Only emotion regulation difficulties showed a significant group × time interaction (coefficient 3.3, 95% CI 0.7-5.9).\nCONCLUSIONS: Both groups showed improved psychological well-being and quality of life. Improvement tracked weight loss with pharmacotherapy but not after MBS, possibly reflecting less variable weight loss after surgery. The crude advantage of MBS was no longer evident after adjusting for weight loss, suggesting an association with greater weight loss rather than a modality-specific effect, with emotion regulation as a possible exception.",
+      "journal": "General hospital psychiatry",
+      "authors": "Acar Mehmet Alptekin, Saylar Alparslan, Yazıcı Serkan, Yavuz Dilek Gogas",
+      "pub_date": "2026-11-04",
+      "doi": "10.1016/j.genhosppsych.2026.10.008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994195/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide",
+        "tirzepatide"
+      ],
+      "matched_companies": [
+        "Eli Lilly",
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2b404ee96dbe3d2dfe5adab440612bcdbc188fc52e253ec38ed84b4bad4be7d0",
+      "fetched_at_utc": "2026-11-08T00:30:26Z",
+      "updated_at_utc": "2026-11-08T00:30:26Z",
+      "summary_ja": "肥満症成人207名を対象に、代謝・肥満手術（MBS）とインクレチン系薬物療法（GLP-1受容体作動薬）後の精神症状、心理的ウェルビーイング、生活の質の変化を比較し、減量の役割を考察した前向き非ランダム化コホート研究。",
+      "key_takeaway_ja": "両群で16項目の尺度すべてに有意な改善が認められたが、薬物療法では改善が減量と相関したのに対し、MBSでは相関が認められなかった。MBSの粗な優位性（16尺度中5尺度）は減量調整後に消失し、心理的改善は治療法固有の効果ではなく減量の大きさに関連する可能性が示唆された。感情調整困難のみが群×時間交互作用で有意であった。",
+      "why_matters_ja": "MBSとインクレチン系薬物療法のいずれが心理的アウトカムの改善に優れるか、またその改善が減量に依存するのか治療法固有のメカニズムに起因するのかは不明であり、本研究は肥満治療の選択における心理的予後の予測に寄与する。",
+      "study_type_ja": "前向き非ランダム化コホート研究",
+      "endpoints_ja": "精神症状、心理的ウェルビーイング、生活の質に関する16項目の尺度（治療前と6か月時で評価）",
+      "endpoint_results_ja": "減量：MBS群 33.2 ± 9.9 kg、薬物療法群 16.8 ± 11.5 kg。両群とも16尺度すべてで有意な改善（r = 0.28-0.84; 全p ≤ 0.02）。薬物療法群では全尺度で改善が減量と相関（全p ≤ 0.04; |r| = 0.20-0.45）。MBS群では相関なし（全p > 0.5）。MBS優位の粗な群間差（16尺度中5尺度）は減量調整後に消失。感情調整困難のみが有意な群×時間交互作用（係数 3.3, 95% CI 0.7-5.9）。",
+      "sample_size_ja": "207名（MBS群 97名、インクレチン系薬物療法群 110名［tirzepatide 87名、semaglutide 19名、liraglutide 4名］）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-08T00:31:07Z"
+    },
+    {
       "pmid": "42980901",
       "title": "GLP-1 and GIP receptor agonism does not directly drive skeletal muscle atrophy or impair myogenesis in primary human myotubes.",
       "abstract": "GLP-1 and GIP/GLP-1 receptor agonists produce substantial weight loss in clinical trials but significant loss of lean body mass is reported. Whether this reflects a direct pharmacological effect on skeletal muscle or an indirect consequence of caloric restriction and reduced mechanical loading is unknown. Primary myoblasts were isolated from skeletal muscle of older adults with obesity undergoing orthopaedic surgery. GIPR and GLP-1R expression was characterised by RT-qPCR and flow cytometry. Differentiated myotubes were treated with semaglutide or GIP peptide and assessed for atrophy-related gene expression (qPCR), secretome perturbation (Olink Reveal), mitochondrial and glycolytic bioenergetics (Seahorse XF Real-Time ATP Rate Assay, glucose uptake, lactate secretion) and myotube morphology and myogenesis (immunofluorescence). GIPR mRNA was consistently detected across all donors; GLP-1R mRNA was undetectable by PCR, though LUXendin645 flow cytometry in a subset of three donors identified low-level surface GLP-1R protein in 51-66% of myoblasts. Neither semaglutide nor GIP altered atrophy-related gene expression or the secretome, with no proteins reaching significance. Semaglutide reduced glycolytic and total ATP production rates, accompanied by reduced lactate secretion, suggesting modest suppression of glycolytic flux; mitochondrial parameters were unaffected. Neither treatment impaired myotube thickness or differentiation; GIP increased myotube thickness after 8 days. Direct GLP-1 and GIP receptor activation did not produce major atrophic, inflammatory, morphological, myogenic, or mitochondrial effects on primary human skeletal muscle myotubes. These findings are consistent with an indirect mechanism underlying the lean mass loss observed with incretin-based therapies, a question of particular relevance as these agents are increasingly used in older adults at risk of sarcopenia.",
@@ -722,7 +882,16 @@
       "japan_relevant": false,
       "content_sha256": "0ba4b5572fc14f4c8111163fb6152bdadb9bb88d12695af670f58e7f0941cfe2",
       "fetched_at_utc": "2026-11-07T00:52:21Z",
-      "updated_at_utc": "2026-11-07T00:52:21Z"
+      "updated_at_utc": "2026-11-07T00:52:21Z",
+      "summary_ja": "2022年9月に高血圧成人に対して年1回の尿アルブミン・クレアチニン比（UACR）検査のオーダーを促す電子カルテ（EHR）アラートを実装し、その影響を評価した。2021年1月1日から2025年6月30日までの期間について、糖尿病の有無で層別化されたセグメンテッド中断時間列分析および比較的中断時間列分析を用いた。高血圧成人26,048名（平均年齢61歳、糖尿病38.5%）において、年次UACR検査率は介入前の23.8%から介入後の37.1%に上昇した。実装は月次UACR検査のオッズに即時的な4.05倍の増加と関連した（OR 4.05, 95% CI 3.84-4.28）。UACR 30 mg/g以上の患者は、UACR 30 mg/g未満の患者または未検査の患者よりもACE阻害薬/ARBおよびSGLT2阻害薬の投与を受けやすかった（P < 0.001）。",
+      "key_takeaway_ja": "EHR統合型のUACRアラートの導入により高血圧成人の年次UACR検査率が有意に向上し、UACR検査の実施はガイドライン準拠薬剤（ACE阻害薬/ARB、SGLT2阻害薬）のより多くの使用と関連していた。",
+      "why_matters_ja": "この容易に導入可能な介入は、プライマリケアにおける高血圧患者のガイドライン準拠ケアの改善に寄与する可能性がある。",
+      "study_type_ja": "中断時間列分析（セグメンテッドおよび比較的中断時間列分析）を用いた観察研究（EHRデータ解析）",
+      "endpoints_ja": "主要エンドポイント：高血圧成人の年次UACR検査率の変化。副次エンドポイント：月次UACR検査のオッズ、UACR検査とガイドライン準拠薬剤（ACE阻害薬/ARB、SGLT2阻害薬）使用との関連。",
+      "endpoint_results_ja": "年次UACR検査率：介入前23.8% → 介入後37.1%。月次UACR検査のオッズ：即時的4.05倍の増加（OR 4.05, 95% CI 3.84-4.28）。糖尿病なしの患者：OR 2.62, 95% CI 2.45-2.80。UACR 30 mg/g以上の患者はUACR 30 mg/g未満の患者または未検査の患者よりACE阻害薬/ARBおよびSGLT2阻害薬の投与を受けやすかった（P < 0.001）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-08T00:31:36Z"
     },
     {
       "pmid": "42981987",
@@ -1111,7 +1280,16 @@
       "japan_relevant": true,
       "content_sha256": "e2abba3355c738e3984b0c173c703bad5161e12c0a605711baff544232cf602c",
       "fetched_at_utc": "2026-11-04T01:17:27Z",
-      "updated_at_utc": "2026-11-05T01:26:38Z"
+      "updated_at_utc": "2026-11-05T01:26:38Z",
+      "summary_ja": "オーストラリアのD2C（direct-to-consumer）減量プログラム「Mosh」に2024年7月1日から2025年8月13日の間に自己登録した6113名の成人を対象とした後方視的観察コホート研究。セマグルチドまたはtirzepatideを投与され、スマートフォンアプリ（行動支援）への任意アクセスが可能であった。アプリ併用群と薬剤単独群で体重減少アウトカムの差を評価し、アプリ機能と体重減少軌跡の関連を解析した。",
+      "key_takeaway_ja": "GLP-1 RAに行動支援スマートフォンアプリを併用した群は、薬剤単独群と比較して≥5%、≥10%、≥15%の体重減少達成オッズが有意に高かった。アプリ機能の中では、進捗記録（progress logging）のみが体重減少の加速と一貫して関連していた。",
+      "why_matters_ja": "GLP-1 RAは減量に有効であるが、長期アウトカムは持続的な行動的エンゲージメントに依存する。本研究は、実世界データにおいてデジタル行動支援ツールが薬物療法を補完し得ることを示し、進捗記録が主要な行動的予測因子であることを特定した。",
+      "study_type_ja": "後方視的観察コホート研究",
+      "endpoints_ja": "60日・120日・180日時点での≥5%、≥10%、≥15%体重減少の達成；アプリ機能使用と体重減少率軌跡の関連（線形混合効果モデル）",
+      "endpoint_results_ja": "≥5%体重減少：Day 60, 120, 180（±10日）でOR 1.38（95% CI 1.09-1.75）から2.22（95% CI 1.40-3.45）；≥10%体重減少：Day 120と180でOR 1.67（95% CI 1.33-2.10）から1.97（95% CI 1.35-2.90）；≥15%体重減少：Day 180でOR 1.99（95% CI 1.26-3.29）；進捗記録：β=.26（30日あたり追加体重減少パーセントポイント、SE 0.06；t4336=4.46；95% CI 0.14-0.38；P<.001）。その他のアプリ機能は体重減少軌跡の変化と一貫して関連しなかった。",
+      "sample_size_ja": "6113名（18歳以上の成人、オーストラリア）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-08T00:32:03Z"
     },
     {
       "pmid": "42975978",
@@ -1207,7 +1385,16 @@
       "japan_relevant": false,
       "content_sha256": "9cd8d92fa32d6a10d1b5b0be65510a428eb0bc5f6f12e7837fbe8a93a149d175",
       "fetched_at_utc": "2026-11-04T01:17:27Z",
-      "updated_at_utc": "2026-11-04T01:17:27Z"
+      "updated_at_utc": "2026-11-04T01:17:27Z",
+      "summary_ja": "セマグルチドまたはtirzepatideに不耐受または不十分な減量効果を示した成人において、Roux-en-Y胃バイパス（RYGB）またはスリーブ胃切除術（SG）後の2年間の総体重減少率（TBWL）を評価した後ろ向きコホート研究。Cleveland Clinic病院（2018〜2024年）でBMI≥35 kg/m²の成人を対象とし、術前の薬剤曝露と反応を電子カルテおよび調剤データで分類した。",
+      "key_takeaway_ja": "セマグルチドまたはtirzepatideの不耐受または不応答後に肥満手術を行うと、臨床的に有意な2年間の体重減少が得られた。不応答群の調整解析では、RYGBがSGよりも2年間のTBWLが有意に大きく（32.7% vs 17.8%、差14.9ポイント、95% CI 13.1%〜16.7%）、RYGBが不応答後により大きな恩恵をもたらす可能性が示された。",
+      "why_matters_ja": "セマグルチドやtirzepatideは有効な肥満治療薬であるが、不耐受や不十分な減量効果は頻繁に生じ、次の治療ステップが不確実であった。本研究は、これらの薬剤に反応しなかった患者における肥満手術の救済戦略としての有効性を示し、臨床的な意思決定に寄与する。",
+      "study_type_ja": "後ろ向きコホート研究",
+      "endpoints_ja": "主要エンドポイント：推定2年間の総体重減少率（TBWL）、術式（RYGB/SG）および2型糖尿病（T2DM）の有無で層別化",
+      "endpoint_results_ja": "不耐受群（n=61）：術前推定2年間薬剤関連体重変化は1.4%増加。術後2年TBWL：RYGB 27.9%（T2DMなし）/ 22.7%（T2DMあり）、SG 20.1%（T2DMなし）/ 21.6%（T2DMあり）。不応答群（n=207）：術前推定2年間TBWL 1.5%。術後2年TBWL：RYGB 35.8%（T2DMなし）/ 27.4%（T2DMあり）、SG 14.3%（T2DMなし）/ 14.2%（T2DMあり）。比較群（n=4661）：2年TBWL：RYGB 33.3%（T2DMなし）/ 28.7%（T2DMあり）、SG 23.6%（T2DMなし）/ 19.9%（T2DMあり）。不応答群の調整解析：RYGB 32.7% vs SG 17.8%（差14.9ポイント、95% CI 13.1%〜16.7%）。",
+      "sample_size_ja": "4929名（比較群4661名、不耐受群61名、不応答群207名）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-08T00:32:40Z"
     },
     {
       "pmid": "42978139",
@@ -1243,7 +1430,16 @@
       "japan_relevant": false,
       "content_sha256": "765b6a6577bc9a3e0c07e75181ef7c3dde4c6c77db23b41bf7ed7c6246b484a3",
       "fetched_at_utc": "2026-11-05T01:26:38Z",
-      "updated_at_utc": "2026-11-05T01:26:38Z"
+      "updated_at_utc": "2026-11-05T01:26:38Z",
+      "summary_ja": "GLP-1受容体作動薬の眼科的安全性、網膜転帰、臨床的含意を評価した構造化ナラティブレビュー。2026年6月30日までのランダム化試験、系統的レビュー、大規模薬物疫学研究、機能的調査、規制評価を網羅。単一のクラス全体の眼毒性症候群を支持する証拠はない。最も一貫した網膜シグナルは、急速な血糖改善時の糖尿病性網膜症の早期悪化であり、特に既存の病変が著しい眼で顕著。非動脈炎性前部虚血性視神経症（NAION）は稀だが臨床的に重要なセマグルチドの安全性シグナル。新生血管性加齢黄斑変性の証拠は矛盾し、網膜静脈閉塞症や緑内障との関連は探索的段階にとどまる。",
+      "key_takeaway_ja": "GLP-1受容体作動薬には単一のクラス全体の眼毒性症候群は存在しない。最も一貫したシグナルは急速な血糖改善時の糖尿病性網膜症の早期悪化であり、セマグルチドではNAIONが稀だが重要な安全性シグナルとして認識されている。",
+      "why_matters_ja": "韓国において注射用セマグルチド（Ozempic）の国民健康保険償還基準が2026年2月1日に施行され、適応患者での使用拡大が見込まれる中、眼科的対応の準備が timely である。インクレチン療法の大きな全身的利益を維持しつつ、稀だが重大な眼イベントの認識を改善するための管理方針を提示する。",
+      "study_type_ja": "構造化ナラティブレビュー",
+      "endpoints_ja": "眼有害事象、糖尿病性網膜症の悪化、非動脈炎性前部虚血性視神経症（NAION）、新生血管性加齢黄斑変性、網膜静脈閉塞症、緑内障",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-08T00:33:00Z"
     },
     {
       "pmid": "42972868",
@@ -1715,7 +1911,16 @@
       "japan_relevant": false,
       "content_sha256": "d020cba64607b3e7789ea47a881ae456d7d046c4f355b3b65c64e0c91379ae50",
       "fetched_at_utc": "2026-11-03T02:53:13Z",
-      "updated_at_utc": "2026-11-03T02:53:13Z"
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "2型糖尿病（T2DM）を有しペースメーカ植込術を受けた患者において、SGLT2阻害薬（SGLT2i）とGLP-1受容体作動薬（GLP-1RA）の単独および併用療法が術後臨床アウトカムと関連するかを調査した後ろ向きコホート研究。電子カルテから2016〜2023年にペースメーカ植込術を受けたT2DM患者3,609例を同定し、植込前後の薬剤処方に基づいてSGLT2i群（n=438）、GLP-1RA群（n=193）、併用療法群（n=231）、非使用群（n=2,747）に分類した。90日のランドマーク期間後に、多項ロジスティック傾向スコアに基づく逆確率治療重み付け（IPTW）およびCox比例ハザードモデルを用いて、3年間の全死因死亡率と心不全入院リスクを評価した。",
+      "key_takeaway_ja": "T2DMを有するペースメーカ植込術患者において、SGLT2iとGLP-1RAの併用療法は全死因死亡率の最大の低下（HR 0.41）および心不全入院の有意な減少（HR 0.35）と関連し、単独療法群でも利益の傾向が認められた。",
+      "why_matters_ja": "ペースメーカ植込術後の心不全は依然として多く、T2DM患者は特に脆弱な集団である。最新の血糖降下療法が術後アウトカムに寄与する可能性を示すことで、ランダム化比較試験によるさらなる評価の根拠となる。",
+      "study_type_ja": "後ろ向きコホート研究（電子カルテベース、傾向スコアに基づくIPTWおよびCox比例ハザードモデルによる解析）",
+      "endpoints_ja": "1) 全死因死亡率（3年間リスク） 2) 心不全入院（3年間リスク）",
+      "endpoint_results_ja": "全死因死亡率：全体で463例（12.8%）が死亡。併用療法群で最大の低下（HR 0.41; 95% CI, 0.22-0.77; P = 0.006）。心不全入院：295例（8.2%）で発生。併用療法群で有意に減少（HR 0.35; 95% CI, 0.17-0.74; P = 0.006）、単独療法群では利益の傾向。",
+      "sample_size_ja": "総数3,609例（SGLT2i群 n=438、GLP-1RA群 n=193、併用療法群 n=231、非使用群 n=2,747）",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-08T00:33:33Z"
     },
     {
       "pmid": "42968841",
@@ -1736,7 +1941,16 @@
       "japan_relevant": false,
       "content_sha256": "e0dc60021a4f5fd7f84c22c516573e21440396c30f8a68356b585b6d17f11412",
       "fetched_at_utc": "2026-11-03T02:53:13Z",
-      "updated_at_utc": "2026-11-03T02:53:13Z"
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "GIP/GLP-1受容体アゴニスト療法開始時のベースラインうつ症状重症度と、治療中の心理的軌跡の関連を評価した前向き生態学的瞬間評価（EMA）研究。2型糖尿病または肥満の成人15名（平均年齢55.6歳、体重89.9 kg）が、85日間にわたり毎日の binge eating 傾向のEMAと週1回のPHQ-9評価を実施した。ベースラインPHQ-9重症度（低群：<10、高群：≥10）で層別化し、線形混合効果モデルで縦断的変化を解析した。",
+      "key_takeaway_ja": "ベースラインうつ症状重症度が高い群ではGIP/GLP-1受容体アゴニスト療法中にうつ症状が上昇する一方、重症度が低い群では低下する、という分岐した軌跡が認められた。",
+      "why_matters_ja": "ベースラインうつ症状が重い患者では、GIP/GLP-1受容体アゴニスト療法中にうつ症状が悪化する可能性があることを示唆しており、治療中の精神状態モニタリングや患者選定に重要な示唆を与える。",
+      "study_type_ja": "前向き生態学的瞬間評価（EMA）研究（観察研究）",
+      "endpoints_ja": "binge eating 傾向（毎日EMA）、うつ症状（週1回PHQ-9）、体重",
+      "endpoint_results_ja": "体重およびbinge eating 傾向は有意に減少（両方 p < 0.001）。うつ症状の週×群交互作用は有意（p < 0.001）：ベースライン低群ではPHQ-9スコアが減少（p = 0.026）、ベースライン高群では増加（p = 0.001）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-08T00:33:52Z"
     },
     {
       "pmid": "42968811",
@@ -1761,7 +1975,16 @@
       "japan_relevant": false,
       "content_sha256": "85001a8ccce6f396d91572f996a50c712b7da1b90605ddd5bf37ff9332d8cc9b",
       "fetched_at_utc": "2026-11-03T02:53:13Z",
-      "updated_at_utc": "2026-11-03T02:53:13Z"
+      "updated_at_utc": "2026-11-03T02:53:13Z",
+      "summary_ja": "単一施設後ろ向き研究。GLP-1受容体作動薬（GLP-1RA）を6か月以上使用した後にtirzepatideへ切り替えた2型糖尿病患者90例を対象に、ベースライン時の単球GIP受容体（GIPR）mRNA発現量（qRT-PCR法）と、tirzepatide開始後6か月間の体重変化率およびFIB-4指数変化との関連を相関解析および多変量回帰で評価した。探索的に、天然GIPに対する単球の反応をex vivoアッセイで評価した。",
+      "key_takeaway_ja": "ベースライン時の単球GIPR mRNA発現量が高いほど、tirzepatideへ切り替えた後の体重減少およびFIB-4指数の低下が大きく、多変量モデルでも有意であった。FIB-4指数との関連は6か月時の体重変化率をさらに補正しても有意であった。一方、先行するGLP-1RA治療期間中の体重変化とは関連しなかった。",
+      "why_matters_ja": "tirzepatideへの切り替え後の治療反応には個人差があるが、その要因は不明であった。単球GIPR mRNA発現量が治療反応の探索的バイオマーカーとなり得る可能性を示し、個別化治療の指針となる可能性がある。ただし、治療特異性、因果的なGIPR依存性メカニズム、肝線維化の構造的改善は確立されていない。",
+      "study_type_ja": "単一施設後ろ向き研究（探索的ex vivoアッセイ併用）",
+      "endpoints_ja": "主評価項目：tirzepatide開始後6か月間の体重変化率、FIB-4指数変化。探索的評価項目：天然GIPに対する単球のex vivo反応（LPS誘導IL-6およびTNF-α産生への影響）。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "90例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-08T00:34:22Z"
     },
     {
       "pmid": "42968774",
@@ -1849,6 +2072,51 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-11-02T00:39:02Z"
+    },
+    {
+      "pmid": "42962309",
+      "title": "Urinary tract and genital infections with dapagliflozin and empagliflozin across type 2 diabetes, heart failure, and chronic kidney disease: An indication- and sex-stratified disproportionality analysis of eudravigilance reports.",
+      "abstract": "Sodium-glucose cotransporter-2 (SGLT2) inhibitors are widely used in type 2 diabetes mellitus (T2DM), chronic heart failure (CHF), and chronic kidney disease (CKD). Although their cardiovascular and renal benefits are well established, urogenital infections remain a relevant safety concern. Comparative post-marketing data on dapagliflozin (DAPA) and empagliflozin (EMPA) across therapeutic indications are limited. A retrospective pharmacovigilance analysis of the EudraVigilance database (January 2021-July 2025) was conducted using a case/non-case approach. Cases were defined as individual case safety reports (ICSRs) containing at least one urogenital infection-coded reaction and a confirmed indication (T2DM, CHF, or CKD). The primary analysis was restricted to reports originating from the European Economic Area (EEA), where reporting rules are identical for both drugs; reports with unspecified patient age were excluded. Among 16,102 EEA ICSRs, 8156 adult reports with a confirmed indication were analyzed, of which 1109 met the case definition. Non-EEA reports were analyzed separately as a sensitivity analysis. Urogenital infection reporting did not differ between DAPA and EMPA, overall (ROR 0.91; 95% CI 0.80-1.03) or within any indication (T2DM: 13.9% vs 14.9%, ROR 0.92; 95% CI 0.79-1.07; CHF: 11.5% vs 12.6%, ROR 0.90; 95% CI 0.69-1.18; CKD: 11.0% vs 6.7%, ROR 1.73; 95% CI 0.75-3.99). For both drugs, reporting was higher in T2DM than in CHF (DAPA ROR 1.25; 95% CI 1.00-1.56; EMPA ROR 1.22; 95% CI 0.99-1.51), a difference confined to female patients (DAPA 1.38; EMPA 1.56) and, in the endpoint disaggregation, to genital mycotic infections (DAPA 2.24; EMPA 1.79) rather than non-mycotic urogenital infections. Female sex was the strongest determinant of urogenital infection reporting for both drugs (ROR female/male 1.85 for DAPA and 1.58 for EMPA). In non-EEA reports, an apparent excess of urogenital infection reporting with DAPA over EMPA (ROR 1.85; 95% CI 1.59-2.16) was explained by a different composition of the reports forwarded for the two drugs rather than by a drug effect. Urogenital infection reporting with SGLT2 inhibitors depends on indication and sex rather than on the molecule, and between-drug comparisons in EudraVigilance are sensitive to the geographic origin of reports.",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "authors": "Graziosi Agnese, Riemma Maria Antonietta, Gurgone Danila, Schianchi Alice, Morroni Fabiana, Sita Giulia, Baratta Francesco, Veronese Chiara",
+      "pub_date": "2026-10-31",
+      "doi": "10.1016/j.biopha.2026.119976",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962309/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Benzhydryl Compounds",
+        "Diabetes Mellitus, Type 2",
+        "Female",
+        "Heart Failure",
+        "Glucosides",
+        "Urinary Tract Infections",
+        "Renal Insufficiency, Chronic",
+        "Male",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Retrospective Studies",
+        "Pharmacovigilance",
+        "Aged",
+        "Middle Aged",
+        "Databases, Factual",
+        "Sex Factors",
+        "Reproductive Tract Infections"
+      ],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "74ebf082689c0147b08696690367a32f4d9a6da50133fcdccbece69cc9753bc3",
+      "fetched_at_utc": "2026-11-01T00:04:06Z",
+      "updated_at_utc": "2026-11-08T00:30:26Z"
     },
     {
       "pmid": "42979119",
@@ -2055,42 +2323,6 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "deterministic/missing-abstract",
       "summary_generated_at_utc": "2026-11-01T00:04:06Z"
-    },
-    {
-      "pmid": "42962309",
-      "title": "Urinary tract and genital infections with dapagliflozin and empagliflozin across type 2 diabetes, heart failure, and chronic kidney disease: An indication- and sex-stratified disproportionality analysis of eudravigilance reports.",
-      "abstract": "Sodium-glucose cotransporter-2 (SGLT2) inhibitors are widely used in type 2 diabetes mellitus (T2DM), chronic heart failure (CHF), and chronic kidney disease (CKD). Although their cardiovascular and renal benefits are well established, urogenital infections remain a relevant safety concern. Comparative post-marketing data on dapagliflozin (DAPA) and empagliflozin (EMPA) across therapeutic indications are limited. A retrospective pharmacovigilance analysis of the EudraVigilance database (January 2021-July 2025) was conducted using a case/non-case approach. Cases were defined as individual case safety reports (ICSRs) containing at least one urogenital infection-coded reaction and a confirmed indication (T2DM, CHF, or CKD). The primary analysis was restricted to reports originating from the European Economic Area (EEA), where reporting rules are identical for both drugs; reports with unspecified patient age were excluded. Among 16,102 EEA ICSRs, 8156 adult reports with a confirmed indication were analyzed, of which 1109 met the case definition. Non-EEA reports were analyzed separately as a sensitivity analysis. Urogenital infection reporting did not differ between DAPA and EMPA, overall (ROR 0.91; 95% CI 0.80-1.03) or within any indication (T2DM: 13.9% vs 14.9%, ROR 0.92; 95% CI 0.79-1.07; CHF: 11.5% vs 12.6%, ROR 0.90; 95% CI 0.69-1.18; CKD: 11.0% vs 6.7%, ROR 1.73; 95% CI 0.75-3.99). For both drugs, reporting was higher in T2DM than in CHF (DAPA ROR 1.25; 95% CI 1.00-1.56; EMPA ROR 1.22; 95% CI 0.99-1.51), a difference confined to female patients (DAPA 1.38; EMPA 1.56) and, in the endpoint disaggregation, to genital mycotic infections (DAPA 2.24; EMPA 1.79) rather than non-mycotic urogenital infections. Female sex was the strongest determinant of urogenital infection reporting for both drugs (ROR female/male 1.85 for DAPA and 1.58 for EMPA). In non-EEA reports, an apparent excess of urogenital infection reporting with DAPA over EMPA (ROR 1.85; 95% CI 1.59-2.16) was explained by a different composition of the reports forwarded for the two drugs rather than by a drug effect. Urogenital infection reporting with SGLT2 inhibitors depends on indication and sex rather than on the molecule, and between-drug comparisons in EudraVigilance are sensitive to the geographic origin of reports.",
-      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-      "authors": "Graziosi Agnese, Riemma Maria Antonietta, Gurgone Danila, Schianchi Alice, Morroni Fabiana, Sita Giulia, Baratta Francesco, Veronese Chiara",
-      "pub_date": "2026-10-30",
-      "doi": "10.1016/j.biopha.2026.119976",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42962309/",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "matched_assets": [
-        "dapagliflozin",
-        "empagliflozin"
-      ],
-      "matched_companies": [
-        "AstraZeneca",
-        "Boehringer Ingelheim"
-      ],
-      "bi_related": true,
-      "japan_relevant": false,
-      "content_sha256": "0ec2d695ed8e04e46bb455e97be1d09269c6f750ee2049c6f586c80d1e08ef2e",
-      "fetched_at_utc": "2026-11-01T00:04:06Z",
-      "updated_at_utc": "2026-11-01T00:04:06Z",
-      "summary_ja": "EudraVigilanceデータベース（2021年1月〜2025年7月）を用いた後方視的薬物警戒分析であり、case/non-caseアプローチによる不均衡分析で、DAPAとEMPAの泌尿生殖器感染症報告をT2DM・CHF・CKDの適応別および性別に層別比較した。EEA由来のICSR 16,102件中、適応が確認された成人報告8,156件を解析し、うち1,109件がcase定義を満たした。",
-      "key_takeaway_ja": "SGLT2阻害薬の泌尿生殖器感染症報告は分子（DAPA vs EMPA）ではなく適応と性別に依存する。EEA報告ではDAPAとEMPA間で有意な差は認められず、女性性が最も強い決定因子であった（DAPA ROR 1.85、EMPA ROR 1.58）。",
-      "why_matters_ja": "SGLT2阻害薬はT2DM・CHF・CKDの複数適応で広く使用されているが、泌尿生殖器感染症は依然として関連する安全性懸念であり、適応別・性別に層別した比較的事後市場データは限られていた。本解析は、EudraVigilanceにおける薬剤間比較が報告の地理的由来に敏感であることを示し、安全性シグナルの解釈に重要な示唆を与える。",
-      "study_type_ja": "後方視的薬物警戒分析（EudraVigilanceデータベースを用いたcase/non-case不均衡分析）",
-      "endpoints_ja": "泌尿生殖器感染症の報告不均衡比（ROR）：DAPA vs EMPA（全体・適応別・性別）、T2DM vs CHF間の報告差、生殖器真菌感染症への分解分析",
-      "endpoint_results_ja": "全体: ROR 0.91; 95% CI 0.80-1.03。T2DM: 13.9% vs 14.9%, ROR 0.92; 95% CI 0.79-1.07。CHF: 11.5% vs 12.6%, ROR 0.90; 95% CI 0.69-1.18。CKD: 11.0% vs 6.7%, ROR 1.73; 95% CI 0.75-3.99。T2DM vs CHF: DAPA ROR 1.25; 95% CI 1.00-1.56, EMPA ROR 1.22; 95% CI 0.99-1.51。女性限定: DAPA 1.38, EMPA 1.56。生殖器真菌感染症: DAPA 2.24, EMPA 1.79。女性/男性: DAPA ROR 1.85, EMPA ROR 1.58。非EEA: DAPA vs EMPA ROR 1.85; 95% CI 1.59-2.16。",
-      "sample_size_ja": "EEA由来ICSR 16,102件中、適応が確認された成人報告8,156件を解析（うちcase定義を満たした1,109件）。非EEA報告は感度分析として別途解析。",
-      "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-11-01T00:06:43Z"
     },
     {
       "pmid": "42961329",
