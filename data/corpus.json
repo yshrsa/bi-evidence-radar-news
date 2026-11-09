@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-08T00:30:26Z",
+  "generated_at_utc": "2026-11-09T00:48:26Z",
   "documents": [
     {
       "pmid": "42805503",
@@ -70,6 +70,146 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-09-01T00:26:00Z"
+    },
+    {
+      "pmid": "42998725",
+      "title": "Phase 3 clinical development of semaglutide (2015-2026): a comprehensive evidence-based review of trial designs, therapeutic outcomes and global clinical experience.",
+      "abstract": "Semaglutide, a long-acting glucagon-like peptide-1 receptor agonist (GLP-1RA), has become an important therapeutic agent for type 2 diabetes mellitus (T2DM), obesity, and associated cardiometabolic complications. Its prolonged pharmacological activity and availability as subcutaneous and oral formulations have supported extensive clinical development across diverse populations. This review critically evaluates Phase 3, Phase 3a, and Phase 3b clinical trials (CTs) assessing the efficacy, safety and therapeutic utility of semaglutide, with an emphasis on the SUSTAIN, PIONEER, STEP, SELECT, FLOW, SOUL and related programmes. Eligible trials were assessed according to study design, registration, treatment duration, population characteristics, interventions, comparators, primary endpoints, adverse events (AEs) and clinical significance. Collectively, the evidence demonstrates clinically meaningful improvements in glycaemic control and body weight, as well as cardiovascular and renal benefits, in selected populations. Evidence from obesity and post-bariatric studies further supports its expanding therapeutic role beyond conventional glucose management. Gastrointestinal events, particularly nausea, vomiting, diarrhoea and constipation, were the predominant adverse effects, while overall tolerability remained consistent with the established GLP-1RA profile. However, differences in populations, treatment duration, comparators and endpoint definitions highlight important evidence gaps. This review synthesises Phase 3 clinical evidence to define the evolving therapeutic position, safety profile and future research priorities for semaglutide.",
+      "journal": "Diabetes research and clinical practice",
+      "authors": "Patel Sanjeev Kumar, Dubey Swati, Tiwari Ankita",
+      "pub_date": "2026-11-07",
+      "doi": "10.1016/j.diabres.2026.113648",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998725/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "7a5a2d30c5c2a49b03183bd6abf7aaa81997c0e3e4daa8341044bdda836985ba",
+      "fetched_at_utc": "2026-11-09T00:48:26Z",
+      "updated_at_utc": "2026-11-09T00:48:26Z",
+      "summary_ja": "セマグルチド（長作用GLP-1受容体作動薬）のPhase 3、Phase 3a、Phase 3b臨床試験（SUSTAIN、PIONEER、STEP、SELECT、FLOW、SOULおよび関連プログラム）を対象とした包括的レビュー。試験デザイン、登録、治療期間、対象集団、介入、対照薬、主要エンドポイント、有害事象、臨床的意義の観点から評価し、血糖管理・体重・心血管・腎臓への効果および安全性プロファイル、今後の研究課題を統合的に整理した。",
+      "key_takeaway_ja": "セマグルチドのPhase 3臨床試験の統合的証拠は、選択された集団において血糖管理・体重・心血管・腎臓への臨床的に有意な改善を示し、消化管イベント（悪心・嘔吐・下痢・便秘）が主要な有害事象であったが、全体的な忍容性は確立されたGLP-1RAプロファイルと一致した。",
+      "why_matters_ja": "セマグルチドのPhase 3臨床開発プログラム全体を横断的にレビューすることで、各試験間の集団・治療期間・対照薬・エンドポイント定義の差異が示され、証拠のギャップを明確化している。臨床データ管理・開発の観点では、複数プログラムにまたがる一貫した安全性シグナルの把握や、将来の試験デザイン・規制戦略の策定に参考となる。",
+      "study_type_ja": "レビュー（Phase 3臨床試験の包括的証拠ベースレビュー）",
+      "endpoints_ja": "血糖管理（glycaemic control）、体重（body weight）、心血管アウトカム（cardiovascular benefits）、腎臓アウトカム（renal benefits）、有害事象（AEs：悪心・嘔吐・下痢・便秘）、忍容性（tolerability）",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-09T00:48:48Z"
+    },
+    {
+      "pmid": "42998247",
+      "title": "Initial Diabetes Therapy After Coronary Artery Bypass Grafting and Long-Term Outcomes.",
+      "abstract": "BACKGROUND: Type 2 diabetes (T2D) is common among patients undergoing coronary artery bypass grafting (CABG), but optimal post-CABG glucose-lowering therapy remains uncertain.\nMETHODS: We conducted a retrospective cohort study using the OptumLabs Data Warehouse of adults with T2D undergoing isolated CABG from 2012-2024. Follow-up began 30 days after discharge. Glucose-lowering therapy was modeled as a time-varying exposure with patients contributing no-observed-therapy person-time until the first qualifying post-discharge fill. Pairwise comparisons used stabilized inverse probability of treatment weighting. The primary outcome was all-cause mortality; secondary outcomes were heart failure hospitalization, stroke, and repeat coronary revascularization.\nRESULTS: Among 19,237 patients, 24.9% had no observed post-discharge therapy, 42.8% received metformin, 22.9% received insulin, and 9.4% received GLP-1RA/SGLT2i therapy. All active therapies were associated with lower mortality compared with no observed therapy, including GLP-1RA/SGLT2i (HR 0.71, 95% CI 0.58-0.87), metformin (HR 0.60, 95% CI 0.55-0.66), and insulin (HR 0.75, 95% CI 0.67-0.84). Among active therapies, metformin was associated with lower mortality than insulin (HR, 0.61 [0.54-0.70]); GLP-1RA/SGLT2i comparisons with metformin and insulin were less precise. Metformin was also associated with lower cumulative incidence of heart failure hospitalization than no observed therapy and insulin, and lower stroke incidence than insulin.\nCONCLUSIONS: Observed glucose-lowering therapy initiation after CABG was associated with lower mortality compared with no observed therapy across all active treatment groups. These findings highlight a potential care gap and suggest that proper initiation of diabetes therapy after CABG represents an important opportunity to improve long-term outcomes following surgical revascularization.",
+      "journal": "Journal of the American Heart Association",
+      "authors": "Tam Vincy, Schaff Hartzell V, Thao Viengneesee, Van Houten Holly, Frye Robert L, Greason Kevin L, AlJamal Yazan N, Spencer Philip J",
+      "pub_date": "2026-11-07",
+      "doi": "10.1161/JAHA.126.053850",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998247/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "b7aa0d73fb562f7dfc0aa8ab028c85ae4bbb6bdade36544408a20cfad7e81f11",
+      "fetched_at_utc": "2026-11-09T00:48:26Z",
+      "updated_at_utc": "2026-11-09T00:48:26Z",
+      "summary_ja": "2012〜2024年に単独CABGを受けた2型糖尿病成人患者を対象に、OptumLabs Data Warehouseを用いた後方視コホート研究。退院30日後からフォローアップを開始し、降糖療法を時間変動曝露としてモデル化し、安定化逆確率治療重み付けを用いてペアワイズ比較を行った。",
+      "key_takeaway_ja": "CABG後の観察された降糖療法の開始は、観察されない療法と比較して全活性治療群で死亡率低下と関連した。活性療法間では、メトホルミンがインスリンより死亡率低下と関連し（HR 0.61, 95% CI 0.54-0.70）、心不全入院の累積発生率および脳卒中発生率もインスリンより低かった。",
+      "why_matters_ja": "CABG後の24.9%の患者に降糖療法の観察がなかったことから、ケアギャップの存在が示唆された。CABG後の糖尿病療法の適切な開始は、外科的血行再建術後の長期予後を改善する重要な機会である。",
+      "study_type_ja": "後方視コホート研究",
+      "endpoints_ja": "主要エンドポイント：全死因死亡率。二次エンドポイント：心不全入院、脳卒中、冠動脈再血行再建術。",
+      "endpoint_results_ja": "全死因死亡率（vs 観察されない療法）：GLP-1RA/SGLT2i HR 0.71（95% CI 0.58-0.87）、メトホルミン HR 0.60（95% CI 0.55-0.66）、インスリン HR 0.75（95% CI 0.67-0.84）。メトホルミン vs インスリン：HR 0.61（95% CI 0.54-0.70）。心不全入院：メトホルミンは観察されない療法およびインスリンより累積発生率が低かった。脳卒中：メトホルミンはインスリンより発生率が低かった。GLP-1RA/SGLT2iのメトホルミンおよびインスリンとの比較は精度が低かった（具体的な数値は記載なし）。",
+      "sample_size_ja": "19,237例",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-09T00:49:20Z"
+    },
+    {
+      "pmid": "42998105",
+      "title": "EMAIL-HF: Can Digital Strategies Shorten the Path from Scientific Evidence to Clinical Practice in Heart Failure?",
+      "abstract": "A substantial gap persists between scientific evidence and clinical practice in heart failure (HF). Digital solutions have emerged as promising strategies to accelerate the implementation of evidence-based therapies. This mini-review examines the results of the EMAIL-HF study, a registry-based, randomized, controlled, parallel-group clinical trial conducted in Denmark that included patients aged 20 years or older with a diagnosis of HF irrespective of left ventricular ejection fraction, who were not receiving SGLT2 inhibitors (SGLT2i). Participants were randomized to usual care or a digital strategy consisting of an e-mailed letter with information on SGLT2i, followed by contact with an HF specialist. The primary endpoint was the proportion of patients redeeming a prescription for dapagliflozin or empagliflozin within 6 months of randomization and the secondary endpoint was a composite of time to first HF hospitalization or death from any cause. The digital strategy significantly increased SGLT2i initiation within 6 months, although no difference in HF hospitalization or all-cause mortality was observed during the 24-month follow-up. Whether these strategies can translate modest improvements in treatment uptake into sustained, scalable, and cost-effective gains across diverse healthcare systems remains uncertain.",
+      "journal": "Heart failure reviews",
+      "authors": "Albuquerque Monica T A, Guimaraes Patricia O, Tavares Caio A M, Madrini Vagner, Martins Eduardo B, Keramida Kalliopi, Ojji Dike, Hosseini Kaveh",
+      "pub_date": "2026-11-07",
+      "doi": "10.1007/s10741-026-10691-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998105/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Heart Failure",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Electronic Mail",
+        "Digital Health",
+        "Stroke Volume",
+        "Evidence-Based Medicine"
+      ],
+      "matched_assets": [
+        "dapagliflozin",
+        "empagliflozin"
+      ],
+      "matched_companies": [
+        "AstraZeneca",
+        "Boehringer Ingelheim"
+      ],
+      "bi_related": true,
+      "japan_relevant": false,
+      "content_sha256": "8d8d7386336ce1d7b76c2f83cd812ac68df319bc3103d51f110551280d2c0388",
+      "fetched_at_utc": "2026-11-09T00:48:26Z",
+      "updated_at_utc": "2026-11-09T00:48:26Z",
+      "summary_ja": "EMAIL-HF研究（デンマークで実施されたレジストリベースのランダム化比較並行群試験）の結果を考察したミニレビュー。心不全（左室駆出率にかかわらず）と診断され、SGLT2阻害薬（SGLT2i）未使用の20歳以上の患者を対象に、通常治療群とデジタル戦略群（SGLT2iに関する情報を含む電子メールによる手紙＋心不全専門医との接触）にランダム化割り付けした。",
+      "key_takeaway_ja": "デジタル戦略は6ヶ月以内のSGLT2i開始を有意に増加させたが、24ヶ月のフォローアップ期間中に心不全入院または全死因死亡に差は認められなかった。",
+      "why_matters_ja": "心不全において科学的エビデンスと臨床実践の間に大きな乖離が持続しており、デジタル戦略がエビデンスベース治療の導入を加速させる有望な手段となり得る。",
+      "study_type_ja": "ミニレビュー（レジストリベースのランダム化比較並行群試験の結果を考察）",
+      "endpoints_ja": "主要エンドポイント：ランダム化後6ヶ月以内にダパグリフロジンまたはエンパグリフロジンの処方箋を調剤した患者の割合。二次エンドポイント：初回心不全入院または全死因死亡までの期間（複合エンドポイント）。",
+      "endpoint_results_ja": "主要エンドポイント：デジタル戦略群で6ヶ月以内のSGLT2i開始が有意に増加（具体的な数値は抄録に記載なし）。二次エンドポイント：24ヶ月のフォローアップ期間中に心不全入院または全死因死亡に差は認められなかった（具体的な数値は抄録に記載なし）。",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-09T00:49:41Z"
+    },
+    {
+      "pmid": "42997610",
+      "title": "Medicaid Coverage Withdrawal and Dispensing of Glucagon-Like Peptide-1 Receptor Agonists for Obesity.",
+      "abstract": "INTRODUCTION: Five state Medicaid programs withdrew coverage of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for obesity in late 2025 and January 2026, and others have narrowed coverage or are reconsidering it. The benefits of these drugs appear to depend on continued use, but whether withdrawal interrupts treatment for current users is unknown. This study examined changes in dispensing of obesity-indicated GLP-1 RAs after state Medicaid programs withdrew or restricted coverage.\nMETHODS: This quasi-experimental study used quarterly Medicaid State Drug Utilization Data for 50 states and the District of Columbia from 2021 through the first quarter of 2026. Difference-in-differences and event-study models compared dispensing in states that withdrew coverage with dispensing in states that continued it, using each state's dispensing of diabetes-indicated GLP-1 RAs as a within-state comparison. The exposure was withdrawal or restriction of Medicaid coverage of GLP-1 RAs for obesity, identified from state agency documents. The main outcome was reimbursed prescriptions for obesity-indicated GLP-1 RAs per 1,000 enrollees per quarter. Estimates are reported with 95% confidence intervals (CIs). Data were analyzed from September to October 2026.\nRESULTS: The five withdrawing states accounted for 2,428,709 (65.2%) of 3,725,732 obesity-indicated GLP-1 RA prescriptions reimbursed by Medicaid in 2025. Compared with 12 continuing states, withdrawal was associated with an 84.7% decline in obesity-indicated dispensing (95% CI: 64.5%-93.4%; exact permutation p < 0.001), or 29.1 fewer prescriptions per 1,000 enrollees per quarter (95% CI: 14.3-43.9). No significant change was detected in diabetes-indicated dispensing (-3.2%; 95% CI: -23.4% to 22.2%), and differences between the two groups before the withdrawals were announced were small and not statistically significant. In the first quarter without coverage, obesity-indicated dispensing fell by 61% to 96% in individual withdrawing states. The four states that withdrew on January 1, 2026, reimbursed 661,353 obesity-indicated prescriptions in the preceding quarter and 134,647 in the next, a decline of 526,706 (79.6%). Dispensing of older antiobesity medications increased by at most 2.9 prescriptions per 1,000 enrollees. Narrower criteria in two states were followed by declines of 23%-37%.\nCONCLUSIONS: In this quasi-experimental study, withdrawal of Medicaid coverage was associated with the loss of most reimbursed dispensing of GLP-1 RAs for obesity within one quarter, with little replacement by other agents. Protecting enrollees already receiving these drugs, for example, by honoring existing authorizations, might limit treatment interruption, but this has not been evaluated.",
+      "journal": "Cureus",
+      "authors": "Nyambod Fabrice T, Msemakweli January G, Onesphore Murishi",
+      "pub_date": "2026-11-06",
+      "doi": "10.7759/cureus.119224",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997610/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "300518fa28e48a7633f44bd88984db2a0213094d14164d7fdfbcf963858b5987",
+      "fetched_at_utc": "2026-11-09T00:48:26Z",
+      "updated_at_utc": "2026-11-09T00:48:26Z",
+      "summary_ja": "5つの州のMedicaidプログラムが2025年末〜2026年1月に肥満適応のGLP-1受容体作動薬（GLP-1 RA）の保険給付を撤回または制限したことに伴い、処方調剤の変化を準実験的研究として評価した。50州およびDCの2021年〜2026年第1四半期のMedicaid州薬剤利用データを用い、差の差（difference-in-differences）およびイベントスタディモデルにより、給付撤回州と継続州を比較した。糖尿病適応のGLP-1 RAの調剤を州内比較として用いた。",
+      "key_takeaway_ja": "Medicaidの保険給付撤回は、肥満適応GLP-1 RAの保険適用調剤の大部分（84.7%減少）を1四半期以内に喪失させ、他の薬剤による代替は限定的であった。",
+      "why_matters_ja": "GLP-1 RAの臨床効果は継続使用に依存すると考えられるが、保険給付の撤回が現行使用者の治療中断を引き起こすかについては不明であった。本研究は、給付撤回が治療の急激な中断を招き、他の薬剤による代替がほとんど見られないことを示し、肥満患者の治療継続性に関する重要な政策示唆を与える。",
+      "study_type_ja": "準実験的研究（差の差モデルおよびイベントスタディモデルを用いた観察研究）",
+      "endpoints_ja": "主要アウトカム：肥満適応GLP-1 RAの保険適用処方箋数（1,000人登録者あたり四半期）。副次的比較：糖尿病適応GLP-1 RAの調剤数。",
+      "endpoint_results_ja": "抄録に記載なし",
+      "sample_size_ja": "抄録に記載なし",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-09T00:50:11Z"
     },
     {
       "pmid": "42994978",
@@ -478,8 +618,8 @@
     },
     {
       "pmid": "42988221",
-      "title": "Semaglutide Versus Diet-Based Weight Loss in Obesity and Heart Failure with Reduced Ejection Fraction (FIT-HF): Protocol for a Randomized Controlled Trial.",
-      "abstract": "BACKGROUND & AIMS: Obesity is common in heart failure with reduced ejection fraction (HFrEF), but the functional, mechanistic, and safety consequences of intentional weight loss remain uncertain. Incretin-based therapies improve symptoms and functional capacity in obesity-related heart failure with preserved ejection fraction, whereas evidence in HFrEF is limited, and prior glucagon-like peptide-1 receptor agonist trials have raised safety concerns. The FIT-HF trial tests whether semaglutide-based weight loss is superior to intensive diet-based weight loss for improving exercise capacity in adults with obesity and stable HFrEF.\nMETHODS: FIT-HF is an investigator-initiated, randomized, parallel-group, open-label, assessor-blinded, active-comparator superiority trial enrolling 100 adults with body mass index ≥30 kg/m2, left ventricular ejection fraction ≤40%, New York Heart Association class I-III symptoms, and stable guideline-directed heart failure therapy. Participants are randomized 1:1 to once-weekly subcutaneous semaglutide, titrated to a target dose of 2.4 mg, or low-calorie total dietary replacement of approximately 800 kcal/day for 8 weeks followed by a dietitian-led weight-maintenance program. Both groups receive lifestyle counseling, heart failure care, and structured physical training from week 16. Follow-up is 52 weeks. The primary endpoint is the adjusted between-group difference in change in weight-indexed peak oxygen uptake (VO2peak) from baseline to week 52, assessed by cardiopulmonary exercise testing. Supportive secondary endpoints include Kansas City Cardiomyopathy Questionnaire score, 6-minute walk distance, left ventricular end-systolic volume assessed by cardiovascular magnetic resonance, high-sensitivity C-reactive protein, and N-terminal pro-B-type natriuretic peptide. Exploratory work packages assess safety, cardiac/pulmonary physiology, body composition, physical activity, and metabolic/biomarker responses.\nDISCUSSION: FIT-HF is the first direct comparison of these weight-loss strategies in obesity and HFrEF, integrating VO2peak with multimodal phenotyping to interpret physiological profiles alongside achieved weight loss and body composition.\nCLINICAL TRIAL REGISTRATION: European Clinical Trials Information System: European Union trial number: CT-2023-503753-35-01; ClinicalTrials.gov identifier: NCT06423599.",
+      "title": "Semaglutide versus diet-based weight loss in obesity and heart failure with reduced ejection fraction (FIT-HF): Protocol for a randomized controlled trial.",
+      "abstract": "BACKGROUND & AIMS: Obesity is common in heart failure with reduced ejection fraction (HFrEF), but the functional, mechanistic, and safety consequences of intentional weight loss remain uncertain. Incretin-based therapies improve symptoms and functional capacity in obesity-related heart failure with preserved ejection fraction, whereas evidence in HFrEF is limited, and prior glucagon-like peptide-1 receptor agonist trials have raised safety concerns. The FIT-HF trial tests whether semaglutide-based weight loss is superior to intensive diet-based weight loss for improving exercise capacity in adults with obesity and stable HFrEF.\nMETHODS: FIT-HF is an investigator-initiated, randomized, parallel-group, open-label, assessor-blinded, active-comparator superiority trial enrolling 100 adults with body mass index ≥30 kg/m2, left ventricular ejection fraction ≤40%, New York Heart Association class I-III symptoms, and stable guideline-directed heart failure therapy. Participants are randomized 1:1 to once-weekly subcutaneous semaglutide, titrated to a target dose of 2.4 mg, or low-calorie total dietary replacement of approximately 800 kcal/day for 8 weeks followed by a dietitian-led weight-maintenance program. Both groups receive lifestyle counseling, heart failure care, and structured physical training from week 16. Follow-up is 52 weeks. The primary endpoint is the adjusted between-group difference in change in weight-indexed peak oxygen uptake (VO2peak) from baseline to week 52, assessed by cardiopulmonary exercise testing. Supportive secondary endpoints include Kansas City Cardiomyopathy Questionnaire score, 6-min walk distance, left ventricular end-systolic volume assessed by cardiovascular magnetic resonance, high-sensitivity C-reactive protein, and N-terminal pro-B-type natriuretic peptide. Exploratory work packages assess safety, cardiac/pulmonary physiology, body composition, physical activity, and metabolic/biomarker responses.\nDISCUSSION: FIT-HF is the first direct comparison of these weight-loss strategies in obesity and HFrEF, integrating VO2peak with multimodal phenotyping to interpret physiological profiles alongside achieved weight loss and body composition.\nCLINICAL TRIAL REGISTRATION: European Clinical Trials Information System: European Union trial number: CT-2023-503753-35-01; ClinicalTrials.gov identifier: NCT06423599.",
       "journal": "Clinical nutrition ESPEN",
       "authors": "El-Sheikh Mohammed, Bandholm Thomas, Jørgensen Nils Bruun, Ulrik Charlotte Suppli, Barløse Mads, Møller Søren, Siebner Hartwig Roman, Grand Johannes",
       "pub_date": "2026-11-05",
@@ -497,18 +637,18 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "4e51053d13e3aeb5037111ff7e856a912adb943c72e54e255502b31d3d5a78bd",
+      "content_sha256": "5ae86c419281d12e74452215e172cbdb28edf7577e16b0494457472f96f25e73",
       "fetched_at_utc": "2026-11-07T00:52:21Z",
-      "updated_at_utc": "2026-11-07T00:52:21Z",
-      "summary_ja": "FIT-HF試験は、肥満（BMI≥30 kg/m²）を伴う安定した心不全（HFrEF、LVEF≤40%、NYHA class I-III）の成人100名を対象に、週1回皮下投与のセマグルチド（目標用量2.4 mg）と、約800 kcal/日の低カロリー完全食事代替（8週間）＋栄養士主導の体重維持プログラムの効果を比較する、研究者主導のランダム化並行群オープンラベル評価者盲検活性対照優越性試験のプロトコルである。フォローアップ期間は52週であり、主要エンドポイントは体重指数化VO2peakのベースラインから52週までの変化の群間調整差（心肺運動負荷試験による）である。",
-      "key_takeaway_ja": "FIT-HF試験は、肥満を伴うHFrEF患者においてセマグルチドによる減量と食事による減量を直接比較する初の試験であり、VO2peakと多角的なフェノタイピングを統合して、達成された減量と体組成とともに生理学的プロファイルを解釈することを目的としている。",
-      "why_matters_ja": "肥満はHFrEFに頻繁にみられるが、意図的な減量の機能的・機能的・安全性への影響は不確実である。インクレチン系薬剤は肥満関連のHFpEFでは症状と機能的能力を改善するが、HFrEFにおけるエビデンスは限られており、過去のGLP-1受容体アゴニスト試験では安全性への懸念が示されている。",
-      "study_type_ja": "ランダム化比較試験（RCT）のプロトコル（研究者主導、並行群、オープンラベル、評価者盲検、活性対照、優越性試験）",
-      "endpoints_ja": "主要エンドポイント：体重指数化VO2peakのベースラインから52週までの変化の群間調整差（心肺運動負荷試験）。二次エンドポイント：Kansas City Cardiomyopathy Questionnaireスコア、6分間歩行距離、心血管磁気共鳴による左室収縮期末容積、高感度C反応性蛋白、N末端プロB型ナトリウム利尿ペプチド。探索的ワークパッケージ：安全性、心臓/肺生理、体組成、身体活動、代謝/バイオマーカー応答。",
+      "updated_at_utc": "2026-11-09T00:48:26Z",
+      "summary_ja": "FIT-HF試験は、肥満を伴う左室駆出率低下型心不全（HFrEF）の成人において、セマグルチドによる減量と集中的な食事による減量のどちらが運動耐容能の改善に優越するかを評価する、研究者主導のランダム化並行群比較・オープンラベル・評価者盲検・活性対照優越性試験のプロトコルである。被験者はBMI≥30 kg/m²、左室駆出率≤40%、NYHA class I-III、安定したガイドライン推奨心不全治療下であることを要件とし、1:1で週1回皮下投与セマグルチド（目標用量2.4 mg）群または低カロリー完全食事代替（約800 kcal/日、8週間）＋栄養士主導の減量維持プログラム群に割り付けられる。フォローアップは52週間。",
+      "key_takeaway_ja": "FIT-HF試験は、肥満を伴うHFrEFにおいてセマグルチドによる減量と食事による減量を直接比較する初の試験であり、VO2peakと多角的なフェノタイピングを統合して、達成された減量と体組成とともに生理学的プロファイルを解釈することを目的としている。",
+      "why_matters_ja": "肥満はHFrEFに頻繁にみられるが、意図的な減量の機能的・機能的・安全性への影響は不確実である。インクレチン系療法は肥満関連の駆出率保存型心不全では症状と機能的能力を改善するが、HFrEFにおけるエビデンスは限定的であり、過去のGLP-1受容体アゴニスト試験では安全性への懸念が示されている。",
+      "study_type_ja": "ランダム化並行群比較・オープンラベル・評価者盲検・活性対照優越性試験（プロトコル論文）",
+      "endpoints_ja": "主要エンドポイント：ベースラインから52週目までの体重指数化ピーク酸素摂取量（VO2peak）の変化の群間調整差（心肺運動負荷試験による）。副次エンドポイント：Kansas City Cardiomyopathy Questionnaireスコア、6分歩行距離、心血管磁気共鳴による左室収縮期末容積、高感度C反応性蛋白、N末端プロB型ナトリウム利尿ペプチド。探索的ワークパッケージ：安全性、心臓/肺生理、体組成、身体活動、代謝/バイオマーカー応答。",
       "endpoint_results_ja": "抄録に記載なし",
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-11-07T00:55:52Z"
+      "summary_generated_at_utc": "2026-11-09T00:50:54Z"
     },
     {
       "pmid": "42987980",
@@ -1203,8 +1343,8 @@
     },
     {
       "pmid": "42977258",
-      "title": "Discovery, optimization, and Phase 1 evaluation of a novel, orally available GLP-1R/GIPR dual agonist.",
-      "abstract": "OBJECTIVE: The efficacy and convenience of anti-diabetic and anti-obesity therapeutics have surged in recent years due to the emergence of incretin-based poly-pharmacological approaches as well as advances in the oral delivery of peptide drugs. We sought to combine both strategies in an orally deliverable dual agonist of the GLP-1 and GIP receptors.\nMETHODOLOGY: We designed a panel of unimolecular, fatty-acylated peptide dual agonists, which was screened for receptor potencies in cell-based assay systems. NNC0130 was selected to advance into clinical studies using both oral and subcutaneous administration.\nRESULTS: NNC0130 exhibited in vitro potency comparable to semaglutide at human GLP-1R and to tirzepatide at human GIPR, with a chemical structure compatible with semi-recombinant production. Its human half-life of 76-89 hours was deemed suitable for once-daily oral administration. In a multiple-ascending dose trial in participants with overweight or obesity and with separate subcutaneous and oral cohorts, daily subcutaneous administration of NNC0130 escalating from 0.3 to 3.0 mg per dose provided a placebo-corrected mean body weight loss of 9% after 12 weeks of treatment and 12% after 15 weeks. Daily oral administration escalating from 5 to 50 mg per dose provided a placebo-corrected mean body weight loss of 4% after 12 weeks, which was not statistically significantly different from zero. The relative oral bioavailability when co-formulated with permeation enhancer salcaprozate sodium was estimated to 1.6-2.2% versus s.c. administration.\nCONCLUSIONS: The modest weight lowering efficacy of orally administered NNC0130 highlights the continued challenges of low oral bioavailability of acylated peptides. However, the substantial efficacy observed with subcutaneous administration motivated advancement into Phase 2 clinical development.",
+      "title": "Discovery, optimization, and phase 1 evaluation of a novel, orally available GLP-1R/GIPR dual agonist.",
+      "abstract": "OBJECTIVES: The efficacy and convenience of anti-diabetic and anti-obesity therapeutics have surged in recent years due to the emergence of incretin-based poly-pharmacological approaches as well as advances in the oral delivery of peptide drugs. We sought to combine both strategies in an orally deliverable dual agonist of the GLP-1 and GIP receptors.\nMETHODOLOGY: We designed a panel of unimolecular, fatty-acylated peptide dual agonists, which was screened for receptor potencies in cell-based assay systems. NNC0130 was selected to advance into clinical studies using both oral and subcutaneous administration.\nRESULTS: NNC0130 exhibited in vitro potency comparable to semaglutide at human GLP-1R and to tirzepatide at human GIPR, with a chemical structure compatible with semi-recombinant production. Its human half-life of 76-89 h was deemed suitable for once-daily oral administration. In a multiple-ascending dose trial in participants with overweight or obesity and with separate subcutaneous and oral cohorts, daily subcutaneous administration of NNC0130 escalating from 0.3 to 3.0 mg per dose provided a placebo-corrected mean body weight loss of 9% after 12 weeks of treatment and 12% after 15 weeks. Daily oral administration escalating from 5 to 50 mg per dose provided a placebo-corrected mean body weight loss of 4% after 12 weeks, which was not statistically significantly different from zero. The relative oral bioavailability when co-formulated with permeation enhancer salcaprozate sodium was estimated to 1.6-2.2% versus s. c. administration.\nCONCLUSIONS: The modest weight lowering efficacy of orally administered NNC0130 highlights the continued challenges of low oral bioavailability of acylated peptides. However, the substantial efficacy observed with subcutaneous administration motivated advancement into Phase 2 clinical development.",
       "journal": "Molecular metabolism",
       "authors": "Mowery Stephanie A, Knerr Patrick J, Hjøllund Karina Rahr, Nissen Birgitte, Olsen Anette K, Wilkens Trine Levring, Jakobsen Lasse Hjort Kyneb, Hollesen Christian",
       "pub_date": "2026-11-03",
@@ -1224,18 +1364,18 @@
       ],
       "bi_related": false,
       "japan_relevant": false,
-      "content_sha256": "8cf0c5b79005c5277d5cce593be29f841d4c829030b1e96b995c70d81ed9012e",
+      "content_sha256": "0caa2a0bf396febab62104aefe1640a8cf9d9ee5328d2bd934aaab8091c4076a",
       "fetched_at_utc": "2026-11-05T01:26:38Z",
-      "updated_at_utc": "2026-11-05T01:26:38Z",
-      "summary_ja": "本論文は、新規経口投与可能なGLP-1R/GIPRデュアルアゴニストNNC0130の発見、最適化、および第I相評価を報告する。脂肪酸アシル化ペプチドのデュアルアゴニストパネルを設計し、細胞ベースのアッセイで受容体ポテンシーをスクリーニングした。NNC0130はヒトGLP-1Rにおいてセマグルチドに、ヒトGIPRにおいてtirzepatideに匹敵するin vitroポテンシーを示し、半減期は76〜89時間であった。過体重または肥満の被験者における複数漸増用量試験において、皮下投与（0.3〜3.0 mg/日）では12週で9%、15週で12%のプラセボ補正平均体重減少を、経口投与（5〜50 mg/日）では12週で4%のプラセボ補正平均体重減少（統計的に有意でない）を示した。経口バイオアベイラビリティは1.6〜2.2%と推定された。",
-      "key_takeaway_ja": "皮下投与のNNC0130は15週で12%のプラセボ補正体重減少という顕著な効果を示し、第II相開発への推進を支持したが、経口投与は低バイオアベイラビリティ（1.6〜2.2%）により効果は限定的であった。",
-      "why_matters_ja": "インクレチンベースのポリファーマコロジー戦略とペプチド薬の経口送達技術の両方を組み合わせたアプローチであり、抗肥満治療の有効性と利便性の両立という未解決課題に挑むものである。",
+      "updated_at_utc": "2026-11-09T00:48:26Z",
+      "summary_ja": "本論文は、経口投与可能な新規GLP-1R/GIPRデュアルアゴニストNNC0130の発見、最適化、および第I相評価を報告する。脂肪酸アシル化ペプチドのデュアルアゴニストパネルを設計し、細胞ベースのアッセイで受容体ポテンシーをスクリーニングした。NNC0130はヒトGLP-1Rでセマグルチドに、ヒトGIPRでチルゼパチドに匹敵するin vitroポテンシーを示し、半減期は76〜89時間であった。過体重または肥満の参加者における複数漸増用量試験において、皮下投与（0.3〜3.0 mg/日）では12週でプラセボ補正平均体重減少9%、15週で12%を達成した一方、経口投与（5〜50 mg/日）では12週で4%の体重減少にとどまり、ゼロとの差は統計的に有意ではなかった。経口バイオアベイラビリティは皮下投与に対して1.6〜2.2%と推定された。",
+      "key_takeaway_ja": "皮下投与のNNC0130は有意な体重減少効果を示し第II相開発への移行を支持したが、経口投与ではアシル化ペプチドの低い経口バイオアベイラビリティという課題が依然として残っている。",
+      "why_matters_ja": "インクレチンベースのポリファーマコロジー戦略とペプチド薬の経口送達技術の両方を組み合わせたアプローチであり、抗肥満・抗糖尿病治療の効能と利便性の両立という未解決課題に挑むものである。",
       "study_type_ja": "第I相複数漸増用量試験（前臨床の発見・最適化を含む）",
-      "endpoints_ja": "プラセボ補正平均体重減少率、経口バイオアベイラビリティ",
-      "endpoint_results_ja": "皮下投与：12週でプラセボ補正平均体重減少9%、15週で12%。経口投与：12週でプラセボ補正平均体重減少4%（ゼロとの差は統計的に有意でない）。経口バイオアベイラビリティ：salcaprozate sodiumとの共配合で皮下投与比1.6〜2.2%。",
+      "endpoints_ja": "プラセボ補正平均体重減少率、経口バイオアベイラビリティ（皮下投与に対する相対値）",
+      "endpoint_results_ja": "皮下投与：12週でプラセボ補正平均体重減少9%、15週で12%。経口投与：12週でプラセボ補正平均体重減少4%（ゼロとの差は統計的に有意でない）。相対経口バイオアベイラビリティ：皮下投与に対して1.6〜2.2%。",
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
-      "summary_generated_at_utc": "2026-11-06T01:35:18Z"
+      "summary_generated_at_utc": "2026-11-09T00:51:20Z"
     },
     {
       "pmid": "42976342",
@@ -2116,7 +2256,16 @@
       "japan_relevant": false,
       "content_sha256": "74ebf082689c0147b08696690367a32f4d9a6da50133fcdccbece69cc9753bc3",
       "fetched_at_utc": "2026-11-01T00:04:06Z",
-      "updated_at_utc": "2026-11-08T00:30:26Z"
+      "updated_at_utc": "2026-11-08T00:30:26Z",
+      "summary_ja": "EudraVigilanceデータベース（2021年1月〜2025年7月）を用いた後方視的薬物警戒分析であり、case/non-caseアプローチにより、2型糖尿病（T2DM）、慢性心不全（CHF）、慢性腎臓病（CKD）の各適応において、ダパグリフロジン（DAPA）とエンパグリフロジン（EMPA）の泌尿生殖器感染症の報告頻度を性別に層別して比較した。主要解析はEEA由来の報告に限定し、年齢不明の報告は除外した。",
+      "key_takeaway_ja": "SGLT2阻害薬の泌尿生殖器感染症報告は、分子（DAPA vs EMPA）ではなく適応と性に依存する。EudraVigilanceにおける薬剤間比較は報告の地理的由来に敏感である。",
+      "why_matters_ja": "SGLT2阻害薬はT2DM、CHF、CKDに広く使用されており、心血管・腎保護効果は確立されているが、泌尿生殖器感染症は依然として関連する安全性上の懸念事項である。DAPAとEMPAの各適応を横断した比較的事後市場データは限られていた。",
+      "study_type_ja": "後方視的薬物警戒分析（EudraVigilanceデータベースを用いたcase/non-case不均衡分析）",
+      "endpoints_ja": "泌尿生殖器感染症の報告頻度（RORによる不均衡分析）、適応（T2DM、CHF、CKD）および性別に層別",
+      "endpoint_results_ja": "全体: ROR 0.91; 95% CI 0.80-1.03。T2DM: 13.9% vs 14.9%, ROR 0.92; 95% CI 0.79-1.07。CHF: 11.5% vs 12.6%, ROR 0.90; 95% CI 0.69-1.18。CKD: 11.0% vs 6.7%, ROR 1.73; 95% CI 0.75-3.99。T2DM vs CHF: DAPA ROR 1.25; 95% CI 1.00-1.56, EMPA ROR 1.22; 95% CI 0.99-1.51。女性患者に限定: DAPA 1.38, EMPA 1.56。生殖器真菌感染症に限定: DAPA 2.24, EMPA 1.79。女性/男性ROR: DAPA 1.85, EMPA 1.58。非EEA報告: ROR 1.85; 95% CI 1.59-2.16。",
+      "sample_size_ja": "EEA由来ICSR 16,102件中、適応が確認された成人報告8,156件を解析し、うち1,109件がcase定義を満たした。",
+      "summary_model": "@cf/qwen/qwen3.8-27b",
+      "summary_generated_at_utc": "2026-11-09T00:52:28Z"
     },
     {
       "pmid": "42979119",
@@ -3801,6 +3950,32 @@
       "summary_generated_at_utc": "2026-10-27T00:27:03Z"
     },
     {
+      "pmid": "42996002",
+      "title": "Central Glucagon-Like Peptide-1 Agonism Ameliorates Colonic Inflammation in a Murine Model of Inflammatory Bowel Disease.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have revolutionized the treatment of obesity and type 2 diabetes (T2D). These drugs also have anti-inflammatory effects that have recently been extended to the treatment of inflammatory bowel disease (IBD). Whether the mechanism underlying this benefit involves a direct action on the intestine or instead is mediated via GLP-1Rs in the brain, however, is unknown. Based on evidence implicating the brain as the target for the anti-obesity and anti-inflammatory effects of GLP-1RAs, we sought to determine if central GLP-1R signaling is sufficient to explain its intestinal anti-inflammatory effects. To this end, we compared the efficacy of peripheral vs central administration of the GLP-1RA, semaglutide (SEMA), in diet-induced obese (DIO) mice with dextran sodium sulfate (DSS)-induced colitis. We report that compared to vehicle, both colitis severity and histopathological injury following DSS administration are reduced by peripheral administration of SEMA. We also report that this benefit is largely recapitulated by intracerebroventricular administration of SEMA at a low dose that, when administered peripherally, is below that needed to affect food intake and body weight. We conclude that in a mouse model of colitis, activation of GLP-1Rs in the brain is sufficient to explain the intestinal anti-inflammatory effect conferred by GLP-1R agonism.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "authors": "Desai Biren, Francis Kendra L, Bryan Caeley L, Connolly Jessie, Karunagaran Thanushree, Mathan Sara, Sharma Karina, Damian Vincent",
+      "pub_date": "2026-10-24",
+      "doi": "10.64898/2026.10.22.761061",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42996002/",
+      "publication_types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "d1864a268772d105373bdd374070b38c03d62cf01d80eab127c67d78268f74db",
+      "fetched_at_utc": "2026-11-09T00:48:26Z",
+      "updated_at_utc": "2026-11-09T00:48:26Z"
+    },
+    {
       "pmid": "42925557",
       "title": "Sodium-Glucose Cotransporter 2 Inhibitor Use and Levels of Hemoglobin, Markers of Iron Metabolism, and Erythropoiesis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
       "abstract": "IMPORTANCE: In randomized clinical trials, sodium-glucose cotransporter 2 (SGLT2) inhibitor use was associated with increased hemoglobin and hematocrit compared with placebo. However, the magnitude and importance of this association remain unclear.\nOBJECTIVE: To evaluate the associations between SGLT2 inhibitor use and levels of hemoglobin, hematocrit, and markers of iron metabolism and erythropoiesis compared with placebo or active comparator.\nDATA SOURCES: PubMed, Web of Science, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from inception to July 22, 2026.\nSTUDY SELECTION: Randomized, double-masked clinical trials comparing SGLT2 inhibitor use with placebo or active comparators in patients with 1 or more of the following conditions: cardiovascular disease, diabetes, heart failure, and chronic kidney disease.\nDATA EXTRACTION AND SYNTHESIS: Three reviewers independently extracted data and results were pooled using random-effects meta-analysis.\nMAIN OUTCOMES AND MEASURES: Primary outcomes were changes in hemoglobin and hematocrit. Secondary outcomes were changes in red blood cell concentration, erythropoietin (EPO), and iron measures (serum iron, ferritin, transferrin saturation, and hepcidin).\nRESULTS: A total of 85 randomized clinical trials were analyzed (median [IQR] duration, 24 [12-32] weeks), including 70 543 participants (mean [SD] age, 62.4 [9.4] years; 25 334 female [35.9%]). Mean (SD) baseline hemoglobin was 13.6 (1.5) g/dL; baseline hematocrit was 41.5% (4.9). Seventy-eight clinical trials (67 208 participants) compared SGLT2 inhibitors with placebo, and 7 clinical trials (3335 participants) used active comparators, most commonly sitagliptin (2 trials [1158 participants]). From baseline to follow-up, hemoglobin changed by 0.55 g/dL (95% CI, 0.49 to 0.61 g/dL; P < .001) in the SGLT2 inhibitor group, and -0.08 g/dL (95% CI, -0.13 to -0.03 g/dL; P = .003) in the control group (difference, 0.60 g/dL; 95% CI, 0.55 to 0.66 g/dL; P < .001). From baseline to follow-up, hematocrit changed by 2.17% (95% CI, 1.95% to 2.39%; P < .001) in the SGLT2 inhibitor group and -0.13% (95% CI, -0.28% to 0.01%; P = .07) in the control group (difference, 2.36%; 95% CI, 2.19% to 2.52%; P < .001). Of the 6 secondary outcomes, 4 showed significant associations with SGLT2 inhibitors, including increased EPO (2.35 mIU/mL in SGLT2 inhibitor group vs 0.04 mIU/mL in control group; difference, 2.11 mIU/mL [95% CI, 0.5-3.71 mIU/mL]; P = .01) and decreased transferrin saturation (-2.2% in SGLT2 inhibitor group vs -0.10% in control group; difference, -0.84% [95% CI, -1.21% to -0.47%]; P < .001).\nCONCLUSIONS AND RELEVANCE: In a meta-analysis of randomized clinical trials, compared with control, SGLT2 inhibitor use was associated with small statistically significant increases in hemoglobin and hematocrit levels. The clinical significance of these findings is unclear.",
@@ -3863,6 +4038,42 @@
       "sample_size_ja": "スクリーニング203例、除外後解析61例（中止群 n=21、継続群 n=40）",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-25T23:13:39Z"
+    },
+    {
+      "pmid": "42996399",
+      "title": "Will GLP-1-based therapies reshape the epidemiology of MASLD? An emerging public health perspective.",
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the leading cause of chronic liver disease worldwide, driven by increasing obesity and type 2 diabetes mellitus. The expanding use of glucagon-like peptide-1 receptor agonists (GLP-1RAs) raises an epidemiological question: could therapies targeting these metabolic drivers reshape the future burden of chronic liver disease? GLP-1-based therapies reduce body weight and improve metabolic dysfunction, with potential implications for hepatic steatosis and disease progression. The phase 3 ESSENCE trial demonstrated histological benefits of semaglutide in metabolic dysfunction-associated steatohepatitis (MASH) with moderate-to-advanced fibrosis, supporting accelerated or conditional regulatory approvals. However, effects on liver-related clinical outcomes remain unproven. In this Perspective, we examine the evidence and translate it into an explicitly parameterized scenario using a potential impact fraction. Combining published estimates of eligibility, relative risk, treatment persistence, and effectiveness with coverage scenarios of 5%, 10%, and 20%, the model suggests relative reductions of approximately 0.3% to 1.1% in the global incidence of cirrhosis among individuals with prevalent MASLD, at equilibrium (95% uncertainty interval at 20% coverage and intermediate persistence, 0.6% to 1.6%; best-case envelope, 4.6%). These estimates represent testable hypotheses rather than established clinical effects. Effective coverage, defined as coverage multiplied by persistence, is the principal constraint. We identify observations that would refute these expectations and discuss implications for prevention, healthcare systems, and the natural history of MASLD. Population benefits will depend on sustained treatment, accessibility, affordability, and equitable implementation, alongside confirmation that histological improvements translate into fewer liver-related clinical events.",
+      "journal": "Frontiers in endocrinology",
+      "authors": "Pereira Evelyn Nunes Goulart da Silva, Rodrigues Karine Lino",
+      "pub_date": "2026-10-23",
+      "doi": "10.3389/fendo.2026.1981916",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42996399/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Semaglutide",
+        "Public Health",
+        "Diabetes Mellitus, Type 2",
+        "Glucagon-Like Peptide 1",
+        "Glucagon-Like Peptides",
+        "Non-alcoholic Fatty Liver Disease",
+        "Fatty Liver"
+      ],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "b8a146141e0012e696715226587c4eb06d7de7668abaa94c069a41cf328bafb2",
+      "fetched_at_utc": "2026-11-09T00:48:26Z",
+      "updated_at_utc": "2026-11-09T00:48:26Z"
     },
     {
       "pmid": "42983209",
@@ -9035,6 +9246,28 @@
       "sample_size_ja": "抄録に記載なし",
       "summary_model": "@cf/qwen/qwen3.8-27b",
       "summary_generated_at_utc": "2026-10-09T01:11:21Z"
+    },
+    {
+      "pmid": "42999457",
+      "title": "Insulin Deintensification After Glucagon-Like Peptide-1 (GLP-1)-Based Therapy in Type 2 Diabetes: Evidence and a Practical Clinical Framework.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1)-based therapies have changed the management of insulin-treated type 2 diabetes by creating opportunities not only to improve glycemic control and body weight but also to reduce insulin exposure and simplify previously intensified treatment regimens. However, clinical guidance remains considerably clearer on when to initiate or intensify insulin than on how to safely reduce established insulin therapy after effective GLP-1-based treatment is introduced. This narrative clinical review examines evidence for insulin dose reduction, regimen simplification, prandial insulin withdrawal, and complete insulin withdrawal following initiation or intensification of GLP-1-based therapy in adults with type 2 diabetes. Randomized trials and real-world studies increasingly support simplification of complex insulin regimens, with the strongest direct evidence supporting reduction or withdrawal of prandial insulin in appropriately selected patients. Complete insulin withdrawal is achievable in some individuals but remains less extensively studied. A practical approach should distinguish basal from prandial insulin and integrate overall glycemic control with fasting and postprandial glucose patterns, hypoglycemia risk, current insulin requirements, and clinical features suggesting impaired endogenous insulin reserve. Continuous glucose monitoring or structured glucose monitoring can facilitate sequential adjustment as GLP-1-based therapy is titrated. Patients with marked hyperglycemia, previous ketosis or diabetic ketoacidosis, suspected autoimmune diabetes, or other evidence of clinically important insulin deficiency require greater caution. We propose an evidence-informed phenotype-based framework in which insulin components are progressively reassessed rather than routinely continued or withdrawn according to a fixed formula. The objective is not insulin independence itself, but identification of the least complex insulin regimen necessary to maintain safe, individualized glycemic control.",
+      "journal": "Cureus",
+      "authors": "Elhassan Ahmed, Mohamed Abu-Bekr, Mahgoub Ahmed, Singh Anaida, Ali Isra",
+      "pub_date": "2026-10-07",
+      "doi": "10.7759/cureus.117614",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999457/",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [],
+      "matched_companies": [],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "ec2c5649e267c5ac1e893a097bb95be69e38ec5e459169db30aa2552706b1510",
+      "fetched_at_utc": "2026-11-09T00:48:26Z",
+      "updated_at_utc": "2026-11-09T00:48:26Z"
     },
     {
       "pmid": "42942465",
@@ -32568,6 +32801,31 @@
       "content_sha256": "4856712884208347b5b06512a066778b33cfdec172c2e3f154cc4730623a7f60",
       "fetched_at_utc": "2026-10-25T23:12:05Z",
       "updated_at_utc": "2026-10-25T23:12:05Z"
+    },
+    {
+      "pmid": "42997011",
+      "title": "Beyond Weight Loss: Effects of Semaglutide on Knee Pain, Physical Function, and Thigh Skeletal Muscle Volume in Obesity-Associated Knee Osteoarthritis.",
+      "abstract": "INTRODUCTION: Obesity is an important modifiable risk factor for knee osteoarthritis, contributing to pain, functional limitation, and systemic inflammation. Semaglutide may provide benefits beyond weight reduction, but its effects on clinical and functional outcomes in obesity-associated knee osteoarthritis remain insufficiently characterized. Against this background, this study sought to evaluate the effects of 6-month semaglutide treatment on weight, knee pain, physical function, thigh skeletal muscle volume, and inflammatory markers in patients with obesity-associated knee osteoarthritis.\nMATERIALS AND METHODS: This prospective, observational, single-arm study included 75 patients with obesity-associated knee osteoarthritis who received semaglutide and were followed for 6 months. Changes in weight, body mass index (BMI), knee pain assessed by the Visual Analogue Scale (VAS), physical function assessed using the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), thigh skeletal muscle volume, C-reactive protein (CRP), and erythrocyte sedimentation rate (ESR) were evaluated.\nRESULTS: At the 6-month follow-up, body weight decreased from 101.23 ± 15.45 to 91.47 ± 9.67 kg (mean change -9.76 kg), while BMI decreased from 34.49 ± 3.67 to 31.89 ± 5.78 kg/m2 (-2.60 kg/ m2; both P < 0.001). VAS pain scores decreased from 6.90 ± 2.10 to 4.89 ± 0.73 (-2.01; P < 0.001), and WOMAC scores improved from 59.67 ± 6.47 to 44.60 ± 6.12 (-15.07; P < 0.001). Thigh skeletal muscle volume increased from 10.6 ± 2.3 to 11.1 ± 1.8 L (+0.50 L; P < 0.001). CRP decreased from 6.14 ± 0.73 to 3.91 ± 2.08 mg/L, while ESR decreased from 27.51 ± 3.32 to 19.64 ± 4.37 mm/h.\nCONCLUSION: 6 months of semaglutide treatment was associated with substantial weight loss and significant improvements in knee pain and physical function, accompanied by reductions in systemic inflammatory markers. These findings suggest potential benefits of semaglutide beyond weight reduction in obesity-associated knee osteoarthritis. Larger controlled studies with longer follow-up are warranted.",
+      "journal": "Journal of orthopaedic case reports",
+      "authors": "Kumar Bodla Arvind, Sundaresan Nithin, Syal Anuragdeep, AlSaifi Mohammed Saleh, Krishnan B Gokula, Mohanakrishnan B",
+      "pub_date": "2026-01-01",
+      "doi": "10.13107/jocr.2026.v16.i11.8546",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997011/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "matched_assets": [
+        "semaglutide"
+      ],
+      "matched_companies": [
+        "Novo Nordisk"
+      ],
+      "bi_related": false,
+      "japan_relevant": false,
+      "content_sha256": "2e67d39608abc04d8b54b9d61e2823b619651daf80b04cfb77182bbbf8d96945",
+      "fetched_at_utc": "2026-11-09T00:48:26Z",
+      "updated_at_utc": "2026-11-09T00:48:26Z"
     },
     {
       "pmid": "42989673",
